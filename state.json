@@ -45,7 +45,11 @@
   "https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/",
   "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/",
   "https://www.zoomg.ir/game-review/420104-annihilated-game-review/",
-  "https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/"
+  "https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/",
+  "https://www.zoomg.ir/game-news/420106-witcher-3-geralt-ai-voice/",
+  "https://www.zoomg.ir/game-articles/420093-stormshot-mobile-game/",
+  "https://www.zoomg.ir/cinema-news/420105-naruto-producer-exits-dc-studios/",
+  "https://vigiato.net/r/golden-joystick-awards-2026-winners-list"
  ],
  "pending": {
   "0bffaf68": {
@@ -452,6 +456,42 @@
     "link": "https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/"
    },
    "ts": 1794426144
+  },
+  "b1407500": {
+   "text": "🎮 صدای گرالت در بسته‌الحاقی جدید ویچر ۳ با هوش مصنوعی بازسازی شد\n\nسی‌دی پراجکت رد با رضایت صداپیشه لهستانی گرالت، صدای او را با هوش مصنوعی در بسته الحاقی جدید بازسازی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420106-witcher-3-geralt-ai-voice/",
+   "item": {
+    "title": "صدای گرالت در بسته‌الحاقی جدید ویچر ۳ با هوش مصنوعی بازسازی شد",
+    "summary": "سی‌دی پراجکت رد با رضایت صداپیشه لهستانی گرالت، صدای او را با هوش مصنوعی در بسته الحاقی جدید بازسازی می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420106-witcher-3-geralt-ai-voice/"
+   },
+   "ts": 1794431193
+  },
+  "f75b186f": {
+   "text": "🎮 معرفی بازی موبایل Stormshot | شلیک به قلب اسرار\n\nبازی Stormshot با ترکیب پازل‌های فیزیکی و استراتژی، تجربه‌ای متفاوت خلق می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420093-stormshot-mobile-game/",
+   "item": {
+    "title": "معرفی بازی موبایل Stormshot | شلیک به قلب اسرار",
+    "summary": "بازی Stormshot با ترکیب پازل‌های فیزیکی و استراتژی، تجربه‌ای متفاوت خلق می‌کند.",
+    "link": "https://www.zoomg.ir/game-articles/420093-stormshot-mobile-game/"
+   },
+   "ts": 1794431194
+  },
+  "2da9fd45": {
+   "text": "🎮 تغییرات در دی‌سی بر سرنوشت اقتباس لایواکشن ناروتو اثر گذاشت\n\nیکی از تهیه‌کنندگان اصلی فیلم لایواکشن ناروتو به دلیل پذیرش ریاست دی‌سی استودیوز، پروژه لاینزگیت را ترک کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420105-naruto-producer-exits-dc-studios/",
+   "item": {
+    "title": "تغییرات در دی‌سی بر سرنوشت اقتباس لایواکشن ناروتو اثر گذاشت",
+    "summary": "یکی از تهیه‌کنندگان اصلی فیلم لایواکشن ناروتو به دلیل پذیرش ریاست دی‌سی استودیوز، پروژه لاینزگیت را ترک کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420105-naruto-producer-exits-dc-studios/"
+   },
+   "ts": 1794431196
+  },
+  "ad00cf4e": {
+   "text": "🎮 برندگان مراسم Golden Joystick Awards 2026 مشخص شدند؛ رزیدنت ایول رکوئیم بهترین بازی سال شد\n\nکپکام تمام جوایز مهم سال را از آن خود کرد\n\n🔗 منبع: https://vigiato.net/r/golden-joystick-awards-2026-winners-list",
+   "item": {
+    "title": "برندگان مراسم Golden Joystick Awards 2026 مشخص شدند؛ رزیدنت ایول رکوئیم بهترین بازی سال شد",
+    "summary": "کپکام تمام جوایز مهم سال را از آن خود کرد",
+    "link": "https://vigiato.net/r/golden-joystick-awards-2026-winners-list"
+   },
+   "ts": 1794431197
   }
  }
 }
