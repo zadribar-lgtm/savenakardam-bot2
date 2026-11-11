@@ -20,7 +20,10 @@
   "https://vigiato.net/r/phantom-blade-zero-hardest-difficulty-no-trophy-achievement",
   "https://vigiato.net/r/dreamworks-shrek-2-remastered-official-launch-trailer",
   "https://vigiato.net/r/gta-6-fans-are-divided-over-confirmation-of-30fps",
-  "https://vigiato.net/r/james-gunn-exits-dc-studios-losing-money"
+  "https://vigiato.net/r/james-gunn-exits-dc-studios-losing-money",
+  "https://www.zoomg.ir/cinema-articles/420079-movies-to-watch/",
+  "https://www.zoomg.ir/cinema-news/420090-lanterns-season-two-renewal-doubts/",
+  "https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
  ],
  "pending": {
   "0bffaf68": {
@@ -202,6 +205,33 @@
     "link": "https://vigiato.net/r/james-gunn-exits-dc-studios-losing-money"
    },
    "ts": 1794402187
+  },
+  "1b41b092": {
+   "text": "🎮 آخر هفته چه فیلمی ببینیم؟ | از سیب های آدم تا قدیسه ماد\n\nسیب‌های آدم، قدیسه ماد و سامورایی و زندانی سه فیلم متفاوت، عمیق و جذابی هستند که می‌توان برای این آخر هفته تماشا کرد. با این مقاله همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/cinema-articles/420079-movies-to-watch/",
+   "item": {
+    "title": "آخر هفته چه فیلمی ببینیم؟ | از سیب های آدم تا قدیسه ماد",
+    "summary": "سیب‌های آدم، قدیسه ماد و سامورایی و زندانی سه فیلم متفاوت، عمیق و جذابی هستند که می‌توان برای این آخر هفته تماشا کرد. با این مقاله همراه زومجی باشید.",
+    "link": "https://www.zoomg.ir/cinema-articles/420079-movies-to-watch/"
+   },
+   "ts": 1794404848
+  },
+  "c532edf4": {
+   "text": "🎮 احتمال لغو ساخت فصل دوم سریال Lanterns افزایش یافت\n\nگزارش‌های جدید نشان می‌دهد فصل دوم سریال تحسین‌شده‌ی Lanterns علی‌رغم استقبال گسترده مخاطبان، احتمالا ساخته نخواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420090-lanterns-season-two-renewal-doubts/",
+   "item": {
+    "title": "احتمال لغو ساخت فصل دوم سریال Lanterns افزایش یافت",
+    "summary": "گزارش‌های جدید نشان می‌دهد فصل دوم سریال تحسین‌شده‌ی Lanterns علی‌رغم استقبال گسترده مخاطبان، احتمالا ساخته نخواهد شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420090-lanterns-season-two-renewal-doubts/"
+   },
+   "ts": 1794404849
+  },
+  "4a101890": {
+   "text": "🎮 مخاطبان بازی ریمیک زلدا با استفاده از ساز اوکارینا آهنگ‌های بسیاری نواخته‌اند\n\nاز لینکین پارک بگیرید تا آهنگ تایتانیک سلین دیون\n\n🔗 منبع: https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
+   "item": {
+    "title": "مخاطبان بازی ریمیک زلدا با استفاده از ساز اوکارینا آهنگ‌های بسیاری نواخته‌اند",
+    "summary": "از لینکین پارک بگیرید تا آهنگ تایتانیک سلین دیون",
+    "link": "https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
+   },
+   "ts": 1794404851
   }
  }
 }
