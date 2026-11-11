@@ -29,7 +29,11 @@
   "https://vigiato.net/r/bethesda-wont-use-todays-huge-elder-scrolls-anniversary-to-reveal-more-sentinel-news",
   "https://vigiato.net/r/youve-got-mail-remake-warner-bros-taps-i-want-you-back-director-for-a-fresh-take-on-the-classic-rom-com",
   "https://www.zoomg.ir/cinema-news/420096-rings-power-season-3-scores/",
-  "https://vigiato.net/r/rockstar-will-take-legal-action-if-someone-tries-to-reverse-engineer-a-gta-6-ai-clone"
+  "https://vigiato.net/r/rockstar-will-take-legal-action-if-someone-tries-to-reverse-engineer-a-gta-6-ai-clone",
+  "https://www.zoomg.ir/cinema-news/420098-batman-brave-and-bold-uncertainty/",
+  "https://www.zoomg.ir/game-news/420097-gta-6-hollywood-entertainment-impact/",
+  "https://vigiato.net/r/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
+  "https://vigiato.net/r/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii"
  ],
  "pending": {
   "0bffaf68": {
@@ -292,6 +296,42 @@
     "link": "https://vigiato.net/r/rockstar-will-take-legal-action-if-someone-tries-to-reverse-engineer-a-gta-6-ai-clone"
    },
    "ts": 1794410633
+  },
+  "03243b29": {
+   "text": "🎮 آیا ساخت فیلم بتمن دنیای جیمز گان لغو شده است؟\n\nآینده‌ی فیلم بتمن جدید دنیای سینمایی دی‌سی پس از مصاحبه‌ی اخیر اندی و باربارا موچیتی و تغییرات مدیریتی استودیو در هاله‌ای از ابهام قرار گرفت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420098-batman-brave-and-bold-uncertainty/",
+   "item": {
+    "title": "آیا ساخت فیلم بتمن دنیای جیمز گان لغو شده است؟",
+    "summary": "آینده‌ی فیلم بتمن جدید دنیای سینمایی دی‌سی پس از مصاحبه‌ی اخیر اندی و باربارا موچیتی و تغییرات مدیریتی استودیو در هاله‌ای از ابهام قرار گرفت.",
+    "link": "https://www.zoomg.ir/cinema-news/420098-batman-brave-and-bold-uncertainty/"
+   },
+   "ts": 1794413753
+  },
+  "1cb40752": {
+   "text": "🎮 عرضه GTA 6 هالیوود را به وحشت انداخته است\n\nبازی GTA 6 صنعت فیلم و شبکه‌های استریم را با رقابتی بی‌سابقه بر سر جلب مخاطبان مواجه می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420097-gta-6-hollywood-entertainment-impact/",
+   "item": {
+    "title": "عرضه GTA 6 هالیوود را به وحشت انداخته است",
+    "summary": "بازی GTA 6 صنعت فیلم و شبکه‌های استریم را با رقابتی بی‌سابقه بر سر جلب مخاطبان مواجه می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420097-gta-6-hollywood-entertainment-impact/"
+   },
+   "ts": 1794413755
+  },
+  "80359a2f": {
+   "text": "🎮 نسخه توسعه‌یافته Avengers: Endgame به‌زودی در دیزنی پلاس منتشر می‌شود\n\nنسخه توسعه‌یافته Avengers: Endgame به‌زودی در دیزنی پلاس منتشر می‌شود\n\n🔗 منبع: https://vigiato.net/r/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
+   "item": {
+    "title": "نسخه توسعه‌یافته Avengers: Endgame به‌زودی در دیزنی پلاس منتشر می‌شود",
+    "summary": "نسخه توسعه‌یافته Avengers: Endgame به‌زودی در دیزنی پلاس منتشر می‌شود",
+    "link": "https://vigiato.net/r/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon"
+   },
+   "ts": 1794413756
+  },
+  "2b207192": {
+   "text": "🎮 کالین فارل از احتمال ساخت فصل دوم سریال The Penguin خبر داد\n\nبازیگر پنگوئن در قسمت دوم The Batman تنها در دو صحنه حضور دارد\n\n🔗 منبع: https://vigiato.net/r/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
+   "item": {
+    "title": "کالین فارل از احتمال ساخت فصل دوم سریال The Penguin خبر داد",
+    "summary": "بازیگر پنگوئن در قسمت دوم The Batman تنها در دو صحنه حضور دارد",
+    "link": "https://vigiato.net/r/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii"
+   },
+   "ts": 1794413757
   }
  }
 }
