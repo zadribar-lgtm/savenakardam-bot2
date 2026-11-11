@@ -41,7 +41,9 @@
   "https://vigiato.net/r/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
   "https://www.zoomg.ir/game-review/420094-phantom-blade-zero-review/",
   "https://www.zoomg.ir/cinema-news/420100-visionquest-post-credits-scarlet-witch/",
-  "https://vigiato.net/r/lil-guardsman-mobile-game-review"
+  "https://vigiato.net/r/lil-guardsman-mobile-game-review",
+  "https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/",
+  "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/"
  ],
  "pending": {
   "0bffaf68": {
@@ -412,6 +414,24 @@
     "link": "https://vigiato.net/r/lil-guardsman-mobile-game-review"
    },
    "ts": 1794419889
+  },
+  "3593f954": {
+   "text": "🎮 آنباکسینگ نسخه فیزیکی GTA 6 را تماشا کنید\n\nویدیوهای جعبه‌گشایی نسخه فیزیکی بازی GTA 6 نشان می‌دهند خریداران تنها یک قاب خالی، پوستر و کد دیجیتالی دریافت می‌کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/",
+   "item": {
+    "title": "آنباکسینگ نسخه فیزیکی GTA 6 را تماشا کنید",
+    "summary": "ویدیوهای جعبه‌گشایی نسخه فیزیکی بازی GTA 6 نشان می‌دهند خریداران تنها یک قاب خالی، پوستر و کد دیجیتالی دریافت می‌کنند.",
+    "link": "https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/"
+   },
+   "ts": 1794422643
+  },
+  "58ae8cd1": {
+   "text": "🎮 کارگردان سابق Tekken به انتقاد از ایکس باکس سری اس پرداخت\n\nکاتسوهیرو هارادا و پاول ساسکو در نشستی در سئول از محدودیت‌های فنی کنسول ایکس باکس سری اس انتقاد کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/",
+   "item": {
+    "title": "کارگردان سابق Tekken به انتقاد از ایکس باکس سری اس پرداخت",
+    "summary": "کاتسوهیرو هارادا و پاول ساسکو در نشستی در سئول از محدودیت‌های فنی کنسول ایکس باکس سری اس انتقاد کردند.",
+    "link": "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/"
+   },
+   "ts": 1794422645
   }
  }
 }
