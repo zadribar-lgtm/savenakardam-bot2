@@ -23,7 +23,11 @@
   "https://vigiato.net/r/james-gunn-exits-dc-studios-losing-money",
   "https://www.zoomg.ir/cinema-articles/420079-movies-to-watch/",
   "https://www.zoomg.ir/cinema-news/420090-lanterns-season-two-renewal-doubts/",
-  "https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
+  "https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
+  "https://www.zoomg.ir/game-news/420092-eu-gaming-microtransactions-restrictions-draft/",
+  "https://www.zoomg.ir/hardware-news/420091-amdlss5-brings-nvidia-tech-amd/",
+  "https://vigiato.net/r/bethesda-wont-use-todays-huge-elder-scrolls-anniversary-to-reveal-more-sentinel-news",
+  "https://vigiato.net/r/youve-got-mail-remake-warner-bros-taps-i-want-you-back-director-for-a-fresh-take-on-the-classic-rom-com"
  ],
  "pending": {
   "0bffaf68": {
@@ -232,6 +236,42 @@
     "link": "https://vigiato.net/r/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
    },
    "ts": 1794404851
+  },
+  "9ff0c29f": {
+   "text": "🎮 اتحادیه اروپا محدودیت‌های سخت‌گیرانه‌ای برای خریدهای درون‌برنامه‌ای وضع می‌کند\n\nپیش‌نویس قانون جدید اتحادیه اروپا خریدهای درون‌برنامه‌ای و لوت‌باکس‌ها را به‌طور پیش‌فرض برای افراد زیر سن قانونی غیرفعال می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420092-eu-gaming-microtransactions-restrictions-draft/",
+   "item": {
+    "title": "اتحادیه اروپا محدودیت‌های سخت‌گیرانه‌ای برای خریدهای درون‌برنامه‌ای وضع می‌کند",
+    "summary": "پیش‌نویس قانون جدید اتحادیه اروپا خریدهای درون‌برنامه‌ای و لوت‌باکس‌ها را به‌طور پیش‌فرض برای افراد زیر سن قانونی غیرفعال می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420092-eu-gaming-microtransactions-restrictions-draft/"
+   },
+   "ts": 1794407888
+  },
+  "a047ba01": {
+   "text": "🎮 انتشار ماد جدید برای اجرای DLSS 5 روی کارت‌های گرافیک AMD\n\nماد جدید AMDLSS5 نسخه‌ی ۲.۰ فناوری رندرینگ عصبی DLSS 5 را با افزایش ۶۴ درصدی فریم‌ریت به کارت‌های گرافیک سری RX 9000 آورد.\n\n🔗 منبع: https://www.zoomg.ir/hardware-news/420091-amdlss5-brings-nvidia-tech-amd/",
+   "item": {
+    "title": "انتشار ماد جدید برای اجرای DLSS 5 روی کارت‌های گرافیک AMD",
+    "summary": "ماد جدید AMDLSS5 نسخه‌ی ۲.۰ فناوری رندرینگ عصبی DLSS 5 را با افزایش ۶۴ درصدی فریم‌ریت به کارت‌های گرافیک سری RX 9000 آورد.",
+    "link": "https://www.zoomg.ir/hardware-news/420091-amdlss5-brings-nvidia-tech-amd/"
+   },
+   "ts": 1794407889
+  },
+  "19b33a7d": {
+   "text": "🎮 بتسدا فعلا قصدی بر انتشار اطلاعات جدید The Elder Scrolls VI: Sentinel را ندارد\n\nاز هایپ شما ممنونیم، اما اطلاعات جدید بماند برای بعد\n\n🔗 منبع: https://vigiato.net/r/bethesda-wont-use-todays-huge-elder-scrolls-anniversary-to-reveal-more-sentinel-news",
+   "item": {
+    "title": "بتسدا فعلا قصدی بر انتشار اطلاعات جدید The Elder Scrolls VI: Sentinel را ندارد",
+    "summary": "از هایپ شما ممنونیم، اما اطلاعات جدید بماند برای بعد",
+    "link": "https://vigiato.net/r/bethesda-wont-use-todays-huge-elder-scrolls-anniversary-to-reveal-more-sentinel-news"
+   },
+   "ts": 1794407891
+  },
+  "319ffca3": {
+   "text": "🎮 ریبوت فیلم You’ve Got Mail در دست ساخت است\n\nعاشقانه مگ رایان و تام هنکس برای نسل امروز\n\n🔗 منبع: https://vigiato.net/r/youve-got-mail-remake-warner-bros-taps-i-want-you-back-director-for-a-fresh-take-on-the-classic-rom-com",
+   "item": {
+    "title": "ریبوت فیلم You’ve Got Mail در دست ساخت است",
+    "summary": "عاشقانه مگ رایان و تام هنکس برای نسل امروز",
+    "link": "https://vigiato.net/r/youve-got-mail-remake-warner-bros-taps-i-want-you-back-director-for-a-fresh-take-on-the-classic-rom-com"
+   },
+   "ts": 1794407892
   }
  }
 }
