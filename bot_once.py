@@ -1,17 +1,16 @@
 """
-نسخه‌ی GitHub Actions ربات اخبار گیم.
-هر بار که اجرا می‌شود: دکمه‌های زده‌شده را پردازش می‌کند، خبر جدید می‌گیرد،
-پیش‌نویس‌ها را به پیوی ادمین می‌فرستد و تمام می‌شود. وضعیت در state.json ذخیره می‌شود.
+ربات اخبار گیم (بدون هوش مصنوعی) برای GitHub Actions.
 """
+import html
 import json
 import logging
 import os
+import re
 import time
 import uuid
 
 import feedparser
 import requests
-from anthropic import Anthropic
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("gamebot")
@@ -19,29 +18,14 @@ log = logging.getLogger("gamebot")
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 ADMIN_ID = int(os.environ["ADMIN_ID"])
 CHANNEL_ID = os.environ["CHANNEL_ID"]
-MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-5-5")
-MAX_PER_CHECK = int(os.getenv("MAX_PER_CHECK", "40"))
-PENDING_TTL = 3 * 24 * 3600  # پیش‌نویس‌های تاییدنشده بعد از ۳ روز پاک می‌شوند
+MAX_PER_CHECK = int(os.getenv("MAX_PER_CHECK", "10"))
+SUMMARY_CHARS = int(os.getenv("SUMMARY_CHARS", "350"))
+PENDING_TTL = 3 * 24 * 3600
+
+FEEDS = [u.strip() for u in re.split(r"[\n,]+", os.getenv("FEEDS", "")) if u.strip()]
 
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 STATE_FILE = "state.json"
-
-FEEDS = [
-    "https://www.gamespot.com/feeds/news/",
-    "https://feeds.feedburner.com/ign/games-all",
-    "https://www.pcgamer.com/rss/",
-    "https://www.eurogamer.net/feed",
-]
-
-SYSTEM_PROMPT = (
-    "تو ویراستار یک کانال تلگرامی فارسی درباره اخبار بازی‌های ویدیویی هستی. "
-    "از خبر داده‌شده یک پست کوتاه، جذاب و روان بنویس. کل پست (عنوان، متن و هشتگ‌ها) باید کاملاً فارسی باشد، حتی اگر خبر انگلیسی است. "
-    "قوانین: عنوان گیرا با یک ایموجی مرتبط در خط اول؛ ۳ تا ۵ جمله خلاصه دقیق بدون اضافه‌کردن اطلاعات ساختگی؛ "
-    "فقط نام بازی‌ها و شرکت‌ها به انگلیسی بماند؛ در پایان ۲ تا ۴ هشتگ فارسی. "
-    "لینک و منبع را خودت ننویس. فقط متن پست را برگردان."
-)
-
-client = Anthropic()
 
 
 def tg(method, **params):
@@ -77,25 +61,30 @@ def save_state(s):
 def keyboard(pid):
     return {
         "inline_keyboard": [
-            [{"text": "✅ تایید و ارسال به کانال", "callback_data": f"ok:{pid}"}],
             [
-                {"text": "🔄 بازنویسی", "callback_data": f"re:{pid}"},
+                {"text": "✅ تایید و ارسال به کانال", "callback_data": f"ok:{pid}"},
                 {"text": "❌ رد", "callback_data": f"no:{pid}"},
-            ],
+            ]
         ]
     }
 
 
-def generate_post(item):
-    prompt = f"عنوان: {item['title']}\n\nخلاصه: {item['summary']}"
-    resp = client.messages.create(
-        model=MODEL,
-        max_tokens=800,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = resp.content[0].text.strip()
-    return f"{text}\n\n🔗 منبع: {item['link']}"[:4000]
+def clean(text):
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def format_post(item):
+    title = clean(item["title"])
+    summary = clean(item["summary"])
+    if len(summary) > SUMMARY_CHARS:
+        summary = summary[:SUMMARY_CHARS].rsplit(" ", 1)[0] + "…"
+    parts = [f"🎮 {title}"]
+    if summary:
+        parts.append(summary)
+    parts.append(f"🔗 منبع: {item['link']}")
+    return "\n\n".join(parts)[:4000]
 
 
 def edit(chat_id, message_id, text, markup=None):
@@ -156,13 +145,6 @@ def handle_buttons(state):
         elif action == "no":
             state["pending"].pop(pid, None)
             edit(chat_id, mid, "❌ رد شد.")
-        elif action == "re":
-            try:
-                entry["text"] = generate_post(entry["item"])
-            except Exception as e:
-                edit(chat_id, mid, f"خطا در بازنویسی: {e}", keyboard(pid))
-                continue
-            edit(chat_id, mid, f"📝 پیش‌نویس بازنویسی‌شده:\n\n{entry['text']}", keyboard(pid))
 
 
 def fetch_new_items(seen):
@@ -173,6 +155,9 @@ def fetch_new_items(seen):
             feed = feedparser.parse(url)
         except Exception as e:
             log.warning("feed error %s: %s", url, e)
+            continue
+        if not feed.entries:
+            log.warning("feed has no entries (check the URL): %s", url)
             continue
         for e in feed.entries[:10]:
             link = e.get("link")
@@ -190,16 +175,15 @@ def fetch_new_items(seen):
 
 
 def send_drafts(state):
+    if not FEEDS:
+        log.error("FEEDS is empty: set the FEEDS secret with your RSS URLs")
+        return
     items = fetch_new_items(state["seen"])
     sent = 0
     for item in items:
         if sent >= MAX_PER_CHECK:
             break
-        try:
-            text = generate_post(item)
-        except Exception as e:
-            log.error("generation failed: %s", e)
-            continue
+        text = format_post(item)
         pid = uuid.uuid4().hex[:8]
         r = tg(
             "sendMessage",
@@ -209,11 +193,11 @@ def send_drafts(state):
             disable_web_page_preview=True,
         )
         if not r.get("ok"):
-            # اگر پیام نرسید (مثلاً /start نزده‌ای)، خبر را «دیده‌شده» نکن
             break
         state["pending"][pid] = {"text": text, "item": item, "ts": int(time.time())}
         state["seen"].append(item["link"])
         sent += 1
+        time.sleep(1)
     log.info("drafts sent: %d", sent)
 
 
@@ -224,7 +208,7 @@ def main():
         k: v for k, v in state["pending"].items() if now - v.get("ts", now) < PENDING_TTL
     }
     handle_buttons(state)
-    save_state(state)  # دکمه‌ها ذخیره شوند حتی اگر ادامه کار خطا بدهد
+    save_state(state)
     send_drafts(state)
     save_state(state)
 
