@@ -38,7 +38,10 @@
   "https://vigiato.net/r/gta-6-studio-will-focus-on-what-comes-next-after-launch-says-take-two-ceo",
   "https://vigiato.net/r/other-mommy-movie-review",
   "https://vigiato.net/r/bodies-netflix-series",
-  "https://vigiato.net/r/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key"
+  "https://vigiato.net/r/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
+  "https://www.zoomg.ir/game-review/420094-phantom-blade-zero-review/",
+  "https://www.zoomg.ir/cinema-news/420100-visionquest-post-credits-scarlet-witch/",
+  "https://vigiato.net/r/lil-guardsman-mobile-game-review"
  ],
  "pending": {
   "0bffaf68": {
@@ -382,6 +385,33 @@
     "link": "https://vigiato.net/r/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key"
    },
    "ts": 1794417000
+  },
+  "cdf8adb3": {
+   "text": "🎮 بررسی بازی Phantom Blade Zero؛ لذت حماسه شرقی\n\nPhantom Blade Zero تجربه‌ای است که حتی در روزهای نزدیک به عرضه GTA 6 هم نباید از بازی کردن آن غافل شد. همراه بررسی زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/game-review/420094-phantom-blade-zero-review/",
+   "item": {
+    "title": "بررسی بازی Phantom Blade Zero؛ لذت حماسه شرقی",
+    "summary": "Phantom Blade Zero تجربه‌ای است که حتی در روزهای نزدیک به عرضه GTA 6 هم نباید از بازی کردن آن غافل شد. همراه بررسی زومجی باشید.",
+    "link": "https://www.zoomg.ir/game-review/420094-phantom-blade-zero-review/"
+   },
+   "ts": 1794419886
+  },
+  "7c2e76bc": {
+   "text": "🎮 بازگشت یکی از محبوب‌ترین شخصیت‌های مارول در Avengers: Doomsday تایید شد\n\nصحنه پس از تیتراژ قسمت پایانی VisionQuest بازگشت یکی از محبوب‌ترین شخصیت‌های مارول را تایید کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420100-visionquest-post-credits-scarlet-witch/",
+   "item": {
+    "title": "بازگشت یکی از محبوب‌ترین شخصیت‌های مارول در Avengers: Doomsday تایید شد",
+    "summary": "صحنه پس از تیتراژ قسمت پایانی VisionQuest بازگشت یکی از محبوب‌ترین شخصیت‌های مارول را تایید کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420100-visionquest-post-credits-scarlet-witch/"
+   },
+   "ts": 1794419888
+  },
+  "59c0184f": {
+   "text": "🎮 بررسی بازی موبایلی Lil’ Guardsman – سرنوشت یک پادشاهی در دستان نگهبانی دوزاده‌ساله\n\nاگر علاقه‌مند به تجربه بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Lil' Guardsman همراه ویجیاتو باشید.\n\n🔗 منبع: https://vigiato.net/r/lil-guardsman-mobile-game-review",
+   "item": {
+    "title": "بررسی بازی موبایلی Lil’ Guardsman – سرنوشت یک پادشاهی در دستان نگهبانی دوزاده‌ساله",
+    "summary": "اگر علاقه‌مند به تجربه بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Lil' Guardsman همراه ویجیاتو باشید.",
+    "link": "https://vigiato.net/r/lil-guardsman-mobile-game-review"
+   },
+   "ts": 1794419889
   }
  }
 }
