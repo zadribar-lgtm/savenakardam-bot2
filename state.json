@@ -43,7 +43,9 @@
   "https://www.zoomg.ir/cinema-news/420100-visionquest-post-credits-scarlet-witch/",
   "https://vigiato.net/r/lil-guardsman-mobile-game-review",
   "https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/",
-  "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/"
+  "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/",
+  "https://www.zoomg.ir/game-review/420104-annihilated-game-review/",
+  "https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/"
  ],
  "pending": {
   "0bffaf68": {
@@ -432,6 +434,24 @@
     "link": "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/"
    },
    "ts": 1794422645
+  },
+  "3492ed71": {
+   "text": "🎮 بررسی بازی Annihilated؛ ترکیب روگ‌لایت و ویژوال ناول\n\nبازی Annihilated با ترکیب رمان تصویری و روگ‌لایت، روایتی با چهار قهرمان خاص ارائه می‌دهد اما در ریتم داستان‌گویی و نبردها دچار یکنواختی می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/game-review/420104-annihilated-game-review/",
+   "item": {
+    "title": "بررسی بازی Annihilated؛ ترکیب روگ‌لایت و ویژوال ناول",
+    "summary": "بازی Annihilated با ترکیب رمان تصویری و روگ‌لایت، روایتی با چهار قهرمان خاص ارائه می‌دهد اما در ریتم داستان‌گویی و نبردها دچار یکنواختی می‌شود.",
+    "link": "https://www.zoomg.ir/game-review/420104-annihilated-game-review/"
+   },
+   "ts": 1794426143
+  },
+  "4f8678fa": {
+   "text": "🎮 خواننده مشهور The Weeknd دنباله بازی Stellar Blade را تجربه کرد\n\nاستودیوی شیفت‌آپ در گزارش مالی اخیر خود از تجربه بازی جدید Stellar Blade: Blood Rain توسط د ویکند، خواننده مشهور پاپ، خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/",
+   "item": {
+    "title": "خواننده مشهور The Weeknd دنباله بازی Stellar Blade را تجربه کرد",
+    "summary": "استودیوی شیفت‌آپ در گزارش مالی اخیر خود از تجربه بازی جدید Stellar Blade: Blood Rain توسط د ویکند، خواننده مشهور پاپ، خبر داد.",
+    "link": "https://www.zoomg.ir/game-news/420103-the-weeknd-plays-stellar-blade/"
+   },
+   "ts": 1794426144
   }
  }
 }
