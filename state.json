@@ -57,7 +57,10 @@
   "https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
   "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/",
   "https://www.zoomg.ir/game-news/420113-marvel-1943-scale-back-report/",
-  "https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027"
+  "https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027",
+  "https://www.zoomg.ir/game-news/420115-take-two-boss-praises-zelda/",
+  "https://www.zoomg.ir/game-news/420114-id-software-devs-form-hidden-horses/",
+  "https://vigiato.net/r/tomb-raider-catalyst-confirmed-for-switch-2-by-amazon"
  ],
  "pending": {
   "0bffaf68": {
@@ -572,6 +575,33 @@
     "link": "https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027"
    },
    "ts": 1794460745
+  },
+  "858fa279": {
+   "text": "🎮 واکنش غیرمنتظره مدیر تیک‌تو به رقابت GTA 6 و ریمیک زلدا\n\nاستراوس زلنیک، مدیرعامل تیک‌تو، رقابت سمی با نینتندو را رد کرد و ریمیک بازی The Legend of Zelda: Ocarina of Time را ستود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420115-take-two-boss-praises-zelda/",
+   "item": {
+    "title": "واکنش غیرمنتظره مدیر تیک‌تو به رقابت GTA 6 و ریمیک زلدا",
+    "summary": "استراوس زلنیک، مدیرعامل تیک‌تو، رقابت سمی با نینتندو را رد کرد و ریمیک بازی The Legend of Zelda: Ocarina of Time را ستود.",
+    "link": "https://www.zoomg.ir/game-news/420115-take-two-boss-praises-zelda/"
+   },
+   "ts": 1794464385
+  },
+  "7e1a25fe": {
+   "text": "🎮 توسعه‌دهندگان اخراجی اید سافتور استودیوی جدید خود را تاسیس کردند\n\nتوسعه‌دهندگان اخراج‌شده‌ی استودیوی اید سافتور پس از تعدیل نیرو توسط مایکروسافت، استودیوی مستقل هیدن هورسز را تاسیس کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420114-id-software-devs-form-hidden-horses/",
+   "item": {
+    "title": "توسعه‌دهندگان اخراجی اید سافتور استودیوی جدید خود را تاسیس کردند",
+    "summary": "توسعه‌دهندگان اخراج‌شده‌ی استودیوی اید سافتور پس از تعدیل نیرو توسط مایکروسافت، استودیوی مستقل هیدن هورسز را تاسیس کردند.",
+    "link": "https://www.zoomg.ir/game-news/420114-id-software-devs-form-hidden-horses/"
+   },
+   "ts": 1794464387
+  },
+  "b6738fe2": {
+   "text": "🎮 نسخه سوییچ ۲ بازی Tomb Raider: Legacy of Atlantis در آمازون لیست شده است\n\nآمازون ناشر بالاخره شاید بهتر بداند\n\n🔗 منبع: https://vigiato.net/r/tomb-raider-catalyst-confirmed-for-switch-2-by-amazon",
+   "item": {
+    "title": "نسخه سوییچ ۲ بازی Tomb Raider: Legacy of Atlantis در آمازون لیست شده است",
+    "summary": "آمازون ناشر بالاخره شاید بهتر بداند",
+    "link": "https://vigiato.net/r/tomb-raider-catalyst-confirmed-for-switch-2-by-amazon"
+   },
+   "ts": 1794464388
   }
  }
 }
