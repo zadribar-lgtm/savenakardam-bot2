@@ -55,7 +55,9 @@
   "https://www.zoomg.ir/cinema-news/420109-lords-of-war-second-trailer/",
   "https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/",
   "https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
-  "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/"
+  "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/",
+  "https://www.zoomg.ir/game-news/420113-marvel-1943-scale-back-report/",
+  "https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027"
  ],
  "pending": {
   "0bffaf68": {
@@ -552,6 +554,24 @@
     "link": "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/"
    },
    "ts": 1794457116
+  },
+  "8648b051": {
+   "text": "🎮 محتوا و زمان گیم‌پلی Marvel 1943 Rise of Hydra کاهش یافته است\n\nگزارشات جدید نشان می‌دهند روند ساخت بازی Marvel 1943: Rise of Hydra با کاهش محتوا و زمان گیم‌پلی به پایان نزدیک شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420113-marvel-1943-scale-back-report/",
+   "item": {
+    "title": "محتوا و زمان گیم‌پلی Marvel 1943 Rise of Hydra کاهش یافته است",
+    "summary": "گزارشات جدید نشان می‌دهند روند ساخت بازی Marvel 1943: Rise of Hydra با کاهش محتوا و زمان گیم‌پلی به پایان نزدیک شده است.",
+    "link": "https://www.zoomg.ir/game-news/420113-marvel-1943-scale-back-report/"
+   },
+   "ts": 1794460744
+  },
+  "1d82c2c2": {
+   "text": "🎮 جزییات بیشتر داستانی و گیم‌پلی بازی Intergalactic سال آینده منتشر می‌شود\n\nمنتظر بمانید تا بفهمید اینترگلکتیک چیست!\n\n🔗 منبع: https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027",
+   "item": {
+    "title": "جزییات بیشتر داستانی و گیم‌پلی بازی Intergalactic سال آینده منتشر می‌شود",
+    "summary": "منتظر بمانید تا بفهمید اینترگلکتیک چیست!",
+    "link": "https://vigiato.net/r/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027"
+   },
+   "ts": 1794460745
   }
  }
 }
