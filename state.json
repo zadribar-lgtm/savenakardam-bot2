@@ -75,7 +75,10 @@
   "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
   "https://www.zoomg.ir/game-news/420125-driver-2-unreal-engine-5-remake/",
   "https://vigiato.net/r/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
-  "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale"
+  "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
+  "https://www.zoomg.ir/game-news/420127-tomb-raider-catalyst-switch-2/",
+  "https://www.zoomg.ir/game-news/420126-rockstar-philosophy-versus-sony-microsoft/",
+  "https://vigiato.net/r/best-pc-games-of-2026"
  ],
  "pending": {
   "0bffaf68": {
@@ -752,6 +755,33 @@
     "link": "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale"
    },
    "ts": 1794479575
+  },
+  "0ae95c41": {
+   "text": "🎮 بازی Tomb Raider: Catalyst برای کنسول نینتندو سوییچ ۲ تأیید شد\n\nاطلاعات منتشرشده از سوی آمازون نشان می‌دهد بازی Tomb Raider: Catalyst، برای کنسول نینتندو سوییچ ۲ نیز عرضه خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420127-tomb-raider-catalyst-switch-2/",
+   "item": {
+    "title": "بازی Tomb Raider: Catalyst برای کنسول نینتندو سوییچ ۲ تأیید شد",
+    "summary": "اطلاعات منتشرشده از سوی آمازون نشان می‌دهد بازی Tomb Raider: Catalyst، برای کنسول نینتندو سوییچ ۲ نیز عرضه خواهد شد.",
+    "link": "https://www.zoomg.ir/game-news/420127-tomb-raider-catalyst-switch-2/"
+   },
+   "ts": 1794482922
+  },
+  "5a22320f": {
+   "text": "🎮 طراح سابق GTA 6: مایکروسافت و سونی توان رقابت با راک‌استار را ندارند\n\nطراح سابق راک‌استار گیمز ادعا کرد غول‌های صنعت بازی از جمله سونی و مایکروسافت توان رقابت با این استودیو را ندارند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420126-rockstar-philosophy-versus-sony-microsoft/",
+   "item": {
+    "title": "طراح سابق GTA 6: مایکروسافت و سونی توان رقابت با راک‌استار را ندارند",
+    "summary": "طراح سابق راک‌استار گیمز ادعا کرد غول‌های صنعت بازی از جمله سونی و مایکروسافت توان رقابت با این استودیو را ندارند.",
+    "link": "https://www.zoomg.ir/game-news/420126-rockstar-philosophy-versus-sony-microsoft/"
+   },
+   "ts": 1794482923
+  },
+  "e7bc1482": {
+   "text": "🎮 بازی های کامپیوتری | معرفی ۶۵ بازی برتر برای پی‌سی گیمرها\n\nبه دنیای پی‌سی گیمرها خوش آمدید!\n\n🔗 منبع: https://vigiato.net/r/best-pc-games-of-2026",
+   "item": {
+    "title": "بازی های کامپیوتری | معرفی ۶۵ بازی برتر برای پی‌سی گیمرها",
+    "summary": "به دنیای پی‌سی گیمرها خوش آمدید!",
+    "link": "https://vigiato.net/r/best-pc-games-of-2026"
+   },
+   "ts": 1794482925
   }
  }
 }
