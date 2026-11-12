@@ -92,7 +92,11 @@
   "https://www.zoomg.ir/tech-news/420135-jensen-huang-resigns-nvidia-ceo/",
   "https://www.zoomg.ir/game-news/420131-assassins-creed-mirage-android-port/",
   "https://vigiato.net/r/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead",
-  "https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe"
+  "https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe",
+  "https://www.zoomg.ir/game-news/420136-fc-27-pc-denuvo-cracked/",
+  "https://www.zoomg.ir/game-articles/420123-ps5-pro-price-gaming-market-iran/",
+  "https://vigiato.net/r/the-witcher-3-already-had-the-most-golden-joysticks-and-it-just-won-another-extending-its-lead-over-rpg-rivals-baldurs-gate-3-and-clair-obscur-expedition-33",
+  "https://vigiato.net/r/jensn-huang-resigns-as-nvidia-boss-amid-honeytrap-scandal-interim-ceo-appointed"
  ],
  "pending": {
   "0bffaf68": {
@@ -922,6 +926,42 @@
     "link": "https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe"
    },
    "ts": 1794494029
+  },
+  "de55f7fe": {
+   "text": "🎮 بازی EA Sports FC 27 کرک شد\n\nبازی EA Sports FC 27 برای کامپیوتر کرک شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420136-fc-27-pc-denuvo-cracked/",
+   "item": {
+    "title": "بازی EA Sports FC 27 کرک شد",
+    "summary": "بازی EA Sports FC 27 برای کامپیوتر کرک شد.",
+    "link": "https://www.zoomg.ir/game-news/420136-fc-27-pc-denuvo-cracked/"
+   },
+   "ts": 1794497292
+  },
+  "2f2353eb": {
+   "text": "🎮 وقتی خرید یک بازی از حقوق یک ماه بیشتر است؛ روزهای سخت صنعت بازی در ایران\n\nبا جهش نرخ ارز، قیمت پلی‌استیشن ۵ پرو به مرز ۴۰۰ میلیون تومان رسید و هزینه یک بازی جدید از حداقل دستمزد ماهانه کارگران فراتر رفت.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420123-ps5-pro-price-gaming-market-iran/",
+   "item": {
+    "title": "وقتی خرید یک بازی از حقوق یک ماه بیشتر است؛ روزهای سخت صنعت بازی در ایران",
+    "summary": "با جهش نرخ ارز، قیمت پلی‌استیشن ۵ پرو به مرز ۴۰۰ میلیون تومان رسید و هزینه یک بازی جدید از حداقل دستمزد ماهانه کارگران فراتر رفت.",
+    "link": "https://www.zoomg.ir/game-articles/420123-ps5-pro-price-gaming-market-iran/"
+   },
+   "ts": 1794497293
+  },
+  "20661cd1": {
+   "text": "🎮 ویچر ۳ پرافتخارترین بازی Golden Joystick Awards شد\n\nبه سلامتی شما!\n\n🔗 منبع: https://vigiato.net/r/the-witcher-3-already-had-the-most-golden-joysticks-and-it-just-won-another-extending-its-lead-over-rpg-rivals-baldurs-gate-3-and-clair-obscur-expedition-33",
+   "item": {
+    "title": "ویچر ۳ پرافتخارترین بازی Golden Joystick Awards شد",
+    "summary": "به سلامتی شما!",
+    "link": "https://vigiato.net/r/the-witcher-3-already-had-the-most-golden-joysticks-and-it-just-won-another-extending-its-lead-over-rpg-rivals-baldurs-gate-3-and-clair-obscur-expedition-33"
+   },
+   "ts": 1794497294
+  },
+  "7b1c346d": {
+   "text": "🎮 جنسن هوانگ از مدیرعاملی انویدیا استعفا کرد\n\nکولت کرس اکنون مدیرعامل موقت است\n\n🔗 منبع: https://vigiato.net/r/jensn-huang-resigns-as-nvidia-boss-amid-honeytrap-scandal-interim-ceo-appointed",
+   "item": {
+    "title": "جنسن هوانگ از مدیرعاملی انویدیا استعفا کرد",
+    "summary": "کولت کرس اکنون مدیرعامل موقت است",
+    "link": "https://vigiato.net/r/jensn-huang-resigns-as-nvidia-boss-amid-honeytrap-scandal-interim-ceo-appointed"
+   },
+   "ts": 1794497296
   }
  }
 }
