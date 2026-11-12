@@ -111,7 +111,9 @@
   "https://vigiato.net/r/palworld-dev-gives-all-employees-a-gta-6-holiday-lasting-five-days",
   "https://www.zoomg.ir/learning/420132-make-games-with-claude-ai/",
   "https://www.zoomg.ir/game-news/420141-gta-6-map-leaked-selfridges/",
-  "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84"
+  "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84",
+  "https://www.zoomg.ir/cinema-news/420142-doctor-doom-tony-stark/",
+  "https://vigiato.net/r/over-the-hill-review"
  ],
  "pending": {
   "0bffaf68": {
@@ -1112,6 +1114,24 @@
     "link": "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84"
    },
    "ts": 1794507052
+  },
+  "5e7b7965": {
+   "text": "🎮 کوین فایگی فرضیه ارتباط دکتر دووم با تونی استارک را رد کرد\n\nکوین فایگی نظریه پیوند رابرت داونی جونیور در نقش دکتر دووم با شخصیت تونی استارک را رد کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420142-doctor-doom-tony-stark/",
+   "item": {
+    "title": "کوین فایگی فرضیه ارتباط دکتر دووم با تونی استارک را رد کرد",
+    "summary": "کوین فایگی نظریه پیوند رابرت داونی جونیور در نقش دکتر دووم با شخصیت تونی استارک را رد کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420142-doctor-doom-tony-stark/"
+   },
+   "ts": 1794509918
+  },
+  "42b2120a": {
+   "text": "🎮 معرفی بازی Over the Hill؛ تراپی در قالب آفرود!\n\nنسخه آرامش‌بخش‌تر Snowrunner\n\n🔗 منبع: https://vigiato.net/r/over-the-hill-review",
+   "item": {
+    "title": "معرفی بازی Over the Hill؛ تراپی در قالب آفرود!",
+    "summary": "نسخه آرامش‌بخش‌تر Snowrunner",
+    "link": "https://vigiato.net/r/over-the-hill-review"
+   },
+   "ts": 1794509919
   }
  }
 }
