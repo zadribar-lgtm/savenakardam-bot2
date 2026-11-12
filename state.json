@@ -53,7 +53,9 @@
   "https://www.zoomg.ir/game-news/420107-rockstar-games-gta-6-clip/",
   "https://www.zoomg.ir/game-news/420108-golden-joystick-awards-2026-winners/",
   "https://www.zoomg.ir/cinema-news/420109-lords-of-war-second-trailer/",
-  "https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/"
+  "https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/",
+  "https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
+  "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/"
  ],
  "pending": {
   "0bffaf68": {
@@ -532,6 +534,24 @@
     "link": "https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/"
    },
    "ts": 1794453655
+  },
+  "f69d244c": {
+   "text": "🎮 موج لغو پیش‌خرید GTA 6 در پی اعلام محدودیت ۳۰ فریم\n\nتعدادی از خریداران بازی GTA 6 در واکنش به محدودیت نرخ فریم، سفارش‌های پیش‌خرید خود را لغو کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
+   "item": {
+    "title": "موج لغو پیش‌خرید GTA 6 در پی اعلام محدودیت ۳۰ فریم",
+    "summary": "تعدادی از خریداران بازی GTA 6 در واکنش به محدودیت نرخ فریم، سفارش‌های پیش‌خرید خود را لغو کردند.",
+    "link": "https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/"
+   },
+   "ts": 1794457115
+  },
+  "5c2443d4": {
+   "text": "🎮 سونی انیمه را به ستون اصلی تجارت خود تبدیل می‌کند\n\nسونی قصد دارد انیمه ژاپنی را به محور اصلی تجارت و رشد بلندمدت خود در حوزه بازی و سرگرمی بدل کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/",
+   "item": {
+    "title": "سونی انیمه را به ستون اصلی تجارت خود تبدیل می‌کند",
+    "summary": "سونی قصد دارد انیمه ژاپنی را به محور اصلی تجارت و رشد بلندمدت خود در حوزه بازی و سرگرمی بدل کند.",
+    "link": "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/"
+   },
+   "ts": 1794457116
   }
  }
 }
