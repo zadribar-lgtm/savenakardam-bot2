@@ -78,7 +78,11 @@
   "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
   "https://www.zoomg.ir/game-news/420127-tomb-raider-catalyst-switch-2/",
   "https://www.zoomg.ir/game-news/420126-rockstar-philosophy-versus-sony-microsoft/",
-  "https://vigiato.net/r/best-pc-games-of-2026"
+  "https://vigiato.net/r/best-pc-games-of-2026",
+  "https://www.zoomg.ir/cinema-news/420128-henry-cavill-warhammer-series-update/",
+  "https://www.zoomg.ir/game-articles/420122-iran-mobile-gaming-market-share/",
+  "https://vigiato.net/r/former-tekken-director-wishes-hardware-like-xbox-series-s-wouldnt-be-released",
+  "https://vigiato.net/r/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang"
  ],
  "pending": {
   "0bffaf68": {
@@ -782,6 +786,42 @@
     "link": "https://vigiato.net/r/best-pc-games-of-2026"
    },
    "ts": 1794482925
+  },
+  "a13dca87": {
+   "text": "🎮 وسواس شدید هنری کویل برای سریال وارهمر؛ می‌خواهم بی‌نقص باشد\n\nهنری کویل از روند پیشرفت تولید سریال لایواکشن Warhammer 40,000 و وسواس خود برای وفاداری به منابع اصلی خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420128-henry-cavill-warhammer-series-update/",
+   "item": {
+    "title": "وسواس شدید هنری کویل برای سریال وارهمر؛ می‌خواهم بی‌نقص باشد",
+    "summary": "هنری کویل از روند پیشرفت تولید سریال لایواکشن Warhammer 40,000 و وسواس خود برای وفاداری به منابع اصلی خبر داد.",
+    "link": "https://www.zoomg.ir/cinema-news/420128-henry-cavill-warhammer-series-update/"
+   },
+   "ts": 1794486096
+  },
+  "a10da2df": {
+   "text": "🎮 ۹۴ درصد گیمرهای ایرانی با موبایل بازی می‌کنند؛ اما فقط ۷ درصد پول بازار به بازی‌های موبایلی می‌رسد!\n\nبا وجود سهم ۹۴ درصدی موبایل در میان گیمرهای ایرانی، این بازی‌ها تنها ۷ درصد از بازار ۷۰ هزار میلیارد تومانی بازی در کشور سهم دارند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420122-iran-mobile-gaming-market-share/",
+   "item": {
+    "title": "۹۴ درصد گیمرهای ایرانی با موبایل بازی می‌کنند؛ اما فقط ۷ درصد پول بازار به بازی‌های موبایلی می‌رسد!",
+    "summary": "با وجود سهم ۹۴ درصدی موبایل در میان گیمرهای ایرانی، این بازی‌ها تنها ۷ درصد از بازار ۷۰ هزار میلیارد تومانی بازی در کشور سهم دارند.",
+    "link": "https://www.zoomg.ir/game-articles/420122-iran-mobile-gaming-market-share/"
+   },
+   "ts": 1794486097
+  },
+  "572737c5": {
+   "text": "🎮 کاتسوهیرو هارادا ایکس‌باکس سری اس را برای صنعت گیم یک دردسر می‌داند\n\nبازی پرفکت می‌سازید تا برای سری اس اضافه کاری کنید\n\n🔗 منبع: https://vigiato.net/r/former-tekken-director-wishes-hardware-like-xbox-series-s-wouldnt-be-released",
+   "item": {
+    "title": "کاتسوهیرو هارادا ایکس‌باکس سری اس را برای صنعت گیم یک دردسر می‌داند",
+    "summary": "بازی پرفکت می‌سازید تا برای سری اس اضافه کاری کنید",
+    "link": "https://vigiato.net/r/former-tekken-director-wishes-hardware-like-xbox-series-s-wouldnt-be-released"
+   },
+   "ts": 1794486099
+  },
+  "81a7a0d2": {
+   "text": "🎮 احتمال برکناری جنسن هوانگ از انویدیا وجود دارد\n\nجنسن، آی جنسن..\n\n🔗 منبع: https://vigiato.net/r/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang",
+   "item": {
+    "title": "احتمال برکناری جنسن هوانگ از انویدیا وجود دارد",
+    "summary": "جنسن، آی جنسن..",
+    "link": "https://vigiato.net/r/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang"
+   },
+   "ts": 1794486100
   }
  }
 }
