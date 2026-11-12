@@ -113,7 +113,9 @@
   "https://www.zoomg.ir/game-news/420141-gta-6-map-leaked-selfridges/",
   "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84",
   "https://www.zoomg.ir/cinema-news/420142-doctor-doom-tony-stark/",
-  "https://vigiato.net/r/over-the-hill-review"
+  "https://vigiato.net/r/over-the-hill-review",
+  "https://www.zoomg.ir/cinema-news/420144-pixar-gatto-trailer-cast-announced/",
+  "https://www.zoomg.ir/cinema-news/420143-avengers-doomsday-doctor-doom-reveals/"
  ],
  "pending": {
   "0bffaf68": {
@@ -1132,6 +1134,24 @@
     "link": "https://vigiato.net/r/over-the-hill-review"
    },
    "ts": 1794509919
+  },
+  "292b27a2": {
+   "text": "🎮 تریلر و پوستر تازه‌ای از انیمیشن جدید پیکسار با نام Gatto منتشر شد\n\nدیزنی و پیکسار تریلر جدید و فهرست صداپیشگان انیمیشن Gatto را همراه با تاریخ اکران آن منتشر کردند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420144-pixar-gatto-trailer-cast-announced/",
+   "item": {
+    "title": "تریلر و پوستر تازه‌ای از انیمیشن جدید پیکسار با نام Gatto منتشر شد",
+    "summary": "دیزنی و پیکسار تریلر جدید و فهرست صداپیشگان انیمیشن Gatto را همراه با تاریخ اکران آن منتشر کردند.",
+    "link": "https://www.zoomg.ir/cinema-news/420144-pixar-gatto-trailer-cast-announced/"
+   },
+   "ts": 1794512768
+  },
+  "4c6204bf": {
+   "text": "🎮 پوسترهای جدید Avengers: Doomsday با محوریت دکتر دووم و گردهمایی قهرمانان\n\nتصاویر جدید فیلم Avengers: Doomsday با محوریت حضور رابرت داونی جونیور در نقش دکتر دووم و گردهمایی قهرمانان دنیاهای موازی منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420143-avengers-doomsday-doctor-doom-reveals/",
+   "item": {
+    "title": "پوسترهای جدید Avengers: Doomsday با محوریت دکتر دووم و گردهمایی قهرمانان",
+    "summary": "تصاویر جدید فیلم Avengers: Doomsday با محوریت حضور رابرت داونی جونیور در نقش دکتر دووم و گردهمایی قهرمانان دنیاهای موازی منتشر شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420143-avengers-doomsday-doctor-doom-reveals/"
+   },
+   "ts": 1794512770
   }
  }
 }
