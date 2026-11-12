@@ -108,7 +108,10 @@
   "https://vigiato.net/r/17-classic-xbox-games-could-be-coming-to-pc",
   "https://vigiato.net/r/12v-2x6-gpu-power-connector",
   "https://vigiato.net/r/best-movies-2026",
-  "https://vigiato.net/r/palworld-dev-gives-all-employees-a-gta-6-holiday-lasting-five-days"
+  "https://vigiato.net/r/palworld-dev-gives-all-employees-a-gta-6-holiday-lasting-five-days",
+  "https://www.zoomg.ir/learning/420132-make-games-with-claude-ai/",
+  "https://www.zoomg.ir/game-news/420141-gta-6-map-leaked-selfridges/",
+  "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84"
  ],
  "pending": {
   "0bffaf68": {
@@ -1082,6 +1085,33 @@
     "link": "https://vigiato.net/r/palworld-dev-gives-all-employees-a-gta-6-holiday-lasting-five-days"
    },
    "ts": 1794504334
+  },
+  "f78d9cb5": {
+   "text": "🎮 چگونه با هوش مصنوعی Claude بازی بسازیم؟ آموزش بازی‌سازی بدون برنامه‌نویسی\n\nهوش مصنوعی کلود به کاربران امکان می‌دهد با نوشتن توضیحات ساده و استفاده از قابلیت آرتیفکت، بازی‌های دوبعدی تعاملی تحت وب بسازند.\n\n🔗 منبع: https://www.zoomg.ir/learning/420132-make-games-with-claude-ai/",
+   "item": {
+    "title": "چگونه با هوش مصنوعی Claude بازی بسازیم؟ آموزش بازی‌سازی بدون برنامه‌نویسی",
+    "summary": "هوش مصنوعی کلود به کاربران امکان می‌دهد با نوشتن توضیحات ساده و استفاده از قابلیت آرتیفکت، بازی‌های دوبعدی تعاملی تحت وب بسازند.",
+    "link": "https://www.zoomg.ir/learning/420132-make-games-with-claude-ai/"
+   },
+   "ts": 1794507049
+  },
+  "6d41d5b6": {
+   "text": "🎮 افشای ناخواسته نقشه GTA 6 در فروشگاه لندنی\n\nتصاویر فاش‌شده از یک رویداد در لندن، احتمالا نقشه‌ی کامل GTA 6 را پیش از عرضه رسمی لو داده‌اند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420141-gta-6-map-leaked-selfridges/",
+   "item": {
+    "title": "افشای ناخواسته نقشه GTA 6 در فروشگاه لندنی",
+    "summary": "تصاویر فاش‌شده از یک رویداد در لندن، احتمالا نقشه‌ی کامل GTA 6 را پیش از عرضه رسمی لو داده‌اند.",
+    "link": "https://www.zoomg.ir/game-news/420141-gta-6-map-leaked-selfridges/"
+   },
+   "ts": 1794507051
+  },
+  "01705a79": {
+   "text": "🎮 بررسی بازی موبایلی Flight of the Amazon Queen – با یک تجربه کلاسیک چطورید؟\n\nاگر طرفدار بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Flight of the Amazon Queen همراه ویجیاتو باشید.\n\n🔗 منبع: https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84",
+   "item": {
+    "title": "بررسی بازی موبایلی Flight of the Amazon Queen – با یک تجربه کلاسیک چطورید؟",
+    "summary": "اگر طرفدار بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Flight of the Amazon Queen همراه ویجیاتو باشید.",
+    "link": "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-flight-of-the-amazon-queen-%d8%a8%d8%a7-%db%8c%da%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d9%84"
+   },
+   "ts": 1794507052
   }
  }
 }
