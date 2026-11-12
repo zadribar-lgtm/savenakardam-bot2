@@ -69,7 +69,10 @@
   "https://www.zoomg.ir/cinema-news/420120-henry-cavill-superman-return-dc/",
   "https://www.zoomg.ir/game-news/420116-hellraiser-revival-ps5-demo-released/",
   "https://vigiato.net/r/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
-  "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27"
+  "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27",
+  "https://www.zoomg.ir/game-articles/420121-most-popular-video-games-iran-2026/",
+  "https://www.zoomg.ir/game-news/420124-naughty-dog-intergalactic-influences-revealed/",
+  "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length"
  ],
  "pending": {
   "0bffaf68": {
@@ -692,6 +695,33 @@
     "link": "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27"
    },
    "ts": 1794472876
+  },
+  "18d3eceb": {
+   "text": "🎮 از کالاف دیوتی تا آمیرزا؛ ایرانی‌ها بیشتر چه بازی‌هایی انجام می‌دهند؟\n\nبر اساس گزارش دایرک، بازی‌های فوتبالی، کالاف دیوتی و آمیرزا محبوب‌ترین بازی‌های ویدیویی در پنج استان پرمخاطب ایران هستند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420121-most-popular-video-games-iran-2026/",
+   "item": {
+    "title": "از کالاف دیوتی تا آمیرزا؛ ایرانی‌ها بیشتر چه بازی‌هایی انجام می‌دهند؟",
+    "summary": "بر اساس گزارش دایرک، بازی‌های فوتبالی، کالاف دیوتی و آمیرزا محبوب‌ترین بازی‌های ویدیویی در پنج استان پرمخاطب ایران هستند.",
+    "link": "https://www.zoomg.ir/game-articles/420121-most-popular-video-games-iran-2026/"
+   },
+   "ts": 1794476094
+  },
+  "44db36a1": {
+   "text": "🎮 نیل دراکمن از الهام‌گیری Intergalactic از سه اثر بزرگ می‌گوید\n\nنیل دراکمن تأیید کرد بازی Intergalactic: The Heretic Prophet با الهام از Jak and Daxter، سبک‌های گوناگون استودیو را پیوند می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420124-naughty-dog-intergalactic-influences-revealed/",
+   "item": {
+    "title": "نیل دراکمن از الهام‌گیری Intergalactic از سه اثر بزرگ می‌گوید",
+    "summary": "نیل دراکمن تأیید کرد بازی Intergalactic: The Heretic Prophet با الهام از Jak and Daxter، سبک‌های گوناگون استودیو را پیوند می‌دهد.",
+    "link": "https://www.zoomg.ir/game-news/420124-naughty-dog-intergalactic-influences-revealed/"
+   },
+   "ts": 1794476096
+  },
+  "5f7f2cc3": {
+   "text": "🎮 توسعه بازی Marvel 1943: Rise of Hydra به پایان نزدیک شده است\n\nمدیران اسکای‌دنس اطمینان‌ خاطر داده‌اند\n\n🔗 منبع: https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+   "item": {
+    "title": "توسعه بازی Marvel 1943: Rise of Hydra به پایان نزدیک شده است",
+    "summary": "مدیران اسکای‌دنس اطمینان‌ خاطر داده‌اند",
+    "link": "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length"
+   },
+   "ts": 1794476097
   }
  }
 }
