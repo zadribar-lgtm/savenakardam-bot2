@@ -120,7 +120,9 @@
   "https://www.zoomg.ir/game-news/420146-id-software-new-game-martin/",
   "https://www.zoomg.ir/cinema-news/420145-brad-pitt-darius-marder-connector/",
   "https://vigiato.net/r/asha-sharma-memo-for-xbox-25th-anniversary",
-  "https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game"
+  "https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game",
+  "https://www.zoomg.ir/game-news/420147-gta-6-new-gameplay-graphics/",
+  "https://vigiato.net/r/marvels-kevin-feige-breaks-silence-on-mcu-doctor-doom-being-a-tony-stark-variants"
  ],
  "pending": {
   "0bffaf68": {
@@ -1202,6 +1204,24 @@
     "link": "https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game"
    },
    "ts": 1794518412
+  },
+  "9f75b750": {
+   "text": "🎮 انتشار ویدیوهای اول‌شخص و واقع‌گرایانه از گیم‌پلی GTA 6 ادامه دارد\n\nراک‌استار کلیپ‌های جدیدی از گیم‌پلی GTA 6 منتشر کرده که حیرت و ناباوری گیمرها را برانگیخته است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420147-gta-6-new-gameplay-graphics/",
+   "item": {
+    "title": "انتشار ویدیوهای اول‌شخص و واقع‌گرایانه از گیم‌پلی GTA 6 ادامه دارد",
+    "summary": "راک‌استار کلیپ‌های جدیدی از گیم‌پلی GTA 6 منتشر کرده که حیرت و ناباوری گیمرها را برانگیخته است.",
+    "link": "https://www.zoomg.ir/game-news/420147-gta-6-new-gameplay-graphics/"
+   },
+   "ts": 1794521156
+  },
+  "7ecb7b46": {
+   "text": "🎮 مارول تایید کرد که دکتر دووم در اونجرز دومزدی نسخه دیگری از تونی استارک نیست\n\nفایگی تاکید می‌کند: «او ویکتور وان دووم است.»\n\n🔗 منبع: https://vigiato.net/r/marvels-kevin-feige-breaks-silence-on-mcu-doctor-doom-being-a-tony-stark-variants",
+   "item": {
+    "title": "مارول تایید کرد که دکتر دووم در اونجرز دومزدی نسخه دیگری از تونی استارک نیست",
+    "summary": "فایگی تاکید می‌کند: «او ویکتور وان دووم است.»",
+    "link": "https://vigiato.net/r/marvels-kevin-feige-breaks-silence-on-mcu-doctor-doom-being-a-tony-stark-variants"
+   },
+   "ts": 1794521158
   }
  }
 }
