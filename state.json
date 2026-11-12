@@ -116,7 +116,11 @@
   "https://vigiato.net/r/over-the-hill-review",
   "https://www.zoomg.ir/cinema-news/420144-pixar-gatto-trailer-cast-announced/",
   "https://www.zoomg.ir/cinema-news/420143-avengers-doomsday-doctor-doom-reveals/",
-  "https://www.zoomg.ir/game-articles/420133-meteorfall-krumits-tale-mobile-game/"
+  "https://www.zoomg.ir/game-articles/420133-meteorfall-krumits-tale-mobile-game/",
+  "https://www.zoomg.ir/game-news/420146-id-software-new-game-martin/",
+  "https://www.zoomg.ir/cinema-news/420145-brad-pitt-darius-marder-connector/",
+  "https://vigiato.net/r/asha-sharma-memo-for-xbox-25th-anniversary",
+  "https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game"
  ],
  "pending": {
   "0bffaf68": {
@@ -1162,6 +1166,42 @@
     "link": "https://www.zoomg.ir/game-articles/420133-meteorfall-krumits-tale-mobile-game/"
    },
    "ts": 1794515536
+  },
+  "ea3332c5": {
+   "text": "🎮 استودیوی سازنده DOOM ساخت پروژه‌ی بعدی خود را رسما تایید کرد\n\nاستودیوی اید سافتور رسما تأیید کرد که مراحل توسعه‌ی بازی بعدی خود را با کارگردانی هوگو مارتین آغاز کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420146-id-software-new-game-martin/",
+   "item": {
+    "title": "استودیوی سازنده DOOM ساخت پروژه‌ی بعدی خود را رسما تایید کرد",
+    "summary": "استودیوی اید سافتور رسما تأیید کرد که مراحل توسعه‌ی بازی بعدی خود را با کارگردانی هوگو مارتین آغاز کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420146-id-software-new-game-martin/"
+   },
+   "ts": 1794518408
+  },
+  "a4592d8f": {
+   "text": "🎮 برد پیت در فیلم جدید کارگردان Sound of Metal نقش‌آفرینی می‌کند\n\nبرد پیت در اثر سینمایی تازه‌ای با عنوان Connector به کارگردانی داریوش ماردر و تهیه‌کنندگی اپل ایفای نقش می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420145-brad-pitt-darius-marder-connector/",
+   "item": {
+    "title": "برد پیت در فیلم جدید کارگردان Sound of Metal نقش‌آفرینی می‌کند",
+    "summary": "برد پیت در اثر سینمایی تازه‌ای با عنوان Connector به کارگردانی داریوش ماردر و تهیه‌کنندگی اپل ایفای نقش می‌کند.",
+    "link": "https://www.zoomg.ir/cinema-news/420145-brad-pitt-darius-marder-connector/"
+   },
+   "ts": 1794518409
+  },
+  "b4fbf90d": {
+   "text": "🎮 مدیرعامل ایکس‌باکس از ساخت کنسول نسل بعدی و آینده بازی‌سازی صحبت کرد\n\nشارما به مناسبت بیست‌وپنجمین سالگرد این برند این پیام را منتشر کرده است\n\n🔗 منبع: https://vigiato.net/r/asha-sharma-memo-for-xbox-25th-anniversary",
+   "item": {
+    "title": "مدیرعامل ایکس‌باکس از ساخت کنسول نسل بعدی و آینده بازی‌سازی صحبت کرد",
+    "summary": "شارما به مناسبت بیست‌وپنجمین سالگرد این برند این پیام را منتشر کرده است",
+    "link": "https://vigiato.net/r/asha-sharma-memo-for-xbox-25th-anniversary"
+   },
+   "ts": 1794518411
+  },
+  "1d568141": {
+   "text": "🎮 یوتیوب و راکستار برای انتشار GTA 6 یک لایو استریم ۲۴ ساعته برگزار می‌کنند\n\nیوتیوب طراحی‌های بصری خود را به بهانه جی‌تی‌ای تغییر داد\n\n🔗 منبع: https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game",
+   "item": {
+    "title": "یوتیوب و راکستار برای انتشار GTA 6 یک لایو استریم ۲۴ ساعته برگزار می‌کنند",
+    "summary": "یوتیوب طراحی‌های بصری خود را به بهانه جی‌تی‌ای تغییر داد",
+    "link": "https://vigiato.net/r/youtube-and-gta-6-collaboration-for-launch-party-of-the-game"
+   },
+   "ts": 1794518412
   }
  }
 }
