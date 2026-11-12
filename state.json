@@ -65,7 +65,11 @@
   "https://www.zoomg.ir/game-news/420117-warhorse-studios-recovers-cyberattack/",
   "https://www.zoomg.ir/cinema-news/420119-constantine-sequel-director-optimistic-dc/",
   "https://vigiato.net/r/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
-  "https://vigiato.net/r/neil-druckmann-cites-jak-and-daxter-as-intergalactic-influence"
+  "https://vigiato.net/r/neil-druckmann-cites-jak-and-daxter-as-intergalactic-influence",
+  "https://www.zoomg.ir/cinema-news/420120-henry-cavill-superman-return-dc/",
+  "https://www.zoomg.ir/game-news/420116-hellraiser-revival-ps5-demo-released/",
+  "https://vigiato.net/r/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+  "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27"
  ],
  "pending": {
   "0bffaf68": {
@@ -652,6 +656,42 @@
     "link": "https://vigiato.net/r/neil-druckmann-cites-jak-and-daxter-as-intergalactic-influence"
    },
    "ts": 1794469294
+  },
+  "accd4344": {
+   "text": "🎮 هنری کویل از تمایل برای بازگشت به نقش سوپرمن گفت\n\nهنری کویل پس از تغییرات مدیریتی اخیر در استودیو دی‌سی، برای بازگشت به نقش سوپرمن ابراز تمایل کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420120-henry-cavill-superman-return-dc/",
+   "item": {
+    "title": "هنری کویل از تمایل برای بازگشت به نقش سوپرمن گفت",
+    "summary": "هنری کویل پس از تغییرات مدیریتی اخیر در استودیو دی‌سی، برای بازگشت به نقش سوپرمن ابراز تمایل کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420120-henry-cavill-superman-return-dc/"
+   },
+   "ts": 1794472872
+  },
+  "40861c10": {
+   "text": "🎮 بازی Hellraiser: Revival را رایگان امتحان کنید\n\nدموی رایگان بازی ترسناک Clive Barker's Hellraiser: Revival برای کاربران کنسول پلی‌استیشن ۵ در دسترس قرار گرفت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420116-hellraiser-revival-ps5-demo-released/",
+   "item": {
+    "title": "بازی Hellraiser: Revival را رایگان امتحان کنید",
+    "summary": "دموی رایگان بازی ترسناک Clive Barker's Hellraiser: Revival برای کاربران کنسول پلی‌استیشن ۵ در دسترس قرار گرفت.",
+    "link": "https://www.zoomg.ir/game-news/420116-hellraiser-revival-ps5-demo-released/"
+   },
+   "ts": 1794472874
+  },
+  "6f0b07c0": {
+   "text": "🎮 مدیران پیشین DC مانع اصلی حضور کیانو ریوز برای فیلم جدید Constantine بوده‌اند\n\nما بیست سال است که فیلم‌نامه در دست داریم\n\n🔗 منبع: https://vigiato.net/r/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+   "item": {
+    "title": "مدیران پیشین DC مانع اصلی حضور کیانو ریوز برای فیلم جدید Constantine بوده‌اند",
+    "summary": "ما بیست سال است که فیلم‌نامه در دست داریم",
+    "link": "https://vigiato.net/r/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup"
+   },
+   "ts": 1794472875
+  },
+  "efb0e204": {
+   "text": "🎮 بازی FC 27 برای پی‌سی کرک شد\n\nچراکه توسعه‌دهندگان برای یک آنی لغزیدند\n\n🔗 منبع: https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27",
+   "item": {
+    "title": "بازی FC 27 برای پی‌سی کرک شد",
+    "summary": "چراکه توسعه‌دهندگان برای یک آنی لغزیدند",
+    "link": "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27"
+   },
+   "ts": 1794472876
   }
  }
 }
