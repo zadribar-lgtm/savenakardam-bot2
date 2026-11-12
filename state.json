@@ -72,7 +72,10 @@
   "https://vigiato.net/r/developers-accidentally-removed-denuvo-protection-from-ea-sports-fc-27",
   "https://www.zoomg.ir/game-articles/420121-most-popular-video-games-iran-2026/",
   "https://www.zoomg.ir/game-news/420124-naughty-dog-intergalactic-influences-revealed/",
-  "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length"
+  "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+  "https://www.zoomg.ir/game-news/420125-driver-2-unreal-engine-5-remake/",
+  "https://vigiato.net/r/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
+  "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale"
  ],
  "pending": {
   "0bffaf68": {
@@ -722,6 +725,33 @@
     "link": "https://vigiato.net/r/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length"
    },
    "ts": 1794476097
+  },
+  "d374f3ec": {
+   "text": "🎮 تماشا کنید: بازسازی غیررسمی بازی Driver 2 با آنریل ۵ و گرافیک جذاب\n\nیکی از طرفداران Driver 2 نقشه هاوانا را با موتور Unreal Engine 5 و فناوری DLSS 5 بازسازی کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420125-driver-2-unreal-engine-5-remake/",
+   "item": {
+    "title": "تماشا کنید: بازسازی غیررسمی بازی Driver 2 با آنریل ۵ و گرافیک جذاب",
+    "summary": "یکی از طرفداران Driver 2 نقشه هاوانا را با موتور Unreal Engine 5 و فناوری DLSS 5 بازسازی کرد.",
+    "link": "https://www.zoomg.ir/game-news/420125-driver-2-unreal-engine-5-remake/"
+   },
+   "ts": 1794479572
+  },
+  "0a505429": {
+   "text": "🎮 سی‌دی پراجکت با کمک هوش مصنوعی صدای گرالت لهستانی را بازسازی کرده است\n\nری‌اسپیک شدن گرالت زبان اصلی، تا زمانی که روژنک بهبود یابد\n\n🔗 منبع: https://vigiato.net/r/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
+   "item": {
+    "title": "سی‌دی پراجکت با کمک هوش مصنوعی صدای گرالت لهستانی را بازسازی کرده است",
+    "summary": "ری‌اسپیک شدن گرالت زبان اصلی، تا زمانی که روژنک بهبود یابد",
+    "link": "https://vigiato.net/r/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues"
+   },
+   "ts": 1794479573
+  },
+  "5886f7a4": {
+   "text": "🎮 اپلیکیشن AMC به‌دلیل ترافیک خرید بلیت Avengers: Doomsday مختل شد\n\nمخاطبان همیشه در صحنه‌ای که می‌خواهند اولین باشند\n\n🔗 منبع: https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
+   "item": {
+    "title": "اپلیکیشن AMC به‌دلیل ترافیک خرید بلیت Avengers: Doomsday مختل شد",
+    "summary": "مخاطبان همیشه در صحنه‌ای که می‌خواهند اولین باشند",
+    "link": "https://vigiato.net/r/amc-app-experiences-slowdown-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale"
+   },
+   "ts": 1794479575
   }
  }
 }
