@@ -88,7 +88,11 @@
   "https://www.zoomg.ir/game-news/420129-gta-6-trailer-gay-tony-theory/",
   "https://vigiato.net/r/wardogs-season-3-gameplay-highlights-limited-mode-and-new-map-infrared-range-finder-removed",
   "https://vigiato.net/r/football-manager-27-gets-new-trailer-showcasing-match-day-moments-to-celebrate-launch",
-  "https://vigiato.net/p/723289"
+  "https://vigiato.net/p/723289",
+  "https://www.zoomg.ir/tech-news/420135-jensen-huang-resigns-nvidia-ceo/",
+  "https://www.zoomg.ir/game-news/420131-assassins-creed-mirage-android-port/",
+  "https://vigiato.net/r/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead",
+  "https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe"
  ],
  "pending": {
   "0bffaf68": {
@@ -882,6 +886,42 @@
     "link": "https://vigiato.net/p/723289"
    },
    "ts": 1794490703
+  },
+  "a6661df7": {
+   "text": "🎮 خداحافظی ناگهانی معمار تراشه‌های مدرن؛ جنسن هوانگ از مدیرعاملی انویدیا استعفا داد\n\nجنسن هوانگ پس از ۳۳ سال از مدیرعاملی و ریاست انویدیا استعفا داد و کولت کرس موقتا سکان هدایت را به‌دست گرفت.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420135-jensen-huang-resigns-nvidia-ceo/",
+   "item": {
+    "title": "خداحافظی ناگهانی معمار تراشه‌های مدرن؛ جنسن هوانگ از مدیرعاملی انویدیا استعفا داد",
+    "summary": "جنسن هوانگ پس از ۳۳ سال از مدیرعاملی و ریاست انویدیا استعفا داد و کولت کرس موقتا سکان هدایت را به‌دست گرفت.",
+    "link": "https://www.zoomg.ir/tech-news/420135-jensen-huang-resigns-nvidia-ceo/"
+   },
+   "ts": 1794494025
+  },
+  "c068623b": {
+   "text": "🎮 پورت غیررسمی بازی Assassin's Creed Mirage برای اندروید عرضه می‌شود\n\nتوسعه‌دهنده‌ای مستقل در آستانه‌ی عرضه‌ی نسخه‌ی غیررسمی بازی Assassin's Creed Mirage برای دستگاه‌های اندرویدی قرار دارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420131-assassins-creed-mirage-android-port/",
+   "item": {
+    "title": "پورت غیررسمی بازی Assassin's Creed Mirage برای اندروید عرضه می‌شود",
+    "summary": "توسعه‌دهنده‌ای مستقل در آستانه‌ی عرضه‌ی نسخه‌ی غیررسمی بازی Assassin's Creed Mirage برای دستگاه‌های اندرویدی قرار دارد.",
+    "link": "https://www.zoomg.ir/game-news/420131-assassins-creed-mirage-android-port/"
+   },
+   "ts": 1794494026
+  },
+  "87201a2c": {
+   "text": "🎮 طراح ارشد Mass Effect 2 دلیل زمان توسعه ۱۸ ماهه بازی را توضیح داد\n\nتصمیم درست مدیریتی، کامیونیتی تراز و سازندگانی که اهداف خود را می‌دانستند\n\n🔗 منبع: https://vigiato.net/r/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead",
+   "item": {
+    "title": "طراح ارشد Mass Effect 2 دلیل زمان توسعه ۱۸ ماهه بازی را توضیح داد",
+    "summary": "تصمیم درست مدیریتی، کامیونیتی تراز و سازندگانی که اهداف خود را می‌دانستند",
+    "link": "https://vigiato.net/r/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead"
+   },
+   "ts": 1794494027
+  },
+  "87922c48": {
+   "text": "🎮 پری‌لود GTA 6 باعث افزایش ترافیک اینترنت کشورهای اروپایی شده است\n\nدیتای اینترنت جهان برای موردانتظارترین بازی سال مصرف می‌شود\n\n🔗 منبع: https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe",
+   "item": {
+    "title": "پری‌لود GTA 6 باعث افزایش ترافیک اینترنت کشورهای اروپایی شده است",
+    "summary": "دیتای اینترنت جهان برای موردانتظارترین بازی سال مصرف می‌شود",
+    "link": "https://vigiato.net/r/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe"
+   },
+   "ts": 1794494029
   }
  }
 }
