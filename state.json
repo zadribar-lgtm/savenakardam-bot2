@@ -131,7 +131,11 @@
   "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/",
   "https://www.zoomg.ir/tech-news/420156-anr-frame-generation-open-beta/",
   "https://www.zoomg.ir/game-news/420155-stellar-blade-next-gen-xbox/",
-  "https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement"
+  "https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement",
+  "https://www.zoomg.ir/cinema-news/420159-avengers-doomsday-thor-mcu-future/",
+  "https://www.zoomg.ir/cinema-news/420158-dan-trachtenberg-marvel-studios-talks/",
+  "https://www.zoomg.ir/cinema-news/420157-michael-john-roberts-animator-dies/",
+  "https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode"
  ],
  "pending": {
   "0bffaf68": {
@@ -1312,6 +1316,42 @@
     "link": "https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement"
    },
    "ts": 1794551115
+  },
+  "2c608a0f": {
+   "text": "🎮 تبلیغ Avengers: Doomsday در چین قدرت جدید و بزرگ ثور را لو داد\n\nبیلبورد تبلیغاتی فیلم Avengers: Doomsday در شانگهای با نمایش صاعقه‌های زرد رنگ ثور، احتمال دستیابی او به نیروی اودین را تقویت کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420159-avengers-doomsday-thor-mcu-future/",
+   "item": {
+    "title": "تبلیغ Avengers: Doomsday در چین قدرت جدید و بزرگ ثور را لو داد",
+    "summary": "بیلبورد تبلیغاتی فیلم Avengers: Doomsday در شانگهای با نمایش صاعقه‌های زرد رنگ ثور، احتمال دستیابی او به نیروی اودین را تقویت کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420159-avengers-doomsday-thor-mcu-future/"
+   },
+   "ts": 1794555857
+  },
+  "8e5fb13b": {
+   "text": "🎮 دن تراختنبرگ نویسندگی و کارگردانی یک فیلم مارول را بر عهده می‌گیرد\n\nدن تراختنبرگ در حال مذاکره با مارول استودیوز برای نویسندگی و کارگردانی فیلمی جدید با محوریت جهش‌یافته‌ها است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420158-dan-trachtenberg-marvel-studios-talks/",
+   "item": {
+    "title": "دن تراختنبرگ نویسندگی و کارگردانی یک فیلم مارول را بر عهده می‌گیرد",
+    "summary": "دن تراختنبرگ در حال مذاکره با مارول استودیوز برای نویسندگی و کارگردانی فیلمی جدید با محوریت جهش‌یافته‌ها است.",
+    "link": "https://www.zoomg.ir/cinema-news/420158-dan-trachtenberg-marvel-studios-talks/"
+   },
+   "ts": 1794555858
+  },
+  "3517a7e7": {
+   "text": "🎮 خالق تیتراژ بوجک هورسمن در ۴۶ سالگی درگذشت\n\nمایکل جان رابرتز، انیماتور و کارگردان برجسته‌ی مجموعه‌ی محبوب بوجک هورسمن در سن ۴۶ سالگی در لس‌آنجلس درگذشت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420157-michael-john-roberts-animator-dies/",
+   "item": {
+    "title": "خالق تیتراژ بوجک هورسمن در ۴۶ سالگی درگذشت",
+    "summary": "مایکل جان رابرتز، انیماتور و کارگردان برجسته‌ی مجموعه‌ی محبوب بوجک هورسمن در سن ۴۶ سالگی در لس‌آنجلس درگذشت.",
+    "link": "https://www.zoomg.ir/cinema-news/420157-michael-john-roberts-animator-dies/"
+   },
+   "ts": 1794555860
+  },
+  "af83a8c5": {
+   "text": "🎮 حالت Firefight به بازی Halo: Campaign Evolved اضافه می‌شود\n\nزمستان امسال برای تجربه دوباره محبوب‌ترین حالت مولتی‌پلیر فرنچایز\n\n🔗 منبع: https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode",
+   "item": {
+    "title": "حالت Firefight به بازی Halo: Campaign Evolved اضافه می‌شود",
+    "summary": "زمستان امسال برای تجربه دوباره محبوب‌ترین حالت مولتی‌پلیر فرنچایز",
+    "link": "https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode"
+   },
+   "ts": 1794555861
   }
  }
 }
