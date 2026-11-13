@@ -176,7 +176,10 @@
   "https://vigiato.net/r/the-witcher-4-is-going-to-be-an-unforgettable-experience-thats-true-to-the-core-of-the-witcher-narrative-lead-says-as-the-rpg-wins-a-most-wanted-award",
   "https://vigiato.net/r/take-two-ceo-says-physical-games-still-have-a-future",
   "https://vigiato.net/r/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
-  "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed"
+  "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed",
+  "https://www.zoomg.ir/game-news/420185-gta-vi-budget-burj-khalifa-comparison/",
+  "https://vigiato.net/r/mike-myers-shrek-spinoff-donkey-austin-powers",
+  "https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing"
  ],
  "pending": {
   "0bffaf68": {
@@ -1762,6 +1765,33 @@
     "link": "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed"
    },
    "ts": 1794588158
+  },
+  "59d4b70d": {
+   "text": "🎮 هزینه ساخت GTA 6 بیش‌تر است یا برج خلیفه؟\n\nبودجه توسعه بازی GTA 6 کمی کمتر از هزینه ۱٫۵ میلیارد دلاری ساخت برج خلیفه دبی اعلام شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420185-gta-vi-budget-burj-khalifa-comparison/",
+   "item": {
+    "title": "هزینه ساخت GTA 6 بیش‌تر است یا برج خلیفه؟",
+    "summary": "بودجه توسعه بازی GTA 6 کمی کمتر از هزینه ۱٫۵ میلیارد دلاری ساخت برج خلیفه دبی اعلام شد.",
+    "link": "https://www.zoomg.ir/game-news/420185-gta-vi-budget-burj-khalifa-comparison/"
+   },
+   "ts": 1794591149
+  },
+  "50304cc0": {
+   "text": "🎮 صداپیشه شرک از احتمال حضور این شخصیت در اسپین‌آف دانکی صحبت کرد\n\nبا این حال مایرز با قاطعیت نمی‌تواند درباره این موضوع صحبت کند\n\n🔗 منبع: https://vigiato.net/r/mike-myers-shrek-spinoff-donkey-austin-powers",
+   "item": {
+    "title": "صداپیشه شرک از احتمال حضور این شخصیت در اسپین‌آف دانکی صحبت کرد",
+    "summary": "با این حال مایرز با قاطعیت نمی‌تواند درباره این موضوع صحبت کند",
+    "link": "https://vigiato.net/r/mike-myers-shrek-spinoff-donkey-austin-powers"
+   },
+   "ts": 1794591151
+  },
+  "697e09c7": {
+   "text": "🎮 مدیران سابق نینتندو: سری زلدا پیش از Breath of the Wild رو به افول بود\n\nبه گفته آن‌ها، فروش پایین و کاهش علاقه مخاطبان، نینتندو را به تغییر اساسی فرمول این مجموعه وادار کرد\n\n🔗 منبع: https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing",
+   "item": {
+    "title": "مدیران سابق نینتندو: سری زلدا پیش از Breath of the Wild رو به افول بود",
+    "summary": "به گفته آن‌ها، فروش پایین و کاهش علاقه مخاطبان، نینتندو را به تغییر اساسی فرمول این مجموعه وادار کرد",
+    "link": "https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing"
+   },
+   "ts": 1794591152
   }
  }
 }
