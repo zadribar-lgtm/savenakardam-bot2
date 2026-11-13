@@ -128,7 +128,10 @@
   "https://www.zoomg.ir/cinema-news/420151-take-two-ceo-gta-adaptation/",
   "https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/",
   "https://www.zoomg.ir/game-news/420154-new-fable-gameplay-trailer-reactions/",
-  "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/"
+  "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/",
+  "https://www.zoomg.ir/tech-news/420156-anr-frame-generation-open-beta/",
+  "https://www.zoomg.ir/game-news/420155-stellar-blade-next-gen-xbox/",
+  "https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement"
  ],
  "pending": {
   "0bffaf68": {
@@ -1282,6 +1285,33 @@
     "link": "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/"
    },
    "ts": 1794547705
+  },
+  "0793de59": {
+   "text": "🎮 رقیب DLSS معرفی شد؛ افزایش فریم‌ریت و کیفیت بالاتر حتی روی کارت‌های قدیمی\n\nنسخه‌ی بتای عمومی فناوری ANR برای ارتقای نرخ فریم کارت‌های گرافیک قدیمی و رقابت با DLSS منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420156-anr-frame-generation-open-beta/",
+   "item": {
+    "title": "رقیب DLSS معرفی شد؛ افزایش فریم‌ریت و کیفیت بالاتر حتی روی کارت‌های قدیمی",
+    "summary": "نسخه‌ی بتای عمومی فناوری ANR برای ارتقای نرخ فریم کارت‌های گرافیک قدیمی و رقابت با DLSS منتشر شد.",
+    "link": "https://www.zoomg.ir/tech-news/420156-anr-frame-generation-open-beta/"
+   },
+   "ts": 1794551112
+  },
+  "9463e008": {
+   "text": "🎮 بازی Stellar Blade برای ایکس باکس عرضه می‌شود\n\nاستودیوی کره‌ای شیفت‌آپ برای عرضه‌ی بازی Stellar Blade روی نسل بعدی ایکس باکس با کد رمز هلیکس به مایکروسافت پیشنهاد همکاری داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420155-stellar-blade-next-gen-xbox/",
+   "item": {
+    "title": "بازی Stellar Blade برای ایکس باکس عرضه می‌شود",
+    "summary": "استودیوی کره‌ای شیفت‌آپ برای عرضه‌ی بازی Stellar Blade روی نسل بعدی ایکس باکس با کد رمز هلیکس به مایکروسافت پیشنهاد همکاری داد.",
+    "link": "https://www.zoomg.ir/game-news/420155-stellar-blade-next-gen-xbox/"
+   },
+   "ts": 1794551114
+  },
+  "9de6d279": {
+   "text": "🎮 ایکس‌باکس از قابلیت جدید Playback رونمایی کرد\n\nتاریخچه‌ای از نخستین تجربه گیمینگی شما تا به امروز، پیش چشمانتان\n\n🔗 منبع: https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement",
+   "item": {
+    "title": "ایکس‌باکس از قابلیت جدید Playback رونمایی کرد",
+    "summary": "تاریخچه‌ای از نخستین تجربه گیمینگی شما تا به امروز، پیش چشمانتان",
+    "link": "https://vigiato.net/r/xbox-playback-announced-as-year-in-review-replacement"
+   },
+   "ts": 1794551115
   }
  }
 }
