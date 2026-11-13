@@ -157,7 +157,11 @@
   "https://vigiato.net/r/brad-pitt-to-star-in-connector-from-apple-and-sound-of-metal-director-darius-marder",
   "https://www.zoomg.ir/game-news/420170-football-manager-27-scores/",
   "https://www.zoomg.ir/game-news/420164-rayman-legends-retold-vortex-suit/",
-  "https://vigiato.net/r/arnold-schwarzenegger-confirms-predator-conan-and-commando-sequel-returns"
+  "https://vigiato.net/r/arnold-schwarzenegger-confirms-predator-conan-and-commando-sequel-returns",
+  "https://www.zoomg.ir/cinema-news/420173-tlou-season-3-first-look/",
+  "https://www.zoomg.ir/game-news/420172-gta-6-youtube-livestream-event/",
+  "https://vigiato.net/r/xbox-to-offer-first-party-games-free-with-new-pc-sales",
+  "https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home"
  ],
  "pending": {
   "0bffaf68": {
@@ -1572,6 +1576,42 @@
     "link": "https://vigiato.net/r/arnold-schwarzenegger-confirms-predator-conan-and-commando-sequel-returns"
    },
    "ts": 1794576168
+  },
+  "2fd45b1b": {
+   "text": "🎮 نخستین تصویر از پشت‌صحنه فصل سوم سریال The Last of Us منتشر شد\n\nگابریل لونا با انتشار تصویری تازه از پشت‌صحنه فیلم‌برداری، نخستین نما از فصل سوم و پایانی سریال The Last of Us را به نمایش گذاشت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420173-tlou-season-3-first-look/",
+   "item": {
+    "title": "نخستین تصویر از پشت‌صحنه فصل سوم سریال The Last of Us منتشر شد",
+    "summary": "گابریل لونا با انتشار تصویری تازه از پشت‌صحنه فیلم‌برداری، نخستین نما از فصل سوم و پایانی سریال The Last of Us را به نمایش گذاشت.",
+    "link": "https://www.zoomg.ir/cinema-news/420173-tlou-season-3-first-look/"
+   },
+   "ts": 1794580075
+  },
+  "4d891971": {
+   "text": "🎮 حضور ۱۰ها استریمر مشهور در ماراتن ۲۴ ساعته یوتیوب برای GTA 6\n\nیوتیوب برای جشن انتشار بازی GTA 6 یک پخش زنده شبانه‌روزی با حضور ۱۰ها تولیدکننده محتوا برگزار می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420172-gta-6-youtube-livestream-event/",
+   "item": {
+    "title": "حضور ۱۰ها استریمر مشهور در ماراتن ۲۴ ساعته یوتیوب برای GTA 6",
+    "summary": "یوتیوب برای جشن انتشار بازی GTA 6 یک پخش زنده شبانه‌روزی با حضور ۱۰ها تولیدکننده محتوا برگزار می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420172-gta-6-youtube-livestream-event/"
+   },
+   "ts": 1794580077
+  },
+  "ef02781e": {
+   "text": "🎮 ایکس با هر خرید سیستم ویندوزی جدید ۲۵ بازی به‌رایگان هدیه می‌دهد\n\nبیست و پنج سال همراهی شما بیست و پنج بازی به‌همراه دارد\n\n🔗 منبع: https://vigiato.net/r/xbox-to-offer-first-party-games-free-with-new-pc-sales",
+   "item": {
+    "title": "ایکس با هر خرید سیستم ویندوزی جدید ۲۵ بازی به‌رایگان هدیه می‌دهد",
+    "summary": "بیست و پنج سال همراهی شما بیست و پنج بازی به‌همراه دارد",
+    "link": "https://vigiato.net/r/xbox-to-offer-first-party-games-free-with-new-pc-sales"
+   },
+   "ts": 1794580078
+  },
+  "313a03a5": {
+   "text": "🎮 کیفیت خوب فیلم Heart of the Beast منتشر شد\n\nماجرای کهنه‌سرباز ساکن آلاسکا و سگ وفادارش را با سینمای خانگی تجربه کنید\n\n🔗 منبع: https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home",
+   "item": {
+    "title": "کیفیت خوب فیلم Heart of the Beast منتشر شد",
+    "summary": "ماجرای کهنه‌سرباز ساکن آلاسکا و سگ وفادارش را با سینمای خانگی تجربه کنید",
+    "link": "https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home"
+   },
+   "ts": 1794580080
   }
  }
 }
