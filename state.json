@@ -139,7 +139,11 @@
   "https://www.zoomg.ir/game-news/420161-xbox-unmistakable-hardware-25th-anniversary/",
   "https://www.zoomg.ir/game-news/420160-gta-6-preload-disrupts-internet/",
   "https://vigiato.net/r/id-software-confirms-next-game-is-in-development",
-  "https://vigiato.net/r/the-game-awards-to-air-on-disney-plus"
+  "https://vigiato.net/r/the-game-awards-to-air-on-disney-plus",
+  "https://www.zoomg.ir/cinema-news/420163-mike-myers-shrek-donkey-spinoff/",
+  "https://www.zoomg.ir/cinema-news/420162-mike-myers-shrek-sequels-future/",
+  "https://vigiato.net/r/wolfenstein-3-officially-confirmed-by-xbox-ceo-asha-sharma",
+  "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers"
  ],
  "pending": {
   "0bffaf68": {
@@ -1392,6 +1396,42 @@
     "link": "https://vigiato.net/r/the-game-awards-to-air-on-disney-plus"
    },
    "ts": 1794559170
+  },
+  "f21b6c1d": {
+   "text": "🎮 ظاهرا شرک در اسپین‌آف Donkey حضور خواهد داشت\n\nمایک مایرز از احتمال حضور خود در فیلم مستقل شخصیت دانکی و نگارش فیلم‌نامه‌ی چهارمین قسمت آستین پاورز سخن گفت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420163-mike-myers-shrek-donkey-spinoff/",
+   "item": {
+    "title": "ظاهرا شرک در اسپین‌آف Donkey حضور خواهد داشت",
+    "summary": "مایک مایرز از احتمال حضور خود در فیلم مستقل شخصیت دانکی و نگارش فیلم‌نامه‌ی چهارمین قسمت آستین پاورز سخن گفت.",
+    "link": "https://www.zoomg.ir/cinema-news/420163-mike-myers-shrek-donkey-spinoff/"
+   },
+   "ts": 1794562428
+  },
+  "0bbeebb4": {
+   "text": "🎮 مایک مایرز از احتمال ساخت دنباله‌های بیشتر شرک خبر داد\n\nمایک مایرز از پتانسیل بالای مجموعه انیمیشن شرک برای ادامه‌ی داستان پس از اکران قسمت پنجم سخن گفت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420162-mike-myers-shrek-sequels-future/",
+   "item": {
+    "title": "مایک مایرز از احتمال ساخت دنباله‌های بیشتر شرک خبر داد",
+    "summary": "مایک مایرز از پتانسیل بالای مجموعه انیمیشن شرک برای ادامه‌ی داستان پس از اکران قسمت پنجم سخن گفت.",
+    "link": "https://www.zoomg.ir/cinema-news/420162-mike-myers-shrek-sequels-future/"
+   },
+   "ts": 1794562430
+  },
+  "05cc0761": {
+   "text": "🎮 توسعه بازی Wolfenstein 3 رسما آغاز شد\n\nکادوی تولد ایکس‌باکس برای سلاخان نازی‌‌های مدیوم گیم\n\n🔗 منبع: https://vigiato.net/r/wolfenstein-3-officially-confirmed-by-xbox-ceo-asha-sharma",
+   "item": {
+    "title": "توسعه بازی Wolfenstein 3 رسما آغاز شد",
+    "summary": "کادوی تولد ایکس‌باکس برای سلاخان نازی‌‌های مدیوم گیم",
+    "link": "https://vigiato.net/r/wolfenstein-3-officially-confirmed-by-xbox-ceo-asha-sharma"
+   },
+   "ts": 1794562431
+  },
+  "79bf3445": {
+   "text": "🎮 نام رایان رینولدز و هیو جکمن در فهرست نویسندگان فیلم اونجرز دوومزدی دیده شده است\n\nولورین و ددپول برای شکار دکتر دووم\n\n🔗 منبع: https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers",
+   "item": {
+    "title": "نام رایان رینولدز و هیو جکمن در فهرست نویسندگان فیلم اونجرز دوومزدی دیده شده است",
+    "summary": "ولورین و ددپول برای شکار دکتر دووم",
+    "link": "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers"
+   },
+   "ts": 1794562432
   }
  }
 }
