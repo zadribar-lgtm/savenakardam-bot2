@@ -179,7 +179,12 @@
   "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed",
   "https://www.zoomg.ir/game-news/420185-gta-vi-budget-burj-khalifa-comparison/",
   "https://vigiato.net/r/mike-myers-shrek-spinoff-donkey-austin-powers",
-  "https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing"
+  "https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing",
+  "https://www.zoomg.ir/hardware-news/420180-nvidia-geforce-ai-production-hurdles/",
+  "https://www.zoomg.ir/cinema-articles/420011-15-female-villains-cinema-history/",
+  "https://vigiato.net/r/god-of-war-sons-of-sparta-launches-on-ps4-console",
+  "https://vigiato.net/r/resident-evil-7-mobile-game-review",
+  "https://vigiato.net/r/gta-6-can-run-at-60-fps-on-ps5-pro-but"
  ],
  "pending": {
   "0bffaf68": {
@@ -1792,6 +1797,51 @@
     "link": "https://vigiato.net/r/the-legend-of-zelda-was-in-dire-straits-before-breath-of-the-wild-former-nintendo-marketing-leads-say-they-were-selling-like-nothing"
    },
    "ts": 1794591152
+  },
+  "b303526c": {
+   "text": "🎮 چرا انویدیا نمی‌تواند کارت گرافیک گیمینگ بیشتری بسازد؟\n\nتفاوت‌های ساختاری در خط تولید و زنجیره تامین حافظه مانع افزایش سریع تولید پردازنده‌های گرافیکی گیمینگ انویدیا شده است.\n\n🔗 منبع: https://www.zoomg.ir/hardware-news/420180-nvidia-geforce-ai-production-hurdles/",
+   "item": {
+    "title": "چرا انویدیا نمی‌تواند کارت گرافیک گیمینگ بیشتری بسازد؟",
+    "summary": "تفاوت‌های ساختاری در خط تولید و زنجیره تامین حافظه مانع افزایش سریع تولید پردازنده‌های گرافیکی گیمینگ انویدیا شده است.",
+    "link": "https://www.zoomg.ir/hardware-news/420180-nvidia-geforce-ai-production-hurdles/"
+   },
+   "ts": 1794593998
+  },
+  "f0a0c2f7": {
+   "text": "🎮 ۱۵ زن شرور تاریخ سینما | کالبدی از شرارت زنانه\n\nدر این مقاله به معرفی و بررسی ۱۵ شخصیت زن شرور سینمایی پرداخته‌ایم. با این مقاله همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/cinema-articles/420011-15-female-villains-cinema-history/",
+   "item": {
+    "title": "۱۵ زن شرور تاریخ سینما | کالبدی از شرارت زنانه",
+    "summary": "در این مقاله به معرفی و بررسی ۱۵ شخصیت زن شرور سینمایی پرداخته‌ایم. با این مقاله همراه زومجی باشید.",
+    "link": "https://www.zoomg.ir/cinema-articles/420011-15-female-villains-cinema-history/"
+   },
+   "ts": 1794593999
+  },
+  "49d487da": {
+   "text": "🎮 تاریخ انتشار بازی God of War: Sons of Sparta برای پلی‌استیشن ۴ اعلام شد\n\nهمراه با دو حالت جدید\n\n🔗 منبع: https://vigiato.net/r/god-of-war-sons-of-sparta-launches-on-ps4-console",
+   "item": {
+    "title": "تاریخ انتشار بازی God of War: Sons of Sparta برای پلی‌استیشن ۴ اعلام شد",
+    "summary": "همراه با دو حالت جدید",
+    "link": "https://vigiato.net/r/god-of-war-sons-of-sparta-launches-on-ps4-console"
+   },
+   "ts": 1794594003
+  },
+  "4b0932a8": {
+   "text": "🎮 بررسی نسخه iOS بازی Resident Evil 7 – کابوس خانواده بیکر\n\nاگر علاقه‌مند به تجربه بازی‌های ترسناک موبایلی هستید، در این مطلب با بررسی بازی موبایلی Resident Evil 7 همراه ویجیاتو باشید.\n\n🔗 منبع: https://vigiato.net/r/resident-evil-7-mobile-game-review",
+   "item": {
+    "title": "بررسی نسخه iOS بازی Resident Evil 7 – کابوس خانواده بیکر",
+    "summary": "اگر علاقه‌مند به تجربه بازی‌های ترسناک موبایلی هستید، در این مطلب با بررسی بازی موبایلی Resident Evil 7 همراه ویجیاتو باشید.",
+    "link": "https://vigiato.net/r/resident-evil-7-mobile-game-review"
+   },
+   "ts": 1794594004
+  },
+  "d853b2b4": {
+   "text": "🎮 راکستار امکان اجرای ۶۰ فریمی GTA 6 روی PS5 Pro را داشته است\n\nمنتهی این نسخه نه ماشین زیادی داشت، نه شخصیت زیادی\n\n🔗 منبع: https://vigiato.net/r/gta-6-can-run-at-60-fps-on-ps5-pro-but",
+   "item": {
+    "title": "راکستار امکان اجرای ۶۰ فریمی GTA 6 روی PS5 Pro را داشته است",
+    "summary": "منتهی این نسخه نه ماشین زیادی داشت، نه شخصیت زیادی",
+    "link": "https://vigiato.net/r/gta-6-can-run-at-60-fps-on-ps5-pro-but"
+   },
+   "ts": 1794594006
   }
  }
 }
