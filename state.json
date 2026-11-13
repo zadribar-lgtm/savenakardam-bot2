@@ -188,7 +188,9 @@
   "https://www.zoomg.ir/game-news/420182-zelda-dire-straits-before-botw/",
   "https://www.zoomg.ir/game-news/420181-fortnite-captain-x-identity-reveal/",
   "https://vigiato.net/r/the-game-awards-2026-nominees-announced-before-gta-6-critics",
-  "https://vigiato.net/r/robert-pattinson-leading-now-to-become-the-next-007-star"
+  "https://vigiato.net/r/robert-pattinson-leading-now-to-become-the-next-007-star",
+  "https://www.zoomg.ir/game-news/420178-ps5-qssr-upscaling-expansion/",
+  "https://www.zoomg.ir/game-news/420183-take-two-rejects-buyout-gta-6/"
  ],
  "pending": {
   "0bffaf68": {
@@ -1882,6 +1884,24 @@
     "link": "https://vigiato.net/r/robert-pattinson-leading-now-to-become-the-next-007-star"
    },
    "ts": 1794597477
+  },
+  "d2a39aed": {
+   "text": "🎮 فناوری QSSR به بازی‌های بیشتری روی کنسول پلی استیشن ۵ می‌آید\n\nسونی قابلیت هوش مصنوعی QSSR را به بازی‌های بیشتری اضافه می‌کند تا کاربران کنسول استاندارد بدون خرید PS5 Pro تصاویری باکیفیت‌تر تجربه کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420178-ps5-qssr-upscaling-expansion/",
+   "item": {
+    "title": "فناوری QSSR به بازی‌های بیشتری روی کنسول پلی استیشن ۵ می‌آید",
+    "summary": "سونی قابلیت هوش مصنوعی QSSR را به بازی‌های بیشتری اضافه می‌کند تا کاربران کنسول استاندارد بدون خرید PS5 Pro تصاویری باکیفیت‌تر تجربه کنند.",
+    "link": "https://www.zoomg.ir/game-news/420178-ps5-qssr-upscaling-expansion/"
+   },
+   "ts": 1794600484
+  },
+  "13d8e718": {
+   "text": "🎮 رد پیشنهاد ۵۵ میلیارد دلاری؛ ناشر جی‌تی‌ای فروخته نمی‌شود\n\nمدیرعامل تیک-تو با تکیه بر درآمدهای سرشار و رکوردشکنی‌های تاریخی GTA، هرگونه تمایل برای فروش شرکت را رد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420183-take-two-rejects-buyout-gta-6/",
+   "item": {
+    "title": "رد پیشنهاد ۵۵ میلیارد دلاری؛ ناشر جی‌تی‌ای فروخته نمی‌شود",
+    "summary": "مدیرعامل تیک-تو با تکیه بر درآمدهای سرشار و رکوردشکنی‌های تاریخی GTA، هرگونه تمایل برای فروش شرکت را رد کرد.",
+    "link": "https://www.zoomg.ir/game-news/420183-take-two-rejects-buyout-gta-6/"
+   },
+   "ts": 1794600485
   }
  }
 }
