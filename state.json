@@ -143,7 +143,10 @@
   "https://www.zoomg.ir/cinema-news/420163-mike-myers-shrek-donkey-spinoff/",
   "https://www.zoomg.ir/cinema-news/420162-mike-myers-shrek-sequels-future/",
   "https://vigiato.net/r/wolfenstein-3-officially-confirmed-by-xbox-ceo-asha-sharma",
-  "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers"
+  "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers",
+  "https://www.zoomg.ir/game-news/420169-gta-6-review-embargo-date/",
+  "https://www.zoomg.ir/game-news/420171-microsoft-global-outage-impacts-xbox/",
+  "https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed"
  ],
  "pending": {
   "0bffaf68": {
@@ -1432,6 +1435,33 @@
     "link": "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers"
    },
    "ts": 1794562432
+  },
+  "20abdd67": {
+   "text": "🎮 ساعت دقیق انتشار نمره‌های بازی GTA 6 اعلام شد\n\nزمان دقیق برداشته شدن محدودیت انتشار نقدها و نمرات بازی موردانتظار GTA 6 به وقت تهران مشخص شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420169-gta-6-review-embargo-date/",
+   "item": {
+    "title": "ساعت دقیق انتشار نمره‌های بازی GTA 6 اعلام شد",
+    "summary": "زمان دقیق برداشته شدن محدودیت انتشار نقدها و نمرات بازی موردانتظار GTA 6 به وقت تهران مشخص شد.",
+    "link": "https://www.zoomg.ir/game-news/420169-gta-6-review-embargo-date/"
+   },
+   "ts": 1794565815
+  },
+  "aa880a13": {
+   "text": "🎮 اختلال جهانی سرویس‌های مایکروسافت عملکرد ایکس باکس را مختل کرد\n\nاختلال گسترده در زیرساخت‌های ابری مایکروسافت، دسترسی بازیکنان سراسر جهان به بازی‌های دیجیتال و سرورهای ابری ایکس باکس را مسدود کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420171-microsoft-global-outage-impacts-xbox/",
+   "item": {
+    "title": "اختلال جهانی سرویس‌های مایکروسافت عملکرد ایکس باکس را مختل کرد",
+    "summary": "اختلال گسترده در زیرساخت‌های ابری مایکروسافت، دسترسی بازیکنان سراسر جهان به بازی‌های دیجیتال و سرورهای ابری ایکس باکس را مسدود کرد.",
+    "link": "https://www.zoomg.ir/game-news/420171-microsoft-global-outage-impacts-xbox/"
+   },
+   "ts": 1794565816
+  },
+  "a49b9499": {
+   "text": "🎮 نینتندو جزییات تخفیف‌های بلک فرایدی ۲۰۲۶ را اعلام کرد\n\nاز باندل‌های ماریویی تا اشتراک نینتندو آنلاین\n\n🔗 منبع: https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed",
+   "item": {
+    "title": "نینتندو جزییات تخفیف‌های بلک فرایدی ۲۰۲۶ را اعلام کرد",
+    "summary": "از باندل‌های ماریویی تا اشتراک نینتندو آنلاین",
+    "link": "https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed"
+   },
+   "ts": 1794565818
   }
  }
 }
