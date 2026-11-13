@@ -169,7 +169,14 @@
   "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027",
   "https://www.zoomg.ir/game-news/420176-the-witcher-4-release-hint/",
   "https://vigiato.net/r/in-3-game-industry-workers-have-been-laid-off",
-  "https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years"
+  "https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years",
+  "https://www.zoomg.ir/game-news/420184-god-of-war-sons-of-sparta-update/",
+  "https://www.zoomg.ir/game-news/420177-horizon-steel-frontiers-development-update/",
+  "https://vigiato.net/r/1tb-vs-2tb-gaming-ssd",
+  "https://vigiato.net/r/the-witcher-4-is-going-to-be-an-unforgettable-experience-thats-true-to-the-core-of-the-witcher-narrative-lead-says-as-the-rpg-wins-a-most-wanted-award",
+  "https://vigiato.net/r/take-two-ceo-says-physical-games-still-have-a-future",
+  "https://vigiato.net/r/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+  "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed"
  ],
  "pending": {
   "0bffaf68": {
@@ -1692,6 +1699,69 @@
     "link": "https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years"
    },
    "ts": 1794585463
+  },
+  "74d21171": {
+   "text": "🎮 بازی God of War: Sons of Sparta رسما برای پلی استیشن ۴ تایید شد\n\nبازی God of War: Sons of Sparta در تاریخ ۱۶ نوامبر برای پلی‌استیشن ۴ منتشر می‌شود و دو حالت چالش‌برانگیز دریافت می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420184-god-of-war-sons-of-sparta-update/",
+   "item": {
+    "title": "بازی God of War: Sons of Sparta رسما برای پلی استیشن ۴ تایید شد",
+    "summary": "بازی God of War: Sons of Sparta در تاریخ ۱۶ نوامبر برای پلی‌استیشن ۴ منتشر می‌شود و دو حالت چالش‌برانگیز دریافت می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420184-god-of-war-sons-of-sparta-update/"
+   },
+   "ts": 1794588149
+  },
+  "885c763d": {
+   "text": "🎮 بازی آنلاین Horizon Steel Frontiers مراحل پایانی توسعه را سپری می‌کند\n\nبازی نقش‌آفرینی چندنفره Horizon Steel Frontiers با همکاری سونی و گوریلا گیمز به پایان مراحل توسعه نزدیک شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420177-horizon-steel-frontiers-development-update/",
+   "item": {
+    "title": "بازی آنلاین Horizon Steel Frontiers مراحل پایانی توسعه را سپری می‌کند",
+    "summary": "بازی نقش‌آفرینی چندنفره Horizon Steel Frontiers با همکاری سونی و گوریلا گیمز به پایان مراحل توسعه نزدیک شده است.",
+    "link": "https://www.zoomg.ir/game-news/420177-horizon-steel-frontiers-development-update/"
+   },
+   "ts": 1794588151
+  },
+  "8add0ce3": {
+   "text": "🎮 چقدر SSD برای یک سیستم گیمینگ کافی است؛ ۱ ترابایت یا ۲ ترابایت؟\n\nچه زمانی SSD یک ترابایتی کافی است؟\n\n🔗 منبع: https://vigiato.net/r/1tb-vs-2tb-gaming-ssd",
+   "item": {
+    "title": "چقدر SSD برای یک سیستم گیمینگ کافی است؛ ۱ ترابایت یا ۲ ترابایت؟",
+    "summary": "چه زمانی SSD یک ترابایتی کافی است؟",
+    "link": "https://vigiato.net/r/1tb-vs-2tb-gaming-ssd"
+   },
+   "ts": 1794588152
+  },
+  "c7d54ba7": {
+   "text": "🎮 بازی ویچر ۴ جایزه موردانتظارترین بازی Golden Joystick را دریافت کرد\n\nکارگردان روایی بازی وعده تجربه‌ای وفادار به هویت اصلی مجموعه را داده\n\n🔗 منبع: https://vigiato.net/r/the-witcher-4-is-going-to-be-an-unforgettable-experience-thats-true-to-the-core-of-the-witcher-narrative-lead-says-as-the-rpg-wins-a-most-wanted-award",
+   "item": {
+    "title": "بازی ویچر ۴ جایزه موردانتظارترین بازی Golden Joystick را دریافت کرد",
+    "summary": "کارگردان روایی بازی وعده تجربه‌ای وفادار به هویت اصلی مجموعه را داده",
+    "link": "https://vigiato.net/r/the-witcher-4-is-going-to-be-an-unforgettable-experience-thats-true-to-the-core-of-the-witcher-narrative-lead-says-as-the-rpg-wins-a-most-wanted-award"
+   },
+   "ts": 1794588154
+  },
+  "f0a27d78": {
+   "text": "🎮 زلنیک معتقد است بازار دیسک‌های گیم هراندازه کوچک شود به‌طور کامل از میان نمی‌رود\n\nمحدود مثل کسانی که با صفحه گرامافون موسیقی می‌شنوند\n\n🔗 منبع: https://vigiato.net/r/take-two-ceo-says-physical-games-still-have-a-future",
+   "item": {
+    "title": "زلنیک معتقد است بازار دیسک‌های گیم هراندازه کوچک شود به‌طور کامل از میان نمی‌رود",
+    "summary": "محدود مثل کسانی که با صفحه گرامافون موسیقی می‌شنوند",
+    "link": "https://vigiato.net/r/take-two-ceo-says-physical-games-still-have-a-future"
+   },
+   "ts": 1794588155
+  },
+  "8fbeeb19": {
+   "text": "🎮 آمار توسعه‌‌دهندگان عناوین نسل آینده گیم در برابر استفاده از AI هیچ به‌نظر می‌رسد\n\nگزارش سال «جی‌دی‌سی» آینه اوضاعی است که روزانه از آن نوشته‌ایم\n\n🔗 منبع: https://vigiato.net/r/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+   "item": {
+    "title": "آمار توسعه‌‌دهندگان عناوین نسل آینده گیم در برابر استفاده از AI هیچ به‌نظر می‌رسد",
+    "summary": "گزارش سال «جی‌دی‌سی» آینه اوضاعی است که روزانه از آن نوشته‌ایم",
+    "link": "https://vigiato.net/r/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey"
+   },
+   "ts": 1794588157
+  },
+  "ee73f06d": {
+   "text": "🎮 رایان رینولدز به خبر نویسندگی در Avengers: Doomsday واکنش نشان داد\n\nنام بازیگر ددپول در فهرست نویسندگان فیلم جدید Avengers ثبت شده\n\n🔗 منبع: https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed",
+   "item": {
+    "title": "رایان رینولدز به خبر نویسندگی در Avengers: Doomsday واکنش نشان داد",
+    "summary": "نام بازیگر ددپول در فهرست نویسندگان فیلم جدید Avengers ثبت شده",
+    "link": "https://vigiato.net/r/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed"
+   },
+   "ts": 1794588158
   }
  }
 }
