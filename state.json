@@ -150,7 +150,11 @@
   "https://www.zoomg.ir/game-news/420166-doom-dark-ages-slaughter-mode/",
   "https://www.zoomg.ir/game-news/420165-tarkov-console-version-announcement-2027/",
   "https://vigiato.net/r/take-two-ceo-comments-on-potential-gta-movie-or-tv-show",
-  "https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios"
+  "https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios",
+  "https://www.zoomg.ir/game-news/420168-xbox-ad-supported-cloud-gaming/",
+  "https://www.zoomg.ir/game-news/420167-xbox-series-sales-38-million/",
+  "https://vigiato.net/r/avengers-doomsday-will-finally-deliver-a-doctor-doom-worth-being-scared-of",
+  "https://vigiato.net/r/brad-pitt-to-star-in-connector-from-apple-and-sound-of-metal-director-darius-marder"
  ],
  "pending": {
   "0bffaf68": {
@@ -1502,6 +1506,42 @@
     "link": "https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios"
    },
    "ts": 1794569079
+  },
+  "f52f608e": {
+   "text": "🎮 سرویس جدید ایکس باکس: ۳ دقیقه تبلیغ ببینید و ۳۰ دقیقه رایگان بازی کنید\n\nمایکروسافت برای دسترسی رایگان به سرویس ابری ایکس باکس، تماشای سه دقیقه تبلیغ غیرقابل رد شدن را پیش از هر نشست ۳۰ دقیقه‌ای الزامی کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420168-xbox-ad-supported-cloud-gaming/",
+   "item": {
+    "title": "سرویس جدید ایکس باکس: ۳ دقیقه تبلیغ ببینید و ۳۰ دقیقه رایگان بازی کنید",
+    "summary": "مایکروسافت برای دسترسی رایگان به سرویس ابری ایکس باکس، تماشای سه دقیقه تبلیغ غیرقابل رد شدن را پیش از هر نشست ۳۰ دقیقه‌ای الزامی کرد.",
+    "link": "https://www.zoomg.ir/game-news/420168-xbox-ad-supported-cloud-gaming/"
+   },
+   "ts": 1794572101
+  },
+  "e83e7642": {
+   "text": "🎮 فروش کنسول‌های ایکس باکس سری از مرز ۳۸ میلیون گذشت\n\nکنسول‌های ایکس‌باکس سری ایکس و اس با گذر از ۳۸ میلیون دستگاه، همچنان از رکوردهای نسل‌های قبلی عقب‌تر هستند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420167-xbox-series-sales-38-million/",
+   "item": {
+    "title": "فروش کنسول‌های ایکس باکس سری از مرز ۳۸ میلیون گذشت",
+    "summary": "کنسول‌های ایکس‌باکس سری ایکس و اس با گذر از ۳۸ میلیون دستگاه، همچنان از رکوردهای نسل‌های قبلی عقب‌تر هستند.",
+    "link": "https://www.zoomg.ir/game-news/420167-xbox-series-sales-38-million/"
+   },
+   "ts": 1794572106
+  },
+  "d5760831": {
+   "text": "🎮 دکتر دووم نسخه «اونجرز دومزدی» از شرورترین و تاریک‌ترین‌های سینمای مارول است\n\nاگر تانوس را با ویکتور ورنر ‌هم‌پیاله می‌دانید بهتر است تجدید نظر کنید\n\n🔗 منبع: https://vigiato.net/r/avengers-doomsday-will-finally-deliver-a-doctor-doom-worth-being-scared-of",
+   "item": {
+    "title": "دکتر دووم نسخه «اونجرز دومزدی» از شرورترین و تاریک‌ترین‌های سینمای مارول است",
+    "summary": "اگر تانوس را با ویکتور ورنر ‌هم‌پیاله می‌دانید بهتر است تجدید نظر کنید",
+    "link": "https://vigiato.net/r/avengers-doomsday-will-finally-deliver-a-doctor-doom-worth-being-scared-of"
+   },
+   "ts": 1794572107
+  },
+  "e8ab1205": {
+   "text": "🎮 حضور برد پیت برای فیلم Connector تایید شد\n\nبه کارگردانی داریوس مارد، تهیه‌کنندگی خودش و حمایت اپل\n\n🔗 منبع: https://vigiato.net/r/brad-pitt-to-star-in-connector-from-apple-and-sound-of-metal-director-darius-marder",
+   "item": {
+    "title": "حضور برد پیت برای فیلم Connector تایید شد",
+    "summary": "به کارگردانی داریوس مارد، تهیه‌کنندگی خودش و حمایت اپل",
+    "link": "https://vigiato.net/r/brad-pitt-to-star-in-connector-from-apple-and-sound-of-metal-director-darius-marder"
+   },
+   "ts": 1794572108
   }
  }
 }
