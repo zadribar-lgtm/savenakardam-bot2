@@ -146,7 +146,11 @@
   "https://vigiato.net/r/avengers-doomsday-lists-ryan-reynolds-and-hugh-jackman-among-10-writers",
   "https://www.zoomg.ir/game-news/420169-gta-6-review-embargo-date/",
   "https://www.zoomg.ir/game-news/420171-microsoft-global-outage-impacts-xbox/",
-  "https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed"
+  "https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed",
+  "https://www.zoomg.ir/game-news/420166-doom-dark-ages-slaughter-mode/",
+  "https://www.zoomg.ir/game-news/420165-tarkov-console-version-announcement-2027/",
+  "https://vigiato.net/r/take-two-ceo-comments-on-potential-gta-movie-or-tv-show",
+  "https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios"
  ],
  "pending": {
   "0bffaf68": {
@@ -1462,6 +1466,42 @@
     "link": "https://vigiato.net/r/nintendo-black-friday-2026-deals-revealed"
    },
    "ts": 1794565818
+  },
+  "fb0b6d47": {
+   "text": "🎮 حالت کشتار بی‌پایان به DOOM: The Dark Ages می‌آید\n\nبتسدا و استودیوی اید سافتور از انتشار حالت بی‌پایان کشتار برای DOOM: The Dark Ages تا پایان ماه نوامبر خبر دادند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420166-doom-dark-ages-slaughter-mode/",
+   "item": {
+    "title": "حالت کشتار بی‌پایان به DOOM: The Dark Ages می‌آید",
+    "summary": "بتسدا و استودیوی اید سافتور از انتشار حالت بی‌پایان کشتار برای DOOM: The Dark Ages تا پایان ماه نوامبر خبر دادند.",
+    "link": "https://www.zoomg.ir/game-news/420166-doom-dark-ages-slaughter-mode/"
+   },
+   "ts": 1794569073
+  },
+  "be8862d8": {
+   "text": "🎮 زمان معرفی نسخه کنسولی Escape from Tarkov مشخص شد\n\nاستودیوی بتل‌استیت گیمز رونمایی رسمی از نسخه‌ی کنسولی بازی شوتر بقامحور Escape from Tarkov را به سال ۲۰۲۷ موکول کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420165-tarkov-console-version-announcement-2027/",
+   "item": {
+    "title": "زمان معرفی نسخه کنسولی Escape from Tarkov مشخص شد",
+    "summary": "استودیوی بتل‌استیت گیمز رونمایی رسمی از نسخه‌ی کنسولی بازی شوتر بقامحور Escape from Tarkov را به سال ۲۰۲۷ موکول کرد.",
+    "link": "https://www.zoomg.ir/game-news/420165-tarkov-console-version-announcement-2027/"
+   },
+   "ts": 1794569075
+  },
+  "8ba68969": {
+   "text": "🎮 زلنیک احتمال اقتباس سینمایی GTA را تنها با رعایت ایده‌آل‌گرایی راکستار ممکن می‌بیند\n\nراکستار پیکچرز تقدیم می‌کند\n\n🔗 منبع: https://vigiato.net/r/take-two-ceo-comments-on-potential-gta-movie-or-tv-show",
+   "item": {
+    "title": "زلنیک احتمال اقتباس سینمایی GTA را تنها با رعایت ایده‌آل‌گرایی راکستار ممکن می‌بیند",
+    "summary": "راکستار پیکچرز تقدیم می‌کند",
+    "link": "https://vigiato.net/r/take-two-ceo-comments-on-potential-gta-movie-or-tv-show"
+   },
+   "ts": 1794569076
+  },
+  "4d504432": {
+   "text": "🎮 بهترین بازی های آیفون و iOS | معرفی ۳۵ بازی آنلاین و آفلاین\n\nاین روزها مهمان این بازی‌ها باشید\n\n🔗 منبع: https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios",
+   "item": {
+    "title": "بهترین بازی های آیفون و iOS | معرفی ۳۵ بازی آنلاین و آفلاین",
+    "summary": "این روزها مهمان این بازی‌ها باشید",
+    "link": "https://vigiato.net/r/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%b2%db%8c-%d9%87%d8%a7%db%8c-%d8%a2%db%8c%d9%81%d9%88%d9%86-%d9%88-ios"
+   },
+   "ts": 1794569079
   }
  }
 }
