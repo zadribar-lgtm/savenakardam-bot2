@@ -126,7 +126,9 @@
   "https://www.zoomg.ir/cinema-news/420148-arnold-schwarzenegger-sequels-return-confirmed/",
   "https://www.zoomg.ir/cinema-news/420149-ebenezer-scores/",
   "https://www.zoomg.ir/cinema-news/420151-take-two-ceo-gta-adaptation/",
-  "https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/"
+  "https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/",
+  "https://www.zoomg.ir/game-news/420154-new-fable-gameplay-trailer-reactions/",
+  "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/"
  ],
  "pending": {
   "0bffaf68": {
@@ -1262,6 +1264,24 @@
     "link": "https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/"
    },
    "ts": 1794544222
+  },
+  "075e7aca": {
+   "text": "🎮 انتشار ویدیو گیم‌پلی جدید Fable به‌مناسبت ۲۵ سالگی ایکس باکس\n\nمایکروسافت تریلر گیم‌پلی چهار دقیقه‌ای جدیدی از بازی Fable منتشر کرد که فضایی تاریک‌تر و متفاوت با ریشه‌های کلاسیک این مجموعه دارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420154-new-fable-gameplay-trailer-reactions/",
+   "item": {
+    "title": "انتشار ویدیو گیم‌پلی جدید Fable به‌مناسبت ۲۵ سالگی ایکس باکس",
+    "summary": "مایکروسافت تریلر گیم‌پلی چهار دقیقه‌ای جدیدی از بازی Fable منتشر کرد که فضایی تاریک‌تر و متفاوت با ریشه‌های کلاسیک این مجموعه دارد.",
+    "link": "https://www.zoomg.ir/game-news/420154-new-fable-gameplay-trailer-reactions/"
+   },
+   "ts": 1794547704
+  },
+  "f1cbc468": {
+   "text": "🎮 فیلم‌برداری فیلم The Hunt for Gollum به پایان رسید\n\nمرحله فیلم‌برداری اصلی اثر سینمایی The Hunt for Gollum با هدایت و نقش‌آفرینی اندی سرکیس به پایان رسید.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/",
+   "item": {
+    "title": "فیلم‌برداری فیلم The Hunt for Gollum به پایان رسید",
+    "summary": "مرحله فیلم‌برداری اصلی اثر سینمایی The Hunt for Gollum با هدایت و نقش‌آفرینی اندی سرکیس به پایان رسید.",
+    "link": "https://www.zoomg.ir/cinema-news/420153-hunt-for-gollum-wraps-filming/"
+   },
+   "ts": 1794547705
   }
  }
 }
