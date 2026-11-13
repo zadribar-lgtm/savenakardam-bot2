@@ -161,7 +161,12 @@
   "https://www.zoomg.ir/cinema-news/420173-tlou-season-3-first-look/",
   "https://www.zoomg.ir/game-news/420172-gta-6-youtube-livestream-event/",
   "https://vigiato.net/r/xbox-to-offer-first-party-games-free-with-new-pc-sales",
-  "https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home"
+  "https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home",
+  "https://www.zoomg.ir/game-news/420175-baldurs-gate-writer-joins-witcher/",
+  "https://www.zoomg.ir/game-news/420174-gta-6-ps5-pro-framerate/",
+  "https://vigiato.net/r/strauss-zelnick-believes-arrogance-threatens-continued-success",
+  "https://vigiato.net/r/xbox-impacted-by-global-microsoft-outage-as-worldwide-tech-suffers",
+  "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027"
  ],
  "pending": {
   "0bffaf68": {
@@ -1612,6 +1617,51 @@
     "link": "https://vigiato.net/r/removed-from-2200-theaters-brad-pitts-must-watch-survival-thriller-officially-comes-home"
    },
    "ts": 1794580080
+  },
+  "b6667f0e": {
+   "text": "🎮 نویسنده Baldur's Gate 3 به پروژه Sirius سی‌دی پراجکت رد پیوست\n\nنویسنده خط داستانی تحسین‌شده‌ی دارک ارج در بازی Baldur's Gate 3 برای هدایت بخش روایت به پروژه‌ی جدید سی‌دی پراجکت رد ملحق شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420175-baldurs-gate-writer-joins-witcher/",
+   "item": {
+    "title": "نویسنده Baldur's Gate 3 به پروژه Sirius سی‌دی پراجکت رد پیوست",
+    "summary": "نویسنده خط داستانی تحسین‌شده‌ی دارک ارج در بازی Baldur's Gate 3 برای هدایت بخش روایت به پروژه‌ی جدید سی‌دی پراجکت رد ملحق شد.",
+    "link": "https://www.zoomg.ir/game-news/420175-baldurs-gate-writer-joins-witcher/"
+   },
+   "ts": 1794582844
+  },
+  "23a4ac29": {
+   "text": "🎮 راک‌استار موفق شده بود GTA 6 را به‌صورت ۶۰ فریم روی PS5 Pro اجرا کند\n\nتوسعه‌دهندگان راک‌استار فاش کردند که اجرای ۶۰ فریم بازی GTA 6 روی کنسول پلی استیشن فقط با فدا کردن بخش عظیمی از محتوا ممکن بود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420174-gta-6-ps5-pro-framerate/",
+   "item": {
+    "title": "راک‌استار موفق شده بود GTA 6 را به‌صورت ۶۰ فریم روی PS5 Pro اجرا کند",
+    "summary": "توسعه‌دهندگان راک‌استار فاش کردند که اجرای ۶۰ فریم بازی GTA 6 روی کنسول پلی استیشن فقط با فدا کردن بخش عظیمی از محتوا ممکن بود.",
+    "link": "https://www.zoomg.ir/game-news/420174-gta-6-ps5-pro-framerate/"
+   },
+   "ts": 1794582845
+  },
+  "57e99278": {
+   "text": "🎮 زلنیک:‌ رمز موفقیت راکستار و تیک-تو آن است که هیچ‌زمان به موفقیت خود غره نمی‌شویم\n\nغرور دشمن همیشگی موفقیت است\n\n🔗 منبع: https://vigiato.net/r/strauss-zelnick-believes-arrogance-threatens-continued-success",
+   "item": {
+    "title": "زلنیک:‌ رمز موفقیت راکستار و تیک-تو آن است که هیچ‌زمان به موفقیت خود غره نمی‌شویم",
+    "summary": "غرور دشمن همیشگی موفقیت است",
+    "link": "https://vigiato.net/r/strauss-zelnick-believes-arrogance-threatens-continued-success"
+   },
+   "ts": 1794582846
+  },
+  "f709425f": {
+   "text": "🎮 اختلال جهانی مایکروسافت سرویس‌های ایکس باکس را هم از دسترس خارج کرد\n\nکاربران برای ورود به حساب کاربری و اجرای بازی‌های دیجیتالی با مشکل مواجه شده‌اند\n\n🔗 منبع: https://vigiato.net/r/xbox-impacted-by-global-microsoft-outage-as-worldwide-tech-suffers",
+   "item": {
+    "title": "اختلال جهانی مایکروسافت سرویس‌های ایکس باکس را هم از دسترس خارج کرد",
+    "summary": "کاربران برای ورود به حساب کاربری و اجرای بازی‌های دیجیتالی با مشکل مواجه شده‌اند",
+    "link": "https://vigiato.net/r/xbox-impacted-by-global-microsoft-outage-as-worldwide-tech-suffers"
+   },
+   "ts": 1794582849
+  },
+  "1fd34005": {
+   "text": "🎮 پورت کنسولی Escape from Tarkov احتمالا برای سال ۲۰۲۷ آماده شده است\n\n«با شریک تجاری خود تقریبا به نتیجه رسیده‌ایم.»\n\n🔗 منبع: https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027",
+   "item": {
+    "title": "پورت کنسولی Escape from Tarkov احتمالا برای سال ۲۰۲۷ آماده شده است",
+    "summary": "«با شریک تجاری خود تقریبا به نتیجه رسیده‌ایم.»",
+    "link": "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027"
+   },
+   "ts": 1794582850
   }
  }
 }
