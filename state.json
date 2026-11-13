@@ -166,7 +166,10 @@
   "https://www.zoomg.ir/game-news/420174-gta-6-ps5-pro-framerate/",
   "https://vigiato.net/r/strauss-zelnick-believes-arrogance-threatens-continued-success",
   "https://vigiato.net/r/xbox-impacted-by-global-microsoft-outage-as-worldwide-tech-suffers",
-  "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027"
+  "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027",
+  "https://www.zoomg.ir/game-news/420176-the-witcher-4-release-hint/",
+  "https://vigiato.net/r/in-3-game-industry-workers-have-been-laid-off",
+  "https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years"
  ],
  "pending": {
   "0bffaf68": {
@@ -1662,6 +1665,33 @@
     "link": "https://vigiato.net/r/escape-from-tarkovs-console-version-will-be-announced-in-2027"
    },
    "ts": 1794582850
+  },
+  "c37b5663": {
+   "text": "🎮 تاریخ انتشار بازی The Witcher 4 لو رفت؟\n\nآگهی استخدامی تازه سی‌دی پراجکت رد از احتمال انتشار بازی The Witcher 4 در بهار سال ۲۰۲۸ پرده برداشت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420176-the-witcher-4-release-hint/",
+   "item": {
+    "title": "تاریخ انتشار بازی The Witcher 4 لو رفت؟",
+    "summary": "آگهی استخدامی تازه سی‌دی پراجکت رد از احتمال انتشار بازی The Witcher 4 در بهار سال ۲۰۲۸ پرده برداشت.",
+    "link": "https://www.zoomg.ir/game-news/420176-the-witcher-4-release-hint/"
+   },
+   "ts": 1794585460
+  },
+  "1a97aa4b": {
+   "text": "🎮 آمار تعدیل‌ها در صنعت گیم به‌گونه‌ای است که از هر گروه سه‌نفری یک فرد بیکار شده است\n\nمسوولان فروش، روابط عمومی و طراحان هنری و فنی بیشترین آسیب‌ها را دیده‌اند\n\n🔗 منبع: https://vigiato.net/r/in-3-game-industry-workers-have-been-laid-off",
+   "item": {
+    "title": "آمار تعدیل‌ها در صنعت گیم به‌گونه‌ای است که از هر گروه سه‌نفری یک فرد بیکار شده است",
+    "summary": "مسوولان فروش، روابط عمومی و طراحان هنری و فنی بیشترین آسیب‌ها را دیده‌اند",
+    "link": "https://vigiato.net/r/in-3-game-industry-workers-have-been-laid-off"
+   },
+   "ts": 1794585462
+  },
+  "a3028d2e": {
+   "text": "🎮 فیلم جدید Friday the 13th پس از نزدیک به ۲۰ سال ساخته می‌شود\n\nجیسون وورهیز در سیزدهمین قسمت این مجموعه ترسناک بازمی‌گردد\n\n🔗 منبع: https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years",
+   "item": {
+    "title": "فیلم جدید Friday the 13th پس از نزدیک به ۲۰ سال ساخته می‌شود",
+    "summary": "جیسون وورهیز در سیزدهمین قسمت این مجموعه ترسناک بازمی‌گردد",
+    "link": "https://vigiato.net/r/friday-the-13th-is-getting-its-first-new-movie-for-nearly-20-years"
+   },
+   "ts": 1794585463
   }
  }
 }
