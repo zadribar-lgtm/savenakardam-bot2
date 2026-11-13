@@ -135,7 +135,11 @@
   "https://www.zoomg.ir/cinema-news/420159-avengers-doomsday-thor-mcu-future/",
   "https://www.zoomg.ir/cinema-news/420158-dan-trachtenberg-marvel-studios-talks/",
   "https://www.zoomg.ir/cinema-news/420157-michael-john-roberts-animator-dies/",
-  "https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode"
+  "https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode",
+  "https://www.zoomg.ir/game-news/420161-xbox-unmistakable-hardware-25th-anniversary/",
+  "https://www.zoomg.ir/game-news/420160-gta-6-preload-disrupts-internet/",
+  "https://vigiato.net/r/id-software-confirms-next-game-is-in-development",
+  "https://vigiato.net/r/the-game-awards-to-air-on-disney-plus"
  ],
  "pending": {
   "0bffaf68": {
@@ -1352,6 +1356,42 @@
     "link": "https://vigiato.net/r/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode"
    },
    "ts": 1794555861
+  },
+  "2d25a500": {
+   "text": "🎮 آشا شارما: نسل بعدی ایکس باکس هویتی کاملا متمایز خواهد داشت\n\nمایکروسافت در آستانه بیست‌وپنجمین سالگرد کنسول خاطره‌انگیز خود از ساخت نسل بعدی سخت‌افزار بازی با هویتی کاملا متمایز خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420161-xbox-unmistakable-hardware-25th-anniversary/",
+   "item": {
+    "title": "آشا شارما: نسل بعدی ایکس باکس هویتی کاملا متمایز خواهد داشت",
+    "summary": "مایکروسافت در آستانه بیست‌وپنجمین سالگرد کنسول خاطره‌انگیز خود از ساخت نسل بعدی سخت‌افزار بازی با هویتی کاملا متمایز خبر داد.",
+    "link": "https://www.zoomg.ir/game-news/420161-xbox-unmistakable-hardware-25th-anniversary/"
+   },
+   "ts": 1794559166
+  },
+  "5adf1a1e": {
+   "text": "🎮 پری‌لود GTA 6 اینترنت اروپا را مختل کرده است\n\nآغاز پیش‌دانلود بازی GTA 6 به دلیل حجم بالای ۲۰۰ گیگابایت، اختلالات گسترده‌ای در زیرساخت‌های اینترنت قاره اروپا ایجاد کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420160-gta-6-preload-disrupts-internet/",
+   "item": {
+    "title": "پری‌لود GTA 6 اینترنت اروپا را مختل کرده است",
+    "summary": "آغاز پیش‌دانلود بازی GTA 6 به دلیل حجم بالای ۲۰۰ گیگابایت، اختلالات گسترده‌ای در زیرساخت‌های اینترنت قاره اروپا ایجاد کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420160-gta-6-preload-disrupts-internet/"
+   },
+   "ts": 1794559167
+  },
+  "9c0dce34": {
+   "text": "🎮 استودیو id Software به ساحل آرامش رسیده و پروژه جدید رسما آغاز شده است\n\nتیم‌های تگزاس و فرانکفورت با هدایت هوگو مارتین پخت و پز می‌کنند\n\n🔗 منبع: https://vigiato.net/r/id-software-confirms-next-game-is-in-development",
+   "item": {
+    "title": "استودیو id Software به ساحل آرامش رسیده و پروژه جدید رسما آغاز شده است",
+    "summary": "تیم‌های تگزاس و فرانکفورت با هدایت هوگو مارتین پخت و پز می‌کنند",
+    "link": "https://vigiato.net/r/id-software-confirms-next-game-is-in-development"
+   },
+   "ts": 1794559168
+  },
+  "f25202e6": {
+   "text": "🎮 مراسم The Game Awards 2026 از دیزنی پلاس هم پخش خواهد شد\n\nنگران نباشید، یوتوب و توییچ هم سرجای‌ خود هستند\n\n🔗 منبع: https://vigiato.net/r/the-game-awards-to-air-on-disney-plus",
+   "item": {
+    "title": "مراسم The Game Awards 2026 از دیزنی پلاس هم پخش خواهد شد",
+    "summary": "نگران نباشید، یوتوب و توییچ هم سرجای‌ خود هستند",
+    "link": "https://vigiato.net/r/the-game-awards-to-air-on-disney-plus"
+   },
+   "ts": 1794559170
   }
  }
 }
