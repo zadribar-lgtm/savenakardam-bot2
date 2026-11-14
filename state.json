@@ -216,7 +216,9 @@
   "https://www.zoomg.ir/game-news/420195-forza-horizon-6-roadmap-2027/",
   "https://www.zoomg.ir/game-news/420197-witcher-4-narrative-golden-joystick/",
   "https://www.zoomg.ir/game-news/420196-game-awards-2026-roblox-stream/",
-  "https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week"
+  "https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week",
+  "https://www.zoomg.ir/game-news/420198-pearl-abyss-ai-pipeline-future/",
+  "https://vigiato.net/r/skyrim-lead-designer-regrets-how-the-level-cap-worked-in-game"
  ],
  "pending": {
   "0bffaf68": {
@@ -2162,6 +2164,24 @@
     "link": "https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week"
    },
    "ts": 1794654717
+  },
+  "ff61ad71": {
+   "text": "🎮 سازنده Crimson Desert استفاده از هوش مصنوعی در پروژه‌های آینده را تأیید کرد\n\nاستودیوی پرل ابیس در تازه‌ترین گزارش مالی خود اعلام کرد که برای اعتبارسنجی مفاهیم بازی‌های آینده از هوش مصنوعی استفاده می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420198-pearl-abyss-ai-pipeline-future/",
+   "item": {
+    "title": "سازنده Crimson Desert استفاده از هوش مصنوعی در پروژه‌های آینده را تأیید کرد",
+    "summary": "استودیوی پرل ابیس در تازه‌ترین گزارش مالی خود اعلام کرد که برای اعتبارسنجی مفاهیم بازی‌های آینده از هوش مصنوعی استفاده می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420198-pearl-abyss-ai-pipeline-future/"
+   },
+   "ts": 1794656768
+  },
+  "d72aed3f": {
+   "text": "🎮 طراح ارشد Skyrim از سقف ارتقا سطح شخصیت بازی پشیمان است\n\nبازیکنان به شخصیتشان دلبسته می‌شدند و نمی‌خواستند او را برای شخصیت جدیدی رها کنند\n\n🔗 منبع: https://vigiato.net/r/skyrim-lead-designer-regrets-how-the-level-cap-worked-in-game",
+   "item": {
+    "title": "طراح ارشد Skyrim از سقف ارتقا سطح شخصیت بازی پشیمان است",
+    "summary": "بازیکنان به شخصیتشان دلبسته می‌شدند و نمی‌خواستند او را برای شخصیت جدیدی رها کنند",
+    "link": "https://vigiato.net/r/skyrim-lead-designer-regrets-how-the-level-cap-worked-in-game"
+   },
+   "ts": 1794656769
   }
  }
 }
