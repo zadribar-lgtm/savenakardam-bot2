@@ -196,7 +196,9 @@
   "https://vigiato.net/r/zohran-mamdani-nyc-game-jam-right-before-gta-6-release",
   "https://vigiato.net/r/take-two-ceo-says-he-isnt-interested-in-an-ea-style-55-billion-buyout",
   "https://vigiato.net/r/rainbow-six-vegas-3-is-in-development-rumor",
-  "https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/"
+  "https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/",
+  "https://www.zoomg.ir/game-news/420188-gta-6-physical-copies-vulnerability/",
+  "https://www.zoomg.ir/game-news/420187-resident-evil-requiem-grace-ashcroft-future/"
  ],
  "pending": {
   "0bffaf68": {
@@ -1962,6 +1964,24 @@
     "link": "https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/"
    },
    "ts": 1794635862
+  },
+  "278c46b0": {
+   "text": "🎮 مشکل امنیتی در نسخه فیزیکی GTA 6؛ لو رفتن کد دانلود با چراغ قوه!\n\nنسخه‌های فیزیکی GTA 6 به‌دلیل نوع چاپ کد دانلود، بدون باز کردن جعبه در برابر سرقت آسیب‌پذیر هستند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420188-gta-6-physical-copies-vulnerability/",
+   "item": {
+    "title": "مشکل امنیتی در نسخه فیزیکی GTA 6؛ لو رفتن کد دانلود با چراغ قوه!",
+    "summary": "نسخه‌های فیزیکی GTA 6 به‌دلیل نوع چاپ کد دانلود، بدون باز کردن جعبه در برابر سرقت آسیب‌پذیر هستند.",
+    "link": "https://www.zoomg.ir/game-news/420188-gta-6-physical-copies-vulnerability/"
+   },
+   "ts": 1794638594
+  },
+  "4e8bcb7b": {
+   "text": "🎮 امیدواری بازیگر گریس اشکرافت به حضور این شخصیت در آینده رزیدنت اویل\n\nصداپیشه شخصیت گریس اشکرافت از چشم‌انداز احساسی کاراکتر خود و پیوندهای عمیق‌تر با قهرمانان قدیمی مجموعه رزیدنت ایول سخن گفت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420187-resident-evil-requiem-grace-ashcroft-future/",
+   "item": {
+    "title": "امیدواری بازیگر گریس اشکرافت به حضور این شخصیت در آینده رزیدنت اویل",
+    "summary": "صداپیشه شخصیت گریس اشکرافت از چشم‌انداز احساسی کاراکتر خود و پیوندهای عمیق‌تر با قهرمانان قدیمی مجموعه رزیدنت ایول سخن گفت.",
+    "link": "https://www.zoomg.ir/game-news/420187-resident-evil-requiem-grace-ashcroft-future/"
+   },
+   "ts": 1794638596
   }
  }
 }
