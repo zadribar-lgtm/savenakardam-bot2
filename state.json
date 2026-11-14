@@ -231,7 +231,10 @@
   "https://www.zoomg.ir/cinema-news/420209-rezero-season-5-officially-announced/",
   "https://vigiato.net/r/gta-6s-jason-and-lucia-start-the-story-as-small-time-criminals-with-basic-abilities",
   "https://www.zoomg.ir/game-news/420210-developers-preparing-ps6-xbox-helix/",
-  "https://vigiato.net/r/blade-runner-could-get-a-aaa-video-game-say-alcons-co-ceos"
+  "https://vigiato.net/r/blade-runner-could-get-a-aaa-video-game-say-alcons-co-ceos",
+  "https://www.zoomg.ir/game-news/420211-pubg-mobile-flash-lightweight-release/",
+  "https://vigiato.net/r/monitor-overdrive-settings",
+  "https://vigiato.net/r/pubg-mobile-lost-weight-a-mobile-version-for-low-end-smartphones-has-been-released"
  ],
  "pending": {
   "87080afe": {
@@ -2015,6 +2018,33 @@
     "link": "https://vigiato.net/r/blade-runner-could-get-a-aaa-video-game-say-alcons-co-ceos"
    },
    "ts": 1794673478
+  },
+  "86a3395f": {
+   "text": "🎮 نسخه سبک و کم‌حجم PUBG Mobile برای گوشی‌های ضعیف منتشر شد\n\nاستودیوی لول اینفینیت نسخه کم‌حجم و بهینه‌سازی‌شده‌ی PUBG Mobile Flash را برای گوشی‌های هوشمند اقتصادی و میان‌رده منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420211-pubg-mobile-flash-lightweight-release/",
+   "item": {
+    "title": "نسخه سبک و کم‌حجم PUBG Mobile برای گوشی‌های ضعیف منتشر شد",
+    "summary": "استودیوی لول اینفینیت نسخه کم‌حجم و بهینه‌سازی‌شده‌ی PUBG Mobile Flash را برای گوشی‌های هوشمند اقتصادی و میان‌رده منتشر کرد.",
+    "link": "https://www.zoomg.ir/game-news/420211-pubg-mobile-flash-lightweight-release/"
+   },
+   "ts": 1794675615
+  },
+  "0473b1be": {
+   "text": "🎮 Overdrive در مانیتور گیمینگ چیست و چرا زیاد کردن آن همیشه بهتر نیست؟\n\nOverdrive مانیتور چیست؟ بهترین تنظیم برای گیمینگ\n\n🔗 منبع: https://vigiato.net/r/monitor-overdrive-settings",
+   "item": {
+    "title": "Overdrive در مانیتور گیمینگ چیست و چرا زیاد کردن آن همیشه بهتر نیست؟",
+    "summary": "Overdrive مانیتور چیست؟ بهترین تنظیم برای گیمینگ",
+    "link": "https://vigiato.net/r/monitor-overdrive-settings"
+   },
+   "ts": 1794675617
+  },
+  "3158e4d2": {
+   "text": "🎮 نسخه سبک پابجی موبایل برای گوشی‌های ضعیف منتشر شد\n\nحجم این نسخه در اندروید کمتر از یک گیگابایت و در iOS حدود دو گیگابایت است\n\n🔗 منبع: https://vigiato.net/r/pubg-mobile-lost-weight-a-mobile-version-for-low-end-smartphones-has-been-released",
+   "item": {
+    "title": "نسخه سبک پابجی موبایل برای گوشی‌های ضعیف منتشر شد",
+    "summary": "حجم این نسخه در اندروید کمتر از یک گیگابایت و در iOS حدود دو گیگابایت است",
+    "link": "https://vigiato.net/r/pubg-mobile-lost-weight-a-mobile-version-for-low-end-smartphones-has-been-released"
+   },
+   "ts": 1794675618
   }
  }
 }
