@@ -208,7 +208,9 @@
   "https://vigiato.net/r/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers",
   "https://vigiato.net/r/pluribus-season-2-samba-schutte-series-regular",
   "https://vigiato.net/r/netflix-magic-the-gathering-planeswalker-first-look-2027",
-  "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli"
+  "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli",
+  "https://www.zoomg.ir/movie-trailers/420193-netflix-planeswalker-animated-series-announced/",
+  "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/"
  ],
  "pending": {
   "0bffaf68": {
@@ -2082,6 +2084,24 @@
     "link": "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli"
    },
    "ts": 1794644945
+  },
+  "dbd59678": {
+   "text": "🎮 اولین نمایش از انیمیشن Magic: The Gathering شباهت آن به آرکین را نشان می‌دهد\n\nنتفلیکس با رونمایی رسمی از انیمیشن سریالی Planeswalker، اقتباس از بازی رومیزی محبوب را برای پخش در سال ۲۰۲۷ تأیید کرد.\n\n🔗 منبع: https://www.zoomg.ir/movie-trailers/420193-netflix-planeswalker-animated-series-announced/",
+   "item": {
+    "title": "اولین نمایش از انیمیشن Magic: The Gathering شباهت آن به آرکین را نشان می‌دهد",
+    "summary": "نتفلیکس با رونمایی رسمی از انیمیشن سریالی Planeswalker، اقتباس از بازی رومیزی محبوب را برای پخش در سال ۲۰۲۷ تأیید کرد.",
+    "link": "https://www.zoomg.ir/movie-trailers/420193-netflix-planeswalker-animated-series-announced/"
+   },
+   "ts": 1794647765
+  },
+  "933ba0b2": {
+   "text": "🎮 شایعه جذاب: بازی Rainbow Six: Vegas 3 در راه است\n\nظاهرا یوبی‌سافت پس از ۱۸ سال، ساخت نسخه‌ی جدیدی از مجموعه‌ی محبوب Rainbow Six: Vegas را تأیید کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/",
+   "item": {
+    "title": "شایعه جذاب: بازی Rainbow Six: Vegas 3 در راه است",
+    "summary": "ظاهرا یوبی‌سافت پس از ۱۸ سال، ساخت نسخه‌ی جدیدی از مجموعه‌ی محبوب Rainbow Six: Vegas را تأیید کرد.",
+    "link": "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/"
+   },
+   "ts": 1794647766
   }
  }
 }
