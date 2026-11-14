@@ -213,7 +213,10 @@
   "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/",
   "https://www.zoomg.ir/game-news/420194-gta-6-animated-tv-series/",
   "https://vigiato.net/r/nintendo-seeking-to-hire-a-digital-archivist-to-preserve-its-rich-history",
-  "https://www.zoomg.ir/game-news/420195-forza-horizon-6-roadmap-2027/"
+  "https://www.zoomg.ir/game-news/420195-forza-horizon-6-roadmap-2027/",
+  "https://www.zoomg.ir/game-news/420197-witcher-4-narrative-golden-joystick/",
+  "https://www.zoomg.ir/game-news/420196-game-awards-2026-roblox-stream/",
+  "https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week"
  ],
  "pending": {
   "0bffaf68": {
@@ -2132,6 +2135,33 @@
     "link": "https://www.zoomg.ir/game-news/420195-forza-horizon-6-roadmap-2027/"
    },
    "ts": 1794652243
+  },
+  "63f8ce94": {
+   "text": "🎮 بازی ویچر ۴ کاملا به اصالت مجموعه وفادار خواهد بود\n\nتوسعه‌دهندگان بازی The Witcher 4 پس از دریافت جایزه موردانتظارترین اثر، بر وفاداری کامل به ریشه‌های داستانی این مجموعه تأکید کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420197-witcher-4-narrative-golden-joystick/",
+   "item": {
+    "title": "بازی ویچر ۴ کاملا به اصالت مجموعه وفادار خواهد بود",
+    "summary": "توسعه‌دهندگان بازی The Witcher 4 پس از دریافت جایزه موردانتظارترین اثر، بر وفاداری کامل به ریشه‌های داستانی این مجموعه تأکید کردند.",
+    "link": "https://www.zoomg.ir/game-news/420197-witcher-4-narrative-golden-joystick/"
+   },
+   "ts": 1794654714
+  },
+  "e970d34a": {
+   "text": "🎮 گیم اواردز امسال به شکل تعاملی از طریق روبلاکس هم پخش می‌شود\n\nمراسم گیم آواردز ۲۰۲۶ برای نخستین بار با امکان رای‌دهی زنده و دریافت آیتم‌های دیجیتال در پلتفرم روبلاکس پخش می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420196-game-awards-2026-roblox-stream/",
+   "item": {
+    "title": "گیم اواردز امسال به شکل تعاملی از طریق روبلاکس هم پخش می‌شود",
+    "summary": "مراسم گیم آواردز ۲۰۲۶ برای نخستین بار با امکان رای‌دهی زنده و دریافت آیتم‌های دیجیتال در پلتفرم روبلاکس پخش می‌شود.",
+    "link": "https://www.zoomg.ir/game-news/420196-game-awards-2026-roblox-stream/"
+   },
+   "ts": 1794654716
+  },
+  "6fed6d96": {
+   "text": "🎮 حالت نیو گیم پلاس به‌زودی به The Blood of Dawnwalker اضافه می‌شود\n\nدر قالب آپدیت 1.2\n\n🔗 منبع: https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week",
+   "item": {
+    "title": "حالت نیو گیم پلاس به‌زودی به The Blood of Dawnwalker اضافه می‌شود",
+    "summary": "در قالب آپدیت 1.2",
+    "link": "https://vigiato.net/r/the-blood-of-dawnwalker-is-getting-new-game-plus-next-week"
+   },
+   "ts": 1794654717
   }
  }
 }
