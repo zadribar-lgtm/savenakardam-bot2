@@ -239,27 +239,10 @@
   "https://www.zoomg.ir/cinema-news/420213-avengers-doomsday-25-years-marvel/",
   "https://vigiato.net/r/absolum-mobile-game-review",
   "https://www.zoomg.ir/game-news/420215-metaphor-refantazio-invincible-vs-discount/",
-  "https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/"
+  "https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/",
+  "https://www.zoomg.ir/game-articles/420207-world-soccer-league-mobile-game/"
  ],
  "pending": {
-  "3593f954": {
-   "text": "🎮 آنباکسینگ نسخه فیزیکی GTA 6 را تماشا کنید\n\nویدیوهای جعبه‌گشایی نسخه فیزیکی بازی GTA 6 نشان می‌دهند خریداران تنها یک قاب خالی، پوستر و کد دیجیتالی دریافت می‌کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/",
-   "item": {
-    "title": "آنباکسینگ نسخه فیزیکی GTA 6 را تماشا کنید",
-    "summary": "ویدیوهای جعبه‌گشایی نسخه فیزیکی بازی GTA 6 نشان می‌دهند خریداران تنها یک قاب خالی، پوستر و کد دیجیتالی دریافت می‌کنند.",
-    "link": "https://www.zoomg.ir/game-news/420102-gta-6-physical-edition-discless/"
-   },
-   "ts": 1794422643
-  },
-  "58ae8cd1": {
-   "text": "🎮 کارگردان سابق Tekken به انتقاد از ایکس باکس سری اس پرداخت\n\nکاتسوهیرو هارادا و پاول ساسکو در نشستی در سئول از محدودیت‌های فنی کنسول ایکس باکس سری اس انتقاد کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/",
-   "item": {
-    "title": "کارگردان سابق Tekken به انتقاد از ایکس باکس سری اس پرداخت",
-    "summary": "کاتسوهیرو هارادا و پاول ساسکو در نشستی در سئول از محدودیت‌های فنی کنسول ایکس باکس سری اس انتقاد کردند.",
-    "link": "https://www.zoomg.ir/game-news/420101-developers-criticize-xbox-series-s/"
-   },
-   "ts": 1794422645
-  },
   "3492ed71": {
    "text": "🎮 بررسی بازی Annihilated؛ ترکیب روگ‌لایت و ویژوال ناول\n\nبازی Annihilated با ترکیب رمان تصویری و روگ‌لایت، روایتی با چهار قهرمان خاص ارائه می‌دهد اما در ریتم داستان‌گویی و نبردها دچار یکنواختی می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/game-review/420104-annihilated-game-review/",
    "item": {
@@ -2023,6 +2006,15 @@
     "link": "https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/"
    },
    "ts": 1794681298
+  },
+  "e910e8c2": {
+   "text": "🎮 معرفی بازی موبایل World Soccer League | فوتبال ناب و آفلاین\n\nWorld Soccer League تجربه‌ای جذاب و آفلاین از فوتبال را روی گوشی‌های هوشمند ارائه می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420207-world-soccer-league-mobile-game/",
+   "item": {
+    "title": "معرفی بازی موبایل World Soccer League | فوتبال ناب و آفلاین",
+    "summary": "World Soccer League تجربه‌ای جذاب و آفلاین از فوتبال را روی گوشی‌های هوشمند ارائه می‌دهد.",
+    "link": "https://www.zoomg.ir/game-articles/420207-world-soccer-league-mobile-game/"
+   },
+   "ts": 1794684103
   }
  }
 }
