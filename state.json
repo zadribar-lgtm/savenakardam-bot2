@@ -203,7 +203,12 @@
   "https://www.zoomg.ir/game-news/420189-the-game-awards-nominees-announcement/",
   "https://vigiato.net/r/visionquest-finale-3-7-million-views-marvel-record",
   "https://vigiato.net/r/pioner-shutting-down-gfa-games-financial-problems",
-  "https://vigiato.net/r/resident-evil-requiem-grace-ashcroft-never-become-leon"
+  "https://vigiato.net/r/resident-evil-requiem-grace-ashcroft-never-become-leon",
+  "https://www.zoomg.ir/game-news/420191-ps5-hits-100-million-sales/",
+  "https://vigiato.net/r/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers",
+  "https://vigiato.net/r/pluribus-season-2-samba-schutte-series-regular",
+  "https://vigiato.net/r/netflix-magic-the-gathering-planeswalker-first-look-2027",
+  "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli"
  ],
  "pending": {
   "0bffaf68": {
@@ -2032,6 +2037,51 @@
     "link": "https://vigiato.net/r/resident-evil-requiem-grace-ashcroft-never-become-leon"
    },
    "ts": 1794642245
+  },
+  "faa58696": {
+   "text": "🎮 رکورد جالب پلی استیشن ۵ در فروش ۱۰۰ میلیونی\n\nکنسول PS5 سونی با عبور از مرز فروش ۱۰۰ میلیون دستگاه، نخستین محصول تاریخ این شرکت شد که بدون کاهش قیمت رسمی به چنین رکوردی دست می‌یابد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420191-ps5-hits-100-million-sales/",
+   "item": {
+    "title": "رکورد جالب پلی استیشن ۵ در فروش ۱۰۰ میلیونی",
+    "summary": "کنسول PS5 سونی با عبور از مرز فروش ۱۰۰ میلیون دستگاه، نخستین محصول تاریخ این شرکت شد که بدون کاهش قیمت رسمی به چنین رکوردی دست می‌یابد.",
+    "link": "https://www.zoomg.ir/game-news/420191-ps5-hits-100-million-sales/"
+   },
+   "ts": 1794644940
+  },
+  "23cf2e2f": {
+   "text": "🎮 مدیرعامل اپیک گیمز: استودیوهایی که از هوش مصنوعی استفاده نکنند، از رقابت عقب می‌مانند\n\nانتقاد مجدد تیم سویینی از استیم بابت «افشاگری استفاده از هوش مصنوعی»\n\n🔗 منبع: https://vigiato.net/r/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers",
+   "item": {
+    "title": "مدیرعامل اپیک گیمز: استودیوهایی که از هوش مصنوعی استفاده نکنند، از رقابت عقب می‌مانند",
+    "summary": "انتقاد مجدد تیم سویینی از استیم بابت «افشاگری استفاده از هوش مصنوعی»",
+    "link": "https://vigiato.net/r/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers"
+   },
+   "ts": 1794644941
+  },
+  "25152bcd": {
+   "text": "🎮 بازیگر محبوب Pluribus در فصل دوم نقش پررنگ‌تری خواهد داشت\n\nسامبا شوت، بازیگر نقش آقای دیاباته، به جمع بازیگران اصلی فصل دوم Pluribus اضافه شد\n\n🔗 منبع: https://vigiato.net/r/pluribus-season-2-samba-schutte-series-regular",
+   "item": {
+    "title": "بازیگر محبوب Pluribus در فصل دوم نقش پررنگ‌تری خواهد داشت",
+    "summary": "سامبا شوت، بازیگر نقش آقای دیاباته، به جمع بازیگران اصلی فصل دوم Pluribus اضافه شد",
+    "link": "https://vigiato.net/r/pluribus-season-2-samba-schutte-series-regular"
+   },
+   "ts": 1794644942
+  },
+  "99615e02": {
+   "text": "🎮 اولین تصاویر سریال Magic: The Gathering نتفلیکس منتشر شد\n\nنتفلیکس از سریال انیمیشنی PLANESWALKER رونمایی کرد که سال ۲۰۲۷ با محوریت شخصیت چاندرا منتشر می‌شود\n\n🔗 منبع: https://vigiato.net/r/netflix-magic-the-gathering-planeswalker-first-look-2027",
+   "item": {
+    "title": "اولین تصاویر سریال Magic: The Gathering نتفلیکس منتشر شد",
+    "summary": "نتفلیکس از سریال انیمیشنی PLANESWALKER رونمایی کرد که سال ۲۰۲۷ با محوریت شخصیت چاندرا منتشر می‌شود",
+    "link": "https://vigiato.net/r/netflix-magic-the-gathering-planeswalker-first-look-2027"
+   },
+   "ts": 1794644944
+  },
+  "51e53edf": {
+   "text": "🎮 مارگو رابی در فیلم جدید کارگردان The Drama بازی می‌کند\n\nمارگو رابی به فیلم The Week of Pain پیوست که با همکاری A24 و تهیه‌کنندگان آثار آری استر ساخته می‌شود\n\n🔗 منبع: https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli",
+   "item": {
+    "title": "مارگو رابی در فیلم جدید کارگردان The Drama بازی می‌کند",
+    "summary": "مارگو رابی به فیلم The Week of Pain پیوست که با همکاری A24 و تهیه‌کنندگان آثار آری استر ساخته می‌شود",
+    "link": "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli"
+   },
+   "ts": 1794644945
   }
  }
 }
