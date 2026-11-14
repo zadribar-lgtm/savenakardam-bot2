@@ -237,7 +237,9 @@
   "https://vigiato.net/r/pubg-mobile-lost-weight-a-mobile-version-for-low-end-smartphones-has-been-released",
   "https://www.zoomg.ir/game-news/420212-stranger-than-heaven-gameplay-length/",
   "https://www.zoomg.ir/cinema-news/420213-avengers-doomsday-25-years-marvel/",
-  "https://vigiato.net/r/absolum-mobile-game-review"
+  "https://vigiato.net/r/absolum-mobile-game-review",
+  "https://www.zoomg.ir/game-news/420215-metaphor-refantazio-invincible-vs-discount/",
+  "https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/"
  ],
  "pending": {
   "3593f954": {
@@ -2003,6 +2005,24 @@
     "link": "https://vigiato.net/r/absolum-mobile-game-review"
    },
    "ts": 1794679225
+  },
+  "2686e99c": {
+   "text": "🎮 قیمت بازی‌های Metaphor: ReFantazio و Invincible VS کاهش یافت\n\nبازی نقش‌آفرینی Metaphor: ReFantazio برای نینتندو سوییچ ۲ منتشر شد و قیمت پایه نسخه تمام پلتفرم‌ها به ۳۹٫۹۹ دلار کاهش یافت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420215-metaphor-refantazio-invincible-vs-discount/",
+   "item": {
+    "title": "قیمت بازی‌های Metaphor: ReFantazio و Invincible VS کاهش یافت",
+    "summary": "بازی نقش‌آفرینی Metaphor: ReFantazio برای نینتندو سوییچ ۲ منتشر شد و قیمت پایه نسخه تمام پلتفرم‌ها به ۳۹٫۹۹ دلار کاهش یافت.",
+    "link": "https://www.zoomg.ir/game-news/420215-metaphor-refantazio-invincible-vs-discount/"
+   },
+   "ts": 1794681297
+  },
+  "43e45554": {
+   "text": "🎮 بازی Escape from Tarkov راهی موبایل می‌شود + جزئیات بیشتر\n\nاستودیو بتل‌استیت گیمز قصد دارد نسخه موبایلی Escape from Tarkov را در سبک شوتر اکسترکشن با زاویه دید از بالا عرضه کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/",
+   "item": {
+    "title": "بازی Escape from Tarkov راهی موبایل می‌شود + جزئیات بیشتر",
+    "summary": "استودیو بتل‌استیت گیمز قصد دارد نسخه موبایلی Escape from Tarkov را در سبک شوتر اکسترکشن با زاویه دید از بالا عرضه کند.",
+    "link": "https://www.zoomg.ir/game-news/420214-escape-from-tarkov-mobile-details/"
+   },
+   "ts": 1794681298
   }
  }
 }
