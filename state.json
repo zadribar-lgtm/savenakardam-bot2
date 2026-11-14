@@ -210,7 +210,9 @@
   "https://vigiato.net/r/netflix-magic-the-gathering-planeswalker-first-look-2027",
   "https://vigiato.net/r/margot-robbie-a24-the-week-of-pain-kristoffer-borgli",
   "https://www.zoomg.ir/movie-trailers/420193-netflix-planeswalker-animated-series-announced/",
-  "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/"
+  "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/",
+  "https://www.zoomg.ir/game-news/420194-gta-6-animated-tv-series/",
+  "https://vigiato.net/r/nintendo-seeking-to-hire-a-digital-archivist-to-preserve-its-rich-history"
  ],
  "pending": {
   "0bffaf68": {
@@ -2102,6 +2104,24 @@
     "link": "https://www.zoomg.ir/game-news/420192-new-rainbow-six-vegas-greenlit/"
    },
    "ts": 1794647766
+  },
+  "6a5f5931": {
+   "text": "🎮 بازی GTA 6 شامل یک سریال انیمیشنی کامل و قابل تماشا است\n\nراک‌استار یک سریال انیمیشنی کامل به نام Macca & Friends را برای تماشا از تلویزیون‌های درون بازی GTA 6 طراحی کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420194-gta-6-animated-tv-series/",
+   "item": {
+    "title": "بازی GTA 6 شامل یک سریال انیمیشنی کامل و قابل تماشا است",
+    "summary": "راک‌استار یک سریال انیمیشنی کامل به نام Macca & Friends را برای تماشا از تلویزیون‌های درون بازی GTA 6 طراحی کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420194-gta-6-animated-tv-series/"
+   },
+   "ts": 1794650264
+  },
+  "1d4e637e": {
+   "text": "🎮 نینتندو به‌دنبال استخدام یک آرشیویست دیجیتال برای حفظ تاریخچه بیش از ۱۰۰ ساله خود است\n\nبرای «حفظ، سازمان‌دهی و دسترس‌پذیری اطلاعات مربوط به سخت‌افزارها و نرم‌افزارهای تاریخی»\n\n🔗 منبع: https://vigiato.net/r/nintendo-seeking-to-hire-a-digital-archivist-to-preserve-its-rich-history",
+   "item": {
+    "title": "نینتندو به‌دنبال استخدام یک آرشیویست دیجیتال برای حفظ تاریخچه بیش از ۱۰۰ ساله خود است",
+    "summary": "برای «حفظ، سازمان‌دهی و دسترس‌پذیری اطلاعات مربوط به سخت‌افزارها و نرم‌افزارهای تاریخی»",
+    "link": "https://vigiato.net/r/nintendo-seeking-to-hire-a-digital-archivist-to-preserve-its-rich-history"
+   },
+   "ts": 1794650266
   }
  }
 }
