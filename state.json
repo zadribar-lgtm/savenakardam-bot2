@@ -227,27 +227,11 @@
   "https://vigiato.net/r/iranian-gaming-streamers-report",
   "https://www.zoomg.ir/tech-news/420205-nvidia-staff-support-jensen-huang/",
   "https://www.zoomg.ir/game-news/420204-gta-online-final-peaceful-drive/",
-  "https://www.zoomg.ir/game-news/420206-zelda-totk-pc-2gb-gpu/"
+  "https://www.zoomg.ir/game-news/420206-zelda-totk-pc-2gb-gpu/",
+  "https://www.zoomg.ir/cinema-news/420209-rezero-season-5-officially-announced/",
+  "https://vigiato.net/r/gta-6s-jason-and-lucia-start-the-story-as-small-time-criminals-with-basic-abilities"
  ],
  "pending": {
-  "16a16df2": {
-   "text": "🎮 نمره‌های فصل سوم سریال ارباب حلقه‌ها از سایت‌های معتبر دنیا\n\nدر این مطلب نگاهی خواهیم داشت به نمره‌های فصل سوم سریال ارباب حلقه‌ها از سایت‌های معتبر دنیا.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420096-rings-power-season-3-scores/",
-   "item": {
-    "title": "نمره‌های فصل سوم سریال ارباب حلقه‌ها از سایت‌های معتبر دنیا",
-    "summary": "در این مطلب نگاهی خواهیم داشت به نمره‌های فصل سوم سریال ارباب حلقه‌ها از سایت‌های معتبر دنیا.",
-    "link": "https://www.zoomg.ir/cinema-news/420096-rings-power-season-3-scores/"
-   },
-   "ts": 1794410631
-  },
-  "8fbaf8ca": {
-   "text": "🎮 راکستار با سازندگان نسخه هوش مصنوعی GTA 6 برخورد قانونی می‌کند\n\nمدیرعامل Take-Two نسبت به مهندسی معکوس و ساخت نسخه غیرقانونی بازی هشدار داد\n\n🔗 منبع: https://vigiato.net/r/rockstar-will-take-legal-action-if-someone-tries-to-reverse-engineer-a-gta-6-ai-clone",
-   "item": {
-    "title": "راکستار با سازندگان نسخه هوش مصنوعی GTA 6 برخورد قانونی می‌کند",
-    "summary": "مدیرعامل Take-Two نسبت به مهندسی معکوس و ساخت نسخه غیرقانونی بازی هشدار داد",
-    "link": "https://vigiato.net/r/rockstar-will-take-legal-action-if-someone-tries-to-reverse-engineer-a-gta-6-ai-clone"
-   },
-   "ts": 1794410633
-  },
   "03243b29": {
    "text": "🎮 آیا ساخت فیلم بتمن دنیای جیمز گان لغو شده است؟\n\nآینده‌ی فیلم بتمن جدید دنیای سینمایی دی‌سی پس از مصاحبه‌ی اخیر اندی و باربارا موچیتی و تغییرات مدیریتی استودیو در هاله‌ای از ابهام قرار گرفت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420098-batman-brave-and-bold-uncertainty/",
    "item": {
@@ -2029,6 +2013,24 @@
     "link": "https://www.zoomg.ir/game-news/420206-zelda-totk-pc-2gb-gpu/"
    },
    "ts": 1794669447
+  },
+  "31b5d7e6": {
+   "text": "🎮 فصل پنجم انیمه Re:ZERO رسما تایید شد؛ انتشار اولین پوستر\n\nفصل پنجم سریال Re:ZERO -Starting Life in Another World- هم‌زمان با دهمین سالگرد پخش انیمه به شکل رسمی تأیید شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420209-rezero-season-5-officially-announced/",
+   "item": {
+    "title": "فصل پنجم انیمه Re:ZERO رسما تایید شد؛ انتشار اولین پوستر",
+    "summary": "فصل پنجم سریال Re:ZERO -Starting Life in Another World- هم‌زمان با دهمین سالگرد پخش انیمه به شکل رسمی تأیید شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420209-rezero-season-5-officially-announced/"
+   },
+   "ts": 1794671615
+  },
+  "ccbeca13": {
+   "text": "🎮 جیسون و لوسیا در ابتدای GTA 6 خلافکاران خورده‌پا هستند\n\nراکستار می‌گوید شخصیت‌های اصلی بازی برای سرقت‌های بزرگ باید به‌تدریج مهارت کسب کنند\n\n🔗 منبع: https://vigiato.net/r/gta-6s-jason-and-lucia-start-the-story-as-small-time-criminals-with-basic-abilities",
+   "item": {
+    "title": "جیسون و لوسیا در ابتدای GTA 6 خلافکاران خورده‌پا هستند",
+    "summary": "راکستار می‌گوید شخصیت‌های اصلی بازی برای سرقت‌های بزرگ باید به‌تدریج مهارت کسب کنند",
+    "link": "https://vigiato.net/r/gta-6s-jason-and-lucia-start-the-story-as-small-time-criminals-with-basic-abilities"
+   },
+   "ts": 1794671617
   }
  }
 }
