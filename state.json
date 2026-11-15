@@ -245,18 +245,10 @@
   "https://www.zoomg.ir/game-news/420217-dawn-war-4-system-requirements/",
   "https://www.zoomg.ir/game-news/420218-tomb-raider-legacy-atlantis-specs/",
   "https://www.zoomg.ir/game-news/420219-inxile-studio-shooting-investigation/",
-  "https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/"
+  "https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/",
+  "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/"
  ],
  "pending": {
-  "cd21bca1": {
-   "text": "🎮 ریمستر شرک ۲ عرضه ناامیدکننده‌ای را تجربه می‌کند\n\nعرضه ریمستر شرک ۲ روی فروشگاه استیم با اعتراض شدید کاربران به کیفیت گرافیکی و گمانه‌زنی درباره کاربرد هوش مصنوعی همراه شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/",
-   "item": {
-    "title": "ریمستر شرک ۲ عرضه ناامیدکننده‌ای را تجربه می‌کند",
-    "summary": "عرضه ریمستر شرک ۲ روی فروشگاه استیم با اعتراض شدید کاربران به کیفیت گرافیکی و گمانه‌زنی درباره کاربرد هوش مصنوعی همراه شد.",
-    "link": "https://www.zoomg.ir/game-news/420110-shrek-2-remastered-steam-backlash/"
-   },
-   "ts": 1794453655
-  },
   "f69d244c": {
    "text": "🎮 موج لغو پیش‌خرید GTA 6 در پی اعلام محدودیت ۳۰ فریم\n\nتعدادی از خریداران بازی GTA 6 در واکنش به محدودیت نرخ فریم، سفارش‌های پیش‌خرید خود را لغو کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
    "item": {
@@ -1984,6 +1976,15 @@
     "link": "https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/"
    },
    "ts": 1794696275
+  },
+  "fb1b2eaa": {
+   "text": "🎮 فروش مجموعه Dark Souls از مرز ۴۱ میلیون نسخه گذشت\n\nمجموعه‌ی محبوب Dark Souls با وجود گذشت سال‌ها از انتشار آخرین نسخه، به رکورد فروش بیش از ۴۱ میلیون نسخه در بازارهای جهانی دست یافت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/",
+   "item": {
+    "title": "فروش مجموعه Dark Souls از مرز ۴۱ میلیون نسخه گذشت",
+    "summary": "مجموعه‌ی محبوب Dark Souls با وجود گذشت سال‌ها از انتشار آخرین نسخه، به رکورد فروش بیش از ۴۱ میلیون نسخه در بازارهای جهانی دست یافت.",
+    "link": "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/"
+   },
+   "ts": 1794714957
   }
  }
 }
