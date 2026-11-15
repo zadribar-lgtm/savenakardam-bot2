@@ -295,7 +295,9 @@
   "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-champy-the-useless-vampire-%d9%88%d9%82%d8%aa%db%8c-%db%8c%da%a9-%d8%ae%d9%88%d9%86%d8%a2",
   "https://www.zoomg.ir/game-news/420246-doom-slayer-rainbow-six-siege/",
   "https://www.zoomg.ir/game-news/420247-zelda-ocarina-remake-metacritic-controversy/",
-  "https://vigiato.net/r/phantom-blade-zero-review"
+  "https://vigiato.net/r/phantom-blade-zero-review",
+  "https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/",
+  "https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/"
  ],
  "pending": {
   "292b27a2": {
@@ -1935,6 +1937,24 @@
     "link": "https://vigiato.net/r/phantom-blade-zero-review"
    },
    "ts": 1794769329
+  },
+  "b03fd9b1": {
+   "text": "🎮 درخواست عجیب الکترونیک آرتز: بازی ما را به خاطر GTA 6 پاک نکنید!\n\nالکترونیک آرتز با نمایش پیامی درون بازی Madden NFL 27 از کاربران خواست بازی را برای بازکردن فضا حذف نکنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/",
+   "item": {
+    "title": "درخواست عجیب الکترونیک آرتز: بازی ما را به خاطر GTA 6 پاک نکنید!",
+    "summary": "الکترونیک آرتز با نمایش پیامی درون بازی Madden NFL 27 از کاربران خواست بازی را برای بازکردن فضا حذف نکنند.",
+    "link": "https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/"
+   },
+   "ts": 1794771728
+  },
+  "c56563db": {
+   "text": "🎮 نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت | قسمت اول تا چهارم\n\nحلقه‌های قدرت در فصل سوم خود نشان داد که آمازون با ترجیح فرمت‌های تجاری بر هویت تالکین نتوانسته رضایت مخاطبان را به خود جلب کند. همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/",
+   "item": {
+    "title": "نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت | قسمت اول تا چهارم",
+    "summary": "حلقه‌های قدرت در فصل سوم خود نشان داد که آمازون با ترجیح فرمت‌های تجاری بر هویت تالکین نتوانسته رضایت مخاطبان را به خود جلب کند. همراه زومجی باشید.",
+    "link": "https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/"
+   },
+   "ts": 1794771730
   }
  }
 }
