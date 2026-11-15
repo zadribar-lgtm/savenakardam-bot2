@@ -272,7 +272,9 @@
   "https://www.zoomg.ir/cinema-news/420231-chris-pratt-james-gunn-guardians-four/",
   "https://vigiato.net/r/avengers-doomsday-chris-evans-chris-hemsworth-korea-green-carpet",
   "https://vigiato.net/r/8-open-world-rpgs-that-are-fundamentally-perfect",
-  "https://www.zoomg.ir/game-news/420232-twitch-gta-vi-ultimate-edition-giveaway/"
+  "https://www.zoomg.ir/game-news/420232-twitch-gta-vi-ultimate-edition-giveaway/",
+  "https://www.zoomg.ir/game-news/420233-jeff-kaplan-slams-overwatch-2-reveal/",
+  "https://vigiato.net/r/iran-game-institute-honors"
  ],
  "pending": {
   "a13dca87": {
@@ -2020,6 +2022,24 @@
     "link": "https://www.zoomg.ir/game-news/420232-twitch-gta-vi-ultimate-edition-giveaway/"
    },
    "ts": 1794743079
+  },
+  "6e713f03": {
+   "text": "🎮 انتقاد شدید جف کاپلان از نحوه رونمایی Overwatch 2؛ بلیزارد احمق بود!\n\nجف کاپلان، کارگردان سابق Overwatch، مدیران بلیزارد را بابت رونمایی شتاب‌زده نسخه دوم بدون داشتن چشم‌انداز یا مدل تجاری مشخص به‌شدت سرزنش کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420233-jeff-kaplan-slams-overwatch-2-reveal/",
+   "item": {
+    "title": "انتقاد شدید جف کاپلان از نحوه رونمایی Overwatch 2؛ بلیزارد احمق بود!",
+    "summary": "جف کاپلان، کارگردان سابق Overwatch، مدیران بلیزارد را بابت رونمایی شتاب‌زده نسخه دوم بدون داشتن چشم‌انداز یا مدل تجاری مشخص به‌شدت سرزنش کرد.",
+    "link": "https://www.zoomg.ir/game-news/420233-jeff-kaplan-slams-overwatch-2-reveal/"
+   },
+   "ts": 1794745282
+  },
+  "b1dfb8df": {
+   "text": "🎮 نشان عالی انستیتو ملی بازی‌سازی به مناسبت پانزدهمین سالگرد تأسیس رونمایی می‌شود\n\nمراسم بزرگداشت پانزدهمین سالگرد تأسیس انستیتو ملی بازی‌سازی روز چهارشنبه ۲۷ آبان ۱۴۰۵، از ساعت ۱۷ تا ۱۹ در عمارت بلدیه تهران برگزار می‌شود\n\n🔗 منبع: https://vigiato.net/r/iran-game-institute-honors",
+   "item": {
+    "title": "نشان عالی انستیتو ملی بازی‌سازی به مناسبت پانزدهمین سالگرد تأسیس رونمایی می‌شود",
+    "summary": "مراسم بزرگداشت پانزدهمین سالگرد تأسیس انستیتو ملی بازی‌سازی روز چهارشنبه ۲۷ آبان ۱۴۰۵، از ساعت ۱۷ تا ۱۹ در عمارت بلدیه تهران برگزار می‌شود",
+    "link": "https://vigiato.net/r/iran-game-institute-honors"
+   },
+   "ts": 1794745283
   }
  }
 }
