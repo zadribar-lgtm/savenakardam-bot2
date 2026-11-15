@@ -301,18 +301,10 @@
   "https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/",
   "https://www.zoomg.ir/game-news/420250-xbox-project-helix-neural-rendering/",
   "https://www.zoomg.ir/game-articles/420239-ball-x-pit-mobile-game/",
-  "https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/"
+  "https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/",
+  "https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/"
  ],
  "pending": {
-  "4ff32d54": {
-   "text": "🎮 آرنولد شوارتزنگر حضور در سه فیلم اکشن موردانتظار را تایید کرد\n\nآرنولد شوارتزنگر رسما اعلام کرد که منتظر تکمیل فیلم‌نامه‌های جدید برای بازگشت به نقش‌های تاریخی خود در سه اثر خاطره‌انگیز است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420148-arnold-schwarzenegger-sequels-return-confirmed/",
-   "item": {
-    "title": "آرنولد شوارتزنگر حضور در سه فیلم اکشن موردانتظار را تایید کرد",
-    "summary": "آرنولد شوارتزنگر رسما اعلام کرد که منتظر تکمیل فیلم‌نامه‌های جدید برای بازگشت به نقش‌های تاریخی خود در سه اثر خاطره‌انگیز است.",
-    "link": "https://www.zoomg.ir/cinema-news/420148-arnold-schwarzenegger-sequels-return-confirmed/"
-   },
-   "ts": 1794523607
-  },
   "67a1fe34": {
    "text": "🎮 نمره‌های فیلم Ebenezer از سایت‌های معتبر دنیا\n\nدر این مطلب نگاهی خواهیم داشت به نمره‌های فیلم Ebenezer از سایت‌های معتبر دنیا.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420149-ebenezer-scores/",
    "item": {
@@ -1914,6 +1906,15 @@
     "link": "https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/"
    },
    "ts": 1794779971
+  },
+  "6fd15da3": {
+   "text": "🎮 تمرکز کنسول بعدی ایکس باکس روی حفظ بازی‌های قدیمی خواهد بود\n\nمایکروسافت حفظ بازی‌های قدیمی و محافظت از میراث دیجیتال را به عنوان یکی از ارکان کلیدی کنسول بعدی خود تعیین کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/",
+   "item": {
+    "title": "تمرکز کنسول بعدی ایکس باکس روی حفظ بازی‌های قدیمی خواهد بود",
+    "summary": "مایکروسافت حفظ بازی‌های قدیمی و محافظت از میراث دیجیتال را به عنوان یکی از ارکان کلیدی کنسول بعدی خود تعیین کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/"
+   },
+   "ts": 1794783993
   }
  }
 }
