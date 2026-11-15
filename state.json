@@ -246,27 +246,10 @@
   "https://www.zoomg.ir/game-news/420218-tomb-raider-legacy-atlantis-specs/",
   "https://www.zoomg.ir/game-news/420219-inxile-studio-shooting-investigation/",
   "https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/",
-  "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/"
+  "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/",
+  "https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/"
  ],
  "pending": {
-  "f69d244c": {
-   "text": "🎮 موج لغو پیش‌خرید GTA 6 در پی اعلام محدودیت ۳۰ فریم\n\nتعدادی از خریداران بازی GTA 6 در واکنش به محدودیت نرخ فریم، سفارش‌های پیش‌خرید خود را لغو کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/",
-   "item": {
-    "title": "موج لغو پیش‌خرید GTA 6 در پی اعلام محدودیت ۳۰ فریم",
-    "summary": "تعدادی از خریداران بازی GTA 6 در واکنش به محدودیت نرخ فریم، سفارش‌های پیش‌خرید خود را لغو کردند.",
-    "link": "https://www.zoomg.ir/game-news/420112-gta-6-preorder-cancellations-30fps/"
-   },
-   "ts": 1794457115
-  },
-  "5c2443d4": {
-   "text": "🎮 سونی انیمه را به ستون اصلی تجارت خود تبدیل می‌کند\n\nسونی قصد دارد انیمه ژاپنی را به محور اصلی تجارت و رشد بلندمدت خود در حوزه بازی و سرگرمی بدل کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/",
-   "item": {
-    "title": "سونی انیمه را به ستون اصلی تجارت خود تبدیل می‌کند",
-    "summary": "سونی قصد دارد انیمه ژاپنی را به محور اصلی تجارت و رشد بلندمدت خود در حوزه بازی و سرگرمی بدل کند.",
-    "link": "https://www.zoomg.ir/cinema-news/420111-sony-anime-business-pillar-expansion/"
-   },
-   "ts": 1794457116
-  },
   "8648b051": {
    "text": "🎮 محتوا و زمان گیم‌پلی Marvel 1943 Rise of Hydra کاهش یافته است\n\nگزارشات جدید نشان می‌دهند روند ساخت بازی Marvel 1943: Rise of Hydra با کاهش محتوا و زمان گیم‌پلی به پایان نزدیک شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420113-marvel-1943-scale-back-report/",
    "item": {
@@ -1985,6 +1968,15 @@
     "link": "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/"
    },
    "ts": 1794714957
+  },
+  "087d4f94": {
+   "text": "🎮 این بازی ساخته شده با هوش مصنوعی در استیم با استقبال هزاران کاربر مواجه شد\n\nبازی روگ‌لایک Slotbound علی‌رغم تولید کامل توسط مدل‌های هوش مصنوعی توانست بیش از ۹ هزار بازیکن همزمان در استیم جذب کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/",
+   "item": {
+    "title": "این بازی ساخته شده با هوش مصنوعی در استیم با استقبال هزاران کاربر مواجه شد",
+    "summary": "بازی روگ‌لایک Slotbound علی‌رغم تولید کامل توسط مدل‌های هوش مصنوعی توانست بیش از ۹ هزار بازیکن همزمان در استیم جذب کند.",
+    "link": "https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/"
+   },
+   "ts": 1794717716
   }
  }
 }
