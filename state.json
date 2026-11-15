@@ -298,18 +298,10 @@
   "https://vigiato.net/r/phantom-blade-zero-review",
   "https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/",
   "https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/",
-  "https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/"
+  "https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/",
+  "https://www.zoomg.ir/game-news/420250-xbox-project-helix-neural-rendering/"
  ],
  "pending": {
-  "f6c6fca8": {
-   "text": "🎮 معرفی بازی موبایل Meteorfall: Krumit's Tale | پازل روگ‌لایک\n\nMeteorfall: Krumit's Tale با تغییر هوشمندانه‌ی فرمول کارت‌بازی، شما را وارد چالشی نفس‌گیر می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420133-meteorfall-krumits-tale-mobile-game/",
-   "item": {
-    "title": "معرفی بازی موبایل Meteorfall: Krumit's Tale | پازل روگ‌لایک",
-    "summary": "Meteorfall: Krumit's Tale با تغییر هوشمندانه‌ی فرمول کارت‌بازی، شما را وارد چالشی نفس‌گیر می‌کند.",
-    "link": "https://www.zoomg.ir/game-articles/420133-meteorfall-krumits-tale-mobile-game/"
-   },
-   "ts": 1794515536
-  },
   "ea3332c5": {
    "text": "🎮 استودیوی سازنده DOOM ساخت پروژه‌ی بعدی خود را رسما تایید کرد\n\nاستودیوی اید سافتور رسما تأیید کرد که مراحل توسعه‌ی بازی بعدی خود را با کارگردانی هوگو مارتین آغاز کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420146-id-software-new-game-martin/",
    "item": {
@@ -1947,6 +1939,15 @@
     "link": "https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/"
    },
    "ts": 1794773867
+  },
+  "807a99da": {
+   "text": "🎮 راهکار ایکس باکس برای کاهش قیمت کنسول نسل بعد مشخص شد\n\nمایکروسافت قصد دارد با بهره‌گیری از فناوری پردازش عصبی، هزینه‌ی تولید سخت‌افزار کنسول Project Helix را بهینه‌سازی کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420250-xbox-project-helix-neural-rendering/",
+   "item": {
+    "title": "راهکار ایکس باکس برای کاهش قیمت کنسول نسل بعد مشخص شد",
+    "summary": "مایکروسافت قصد دارد با بهره‌گیری از فناوری پردازش عصبی، هزینه‌ی تولید سخت‌افزار کنسول Project Helix را بهینه‌سازی کند.",
+    "link": "https://www.zoomg.ir/game-news/420250-xbox-project-helix-neural-rendering/"
+   },
+   "ts": 1794776118
   }
  }
 }
