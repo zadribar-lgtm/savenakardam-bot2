@@ -287,7 +287,10 @@
   "https://www.zoomg.ir/game-news/420240-gta-6-completion-time-revealed/",
   "https://vigiato.net/r/visionquest-review",
   "https://www.zoomg.ir/tech-news/420243-ai-tools-accessible-without-vpn-iran/",
-  "https://www.zoomg.ir/cinema-news/420241-mahershala-ali-james-gunn-collaboration/"
+  "https://www.zoomg.ir/cinema-news/420241-mahershala-ali-james-gunn-collaboration/",
+  "https://www.zoomg.ir/game-news/420244-dune-awakening-adds-offline-mode/",
+  "https://www.zoomg.ir/game-news/420242-nvidia-gpu-equivalent-ps5-comparison/",
+  "https://vigiato.net/r/kims-convenience-series-review"
  ],
  "pending": {
   "40434343": {
@@ -1963,6 +1966,33 @@
     "link": "https://www.zoomg.ir/cinema-news/420241-mahershala-ali-james-gunn-collaboration/"
    },
    "ts": 1794760287
+  },
+  "3a19e7ba": {
+   "text": "🎮 حالت کاملا آفلاین به بازی Dune: Awakening اضافه شد\n\nبازی بقای Dune: Awakening سرانجام قابلیت تجربه‌ی کاملا آفلاین و بدون نیاز به هیچ‌گونه اتصال اینترنتی را دریافت کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420244-dune-awakening-adds-offline-mode/",
+   "item": {
+    "title": "حالت کاملا آفلاین به بازی Dune: Awakening اضافه شد",
+    "summary": "بازی بقای Dune: Awakening سرانجام قابلیت تجربه‌ی کاملا آفلاین و بدون نیاز به هیچ‌گونه اتصال اینترنتی را دریافت کرد.",
+    "link": "https://www.zoomg.ir/game-news/420244-dune-awakening-adds-offline-mode/"
+   },
+   "ts": 1794762752
+  },
+  "c1673caf": {
+   "text": "🎮 نزدیک‌ترین کارت گرافیک انویدیا به پلی استیشن ۵ مشخص شد\n\nیافته‌های کارشناسان نشان می‌دهد کارت گرافیک RTX 2070 Super نزدیک‌ترین عملکرد را به کنسول پلی استیشن ۵ ارائه می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420242-nvidia-gpu-equivalent-ps5-comparison/",
+   "item": {
+    "title": "نزدیک‌ترین کارت گرافیک انویدیا به پلی استیشن ۵ مشخص شد",
+    "summary": "یافته‌های کارشناسان نشان می‌دهد کارت گرافیک RTX 2070 Super نزدیک‌ترین عملکرد را به کنسول پلی استیشن ۵ ارائه می‌دهد.",
+    "link": "https://www.zoomg.ir/game-news/420242-nvidia-gpu-equivalent-ps5-comparison/"
+   },
+   "ts": 1794762753
+  },
+  "140ff558": {
+   "text": "🎮 سریال فروشگاه کیم (Kim’s Convenience)؛ معرفی داستان، بازیگران و فصل‌ها\n\nیک سیتکام خانوادگی با چاشنی فرهنگ کره‌ای\n\n🔗 منبع: https://vigiato.net/r/kims-convenience-series-review",
+   "item": {
+    "title": "سریال فروشگاه کیم (Kim’s Convenience)؛ معرفی داستان، بازیگران و فصل‌ها",
+    "summary": "یک سیتکام خانوادگی با چاشنی فرهنگ کره‌ای",
+    "link": "https://vigiato.net/r/kims-convenience-series-review"
+   },
+   "ts": 1794762755
   }
  }
 }
