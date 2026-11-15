@@ -265,7 +265,10 @@
   "https://www.zoomg.ir/game-news/420229-path-of-exile-2-larian-praise/",
   "https://vigiato.net/r/johnny-depp-ebenezer-opening-day-box-office-2026",
   "https://vigiato.net/r/adam-driver-disney-canceled-hunt-for-ben-solo-criminal",
-  "https://vigiato.net/r/take-two-ceo-criticizes-openai-anthropic-ai-game-clones"
+  "https://vigiato.net/r/take-two-ceo-criticizes-openai-anthropic-ai-game-clones",
+  "https://www.zoomg.ir/game-news/420230-skyrim-lead-regrets-level-cap/",
+  "https://vigiato.net/r/gta-6-will-encourage-empathy-for-the-first-time-in-franchise-history",
+  "https://vigiato.net/r/game-centers-gift-cards-regulation-ircg"
  ],
  "pending": {
   "d374f3ec": {
@@ -2004,6 +2007,33 @@
     "link": "https://vigiato.net/r/take-two-ceo-criticizes-openai-anthropic-ai-game-clones"
    },
    "ts": 1794736340
+  },
+  "ce27b4ee": {
+   "text": "🎮 پشیمانی طراح ارشد بازی Skyrim از اعمال سقف لول کاراکترها\n\nطراح ارشد The Elder Scrolls V: Skyrim با ابراز پشیمانی از اعمال سقف لول اولیه، به پیوند عاطفی عمیق بازیکنان با شخصیت‌ها اشاره کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420230-skyrim-lead-regrets-level-cap/",
+   "item": {
+    "title": "پشیمانی طراح ارشد بازی Skyrim از اعمال سقف لول کاراکترها",
+    "summary": "طراح ارشد The Elder Scrolls V: Skyrim با ابراز پشیمانی از اعمال سقف لول اولیه، به پیوند عاطفی عمیق بازیکنان با شخصیت‌ها اشاره کرد.",
+    "link": "https://www.zoomg.ir/game-news/420230-skyrim-lead-regrets-level-cap/"
+   },
+   "ts": 1794738480
+  },
+  "bac0de82": {
+   "text": "🎮 راکستار برای اولین بار امکان همدلی با شخصیت‌ها را در GTA 6 فراهم کرده است\n\nسازندگان تلاش داشتند تا بازیکنان ارتباط نزدیکی با کاراکترها ایجاد کنند\n\n🔗 منبع: https://vigiato.net/r/gta-6-will-encourage-empathy-for-the-first-time-in-franchise-history",
+   "item": {
+    "title": "راکستار برای اولین بار امکان همدلی با شخصیت‌ها را در GTA 6 فراهم کرده است",
+    "summary": "سازندگان تلاش داشتند تا بازیکنان ارتباط نزدیکی با کاراکترها ایجاد کنند",
+    "link": "https://vigiato.net/r/gta-6-will-encourage-empathy-for-the-first-time-in-franchise-history"
+   },
+   "ts": 1794738482
+  },
+  "5c6585b9": {
+   "text": "🎮 بنیاد ملی بازی‌های رایانه‌ای برنامه نظارت بر گیم‌نت‌ها و بازار گیفت‌کارت‌ها را مطرح کرد\n\nپیش‌نویس سند «سرگرمی، بازی و غنابخشی به اوقات فراغت در فضای مجازی» تدوین شد\n\n🔗 منبع: https://vigiato.net/r/game-centers-gift-cards-regulation-ircg",
+   "item": {
+    "title": "بنیاد ملی بازی‌های رایانه‌ای برنامه نظارت بر گیم‌نت‌ها و بازار گیفت‌کارت‌ها را مطرح کرد",
+    "summary": "پیش‌نویس سند «سرگرمی، بازی و غنابخشی به اوقات فراغت در فضای مجازی» تدوین شد",
+    "link": "https://vigiato.net/r/game-centers-gift-cards-regulation-ircg"
+   },
+   "ts": 1794738483
   }
  }
 }
