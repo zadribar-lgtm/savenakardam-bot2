@@ -277,63 +277,13 @@
   "https://vigiato.net/r/iran-game-institute-honors",
   "https://www.zoomg.ir/game-news/420234-lost-pokemon-ds-game-found/",
   "https://www.zoomg.ir/cinema-news/420238-yal-series-banned-judicial-order/",
-  "https://vigiato.net/r/yal-series-banned-by-court-order"
+  "https://vigiato.net/r/yal-series-banned-by-court-order",
+  "https://www.zoomg.ir/cinema-news/420235-adam-driver-disney-star-wars-cancellation/",
+  "https://vigiato.net/r/ex-nintendo-marketing-leads-believe-the-legend-of-zelda-majoras-mask-remake-is-inevitable",
+  "https://vigiato.net/r/new-info-on-star-wars-fate-of-the-old-republic-dropping-next-year",
+  "https://vigiato.net/r/indiana-jones-and-the-great-circle-almost-had-a-wanted-system-inspired-by-gta"
  ],
  "pending": {
-  "be1610e1": {
-   "text": "🎮 نقد فیلم ساعت پر بیننده (Primetime) | رابرت پتینسون؛ از شکارچی تا شکار\n\nفیلم ساعت پربیننده با بازی رابرت پتینسون، مرز باریک میان اجرای عدالت و عطش شهرت در رسانه‌ها را از زاویه روان‌شناسی بررسی می‌کند. همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/419838-primetime-movie-review/",
-   "item": {
-    "title": "نقد فیلم ساعت پر بیننده (Primetime) | رابرت پتینسون؛ از شکارچی تا شکار",
-    "summary": "فیلم ساعت پربیننده با بازی رابرت پتینسون، مرز باریک میان اجرای عدالت و عطش شهرت در رسانه‌ها را از زاویه روان‌شناسی بررسی می‌کند. همراه زومجی باشید.",
-    "link": "https://www.zoomg.ir/movie-tv-show-review/419838-primetime-movie-review/"
-   },
-   "ts": 1794490695
-  },
-  "d0fb208c": {
-   "text": "🎮 نینتندو برنامه‌ای برای بازسازی The Legend of Zelda Majora's Mask ندارد\n\nگزارش‌های جدید نشان می‌دهند نینتندو برخلاف شایعه‌ها، در حال حاضر روی بازسازی The Legend of Zelda: Majora's Mask کار نمی‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420130-nintendo-majoras-mask-remake-rumors/",
-   "item": {
-    "title": "نینتندو برنامه‌ای برای بازسازی The Legend of Zelda Majora's Mask ندارد",
-    "summary": "گزارش‌های جدید نشان می‌دهند نینتندو برخلاف شایعه‌ها، در حال حاضر روی بازسازی The Legend of Zelda: Majora's Mask کار نمی‌کند.",
-    "link": "https://www.zoomg.ir/game-news/420130-nintendo-majoras-mask-remake-rumors/"
-   },
-   "ts": 1794490696
-  },
-  "a7439c83": {
-   "text": "🎮 تئوری طرفداران درباره حضور شخصیت محبوب قدیمی در تریلر جدید GTA 6\n\nانتشار جدیدترین ویدیوی تبلیغاتی بازی GTA 6 گمانه‌زنی‌های گسترده‌ای را میان طرفداران پیرامون بازگشت یکی از شخصیت‌های نمادین این مجموعه رقم زد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420129-gta-6-trailer-gay-tony-theory/",
-   "item": {
-    "title": "تئوری طرفداران درباره حضور شخصیت محبوب قدیمی در تریلر جدید GTA 6",
-    "summary": "انتشار جدیدترین ویدیوی تبلیغاتی بازی GTA 6 گمانه‌زنی‌های گسترده‌ای را میان طرفداران پیرامون بازگشت یکی از شخصیت‌های نمادین این مجموعه رقم زد.",
-    "link": "https://www.zoomg.ir/game-news/420129-gta-6-trailer-gay-tony-theory/"
-   },
-   "ts": 1794490698
-  },
-  "13f63f64": {
-   "text": "🎮 جزییات فصل سوم بازی WARDOGS منتشر شد\n\nایفراررد رنج فایندر حذف بشود، همین‌طور محدودتر بجنگید\n\n🔗 منبع: https://vigiato.net/r/wardogs-season-3-gameplay-highlights-limited-mode-and-new-map-infrared-range-finder-removed",
-   "item": {
-    "title": "جزییات فصل سوم بازی WARDOGS منتشر شد",
-    "summary": "ایفراررد رنج فایندر حذف بشود، همین‌طور محدودتر بجنگید",
-    "link": "https://vigiato.net/r/wardogs-season-3-gameplay-highlights-limited-mode-and-new-map-infrared-range-finder-removed"
-   },
-   "ts": 1794490699
-  },
-  "abec028e": {
-   "text": "🎮 تریلر روز عرضه بازی Football Manager 27 منتشر شد\n\nرکوردها را بشکنید، شما پیروزید!\n\n🔗 منبع: https://vigiato.net/r/football-manager-27-gets-new-trailer-showcasing-match-day-moments-to-celebrate-launch",
-   "item": {
-    "title": "تریلر روز عرضه بازی Football Manager 27 منتشر شد",
-    "summary": "رکوردها را بشکنید، شما پیروزید!",
-    "link": "https://vigiato.net/r/football-manager-27-gets-new-trailer-showcasing-match-day-moments-to-celebrate-launch"
-   },
-   "ts": 1794490701
-  },
-  "1619099a": {
-   "text": "🎮 بررسی بازی Stupid Never Dies\n\nابزوردیسم مطلق\n\n🔗 منبع: https://vigiato.net/p/723289",
-   "item": {
-    "title": "بررسی بازی Stupid Never Dies",
-    "summary": "ابزوردیسم مطلق",
-    "link": "https://vigiato.net/p/723289"
-   },
-   "ts": 1794490703
-  },
   "a6661df7": {
    "text": "🎮 خداحافظی ناگهانی معمار تراشه‌های مدرن؛ جنسن هوانگ از مدیرعاملی انویدیا استعفا داد\n\nجنسن هوانگ پس از ۳۳ سال از مدیرعاملی و ریاست انویدیا استعفا داد و کولت کرس موقتا سکان هدایت را به‌دست گرفت.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420135-jensen-huang-resigns-nvidia-ceo/",
    "item": {
@@ -2034,6 +1984,42 @@
     "link": "https://vigiato.net/r/yal-series-banned-by-court-order"
    },
    "ts": 1794748671
+  },
+  "b1136dce": {
+   "text": "🎮 آدام درایور: لغو فیلم بن سولو توسط دیزنی شبیه جنایت بود!\n\nآدام درایور تصمیم مدیران دیزنی برای توقف ساخت فیلم The Hunt for Ben Solo را حرکتی شبیه به یک اقدام مجرمانه خواند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420235-adam-driver-disney-star-wars-cancellation/",
+   "item": {
+    "title": "آدام درایور: لغو فیلم بن سولو توسط دیزنی شبیه جنایت بود!",
+    "summary": "آدام درایور تصمیم مدیران دیزنی برای توقف ساخت فیلم The Hunt for Ben Solo را حرکتی شبیه به یک اقدام مجرمانه خواند.",
+    "link": "https://www.zoomg.ir/cinema-news/420235-adam-driver-disney-star-wars-cancellation/"
+   },
+   "ts": 1794751510
+  },
+  "923149b3": {
+   "text": "🎮 مدیران سابق بازاریابی نینتندو معتقدند بازسازی Majora’s Mask تقریبا قطعی است\n\nپس از موفقیت Ocarina of Time\n\n🔗 منبع: https://vigiato.net/r/ex-nintendo-marketing-leads-believe-the-legend-of-zelda-majoras-mask-remake-is-inevitable",
+   "item": {
+    "title": "مدیران سابق بازاریابی نینتندو معتقدند بازسازی Majora’s Mask تقریبا قطعی است",
+    "summary": "پس از موفقیت Ocarina of Time",
+    "link": "https://vigiato.net/r/ex-nintendo-marketing-leads-believe-the-legend-of-zelda-majoras-mask-remake-is-inevitable"
+   },
+   "ts": 1794751511
+  },
+  "297946bf": {
+   "text": "🎮 اطلاعات تازه از Star Wars: Fate of the Old Republic سال آینده منتشر می‌شود\n\nظاهرا ساخت بازی با سرعت بالایی در جریان است\n\n🔗 منبع: https://vigiato.net/r/new-info-on-star-wars-fate-of-the-old-republic-dropping-next-year",
+   "item": {
+    "title": "اطلاعات تازه از Star Wars: Fate of the Old Republic سال آینده منتشر می‌شود",
+    "summary": "ظاهرا ساخت بازی با سرعت بالایی در جریان است",
+    "link": "https://vigiato.net/r/new-info-on-star-wars-fate-of-the-old-republic-dropping-next-year"
+   },
+   "ts": 1794751513
+  },
+  "3d389ca2": {
+   "text": "🎮 بازی Indiana Jones and the Great Circle نزدیک بود سیستمی مشابه پلیس جی تی ای داشته باشد\n\nسازندگان نمی‌خواستند بازیکنان بیش از حد از سلاح‌های گرم استفاده کنند\n\n🔗 منبع: https://vigiato.net/r/indiana-jones-and-the-great-circle-almost-had-a-wanted-system-inspired-by-gta",
+   "item": {
+    "title": "بازی Indiana Jones and the Great Circle نزدیک بود سیستمی مشابه پلیس جی تی ای داشته باشد",
+    "summary": "سازندگان نمی‌خواستند بازیکنان بیش از حد از سلاح‌های گرم استفاده کنند",
+    "link": "https://vigiato.net/r/indiana-jones-and-the-great-circle-almost-had-a-wanted-system-inspired-by-gta"
+   },
+   "ts": 1794751514
   }
  }
 }
