@@ -304,18 +304,10 @@
   "https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/",
   "https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/",
   "https://www.zoomg.ir/game-news/420253-gta-6-missing-codes/",
-  "https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/"
+  "https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/",
+  "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/"
  ],
  "pending": {
-  "b1a694e7": {
-   "text": "🎮 آیا سرانجام فیلم یا سریال GTA ساخته می‌شود؟\n\nمدیرعامل تیک-تو با ابراز تردید درباره اقتباس‌های سینمایی و تلویزیونی، ساخت فیلم از مجموعه GTA را مشروط به شرایطی سخت‌گیرانه دانست.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420151-take-two-ceo-gta-adaptation/",
-   "item": {
-    "title": "آیا سرانجام فیلم یا سریال GTA ساخته می‌شود؟",
-    "summary": "مدیرعامل تیک-تو با ابراز تردید درباره اقتباس‌های سینمایی و تلویزیونی، ساخت فیلم از مجموعه GTA را مشروط به شرایطی سخت‌گیرانه دانست.",
-    "link": "https://www.zoomg.ir/cinema-news/420151-take-two-ceo-gta-adaptation/"
-   },
-   "ts": 1794540758
-  },
   "f93c7f53": {
    "text": "🎮 بازی Wolfenstein 3 رسما توسط ماشین‌گیمز در دست ساخت است\n\nاستودیوی ماشین‌گیمز توسعه‌ی بازی Wolfenstein 3 را با نظارت ایکس باکس و بتسدا آغاز کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/",
    "item": {
@@ -1926,6 +1918,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/"
    },
    "ts": 1794797289
+  },
+  "e084fded": {
+   "text": "🎮 جنسن هوانگ در حال بررسی بازگشت به مقام مدیرعاملی انویدیا است\n\nجنسن هوانگ پس از استعفای هفته‌ی گذشته، تحت فشار حامیان پرنفوذ در سیلیکون‌ولی، بازگشت به جایگاه مدیرعاملی انویدیا را بررسی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/",
+   "item": {
+    "title": "جنسن هوانگ در حال بررسی بازگشت به مقام مدیرعاملی انویدیا است",
+    "summary": "جنسن هوانگ پس از استعفای هفته‌ی گذشته، تحت فشار حامیان پرنفوذ در سیلیکون‌ولی، بازگشت به جایگاه مدیرعاملی انویدیا را بررسی می‌کند.",
+    "link": "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/"
+   },
+   "ts": 1794800934
   }
  }
 }
