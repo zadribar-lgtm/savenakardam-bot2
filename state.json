@@ -362,27 +362,10 @@
   "https://www.zoomg.ir/game-news/420289-gta-6-hacker-pleads-guilty/",
   "https://www.zoomg.ir/game-news/420288-shinji-mikami-resident-evil-zombies/",
   "https://vigiato.net/r/five-games-that-are-releasing-alongside-gta-6-november-19",
-  "https://www.zoomg.ir/game-articles/420281-drive-zone-mobile-game/"
+  "https://www.zoomg.ir/game-articles/420281-drive-zone-mobile-game/",
+  "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/"
  ],
  "pending": {
-  "d2a39aed": {
-   "text": "🎮 فناوری QSSR به بازی‌های بیشتری روی کنسول پلی استیشن ۵ می‌آید\n\nسونی قابلیت هوش مصنوعی QSSR را به بازی‌های بیشتری اضافه می‌کند تا کاربران کنسول استاندارد بدون خرید PS5 Pro تصاویری باکیفیت‌تر تجربه کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420178-ps5-qssr-upscaling-expansion/",
-   "item": {
-    "title": "فناوری QSSR به بازی‌های بیشتری روی کنسول پلی استیشن ۵ می‌آید",
-    "summary": "سونی قابلیت هوش مصنوعی QSSR را به بازی‌های بیشتری اضافه می‌کند تا کاربران کنسول استاندارد بدون خرید PS5 Pro تصاویری باکیفیت‌تر تجربه کنند.",
-    "link": "https://www.zoomg.ir/game-news/420178-ps5-qssr-upscaling-expansion/"
-   },
-   "ts": 1794600484
-  },
-  "13d8e718": {
-   "text": "🎮 رد پیشنهاد ۵۵ میلیارد دلاری؛ ناشر جی‌تی‌ای فروخته نمی‌شود\n\nمدیرعامل تیک-تو با تکیه بر درآمدهای سرشار و رکوردشکنی‌های تاریخی GTA، هرگونه تمایل برای فروش شرکت را رد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420183-take-two-rejects-buyout-gta-6/",
-   "item": {
-    "title": "رد پیشنهاد ۵۵ میلیارد دلاری؛ ناشر جی‌تی‌ای فروخته نمی‌شود",
-    "summary": "مدیرعامل تیک-تو با تکیه بر درآمدهای سرشار و رکوردشکنی‌های تاریخی GTA، هرگونه تمایل برای فروش شرکت را رد کرد.",
-    "link": "https://www.zoomg.ir/game-news/420183-take-two-rejects-buyout-gta-6/"
-   },
-   "ts": 1794600485
-  },
   "95f3c6c0": {
    "text": "🎮 احتمال اضافه شدن بخش چندنفره به بازی Crimson Desert\n\nاستودیوی پرل ابیس در حال ارزیابی شرایط فنی برای افزودن حالت چندنفره و بسته‌های الحاقی جدید به بازی Crimson Desert است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420179-crimson-desert-multiplayer-mode-considered/",
    "item": {
@@ -1930,6 +1913,15 @@
     "link": "https://www.zoomg.ir/game-articles/420281-drive-zone-mobile-game/"
    },
    "ts": 1794859158
+  },
+  "81c22742": {
+   "text": "🎮 شیگرو میاموتو برنده اولین جایزه Legend در مراسم دایس شد\n\nشیگرو میاموتو جایزه‌ی جدید و ویژه‌ی Legend را در ۳۰ امین دوره‌ی جوایز دایس دریافت خواهد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/",
+   "item": {
+    "title": "شیگرو میاموتو برنده اولین جایزه Legend در مراسم دایس شد",
+    "summary": "شیگرو میاموتو جایزه‌ی جدید و ویژه‌ی Legend را در ۳۰ امین دوره‌ی جوایز دایس دریافت خواهد کرد.",
+    "link": "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/"
+   },
+   "ts": 1794861761
   }
  }
 }
