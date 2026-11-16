@@ -363,18 +363,11 @@
   "https://www.zoomg.ir/game-news/420288-shinji-mikami-resident-evil-zombies/",
   "https://vigiato.net/r/five-games-that-are-releasing-alongside-gta-6-november-19",
   "https://www.zoomg.ir/game-articles/420281-drive-zone-mobile-game/",
-  "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/"
+  "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/",
+  "https://www.zoomg.ir/game-news/420292-microsoft-tests-aco-compiler-xbox/",
+  "https://www.zoomg.ir/cinema-news/420291-iron-man-4-rumor-explained/"
  ],
  "pending": {
-  "95f3c6c0": {
-   "text": "🎮 احتمال اضافه شدن بخش چندنفره به بازی Crimson Desert\n\nاستودیوی پرل ابیس در حال ارزیابی شرایط فنی برای افزودن حالت چندنفره و بسته‌های الحاقی جدید به بازی Crimson Desert است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420179-crimson-desert-multiplayer-mode-considered/",
-   "item": {
-    "title": "احتمال اضافه شدن بخش چندنفره به بازی Crimson Desert",
-    "summary": "استودیوی پرل ابیس در حال ارزیابی شرایط فنی برای افزودن حالت چندنفره و بسته‌های الحاقی جدید به بازی Crimson Desert است.",
-    "link": "https://www.zoomg.ir/game-news/420179-crimson-desert-multiplayer-mode-considered/"
-   },
-   "ts": 1794603340
-  },
   "74a262c8": {
    "text": "🎮 تریلر نهایی اونجرز دومزدی به‌زودی منتشر می‌شود\n\nروز دووم از آن چیزی که فکر می‌کنید نزدیک‌تر است\n\n🔗 منبع: https://vigiato.net/r/avengers-doomsday-final-trailer-will-be-revealed-soon",
    "item": {
@@ -1922,6 +1915,24 @@
     "link": "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/"
    },
    "ts": 1794861761
+  },
+  "db9f8c26": {
+   "text": "🎮 توان گرافیکی ایکس باکس سری ایکس و اس تا ۱۶ درصد افزایش می‌یابد\n\nمایکروسافت کامپایلر شیدر جدیدی را برای ایکس باکس سری ایکس و ایکس باکس سری اس آزمایش می‌کند که عملکرد گرافیکی را تا ۱۶ درصد افزایش می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420292-microsoft-tests-aco-compiler-xbox/",
+   "item": {
+    "title": "توان گرافیکی ایکس باکس سری ایکس و اس تا ۱۶ درصد افزایش می‌یابد",
+    "summary": "مایکروسافت کامپایلر شیدر جدیدی را برای ایکس باکس سری ایکس و ایکس باکس سری اس آزمایش می‌کند که عملکرد گرافیکی را تا ۱۶ درصد افزایش می‌دهد.",
+    "link": "https://www.zoomg.ir/game-news/420292-microsoft-tests-aco-compiler-xbox/"
+   },
+   "ts": 1794864597
+  },
+  "dc1dd5ad": {
+   "text": "🎮 گزارش‌ها از ساخت مخفیانه فیلم مرد آهنی ۴ با بازی رابرت داونی جونیور حکایت دارند\n\nبه گزارش جف اسنایدر، مارول با بازی رابرت داونی جونیور و کارگردانی دن تراختنبرگ در حال ساخت مرد آهنی ۴ است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420291-iron-man-4-rumor-explained/",
+   "item": {
+    "title": "گزارش‌ها از ساخت مخفیانه فیلم مرد آهنی ۴ با بازی رابرت داونی جونیور حکایت دارند",
+    "summary": "به گزارش جف اسنایدر، مارول با بازی رابرت داونی جونیور و کارگردانی دن تراختنبرگ در حال ساخت مرد آهنی ۴ است.",
+    "link": "https://www.zoomg.ir/cinema-news/420291-iron-man-4-rumor-explained/"
+   },
+   "ts": 1794864598
   }
  }
 }
