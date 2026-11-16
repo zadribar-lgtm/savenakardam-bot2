@@ -305,18 +305,11 @@
   "https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/",
   "https://www.zoomg.ir/game-news/420253-gta-6-missing-codes/",
   "https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/",
-  "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/"
+  "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/",
+  "https://www.zoomg.ir/cinema-news/420257-hbo-harry-potter-first-scene/",
+  "https://www.zoomg.ir/cinema-news/420256-the-batman-2-filming-extended/"
  ],
  "pending": {
-  "f93c7f53": {
-   "text": "🎮 بازی Wolfenstein 3 رسما توسط ماشین‌گیمز در دست ساخت است\n\nاستودیوی ماشین‌گیمز توسعه‌ی بازی Wolfenstein 3 را با نظارت ایکس باکس و بتسدا آغاز کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/",
-   "item": {
-    "title": "بازی Wolfenstein 3 رسما توسط ماشین‌گیمز در دست ساخت است",
-    "summary": "استودیوی ماشین‌گیمز توسعه‌ی بازی Wolfenstein 3 را با نظارت ایکس باکس و بتسدا آغاز کرده است.",
-    "link": "https://www.zoomg.ir/game-news/420152-wolfenstein-3-officially-announced-machinegames/"
-   },
-   "ts": 1794544222
-  },
   "075e7aca": {
    "text": "🎮 انتشار ویدیو گیم‌پلی جدید Fable به‌مناسبت ۲۵ سالگی ایکس باکس\n\nمایکروسافت تریلر گیم‌پلی چهار دقیقه‌ای جدیدی از بازی Fable منتشر کرد که فضایی تاریک‌تر و متفاوت با ریشه‌های کلاسیک این مجموعه دارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420154-new-fable-gameplay-trailer-reactions/",
    "item": {
@@ -1927,6 +1920,24 @@
     "link": "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/"
    },
    "ts": 1794800934
+  },
+  "b9a453e2": {
+   "text": "🎮 شبکه اچ‌بی‌او نخستین سکانس سریال هری پاتر را منتشر کرد\n\nشبکه HBO نخستین سکانس رسمی از سریال هری پاتر را پیش از پخش در ماه دسامبر رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420257-hbo-harry-potter-first-scene/",
+   "item": {
+    "title": "شبکه اچ‌بی‌او نخستین سکانس سریال هری پاتر را منتشر کرد",
+    "summary": "شبکه HBO نخستین سکانس رسمی از سریال هری پاتر را پیش از پخش در ماه دسامبر رونمایی کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420257-hbo-harry-potter-first-scene/"
+   },
+   "ts": 1794805873
+  },
+  "0238a928": {
+   "text": "🎮 فیلم‌برداری بتمن ۲ تا سال ۲۰۲۷ تمدید شد\n\nمراحل فیلم‌برداری فیلم بتمن ۲ به کارگردانی مت ریوز به سال ۲۰۲۷ میلادی کشیده شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420256-the-batman-2-filming-extended/",
+   "item": {
+    "title": "فیلم‌برداری بتمن ۲ تا سال ۲۰۲۷ تمدید شد",
+    "summary": "مراحل فیلم‌برداری فیلم بتمن ۲ به کارگردانی مت ریوز به سال ۲۰۲۷ میلادی کشیده شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420256-the-batman-2-filming-extended/"
+   },
+   "ts": 1794805874
   }
  }
 }
