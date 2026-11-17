@@ -369,18 +369,11 @@
   "https://www.zoomg.ir/game-news/420293-gta-6-weather-systems-screenshots/",
   "https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/",
   "https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/",
-  "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/"
+  "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/",
+  "https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/",
+  "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/"
  ],
  "pending": {
-  "74a262c8": {
-   "text": "🎮 تریلر نهایی اونجرز دومزدی به‌زودی منتشر می‌شود\n\nروز دووم از آن چیزی که فکر می‌کنید نزدیک‌تر است\n\n🔗 منبع: https://vigiato.net/r/avengers-doomsday-final-trailer-will-be-revealed-soon",
-   "item": {
-    "title": "تریلر نهایی اونجرز دومزدی به‌زودی منتشر می‌شود",
-    "summary": "روز دووم از آن چیزی که فکر می‌کنید نزدیک‌تر است",
-    "link": "https://vigiato.net/r/avengers-doomsday-final-trailer-will-be-revealed-soon"
-   },
-   "ts": 1794626976
-  },
   "25008593": {
    "text": "🎮 شهردار نیویورک پیش از انتشار GTA 6 مسابقه بازی‌سازی برگزار می‌کند\n\nزهران ممدانی این رویداد را با هدف حمایت از نسل جدید بازی‌سازان برگزار می‌کند\n\n🔗 منبع: https://vigiato.net/r/zohran-mamdani-nyc-game-jam-right-before-gta-6-release",
    "item": {
@@ -1973,6 +1966,24 @@
     "link": "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/"
    },
    "ts": 1794882830
+  },
+  "870327ef": {
+   "text": "🎮 شایعه حضور آرون پیر در نقش جدای در فیلم جنگ ستارگان\n\nگزارش‌ها حاکی از آن است که آرون پیر نقش یک جدای را در فیلم جدید جنگ ستارگان ایفا می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/",
+   "item": {
+    "title": "شایعه حضور آرون پیر در نقش جدای در فیلم جنگ ستارگان",
+    "summary": "گزارش‌ها حاکی از آن است که آرون پیر نقش یک جدای را در فیلم جدید جنگ ستارگان ایفا می‌کند.",
+    "link": "https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/"
+   },
+   "ts": 1794889114
+  },
+  "719ca9ba": {
+   "text": "🎮 نسخه غیررسمی بازی Frostpunk برای اندروید منتشر شد\n\nیک کاربر موفق شد نسخه رایانه‌ای بازی محبوب Frostpunk را به‌طور غیررسمی برای اندروید پورت کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/",
+   "item": {
+    "title": "نسخه غیررسمی بازی Frostpunk برای اندروید منتشر شد",
+    "summary": "یک کاربر موفق شد نسخه رایانه‌ای بازی محبوب Frostpunk را به‌طور غیررسمی برای اندروید پورت کند.",
+    "link": "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/"
+   },
+   "ts": 1794889115
   }
  }
 }
