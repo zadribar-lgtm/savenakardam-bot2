@@ -409,36 +409,16 @@
   "https://www.zoomg.ir/game-news/420318-no-mans-sky-explored-planets-statistic/",
   "https://www.zoomg.ir/game-news/420317-sea-of-thieves-install-size-reduction/",
   "https://vigiato.net/r/uk-politician-downplays-fears-around-gta-6-content-for-kids-says-shes-more-concerned-about-the-amount-of-time-theyll-likely-play-it",
-  "https://vigiato.net/r/the-odyssey-may-have-led-to-a-surge-in-viewership-for-percy-jackson"
+  "https://vigiato.net/r/the-odyssey-may-have-led-to-a-surge-in-viewership-for-percy-jackson",
+  "https://www.zoomg.ir/game-news/420320-zelda-ocarina-of-time-sales-record/",
+  "https://www.zoomg.ir/game-news/420311-steam-real-time-fps-estimates/",
+  "https://vigiato.net/r/gta-6-has-62-bird-types-confirms-rockstar-games",
+  "https://vigiato.net/r/sign-me-up-for-the-villain-brad-pitt-eyes-a-place-in-robert-pattinsons-james-bond-universe",
+  "https://vigiato.net/r/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+  "https://vigiato.net/r/shrek-2-remastered-review",
+  "https://vigiato.net/r/first-clip-from-hbos-harry-potter-series-soundtrack-isnt-going-down-well-with-fans"
  ],
  "pending": {
-  "9bec6b79": {
-   "text": "🎮 کارکنان انویدیا خواستار بازگشت جنسن هوانگ شدند\n\nصدها نفر از کارکنان انویدیا پس از استعفای جنسن هوانگ، با ارسال پیام‌های حمایتی خواستار بازگشت او به صندلی مدیریت شدند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420205-nvidia-staff-support-jensen-huang/",
-   "item": {
-    "title": "کارکنان انویدیا خواستار بازگشت جنسن هوانگ شدند",
-    "summary": "صدها نفر از کارکنان انویدیا پس از استعفای جنسن هوانگ، با ارسال پیام‌های حمایتی خواستار بازگشت او به صندلی مدیریت شدند.",
-    "link": "https://www.zoomg.ir/tech-news/420205-nvidia-staff-support-jensen-huang/"
-   },
-   "ts": 1794667180
-  },
-  "b4d9fc65": {
-   "text": "🎮 وداع با لوس سانتوس پیش از GTA 6؛ قرار جالب کاربران GTA Online\n\nجامعه‌ی بازیکنان GTA Online قصد دارند در آستانه‌ی انتشار بازی GTA 6، یک شب کاملا صلح‌آمیز را در لوس سانتوس سپری کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420204-gta-online-final-peaceful-drive/",
-   "item": {
-    "title": "وداع با لوس سانتوس پیش از GTA 6؛ قرار جالب کاربران GTA Online",
-    "summary": "جامعه‌ی بازیکنان GTA Online قصد دارند در آستانه‌ی انتشار بازی GTA 6، یک شب کاملا صلح‌آمیز را در لوس سانتوس سپری کنند.",
-    "link": "https://www.zoomg.ir/game-news/420204-gta-online-final-peaceful-drive/"
-   },
-   "ts": 1794667181
-  },
-  "a1c70275": {
-   "text": "🎮 اجرای روان نسخه غیررسمی پی سی Tears of the Kingdom روی سخت افزارهای قدیمی\n\nپروژه‌ی پی سی غیررسمی بازی The Legend of Zelda: Tears of the Kingdom اجرای آن را روی پردازنده‌ی گرافیکی ۲ گیگابایتی ممکن کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420206-zelda-totk-pc-2gb-gpu/",
-   "item": {
-    "title": "اجرای روان نسخه غیررسمی پی سی Tears of the Kingdom روی سخت افزارهای قدیمی",
-    "summary": "پروژه‌ی پی سی غیررسمی بازی The Legend of Zelda: Tears of the Kingdom اجرای آن را روی پردازنده‌ی گرافیکی ۲ گیگابایتی ممکن کرد.",
-    "link": "https://www.zoomg.ir/game-news/420206-zelda-totk-pc-2gb-gpu/"
-   },
-   "ts": 1794669447
-  },
   "31b5d7e6": {
    "text": "🎮 فصل پنجم انیمه Re:ZERO رسما تایید شد؛ انتشار اولین پوستر\n\nفصل پنجم سریال Re:ZERO -Starting Life in Another World- هم‌زمان با دهمین سالگرد پخش انیمه به شکل رسمی تأیید شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420209-rezero-season-5-officially-announced/",
    "item": {
@@ -2076,6 +2056,69 @@
     "link": "https://vigiato.net/r/the-odyssey-may-have-led-to-a-surge-in-viewership-for-percy-jackson"
    },
    "ts": 1794925613
+  },
+  "8faee776": {
+   "text": "🎮 ریمیک Ocarina of Time پرفروش‌ترین بازی فیزیکی سال در آمریکا شد\n\nنسخه بازسازی The Legend of Zelda: Ocarina of Time با فروش خیره‌کننده توانست لقب پرفروش‌ترین بازی فیزیکی سال آمریکا را کسب کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420320-zelda-ocarina-of-time-sales-record/",
+   "item": {
+    "title": "ریمیک Ocarina of Time پرفروش‌ترین بازی فیزیکی سال در آمریکا شد",
+    "summary": "نسخه بازسازی The Legend of Zelda: Ocarina of Time با فروش خیره‌کننده توانست لقب پرفروش‌ترین بازی فیزیکی سال آمریکا را کسب کند.",
+    "link": "https://www.zoomg.ir/game-news/420320-zelda-ocarina-of-time-sales-record/"
+   },
+   "ts": 1794928662
+  },
+  "d2e21576": {
+   "text": "🎮 نمایش نرخ فریم حدودی بازی‌ها روی سیستم کاربر به استیم اضافه می‌شود\n\nولو گردآوری داده‌های ناشناس عملکرد سخت‌افزاری را برای نمایش نرخ فریم تخمینی بازی‌ها در استیم آغاز کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420311-steam-real-time-fps-estimates/",
+   "item": {
+    "title": "نمایش نرخ فریم حدودی بازی‌ها روی سیستم کاربر به استیم اضافه می‌شود",
+    "summary": "ولو گردآوری داده‌های ناشناس عملکرد سخت‌افزاری را برای نمایش نرخ فریم تخمینی بازی‌ها در استیم آغاز کرد.",
+    "link": "https://www.zoomg.ir/game-news/420311-steam-real-time-fps-estimates/"
+   },
+   "ts": 1794928664
+  },
+  "0458dbb8": {
+   "text": "🎮 در بازی GTA 6 تعداد ۶۲ گونه مختلف پرنده مختلف وجود خواهد داشت\n\nآسمون ما نمیاید پر پرواز؟\n\n🔗 منبع: https://vigiato.net/r/gta-6-has-62-bird-types-confirms-rockstar-games",
+   "item": {
+    "title": "در بازی GTA 6 تعداد ۶۲ گونه مختلف پرنده مختلف وجود خواهد داشت",
+    "summary": "آسمون ما نمیاید پر پرواز؟",
+    "link": "https://vigiato.net/r/gta-6-has-62-bird-types-confirms-rockstar-games"
+   },
+   "ts": 1794928665
+  },
+  "cb1f29a3": {
+   "text": "🎮 برد پیت برای تقابل با رابرت پتینسون در قامت شخصیت منفی فیلم جدید جیمز باند آماده است\n\nبه دنی ویلنوو زنگ بزنید تا برم سراغش!\n\n🔗 منبع: https://vigiato.net/r/sign-me-up-for-the-villain-brad-pitt-eyes-a-place-in-robert-pattinsons-james-bond-universe",
+   "item": {
+    "title": "برد پیت برای تقابل با رابرت پتینسون در قامت شخصیت منفی فیلم جدید جیمز باند آماده است",
+    "summary": "به دنی ویلنوو زنگ بزنید تا برم سراغش!",
+    "link": "https://vigiato.net/r/sign-me-up-for-the-villain-brad-pitt-eyes-a-place-in-robert-pattinsons-james-bond-universe"
+   },
+   "ts": 1794928667
+  },
+  "80b69fa0": {
+   "text": "🎮 به‌روزرسانی امنیتی پلی‌استیشن ۵ پیش از انتشار GTA 6 منتشر شد\n\nسد دیوار برای هک جی‌تی‌ای بسیار بلند است\n\n🔗 منبع: https://vigiato.net/r/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+   "item": {
+    "title": "به‌روزرسانی امنیتی پلی‌استیشن ۵ پیش از انتشار GTA 6 منتشر شد",
+    "summary": "سد دیوار برای هک جی‌تی‌ای بسیار بلند است",
+    "link": "https://vigiato.net/r/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim"
+   },
+   "ts": 1794928668
+  },
+  "59ff700a": {
+   "text": "🎮 بررسی بازی Shrek 2 Remastered\n\nخاطراتی دورتر از دوردست‌ترین سرزمین\n\n🔗 منبع: https://vigiato.net/r/shrek-2-remastered-review",
+   "item": {
+    "title": "بررسی بازی Shrek 2 Remastered",
+    "summary": "خاطراتی دورتر از دوردست‌ترین سرزمین",
+    "link": "https://vigiato.net/r/shrek-2-remastered-review"
+   },
+   "ts": 1794928670
+  },
+  "1c4b5561": {
+   "text": "🎮 موسیقی متن سریال Harry Potter باب میل پاترهدها نیست\n\nگویا هانس زیمر اسانس جادوی جان ویلیامز را نگرفته\n\n🔗 منبع: https://vigiato.net/r/first-clip-from-hbos-harry-potter-series-soundtrack-isnt-going-down-well-with-fans",
+   "item": {
+    "title": "موسیقی متن سریال Harry Potter باب میل پاترهدها نیست",
+    "summary": "گویا هانس زیمر اسانس جادوی جان ویلیامز را نگرفته",
+    "link": "https://vigiato.net/r/first-clip-from-hbos-harry-potter-series-soundtrack-isnt-going-down-well-with-fans"
+   },
+   "ts": 1794928671
   }
  }
 }
