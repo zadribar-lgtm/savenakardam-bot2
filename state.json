@@ -372,18 +372,10 @@
   "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/",
   "https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/",
   "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/",
-  "https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/"
+  "https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/",
+  "https://www.zoomg.ir/tech-news/420300-nvidia-rejects-jensen-huang-return/"
  ],
  "pending": {
-  "3554dedd": {
-   "text": "🎮 گام بزرگ مالکان بلید رانر برای ساخت ویدیو گیم بزرگ آن\n\nمالکان فرنچایز بلید رانر از آغاز مذاکرات جدی برای ساخت یک بازی ویدیویی تراز اول در سبک سایبرپانک خبر دادند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/",
-   "item": {
-    "title": "گام بزرگ مالکان بلید رانر برای ساخت ویدیو گیم بزرگ آن",
-    "summary": "مالکان فرنچایز بلید رانر از آغاز مذاکرات جدی برای ساخت یک بازی ویدیویی تراز اول در سبک سایبرپانک خبر دادند.",
-    "link": "https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/"
-   },
-   "ts": 1794635862
-  },
   "278c46b0": {
    "text": "🎮 مشکل امنیتی در نسخه فیزیکی GTA 6؛ لو رفتن کد دانلود با چراغ قوه!\n\nنسخه‌های فیزیکی GTA 6 به‌دلیل نوع چاپ کد دانلود، بدون باز کردن جعبه در برابر سرقت آسیب‌پذیر هستند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420188-gta-6-physical-copies-vulnerability/",
    "item": {
@@ -1967,6 +1959,15 @@
     "link": "https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/"
    },
    "ts": 1794892573
+  },
+  "2ad5e58d": {
+   "text": "🎮 مخالفت با نظر ترامپ: انویدیا بازگشت جنسن هوانگ را رد کرد\n\nانویدیا با وجود تشکیل اتاق جنگ حامیان و چراغ سبز ترامپ، بازگشت جنسن هوانگ را نمی‌پذیرد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420300-nvidia-rejects-jensen-huang-return/",
+   "item": {
+    "title": "مخالفت با نظر ترامپ: انویدیا بازگشت جنسن هوانگ را رد کرد",
+    "summary": "انویدیا با وجود تشکیل اتاق جنگ حامیان و چراغ سبز ترامپ، بازگشت جنسن هوانگ را نمی‌پذیرد.",
+    "link": "https://www.zoomg.ir/tech-news/420300-nvidia-rejects-jensen-huang-return/"
+   },
+   "ts": 1794896089
   }
  }
 }
