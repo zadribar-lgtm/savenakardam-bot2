@@ -371,36 +371,10 @@
   "https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/",
   "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/",
   "https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/",
-  "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/"
+  "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/",
+  "https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/"
  ],
  "pending": {
-  "25008593": {
-   "text": "🎮 شهردار نیویورک پیش از انتشار GTA 6 مسابقه بازی‌سازی برگزار می‌کند\n\nزهران ممدانی این رویداد را با هدف حمایت از نسل جدید بازی‌سازان برگزار می‌کند\n\n🔗 منبع: https://vigiato.net/r/zohran-mamdani-nyc-game-jam-right-before-gta-6-release",
-   "item": {
-    "title": "شهردار نیویورک پیش از انتشار GTA 6 مسابقه بازی‌سازی برگزار می‌کند",
-    "summary": "زهران ممدانی این رویداد را با هدف حمایت از نسل جدید بازی‌سازان برگزار می‌کند",
-    "link": "https://vigiato.net/r/zohran-mamdani-nyc-game-jam-right-before-gta-6-release"
-   },
-   "ts": 1794630148
-  },
-  "a0130fc7": {
-   "text": "🎮 مدیرعامل Take-Two تمایلی به فروش این شرکت مانند الکترونیک آرتز ندارد\n\nزلنیک معتقد است تیک تو می‌تواند به صورت مستقل به فعالیت خود ادامه دهد\n\n🔗 منبع: https://vigiato.net/r/take-two-ceo-says-he-isnt-interested-in-an-ea-style-55-billion-buyout",
-   "item": {
-    "title": "مدیرعامل Take-Two تمایلی به فروش این شرکت مانند الکترونیک آرتز ندارد",
-    "summary": "زلنیک معتقد است تیک تو می‌تواند به صورت مستقل به فعالیت خود ادامه دهد",
-    "link": "https://vigiato.net/r/take-two-ceo-says-he-isnt-interested-in-an-ea-style-55-billion-buyout"
-   },
-   "ts": 1794630149
-  },
-  "d80cbb32": {
-   "text": "🎮 شایعه: سری Rainbow Six: Vegas پس از نزدیک به ۲۰ سال بازمی‌گردد\n\nظاهرا نسخه سوم این سری بازی توسط یوبی‌سافت مونترال در دست ساخت است\n\n🔗 منبع: https://vigiato.net/r/rainbow-six-vegas-3-is-in-development-rumor",
-   "item": {
-    "title": "شایعه: سری Rainbow Six: Vegas پس از نزدیک به ۲۰ سال بازمی‌گردد",
-    "summary": "ظاهرا نسخه سوم این سری بازی توسط یوبی‌سافت مونترال در دست ساخت است",
-    "link": "https://vigiato.net/r/rainbow-six-vegas-3-is-in-development-rumor"
-   },
-   "ts": 1794630151
-  },
   "3554dedd": {
    "text": "🎮 گام بزرگ مالکان بلید رانر برای ساخت ویدیو گیم بزرگ آن\n\nمالکان فرنچایز بلید رانر از آغاز مذاکرات جدی برای ساخت یک بازی ویدیویی تراز اول در سبک سایبرپانک خبر دادند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420186-blade-runner-aaa-game-talks/",
    "item": {
@@ -1984,6 +1958,15 @@
     "link": "https://www.zoomg.ir/game-news/420297-frostpunk-android-port-released/"
    },
    "ts": 1794889115
+  },
+  "25453872": {
+   "text": "🎮 شکست باورنکردنی قهرمان ژاپنی برابر نوجوانی با چهره کازویا میشیما\n\nنوجوان ۱۳ ساله‌ای با مدل مویی شبیه کازویا میشیما، بازیکن نامدار و باسابقه ژاپنی را در مسابقات جهانی شکست داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/",
+   "item": {
+    "title": "شکست باورنکردنی قهرمان ژاپنی برابر نوجوانی با چهره کازویا میشیما",
+    "summary": "نوجوان ۱۳ ساله‌ای با مدل مویی شبیه کازویا میشیما، بازیکن نامدار و باسابقه ژاپنی را در مسابقات جهانی شکست داد.",
+    "link": "https://www.zoomg.ir/game-news/420299-young-kazuya-lookalike-defeats-tekken/"
+   },
+   "ts": 1794892573
   }
  }
 }
