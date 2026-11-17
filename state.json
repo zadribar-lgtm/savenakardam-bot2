@@ -437,18 +437,10 @@
   "https://www.zoomg.ir/game-news/420335-supercell-games-disruption-iran/",
   "https://www.zoomg.ir/cinema-news/420334-villeneuve-casts-pattinson-james-bond/",
   "https://www.zoomg.ir/game-articles/420323-lil-guardsman-mobile-game/",
-  "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/"
+  "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/",
+  "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/"
  ],
  "pending": {
-  "1e9c04a5": {
-   "text": "🎮 سیستم مورد نیاز Tomb Raider: Legacy of Atlantis اعلام شد\n\nمشخصات فنی و سخت‌افزار مورد نیاز Tomb Raider: Legacy of Atlantis به همراه جزئیات داستانی به طور رسمی اعلام شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420218-tomb-raider-legacy-atlantis-specs/",
-   "item": {
-    "title": "سیستم مورد نیاز Tomb Raider: Legacy of Atlantis اعلام شد",
-    "summary": "مشخصات فنی و سخت‌افزار مورد نیاز Tomb Raider: Legacy of Atlantis به همراه جزئیات داستانی به طور رسمی اعلام شد.",
-    "link": "https://www.zoomg.ir/game-news/420218-tomb-raider-legacy-atlantis-specs/"
-   },
-   "ts": 1794690139
-  },
   "a85a0804": {
    "text": "🎮 به ساختمان یکی از استودیوهای ایکس باکس تیراندازی شد\n\nپلیس کالیفرنیا فردی مظنون را در پی تیراندازی به دفتر استودیوی بازی‌سازی inXile بازداشت کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420219-inxile-studio-shooting-investigation/",
    "item": {
@@ -2194,6 +2186,15 @@
     "link": "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/"
    },
    "ts": 1794948670
+  },
+  "221e3bfa": {
+   "text": "🎮 پوستر جدید انیمیشن Angry Birds 3 با الهام از GTA 6 منتشر شد\n\nسازندگان انیمیشن انگری بردز ۳ پوستر تازه‌ای با الهام از سبک بصری بازی جی تی ای ۶ منتشر کردند که توجه زیادی در شبکه‌های اجتماعی برانگیخته است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/",
+   "item": {
+    "title": "پوستر جدید انیمیشن Angry Birds 3 با الهام از GTA 6 منتشر شد",
+    "summary": "سازندگان انیمیشن انگری بردز ۳ پوستر تازه‌ای با الهام از سبک بصری بازی جی تی ای ۶ منتشر کردند که توجه زیادی در شبکه‌های اجتماعی برانگیخته است.",
+    "link": "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/"
+   },
+   "ts": 1794951343
   }
  }
 }
