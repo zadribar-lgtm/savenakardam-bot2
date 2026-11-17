@@ -438,18 +438,10 @@
   "https://www.zoomg.ir/cinema-news/420334-villeneuve-casts-pattinson-james-bond/",
   "https://www.zoomg.ir/game-articles/420323-lil-guardsman-mobile-game/",
   "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/",
-  "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/"
+  "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/",
+  "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/"
  ],
  "pending": {
-  "a85a0804": {
-   "text": "🎮 به ساختمان یکی از استودیوهای ایکس باکس تیراندازی شد\n\nپلیس کالیفرنیا فردی مظنون را در پی تیراندازی به دفتر استودیوی بازی‌سازی inXile بازداشت کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420219-inxile-studio-shooting-investigation/",
-   "item": {
-    "title": "به ساختمان یکی از استودیوهای ایکس باکس تیراندازی شد",
-    "summary": "پلیس کالیفرنیا فردی مظنون را در پی تیراندازی به دفتر استودیوی بازی‌سازی inXile بازداشت کرد.",
-    "link": "https://www.zoomg.ir/game-news/420219-inxile-studio-shooting-investigation/"
-   },
-   "ts": 1794694320
-  },
   "3701e94c": {
    "text": "🎮 فهرست کامل ۳۴ موسیقی آلبوم رسمی GTA 6 لو رفت\n\nفهرست کامل ۳۴ ترانه‌ی آلبوم رسمی بازی GTA 6 پیش از معرفی کامل راک‌استار گیمز در فضای مجازی لو رفت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/",
    "item": {
@@ -2195,6 +2187,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/"
    },
    "ts": 1794951343
+  },
+  "af6e58a8": {
+   "text": "🎮 موج دوم بازی‌های گیم پس در نوامبر ۲۰۲۶\n\nمایکروسافت فهرست بازی‌های جدید سرویس اشتراکی خود برای نیمه‌ی دوم نوامبر ۲۰۲۶ و روزهای نخست دسامبر را همراه با جزئیات پلتفرم‌ها منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/",
+   "item": {
+    "title": "موج دوم بازی‌های گیم پس در نوامبر ۲۰۲۶",
+    "summary": "مایکروسافت فهرست بازی‌های جدید سرویس اشتراکی خود برای نیمه‌ی دوم نوامبر ۲۰۲۶ و روزهای نخست دسامبر را همراه با جزئیات پلتفرم‌ها منتشر کرد.",
+    "link": "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/"
+   },
+   "ts": 1794954518
   }
  }
 }
