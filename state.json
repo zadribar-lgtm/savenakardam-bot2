@@ -439,18 +439,10 @@
   "https://www.zoomg.ir/game-articles/420323-lil-guardsman-mobile-game/",
   "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/",
   "https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/",
-  "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/"
+  "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/",
+  "https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/"
  ],
  "pending": {
-  "3701e94c": {
-   "text": "🎮 فهرست کامل ۳۴ موسیقی آلبوم رسمی GTA 6 لو رفت\n\nفهرست کامل ۳۴ ترانه‌ی آلبوم رسمی بازی GTA 6 پیش از معرفی کامل راک‌استار گیمز در فضای مجازی لو رفت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/",
-   "item": {
-    "title": "فهرست کامل ۳۴ موسیقی آلبوم رسمی GTA 6 لو رفت",
-    "summary": "فهرست کامل ۳۴ ترانه‌ی آلبوم رسمی بازی GTA 6 پیش از معرفی کامل راک‌استار گیمز در فضای مجازی لو رفت.",
-    "link": "https://www.zoomg.ir/game-news/420220-gta-6-album-tracklist-leaked/"
-   },
-   "ts": 1794696275
-  },
   "fb1b2eaa": {
    "text": "🎮 فروش مجموعه Dark Souls از مرز ۴۱ میلیون نسخه گذشت\n\nمجموعه‌ی محبوب Dark Souls با وجود گذشت سال‌ها از انتشار آخرین نسخه، به رکورد فروش بیش از ۴۱ میلیون نسخه در بازارهای جهانی دست یافت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/",
    "item": {
@@ -2196,6 +2188,15 @@
     "link": "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/"
    },
    "ts": 1794954518
+  },
+  "a87af40b": {
+   "text": "🎮 جنسن هوانگ: اگر هیئت‌مدیره بخواهد به سمت مدیرعاملی انویدیا بازمی‌گردم\n\nجنسن هوانگ با انتشار بیانیه‌ای رسمی اعلام کرد در صورت موافقت هیئت‌مدیره، حاضر است بار دیگر مدیریت عامل انویدیا را بر عهده بگیرد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/",
+   "item": {
+    "title": "جنسن هوانگ: اگر هیئت‌مدیره بخواهد به سمت مدیرعاملی انویدیا بازمی‌گردم",
+    "summary": "جنسن هوانگ با انتشار بیانیه‌ای رسمی اعلام کرد در صورت موافقت هیئت‌مدیره، حاضر است بار دیگر مدیریت عامل انویدیا را بر عهده بگیرد.",
+    "link": "https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/"
+   },
+   "ts": 1794957605
   }
  }
 }
