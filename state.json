@@ -367,7 +367,8 @@
   "https://www.zoomg.ir/game-news/420292-microsoft-tests-aco-compiler-xbox/",
   "https://www.zoomg.ir/cinema-news/420291-iron-man-4-rumor-explained/",
   "https://www.zoomg.ir/game-news/420293-gta-6-weather-systems-screenshots/",
-  "https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/"
+  "https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/",
+  "https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/"
  ],
  "pending": {
   "74a262c8": {
@@ -1953,6 +1954,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/"
    },
    "ts": 1794870022
+  },
+  "3da631dc": {
+   "text": "🎮 Avengers: Doomsday در سه روز ۱۰ برابر Dune 3 بلیت فروخت!\n\nپیش‌فروش بلیت‌های فیلم Avengers: Doomsday در سه روز نخست حدود ۱۰ برابر قسمت سوم Dune گزارش شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/",
+   "item": {
+    "title": "Avengers: Doomsday در سه روز ۱۰ برابر Dune 3 بلیت فروخت!",
+    "summary": "پیش‌فروش بلیت‌های فیلم Avengers: Doomsday در سه روز نخست حدود ۱۰ برابر قسمت سوم Dune گزارش شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/"
+   },
+   "ts": 1794874819
   }
  }
 }
