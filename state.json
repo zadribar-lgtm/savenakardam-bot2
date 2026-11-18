@@ -498,18 +498,11 @@
   "https://www.zoomg.ir/game-news/420384-playstation-network-outage-uk/",
   "https://www.zoomg.ir/game-news/420380-gta-6-twitch-record-take-two-stock/",
   "https://www.zoomg.ir/cinema-articles/420329-movies-to-watch-in-the-weekend-447/",
-  "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/"
+  "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/",
+  "https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/",
+  "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/"
  ],
  "pending": {
-  "b3586e4c": {
-   "text": "🎮 ایکس باکس فلسفه طراحی کنسول نسل بعد خود را شرح داد\n\nمایکروسافت رویکرد طراحی کنسول نسل بعدی خود را شفاف‌سازی کرد و آن را دستگاهی کنسول‌محور با قابلیت اجرای بازی‌های رایانه‌ای خواند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/",
-   "item": {
-    "title": "ایکس باکس فلسفه طراحی کنسول نسل بعد خود را شرح داد",
-    "summary": "مایکروسافت رویکرد طراحی کنسول نسل بعدی خود را شفاف‌سازی کرد و آن را دستگاهی کنسول‌محور با قابلیت اجرای بازی‌های رایانه‌ای خواند.",
-    "link": "https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/"
-   },
-   "ts": 1794773867
-  },
   "807a99da": {
    "text": "🎮 راهکار ایکس باکس برای کاهش قیمت کنسول نسل بعد مشخص شد\n\nمایکروسافت قصد دارد با بهره‌گیری از فناوری پردازش عصبی، هزینه‌ی تولید سخت‌افزار کنسول Project Helix را بهینه‌سازی کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420250-xbox-project-helix-neural-rendering/",
    "item": {
@@ -2309,6 +2302,24 @@
     "link": "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/"
    },
    "ts": 1795032138
+  },
+  "7ef45a23": {
+   "text": "🎮 پیش بینی ۸۳ درصدی روی قطعی سرورهای پلی استیشن و ایکس باکس با عرضه GTA 6\n\nکارشناسان و تحلیل‌گران احتمال می‌دهند عرضه GTA 6 باعث اختلال گسترده در شبکه‌های آنلاین پلی‌استیشن و ایکس‌باکس شود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/",
+   "item": {
+    "title": "پیش بینی ۸۳ درصدی روی قطعی سرورهای پلی استیشن و ایکس باکس با عرضه GTA 6",
+    "summary": "کارشناسان و تحلیل‌گران احتمال می‌دهند عرضه GTA 6 باعث اختلال گسترده در شبکه‌های آنلاین پلی‌استیشن و ایکس‌باکس شود.",
+    "link": "https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/"
+   },
+   "ts": 1795035119
+  },
+  "42004834": {
+   "text": "🎮 آیا GTA 6 نیامده کرک شده است؟ ادعای یک هکر معروف\n\nهم‌زمان با انتشار جهانی GTA 6 روی کنسول‌های نسل نهم، گزارشی غیرمنتظره از دور زدن تدابیر امنیتی تازه‌ترین فریمور پلی‌استیشن ۵ منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/",
+   "item": {
+    "title": "آیا GTA 6 نیامده کرک شده است؟ ادعای یک هکر معروف",
+    "summary": "هم‌زمان با انتشار جهانی GTA 6 روی کنسول‌های نسل نهم، گزارشی غیرمنتظره از دور زدن تدابیر امنیتی تازه‌ترین فریمور پلی‌استیشن ۵ منتشر شد.",
+    "link": "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/"
+   },
+   "ts": 1795035121
   }
  }
 }
