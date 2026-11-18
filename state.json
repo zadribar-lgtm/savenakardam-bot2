@@ -497,27 +497,10 @@
   "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-sally-face-%d8%b1%d8%a7%d8%b2%d9%87%d8%a7%db%8c%db%8c-%da%a9%d9%87-%d9%be%d8%b4%d8%aa-%db%8c%da%a9",
   "https://www.zoomg.ir/game-news/420384-playstation-network-outage-uk/",
   "https://www.zoomg.ir/game-news/420380-gta-6-twitch-record-take-two-stock/",
-  "https://www.zoomg.ir/cinema-articles/420329-movies-to-watch-in-the-weekend-447/"
+  "https://www.zoomg.ir/cinema-articles/420329-movies-to-watch-in-the-weekend-447/",
+  "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/"
  ],
  "pending": {
-  "b03fd9b1": {
-   "text": "🎮 درخواست عجیب الکترونیک آرتز: بازی ما را به خاطر GTA 6 پاک نکنید!\n\nالکترونیک آرتز با نمایش پیامی درون بازی Madden NFL 27 از کاربران خواست بازی را برای بازکردن فضا حذف نکنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/",
-   "item": {
-    "title": "درخواست عجیب الکترونیک آرتز: بازی ما را به خاطر GTA 6 پاک نکنید!",
-    "summary": "الکترونیک آرتز با نمایش پیامی درون بازی Madden NFL 27 از کاربران خواست بازی را برای بازکردن فضا حذف نکنند.",
-    "link": "https://www.zoomg.ir/game-news/420248-madden-nfl-27-gta-6/"
-   },
-   "ts": 1794771728
-  },
-  "c56563db": {
-   "text": "🎮 نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت | قسمت اول تا چهارم\n\nحلقه‌های قدرت در فصل سوم خود نشان داد که آمازون با ترجیح فرمت‌های تجاری بر هویت تالکین نتوانسته رضایت مخاطبان را به خود جلب کند. همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/",
-   "item": {
-    "title": "نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت | قسمت اول تا چهارم",
-    "summary": "حلقه‌های قدرت در فصل سوم خود نشان داد که آمازون با ترجیح فرمت‌های تجاری بر هویت تالکین نتوانسته رضایت مخاطبان را به خود جلب کند. همراه زومجی باشید.",
-    "link": "https://www.zoomg.ir/movie-tv-show-review/420134-the-lord-of-the-rings-the-lord-of-the-rings-the-rings-of-power-series-review/"
-   },
-   "ts": 1794771730
-  },
   "b3586e4c": {
    "text": "🎮 ایکس باکس فلسفه طراحی کنسول نسل بعد خود را شرح داد\n\nمایکروسافت رویکرد طراحی کنسول نسل بعدی خود را شفاف‌سازی کرد و آن را دستگاهی کنسول‌محور با قابلیت اجرای بازی‌های رایانه‌ای خواند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420249-xbox-project-helix-console-focus/",
    "item": {
@@ -2317,6 +2300,15 @@
     "link": "https://www.zoomg.ir/cinema-articles/420329-movies-to-watch-in-the-weekend-447/"
    },
    "ts": 1795028968
+  },
+  "3f8654bd": {
+   "text": "🎮 چطور جوایز نسخه آلتیمیت GTA 6 را دریافت کنیم؟ آموزش کامل\n\nخریداران نسخه آلتیمیت جی‌تی‌ای ۶ می‌توانند پاداش‌های اختصاصی شامل خودروها، سلاح‌ها و لباس‌ها را آزاد کنند که آموزش کامل آن در ادامه آمده است.\n\n🔗 منبع: https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/",
+   "item": {
+    "title": "چطور جوایز نسخه آلتیمیت GTA 6 را دریافت کنیم؟ آموزش کامل",
+    "summary": "خریداران نسخه آلتیمیت جی‌تی‌ای ۶ می‌توانند پاداش‌های اختصاصی شامل خودروها، سلاح‌ها و لباس‌ها را آزاد کنند که آموزش کامل آن در ادامه آمده است.",
+    "link": "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/"
+   },
+   "ts": 1795032138
   }
  }
 }
