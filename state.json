@@ -442,18 +442,11 @@
   "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/",
   "https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/",
   "https://www.zoomg.ir/cinema-news/420340-marvel-doctor-doom-kang-replacement/",
-  "https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/"
+  "https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/",
+  "https://www.zoomg.ir/game-news/420342-gamepass-leaving-november-2026/",
+  "https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen"
  ],
  "pending": {
-  "fb1b2eaa": {
-   "text": "🎮 فروش مجموعه Dark Souls از مرز ۴۱ میلیون نسخه گذشت\n\nمجموعه‌ی محبوب Dark Souls با وجود گذشت سال‌ها از انتشار آخرین نسخه، به رکورد فروش بیش از ۴۱ میلیون نسخه در بازارهای جهانی دست یافت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/",
-   "item": {
-    "title": "فروش مجموعه Dark Souls از مرز ۴۱ میلیون نسخه گذشت",
-    "summary": "مجموعه‌ی محبوب Dark Souls با وجود گذشت سال‌ها از انتشار آخرین نسخه، به رکورد فروش بیش از ۴۱ میلیون نسخه در بازارهای جهانی دست یافت.",
-    "link": "https://www.zoomg.ir/game-news/420221-dark-souls-sales-41-million/"
-   },
-   "ts": 1794714957
-  },
   "087d4f94": {
    "text": "🎮 این بازی ساخته شده با هوش مصنوعی در استیم با استقبال هزاران کاربر مواجه شد\n\nبازی روگ‌لایک Slotbound علی‌رغم تولید کامل توسط مدل‌های هوش مصنوعی توانست بیش از ۹ هزار بازیکن همزمان در استیم جذب کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/",
    "item": {
@@ -2217,6 +2210,24 @@
     "link": "https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/"
    },
    "ts": 1794971370
+  },
+  "ed1ab053": {
+   "text": "🎮 هشت بازی خروجی گیم پس در پایان نوامبر ۲۰۲۶\n\nمایکروسافت اعلام کرد هشت بازی دیگر از کتابخانه‌ی سرویس گیم پس حذف خواهند شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420342-gamepass-leaving-november-2026/",
+   "item": {
+    "title": "هشت بازی خروجی گیم پس در پایان نوامبر ۲۰۲۶",
+    "summary": "مایکروسافت اعلام کرد هشت بازی دیگر از کتابخانه‌ی سرویس گیم پس حذف خواهند شد.",
+    "link": "https://www.zoomg.ir/game-news/420342-gamepass-leaving-november-2026/"
+   },
+   "ts": 1794974350
+  },
+  "cb51f9ed": {
+   "text": "🎮 بخش چندنفره دونفره و چهارنفره به Star Wars: Galactic Racer اضافه می‌شود\n\nبازیکنان از اوایل سال ۲۰۲۷ می‌توانند به‌صورت آفلاین و روی یک نمایشگر با دوستان خود مسابقه دهند\n\n🔗 منبع: https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen",
+   "item": {
+    "title": "بخش چندنفره دونفره و چهارنفره به Star Wars: Galactic Racer اضافه می‌شود",
+    "summary": "بازیکنان از اوایل سال ۲۰۲۷ می‌توانند به‌صورت آفلاین و روی یک نمایشگر با دوستان خود مسابقه دهند",
+    "link": "https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen"
+   },
+   "ts": 1794974352
   }
  }
 }
