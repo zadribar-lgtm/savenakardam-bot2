@@ -460,27 +460,11 @@
   "https://vigiato.net/r/sony-no-game-of-the-year-nominations-first-time-since-2014",
   "https://vigiato.net/r/marvel-planned-doctor-doom-before-jonathan-majors-firing",
   "https://vigiato.net/r/jeff-bezos-personally-involved-robert-pattinson-james-bond-casting",
-  "https://vigiato.net/r/rami-malek-praises-robert-pattinson-as-new-james-bond"
+  "https://vigiato.net/r/rami-malek-praises-robert-pattinson-as-new-james-bond",
+  "https://www.zoomg.ir/cinema-news/420353-matrix-franchise-rights-dispute-wachowskis/",
+  "https://vigiato.net/r/mini-city-ramtin-lavafi-filimo-series"
  ],
  "pending": {
-  "b2721c8a": {
-   "text": "🎮 انتقاد ناشر GTA 6 از شرکت‌های هوش مصنوعی برای کپی‌برداری از بازی‌های معروف\n\nمدیرعامل تیک تو در آستانه انتشار بازی GTA 6، از شرکت‌های هوش مصنوعی به دلیل شبیه‌سازی و نقض مالکیت بازی‌ها انتقاد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420228-take-two-ceo-ai-game-clones/",
-   "item": {
-    "title": "انتقاد ناشر GTA 6 از شرکت‌های هوش مصنوعی برای کپی‌برداری از بازی‌های معروف",
-    "summary": "مدیرعامل تیک تو در آستانه انتشار بازی GTA 6، از شرکت‌های هوش مصنوعی به دلیل شبیه‌سازی و نقض مالکیت بازی‌ها انتقاد کرد.",
-    "link": "https://www.zoomg.ir/game-news/420228-take-two-ceo-ai-game-clones/"
-   },
-   "ts": 1794733917
-  },
-  "f6894d14": {
-   "text": "🎮 کریس پرت خواهان بازگشت جیمز گان برای ساخت Guardians of the Galaxy 4 شد\n\n«جیمز اگر بخواهد برگردد و دوباره این مجموعه را بسازد، من با کمال میل استقبال می‌کنم.»\n\n🔗 منبع: https://vigiato.net/r/chris-pratt-james-gunn-guardians-of-the-galaxy-4",
-   "item": {
-    "title": "کریس پرت خواهان بازگشت جیمز گان برای ساخت Guardians of the Galaxy 4 شد",
-    "summary": "«جیمز اگر بخواهد برگردد و دوباره این مجموعه را بسازد، من با کمال میل استقبال می‌کنم.»",
-    "link": "https://vigiato.net/r/chris-pratt-james-gunn-guardians-of-the-galaxy-4"
-   },
-   "ts": 1794733919
-  },
   "a992b217": {
    "text": "🎮 تمجید سازنده Baldur's Gate 3 از کیفیت بازی Path of Exile 2\n\nمدیر نشر استودیو لاریان کیفیت بازی Path of Exile 2 را شاهکاری نبوغ‌آمیز خواند و از فروش چشمگیر آن در دوره دسترسی زودهنگام تمجید کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420229-path-of-exile-2-larian-praise/",
    "item": {
@@ -2271,6 +2255,24 @@
     "link": "https://vigiato.net/r/rami-malek-praises-robert-pattinson-as-new-james-bond"
    },
    "ts": 1794992077
+  },
+  "cd3d80ab": {
+   "text": "🎮 سرنوشت فیلم ماتریکس ۵ با یک چالش حقوقی غیرمنتظره گره خورد\n\nخواهران واچوفسکی با اقدام برای فسخ حق نشر ماتریکس، کنترل اسکای‌دنس بر ساخت قسمت پنجم را با چالشی جدی روبه‌رو کردند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420353-matrix-franchise-rights-dispute-wachowskis/",
+   "item": {
+    "title": "سرنوشت فیلم ماتریکس ۵ با یک چالش حقوقی غیرمنتظره گره خورد",
+    "summary": "خواهران واچوفسکی با اقدام برای فسخ حق نشر ماتریکس، کنترل اسکای‌دنس بر ساخت قسمت پنجم را با چالشی جدی روبه‌رو کردند.",
+    "link": "https://www.zoomg.ir/cinema-news/420353-matrix-franchise-rights-dispute-wachowskis/"
+   },
+   "ts": 1794995061
+  },
+  "aeef3b5c": {
+   "text": "🎮 سریال «مینی‌سیتی»؛ اثر جدید خالق «کنکل» با صابر ابر و هانیه توسلی به فیلیمو می‌آید\n\nاین سریال داستانی اجتماعی درباره پیامد اشتباهات نسل‌های گذشته روایت می‌کند\n\n🔗 منبع: https://vigiato.net/r/mini-city-ramtin-lavafi-filimo-series",
+   "item": {
+    "title": "سریال «مینی‌سیتی»؛ اثر جدید خالق «کنکل» با صابر ابر و هانیه توسلی به فیلیمو می‌آید",
+    "summary": "این سریال داستانی اجتماعی درباره پیامد اشتباهات نسل‌های گذشته روایت می‌کند",
+    "link": "https://vigiato.net/r/mini-city-ramtin-lavafi-filimo-series"
+   },
+   "ts": 1794995063
   }
  }
 }
