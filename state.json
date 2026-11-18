@@ -503,18 +503,10 @@
   "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/",
   "https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
   "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
-  "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/"
+  "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
+  "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/"
  ],
  "pending": {
-  "6fd15da3": {
-   "text": "🎮 تمرکز کنسول بعدی ایکس باکس روی حفظ بازی‌های قدیمی خواهد بود\n\nمایکروسافت حفظ بازی‌های قدیمی و محافظت از میراث دیجیتال را به عنوان یکی از ارکان کلیدی کنسول بعدی خود تعیین کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/",
-   "item": {
-    "title": "تمرکز کنسول بعدی ایکس باکس روی حفظ بازی‌های قدیمی خواهد بود",
-    "summary": "مایکروسافت حفظ بازی‌های قدیمی و محافظت از میراث دیجیتال را به عنوان یکی از ارکان کلیدی کنسول بعدی خود تعیین کرده است.",
-    "link": "https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/"
-   },
-   "ts": 1794783993
-  },
   "db11bfbc": {
    "text": "🎮 بعضی نسخه‌های فیزیکی GTA 6 حتی کد دانلود هم ندارند\n\nخریداران نسخه‌ی فیزیکی GTA 6 گزارش داده‌اند که درون جعبه‌ها هیچ دیسک یا حتی کد دانلودی وجود ندارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420253-gta-6-missing-codes/",
    "item": {
@@ -2323,6 +2315,15 @@
     "link": "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/"
    },
    "ts": 1795040923
+  },
+  "a14f2104": {
+   "text": "🎮 تعداد بازیکنان هفتگی World of Warcraft رکورد ۱۵ ساله آن را شکست\n\nبازی World of Warcraft: Forever با ثبت بیش از ۱۵ میلیون بازیکن، رکورد فعالیت هفتگی بلیزارد در ۱۵ سال گذشته را شکست.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/",
+   "item": {
+    "title": "تعداد بازیکنان هفتگی World of Warcraft رکورد ۱۵ ساله آن را شکست",
+    "summary": "بازی World of Warcraft: Forever با ثبت بیش از ۱۵ میلیون بازیکن، رکورد فعالیت هفتگی بلیزارد در ۱۵ سال گذشته را شکست.",
+    "link": "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/"
+   },
+   "ts": 1795043902
   }
  }
 }
