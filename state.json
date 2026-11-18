@@ -500,18 +500,12 @@
   "https://www.zoomg.ir/cinema-articles/420329-movies-to-watch-in-the-weekend-447/",
   "https://www.zoomg.ir/learning/420377-gta-6-ultimate-edition-rewards-guide/",
   "https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/",
-  "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/"
+  "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/",
+  "https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
+  "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
+  "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/"
  ],
  "pending": {
-  "e98bf682": {
-   "text": "🎮 دنباله معنوی Star Wars: KOTOR به‌زودی رونمایی می‌شود\n\nکیسی هادسون از انتشار اطلاعات و رونمایی‌های جدید پیرامون Star Wars: Fate of the Old Republic در سال آینده میلادی خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/",
-   "item": {
-    "title": "دنباله معنوی Star Wars: KOTOR به‌زودی رونمایی می‌شود",
-    "summary": "کیسی هادسون از انتشار اطلاعات و رونمایی‌های جدید پیرامون Star Wars: Fate of the Old Republic در سال آینده میلادی خبر داد.",
-    "link": "https://www.zoomg.ir/game-news/420251-star-wars-kotor-successor-updates/"
-   },
-   "ts": 1794779971
-  },
   "6fd15da3": {
    "text": "🎮 تمرکز کنسول بعدی ایکس باکس روی حفظ بازی‌های قدیمی خواهد بود\n\nمایکروسافت حفظ بازی‌های قدیمی و محافظت از میراث دیجیتال را به عنوان یکی از ارکان کلیدی کنسول بعدی خود تعیین کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420252-xbox-project-helix-game-preservation/",
    "item": {
@@ -2302,6 +2296,33 @@
     "link": "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/"
    },
    "ts": 1795035121
+  },
+  "fe37c93d": {
+   "text": "🎮 به‌روزرسانی بزرگ بازی Black Mesa با هدف بهبود گرافیک منتشر شد\n\nاستودیوی کرو بار کالکتیو با انتشار به‌روزرسانی بزرگ بازی Black Mesa، گرافیک، عملکرد فنی و رابط کاربری را ارتقا داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
+   "item": {
+    "title": "به‌روزرسانی بزرگ بازی Black Mesa با هدف بهبود گرافیک منتشر شد",
+    "summary": "استودیوی کرو بار کالکتیو با انتشار به‌روزرسانی بزرگ بازی Black Mesa، گرافیک، عملکرد فنی و رابط کاربری را ارتقا داد.",
+    "link": "https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/"
+   },
+   "ts": 1795040920
+  },
+  "1dfd1245": {
+   "text": "🎮 نگرانی سازندگان GTA 6 از احتمال تعدیل نیرو با وجود نمره ۹۹\n\nکارکنان استودیوی راک‌استار با وجود موفقیت‌های تجاری چشمگیر، به دلیل موج گسترده‌ی تعدیل نیرو در صنعت بازی احساس امنیت شغلی نمی‌کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
+   "item": {
+    "title": "نگرانی سازندگان GTA 6 از احتمال تعدیل نیرو با وجود نمره ۹۹",
+    "summary": "کارکنان استودیوی راک‌استار با وجود موفقیت‌های تجاری چشمگیر، به دلیل موج گسترده‌ی تعدیل نیرو در صنعت بازی احساس امنیت شغلی نمی‌کنند.",
+    "link": "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/"
+   },
+   "ts": 1795040922
+  },
+  "fcf4577e": {
+   "text": "🎮 ۷۰ درصد درآمد استیم مربوط به بازی‌های مولتی پلتفرم است\n\nپژوهش‌های تازه نشان می‌دهد بخش اعظم درآمد فروشگاه استیم تنها به شمار بسیار اندکی از بازی‌های چندپلتفرمی اختصاص دارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
+   "item": {
+    "title": "۷۰ درصد درآمد استیم مربوط به بازی‌های مولتی پلتفرم است",
+    "summary": "پژوهش‌های تازه نشان می‌دهد بخش اعظم درآمد فروشگاه استیم تنها به شمار بسیار اندکی از بازی‌های چندپلتفرمی اختصاص دارد.",
+    "link": "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/"
+   },
+   "ts": 1795040923
   }
  }
 }
