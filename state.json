@@ -481,27 +481,13 @@
   "https://www.zoomg.ir/game-news/420362-gta-6-photo-mode-confirmed/",
   "https://vigiato.net/r/kfc-australia-is-holding-a-fake-funeral-for-ann-alibi-so-you-can-take-the-day-off-for-gta-6",
   "https://www.zoomg.ir/game-articles/420367-gta6-details/",
-  "https://www.zoomg.ir/game-news/420366-gta-6-xbox-series-s-fsr4/"
+  "https://www.zoomg.ir/game-news/420366-gta-6-xbox-series-s-fsr4/",
+  "https://www.zoomg.ir/game-news/420369-sam-houser-statement-gta-6/",
+  "https://www.zoomg.ir/game-news/420368-firaxis-layoffs-sixty-employees-cut/",
+  "https://vigiato.net/r/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+  "https://vigiato.net/r/gta-6-uses-fsr-4-1-on-xbox-series-s-to-upscale-from-720p-to-1080p"
  ],
  "pending": {
-  "d4ece99d": {
-   "text": "🎮 پلاتینیوم کردن GTA 6 چقدر زمان می‌برد؟\n\nبخش داستانی GTA 6 حدود ۵۰ ساعت و تکمیل کامل آن ۲۰۰ ساعت زمان می‌برد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420240-gta-6-completion-time-revealed/",
-   "item": {
-    "title": "پلاتینیوم کردن GTA 6 چقدر زمان می‌برد؟",
-    "summary": "بخش داستانی GTA 6 حدود ۵۰ ساعت و تکمیل کامل آن ۲۰۰ ساعت زمان می‌برد.",
-    "link": "https://www.zoomg.ir/game-news/420240-gta-6-completion-time-revealed/"
-   },
-   "ts": 1794758336
-  },
-  "28436254": {
-   "text": "🎮 بررسی سریال VisionQuest\n\nماجراهای خانواده ماکسیموف در دنیای سینمایی مارول ادامه پیدا می‌کند\n\n🔗 منبع: https://vigiato.net/r/visionquest-review",
-   "item": {
-    "title": "بررسی سریال VisionQuest",
-    "summary": "ماجراهای خانواده ماکسیموف در دنیای سینمایی مارول ادامه پیدا می‌کند",
-    "link": "https://vigiato.net/r/visionquest-review"
-   },
-   "ts": 1794758337
-  },
   "c3ebeda3": {
    "text": "🎮 دسترسی بدون فیلترشکن به چت‌جی‌پی‌تی، جمنای و گراک امکان‌پذیر شد\n\nظاهرا از ساعاتی پیش برخی ابزارهای هوش مصنوعی بدون نیاز به VPN در دسترس کاربران ایرانی قرار گرفته‌اند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420243-ai-tools-accessible-without-vpn-iran/",
    "item": {
@@ -2265,6 +2251,42 @@
     "link": "https://www.zoomg.ir/game-news/420366-gta-6-xbox-series-s-fsr4/"
    },
    "ts": 1795015778
+  },
+  "35e90258": {
+   "text": "🎮 بیانیه احساسی راک استار همزمان با عرضه بازی GTA 6\n\nسم هوسر، بنیان‌گذار راک‌استار گیمز، همزمان با انتشار بازی Grand Theft Auto 6، در بیانیه‌ای کم‌سابقه از میراث قصه‌گویی و قدردانی از بازیکنان سخن گفت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420369-sam-houser-statement-gta-6/",
+   "item": {
+    "title": "بیانیه احساسی راک استار همزمان با عرضه بازی GTA 6",
+    "summary": "سم هوسر، بنیان‌گذار راک‌استار گیمز، همزمان با انتشار بازی Grand Theft Auto 6، در بیانیه‌ای کم‌سابقه از میراث قصه‌گویی و قدردانی از بازیکنان سخن گفت.",
+    "link": "https://www.zoomg.ir/game-news/420369-sam-houser-statement-gta-6/"
+   },
+   "ts": 1795019346
+  },
+  "897cc488": {
+   "text": "🎮 بهای سنگین تغییر مسیر؛ اخراج یک‌سوم کارمندان استودیو سازنده Civilization\n\nاستودیوی بازی‌سازی Firaxis حدود یک‌سوم نیروی کار خود شامل ۶۰ کارمند را به‌همراه مدیر استودیو اخراج کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420368-firaxis-layoffs-sixty-employees-cut/",
+   "item": {
+    "title": "بهای سنگین تغییر مسیر؛ اخراج یک‌سوم کارمندان استودیو سازنده Civilization",
+    "summary": "استودیوی بازی‌سازی Firaxis حدود یک‌سوم نیروی کار خود شامل ۶۰ کارمند را به‌همراه مدیر استودیو اخراج کرد.",
+    "link": "https://www.zoomg.ir/game-news/420368-firaxis-layoffs-sixty-employees-cut/"
+   },
+   "ts": 1795019348
+  },
+  "54f0b045": {
+   "text": "🎮 اجرای GTA 6 با نرخ ۶۰ فریم بر ثانیه روی پلی‌ استیشن ۵ پرو ممکن نیست\n\nراکستار می‌گوید پردازنده این کنسول توان اجرای شبیه‌سازی پیچیده بازی با نرخ فریم بالاتر را ندارد\n\n🔗 منبع: https://vigiato.net/r/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+   "item": {
+    "title": "اجرای GTA 6 با نرخ ۶۰ فریم بر ثانیه روی پلی‌ استیشن ۵ پرو ممکن نیست",
+    "summary": "راکستار می‌گوید پردازنده این کنسول توان اجرای شبیه‌سازی پیچیده بازی با نرخ فریم بالاتر را ندارد",
+    "link": "https://vigiato.net/r/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough"
+   },
+   "ts": 1795019349
+  },
+  "d33f43b4": {
+   "text": "🎮 بازی GTA 6 با فناوری FSR 4.1 روی ایکس باکس سری اس اجرا می‌شود\n\nراکستار برای اجرای بازی روی کنسول مایکروسافت، از فناوری ارتقای تصویر AMD استفاده کرده\n\n🔗 منبع: https://vigiato.net/r/gta-6-uses-fsr-4-1-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+   "item": {
+    "title": "بازی GTA 6 با فناوری FSR 4.1 روی ایکس باکس سری اس اجرا می‌شود",
+    "summary": "راکستار برای اجرای بازی روی کنسول مایکروسافت، از فناوری ارتقای تصویر AMD استفاده کرده",
+    "link": "https://vigiato.net/r/gta-6-uses-fsr-4-1-on-xbox-series-s-to-upscale-from-720p-to-1080p"
+   },
+   "ts": 1795019350
   }
  }
 }
