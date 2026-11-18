@@ -444,18 +444,12 @@
   "https://www.zoomg.ir/cinema-news/420340-marvel-doctor-doom-kang-replacement/",
   "https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/",
   "https://www.zoomg.ir/game-news/420342-gamepass-leaving-november-2026/",
-  "https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen"
+  "https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen",
+  "https://www.zoomg.ir/game-news/420344-sony-bans-gta-6-accounts/",
+  "https://www.zoomg.ir/game-news/420343-gta-6-pre-order-record/",
+  "https://vigiato.net/r/sony-wins-uk-playstation-digital-games-lawsuit"
  ],
  "pending": {
-  "087d4f94": {
-   "text": "🎮 این بازی ساخته شده با هوش مصنوعی در استیم با استقبال هزاران کاربر مواجه شد\n\nبازی روگ‌لایک Slotbound علی‌رغم تولید کامل توسط مدل‌های هوش مصنوعی توانست بیش از ۹ هزار بازیکن همزمان در استیم جذب کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/",
-   "item": {
-    "title": "این بازی ساخته شده با هوش مصنوعی در استیم با استقبال هزاران کاربر مواجه شد",
-    "summary": "بازی روگ‌لایک Slotbound علی‌رغم تولید کامل توسط مدل‌های هوش مصنوعی توانست بیش از ۹ هزار بازیکن همزمان در استیم جذب کند.",
-    "link": "https://www.zoomg.ir/game-news/420222-slotbound-steam-ai-game-success/"
-   },
-   "ts": 1794717716
-  },
   "52057380": {
    "text": "🎮 واکنش تند خالق Gears of War به مخالفان هوش مصنوعی\n\nکلیف بلزینسکی با دفاع از کاربرد هوش مصنوعی در ساخت بازی Big Walk، منتقدان را به واقع‌بینی فراخواند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420224-cliff-bleszinski-defends-ai-gaming/",
    "item": {
@@ -2228,6 +2222,33 @@
     "link": "https://vigiato.net/r/star-wars-galactic-racer-adding-in-local-split-screen"
    },
    "ts": 1794974352
+  },
+  "c3f9fee1": {
+   "text": "🎮 سونی حساب کاربران را به دلیل تغییر منطقه برای تجربه زودتر GTA 6 مسدود کرد\n\nسونی حساب‌های کاربری پلی استیشن در ریجن نیوزیلند را که حامل بازی GTA 6 بودند مسدود کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420344-sony-bans-gta-6-accounts/",
+   "item": {
+    "title": "سونی حساب کاربران را به دلیل تغییر منطقه برای تجربه زودتر GTA 6 مسدود کرد",
+    "summary": "سونی حساب‌های کاربری پلی استیشن در ریجن نیوزیلند را که حامل بازی GTA 6 بودند مسدود کرد.",
+    "link": "https://www.zoomg.ir/game-news/420344-sony-bans-gta-6-accounts/"
+   },
+   "ts": 1794977575
+  },
+  "23ca2308": {
+   "text": "🎮 پیش‌فروش نجومی GTA 6 به ۱۵ میلیون نسخه رسیده است\n\nفروش GTA 6 پیش از عرضه‌ی رسمی به مرز ۱۵ میلیون نسخه نزدیک شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420343-gta-6-pre-order-record/",
+   "item": {
+    "title": "پیش‌فروش نجومی GTA 6 به ۱۵ میلیون نسخه رسیده است",
+    "summary": "فروش GTA 6 پیش از عرضه‌ی رسمی به مرز ۱۵ میلیون نسخه نزدیک شده است.",
+    "link": "https://www.zoomg.ir/game-news/420343-gta-6-pre-order-record/"
+   },
+   "ts": 1794977577
+  },
+  "0cb2e591": {
+   "text": "🎮 سونی در پرونده شکایت ۲.۶ میلیارد دلاری پلی‌ استیشن در بریتانیا پیروز شد\n\nدادگاه بریتانیا شکایت علیه قیمت‌گذاری بازی‌های دیجیتالی و خریدهای درون‌برنامه‌ای را رد کرد\n\n🔗 منبع: https://vigiato.net/r/sony-wins-uk-playstation-digital-games-lawsuit",
+   "item": {
+    "title": "سونی در پرونده شکایت ۲.۶ میلیارد دلاری پلی‌ استیشن در بریتانیا پیروز شد",
+    "summary": "دادگاه بریتانیا شکایت علیه قیمت‌گذاری بازی‌های دیجیتالی و خریدهای درون‌برنامه‌ای را رد کرد",
+    "link": "https://vigiato.net/r/sony-wins-uk-playstation-digital-games-lawsuit"
+   },
+   "ts": 1794977578
   }
  }
 }
