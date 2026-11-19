@@ -527,7 +527,11 @@
   "https://www.zoomg.ir/game-news/420398-activision-adds-sbmm-dmz-mw4/",
   "https://www.zoomg.ir/game-news/420397-elon-musk-buys-skydance-games/",
   "https://vigiato.net/r/robert-downey-jr-teases-avengers-doomsday-with-new-behind-the-scenes-footage",
-  "https://vigiato.net/r/ai-fueled-game-development-just-needs-a-toy-story-style-hit-to-be-accepted-former-take-two-ceo-says"
+  "https://vigiato.net/r/ai-fueled-game-development-just-needs-a-toy-story-style-hit-to-be-accepted-former-take-two-ceo-says",
+  "https://www.zoomg.ir/learning/420396-gta-6-fast-travel-guide/",
+  "https://www.zoomg.ir/game-news/420399-gta-6-parodies-community-meme/",
+  "https://vigiato.net/r/gta-6s-record-metacritic-score-stays-maintains-goat-status",
+  "https://vigiato.net/r/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps"
  ],
  "pending": {
   "f4305096": {
@@ -2320,6 +2324,42 @@
     "link": "https://vigiato.net/r/ai-fueled-game-development-just-needs-a-toy-story-style-hit-to-be-accepted-former-take-two-ceo-says"
    },
    "ts": 1795085709
+  },
+  "974474e3": {
+   "text": "🎮 چگونه در GTA 6 سریع سفر کنیم؟ آموزش تمام روش‌های فست ترول\n\nسیستم سفر سریع در GTA 6 با ۳ روش تاکسی، برنامه RydeMe و حمل‌ونقل عمومی ارائه شده و رد کردن مسیر مستلزم پرداخت هزینه اضافی است.\n\n🔗 منبع: https://www.zoomg.ir/learning/420396-gta-6-fast-travel-guide/",
+   "item": {
+    "title": "چگونه در GTA 6 سریع سفر کنیم؟ آموزش تمام روش‌های فست ترول",
+    "summary": "سیستم سفر سریع در GTA 6 با ۳ روش تاکسی، برنامه RydeMe و حمل‌ونقل عمومی ارائه شده و رد کردن مسیر مستلزم پرداخت هزینه اضافی است.",
+    "link": "https://www.zoomg.ir/learning/420396-gta-6-fast-travel-guide/"
+   },
+   "ts": 1795088623
+  },
+  "c89dacd6": {
+   "text": "🎮 شوخی راک‌استار با یکی از معروف‌ترین میم‌های GTA 6 در خود بازی\n\nراک‌استار در بازی GTA VI یکی از مشهورترین میم‌های اینترنتی جامعه هواداران را مورد هجو قرار داده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420399-gta-6-parodies-community-meme/",
+   "item": {
+    "title": "شوخی راک‌استار با یکی از معروف‌ترین میم‌های GTA 6 در خود بازی",
+    "summary": "راک‌استار در بازی GTA VI یکی از مشهورترین میم‌های اینترنتی جامعه هواداران را مورد هجو قرار داده است.",
+    "link": "https://www.zoomg.ir/game-news/420399-gta-6-parodies-community-meme/"
+   },
+   "ts": 1795088624
+  },
+  "fa527960": {
+   "text": "🎮 رکورد امتیاز GTA 6 در متاکریتیک حفظ شد\n\nاین بازی در صدر تاریخ ایستاد!\n\n🔗 منبع: https://vigiato.net/r/gta-6s-record-metacritic-score-stays-maintains-goat-status",
+   "item": {
+    "title": "رکورد امتیاز GTA 6 در متاکریتیک حفظ شد",
+    "summary": "این بازی در صدر تاریخ ایستاد!",
+    "link": "https://vigiato.net/r/gta-6s-record-metacritic-score-stays-maintains-goat-status"
+   },
+   "ts": 1795088625
+  },
+  "4ec8d207": {
+   "text": "🎮 پردازنده پلی استیشن ۵ پرو برای اجرای GTA 6 با نرخ ۶۰ فریم کافی نیست\n\nراکستار می‌گوید محدودیت پردازنده کنسول اجازه نمی‌دهد بازی با نرخ فریم بالاتری اجرا شود\n\n🔗 منبع: https://vigiato.net/r/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps",
+   "item": {
+    "title": "پردازنده پلی استیشن ۵ پرو برای اجرای GTA 6 با نرخ ۶۰ فریم کافی نیست",
+    "summary": "راکستار می‌گوید محدودیت پردازنده کنسول اجازه نمی‌دهد بازی با نرخ فریم بالاتری اجرا شود",
+    "link": "https://vigiato.net/r/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps"
+   },
+   "ts": 1795088627
   }
  }
 }
