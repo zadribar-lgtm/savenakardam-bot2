@@ -504,18 +504,10 @@
   "https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
   "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
   "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
-  "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/"
+  "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/",
+  "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/"
  ],
  "pending": {
-  "db11bfbc": {
-   "text": "🎮 بعضی نسخه‌های فیزیکی GTA 6 حتی کد دانلود هم ندارند\n\nخریداران نسخه‌ی فیزیکی GTA 6 گزارش داده‌اند که درون جعبه‌ها هیچ دیسک یا حتی کد دانلودی وجود ندارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420253-gta-6-missing-codes/",
-   "item": {
-    "title": "بعضی نسخه‌های فیزیکی GTA 6 حتی کد دانلود هم ندارند",
-    "summary": "خریداران نسخه‌ی فیزیکی GTA 6 گزارش داده‌اند که درون جعبه‌ها هیچ دیسک یا حتی کد دانلودی وجود ندارد.",
-    "link": "https://www.zoomg.ir/game-news/420253-gta-6-missing-codes/"
-   },
-   "ts": 1794786397
-  },
   "211706e8": {
    "text": "🎮 فصل دوم انیمه Witch Watch در سال ۲۰۲۷ پخش خواهد شد + پوستر جدید\n\nفصل دوم انیمه Witch Watch بر اساس برنامه‌ریزی رسمی در سال ۲۰۲۷ میلادی پخش خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/",
    "item": {
@@ -2324,6 +2316,15 @@
     "link": "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/"
    },
    "ts": 1795043902
+  },
+  "b472523b": {
+   "text": "🎮 اولین نگاه به GTA 6 | راز شوکه‌کننده داستان در سه ساعت اول\n\nتجربه سه ساعت ابتدایی بازی GTA 6 فرصتی برای بررسی گیم‌پلی، رانندگی، دنیای وایس سیتی و گره‌های اولیه داستان جیسون و لوسیا فراهم کرده است.\n\n🔗 منبع: https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/",
+   "item": {
+    "title": "اولین نگاه به GTA 6 | راز شوکه‌کننده داستان در سه ساعت اول",
+    "summary": "تجربه سه ساعت ابتدایی بازی GTA 6 فرصتی برای بررسی گیم‌پلی، رانندگی، دنیای وایس سیتی و گره‌های اولیه داستان جیسون و لوسیا فراهم کرده است.",
+    "link": "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/"
+   },
+   "ts": 1795046672
   }
  }
 }
