@@ -561,18 +561,13 @@
   "https://www.zoomg.ir/game-news/420417-gta-6-rx-men-parody/",
   "https://www.zoomg.ir/game-articles/420407-never-grave-mobile-game/",
   "https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/",
-  "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/"
+  "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/",
+  "https://vigiato.net/r/ubisoft-lays-off-166-people-in-canadian-studios",
+  "https://vigiato.net/r/gta-6-day-one-first-impression-and-review",
+  "https://vigiato.net/r/ice-age-boiling-point-trailer-released",
+  "https://vigiato.net/r/gta-6-lucia-and-jason-actors-finally-revealed-officially"
  ],
  "pending": {
-  "8ddb85ce": {
-   "text": "🎮 رونمایی از پوستر دراکو مالفوی و پنج شخصیت دیگر در سریال هری پاتر\n\nشبکه اچ‌بی‌او با انتشار پوستر شخصیت دراکو مالفوی با بازی لاکس پرت، از ظاهر رقیب دیرینه هری پاتر رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/",
-   "item": {
-    "title": "رونمایی از پوستر دراکو مالفوی و پنج شخصیت دیگر در سریال هری پاتر",
-    "summary": "شبکه اچ‌بی‌او با انتشار پوستر شخصیت دراکو مالفوی با بازی لاکس پرت، از ظاهر رقیب دیرینه هری پاتر رونمایی کرد.",
-    "link": "https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/"
-   },
-   "ts": 1794870022
-  },
   "3da631dc": {
    "text": "🎮 Avengers: Doomsday در سه روز ۱۰ برابر Dune 3 بلیت فروخت!\n\nپیش‌فروش بلیت‌های فیلم Avengers: Doomsday در سه روز نخست حدود ۱۰ برابر قسمت سوم Dune گزارش شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420295-avengers-doomsday-dune-presales-record/",
    "item": {
@@ -2318,6 +2313,42 @@
     "link": "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/"
    },
    "ts": 1795128030
+  },
+  "1ae0c890": {
+   "text": "🎮 یوبیسافت ۱۶۶ نفر از کارکنان خود را اخراج می‌کند\n\nاین تعدیل نیرو متوجه نیروهای کانادایی خواهد شد\n\n🔗 منبع: https://vigiato.net/r/ubisoft-lays-off-166-people-in-canadian-studios",
+   "item": {
+    "title": "یوبیسافت ۱۶۶ نفر از کارکنان خود را اخراج می‌کند",
+    "summary": "این تعدیل نیرو متوجه نیروهای کانادایی خواهد شد",
+    "link": "https://vigiato.net/r/ubisoft-lays-off-166-people-in-canadian-studios"
+   },
+   "ts": 1795130656
+  },
+  "4bb54641": {
+   "text": "🎮 تجربه روز اول GTA 6؛ آرامش قبل از طوفان\n\nجیسون و لوسیا را بیخیال شوید، این بازی درباره لئونیداست!\n\n🔗 منبع: https://vigiato.net/r/gta-6-day-one-first-impression-and-review",
+   "item": {
+    "title": "تجربه روز اول GTA 6؛ آرامش قبل از طوفان",
+    "summary": "جیسون و لوسیا را بیخیال شوید، این بازی درباره لئونیداست!",
+    "link": "https://vigiato.net/r/gta-6-day-one-first-impression-and-review"
+   },
+   "ts": 1795130657
+  },
+  "6ec3a3af": {
+   "text": "🎮 تریلر رسمی انیمیشن Ice Age: Boiling Point منتشر شد\n\nدنیای گمشده در انتظار ماموت‌های دوست‌داشتنی\n\n🔗 منبع: https://vigiato.net/r/ice-age-boiling-point-trailer-released",
+   "item": {
+    "title": "تریلر رسمی انیمیشن Ice Age: Boiling Point منتشر شد",
+    "summary": "دنیای گمشده در انتظار ماموت‌های دوست‌داشتنی",
+    "link": "https://vigiato.net/r/ice-age-boiling-point-trailer-released"
+   },
+   "ts": 1795130658
+  },
+  "6a17ead1": {
+   "text": "🎮 اولین تصویر مشترک بازیگران جیسون و لوسیا در GTA 6 منتشر شد\n\nبالاخره دیلن رورک و منی ال پرز از شر قراردادهای راکستار راحت شدند\n\n🔗 منبع: https://vigiato.net/r/gta-6-lucia-and-jason-actors-finally-revealed-officially",
+   "item": {
+    "title": "اولین تصویر مشترک بازیگران جیسون و لوسیا در GTA 6 منتشر شد",
+    "summary": "بالاخره دیلن رورک و منی ال پرز از شر قراردادهای راکستار راحت شدند",
+    "link": "https://vigiato.net/r/gta-6-lucia-and-jason-actors-finally-revealed-officially"
+   },
+   "ts": 1795130659
   }
  }
 }
