@@ -506,18 +506,10 @@
   "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
   "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/",
   "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/",
-  "https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/"
+  "https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/",
+  "https://www.zoomg.ir/game-news/420378-gta-6-handcrafted-world-details/"
  ],
  "pending": {
-  "e084fded": {
-   "text": "🎮 جنسن هوانگ در حال بررسی بازگشت به مقام مدیرعاملی انویدیا است\n\nجنسن هوانگ پس از استعفای هفته‌ی گذشته، تحت فشار حامیان پرنفوذ در سیلیکون‌ولی، بازگشت به جایگاه مدیرعاملی انویدیا را بررسی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/",
-   "item": {
-    "title": "جنسن هوانگ در حال بررسی بازگشت به مقام مدیرعاملی انویدیا است",
-    "summary": "جنسن هوانگ پس از استعفای هفته‌ی گذشته، تحت فشار حامیان پرنفوذ در سیلیکون‌ولی، بازگشت به جایگاه مدیرعاملی انویدیا را بررسی می‌کند.",
-    "link": "https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/"
-   },
-   "ts": 1794800934
-  },
   "b9a453e2": {
    "text": "🎮 شبکه اچ‌بی‌او نخستین سکانس سریال هری پاتر را منتشر کرد\n\nشبکه HBO نخستین سکانس رسمی از سریال هری پاتر را پیش از پخش در ماه دسامبر رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420257-hbo-harry-potter-first-scene/",
    "item": {
@@ -2326,6 +2318,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/"
    },
    "ts": 1795057693
+  },
+  "6e135e2e": {
+   "text": "🎮 چرا راک استار از هوش مصنوعی در ساخت GTA 6 استفاده نکرده است؟\n\nمدیران ارشد راک‌استار گیمز ساخت دستی تمام جزئیات جهان GTA 6 بدون تکیه بر هوش مصنوعی مولد را دلیل اصلی محدودیت فریم‌ریت اعلام کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420378-gta-6-handcrafted-world-details/",
+   "item": {
+    "title": "چرا راک استار از هوش مصنوعی در ساخت GTA 6 استفاده نکرده است؟",
+    "summary": "مدیران ارشد راک‌استار گیمز ساخت دستی تمام جزئیات جهان GTA 6 بدون تکیه بر هوش مصنوعی مولد را دلیل اصلی محدودیت فریم‌ریت اعلام کردند.",
+    "link": "https://www.zoomg.ir/game-news/420378-gta-6-handcrafted-world-details/"
+   },
+   "ts": 1795060784
   }
  }
 }
