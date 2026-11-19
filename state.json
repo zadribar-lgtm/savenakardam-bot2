@@ -555,18 +555,12 @@
   "https://www.zoomg.ir/game-news/420413-gta-6-revenue-beats-hollywood/",
   "https://vigiato.net/r/breaking-gates-mobile-game-review",
   "https://www.zoomg.ir/cinema-news/420416-blade-runner-2099-key-art/",
-  "https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/"
+  "https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/",
+  "https://www.zoomg.ir/nim-negah/420419-gta-6-stream-part-2/",
+  "https://www.zoomg.ir/cinema-news/420418-invincible-season-5-release-date/",
+  "https://www.zoomg.ir/game-news/420417-gta-6-rx-men-parody/"
  ],
  "pending": {
-  "81c22742": {
-   "text": "🎮 شیگرو میاموتو برنده اولین جایزه Legend در مراسم دایس شد\n\nشیگرو میاموتو جایزه‌ی جدید و ویژه‌ی Legend را در ۳۰ امین دوره‌ی جوایز دایس دریافت خواهد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/",
-   "item": {
-    "title": "شیگرو میاموتو برنده اولین جایزه Legend در مراسم دایس شد",
-    "summary": "شیگرو میاموتو جایزه‌ی جدید و ویژه‌ی Legend را در ۳۰ امین دوره‌ی جوایز دایس دریافت خواهد کرد.",
-    "link": "https://www.zoomg.ir/game-news/420290-shigeru-miyamoto-inaugural-legend-award/"
-   },
-   "ts": 1794861761
-  },
   "db9f8c26": {
    "text": "🎮 توان گرافیکی ایکس باکس سری ایکس و اس تا ۱۶ درصد افزایش می‌یابد\n\nمایکروسافت کامپایلر شیدر جدیدی را برای ایکس باکس سری ایکس و ایکس باکس سری اس آزمایش می‌کند که عملکرد گرافیکی را تا ۱۶ درصد افزایش می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420292-microsoft-tests-aco-compiler-xbox/",
    "item": {
@@ -2294,6 +2288,33 @@
     "link": "https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/"
    },
    "ts": 1795116499
+  },
+  "f9ba59a9": {
+   "text": "🎮 ادامه ماجراجویی در GTA 6؛ دیدار با پاگنده و ماجراجویی‌های جیسون و لوسیا\n\nقسمت دوم تجربه طولانی بازی GTA 6 منتشر شد که در جریان آن بخش‌های تازه‌ای از نقشه وسیع و ماجراهای جیسون و لوسیا به تصویر کشیده شده است.\n\n🔗 منبع: https://www.zoomg.ir/nim-negah/420419-gta-6-stream-part-2/",
+   "item": {
+    "title": "ادامه ماجراجویی در GTA 6؛ دیدار با پاگنده و ماجراجویی‌های جیسون و لوسیا",
+    "summary": "قسمت دوم تجربه طولانی بازی GTA 6 منتشر شد که در جریان آن بخش‌های تازه‌ای از نقشه وسیع و ماجراهای جیسون و لوسیا به تصویر کشیده شده است.",
+    "link": "https://www.zoomg.ir/nim-negah/420419-gta-6-stream-part-2/"
+   },
+   "ts": 1795122828
+  },
+  "d5edeb61": {
+   "text": "🎮 نخستین تیزر فصل پنجم Invincible منتشر شد + تاریخ پخش\n\nآمازون با انتشار تیزری تازه، تاریخ پخش فصل پنجم انیمیشن محبوب Invincible را مشخص کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420418-invincible-season-5-release-date/",
+   "item": {
+    "title": "نخستین تیزر فصل پنجم Invincible منتشر شد + تاریخ پخش",
+    "summary": "آمازون با انتشار تیزری تازه، تاریخ پخش فصل پنجم انیمیشن محبوب Invincible را مشخص کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420418-invincible-season-5-release-date/"
+   },
+   "ts": 1795122829
+  },
+  "a2494a3e": {
+   "text": "🎮 راک‌استار از نسخه اختصاصی یک کمیک معروف در GTA 6 رونمایی کرد\n\nبازیکنان نسخه‌ای اختصاصی از یک کمیک معروف را در GTA 6 پیدا کرده‌اند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420417-gta-6-rx-men-parody/",
+   "item": {
+    "title": "راک‌استار از نسخه اختصاصی یک کمیک معروف در GTA 6 رونمایی کرد",
+    "summary": "بازیکنان نسخه‌ای اختصاصی از یک کمیک معروف را در GTA 6 پیدا کرده‌اند.",
+    "link": "https://www.zoomg.ir/game-news/420417-gta-6-rx-men-parody/"
+   },
+   "ts": 1795122831
   }
  }
 }
