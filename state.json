@@ -543,7 +543,11 @@
   "https://www.zoomg.ir/game-news/420405-gta-6-boosts-sony-stock/",
   "https://www.zoomg.ir/game-news/420404-the-division-2-crossplay-update/",
   "https://vigiato.net/r/hollywood-music-in-media-awards-winners-include-ludwig-goransson-la-bola-negra-taylor-swift-diane-warren-jaafar-jackson",
-  "https://vigiato.net/r/konami-has-registered-new-trademarks-for-silent-scope-and-thrill-drive"
+  "https://vigiato.net/r/konami-has-registered-new-trademarks-for-silent-scope-and-thrill-drive",
+  "https://www.zoomg.ir/game-news/420408-gta-6-official-map/",
+  "https://www.zoomg.ir/game-news/420406-ronaldo-konami-efootball-brand-ambassador/",
+  "https://vigiato.net/r/new-avengers-doomsday-posters-reveal-key",
+  "https://vigiato.net/r/could-this-be-the-start-of-gta-6s-version-of-the-mount-chiliad-mystery"
  ],
  "pending": {
   "29f0583f": {
@@ -2399,6 +2403,42 @@
     "link": "https://vigiato.net/r/konami-has-registered-new-trademarks-for-silent-scope-and-thrill-drive"
    },
    "ts": 1795099402
+  },
+  "1862a0f8": {
+   "text": "🎮 نقشه رسمی GTA 6 در وب‌سایت راک‌استار منتشر شد\n\nراک‌استار گیمز نقشه GTA 6 را با رویکردی بلندمدت طراحی کرده است تا امکان افزودن محتوای داستانی یا گیم‌پلی در آینده فراهم باشد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420408-gta-6-official-map/",
+   "item": {
+    "title": "نقشه رسمی GTA 6 در وب‌سایت راک‌استار منتشر شد",
+    "summary": "راک‌استار گیمز نقشه GTA 6 را با رویکردی بلندمدت طراحی کرده است تا امکان افزودن محتوای داستانی یا گیم‌پلی در آینده فراهم باشد.",
+    "link": "https://www.zoomg.ir/game-news/420408-gta-6-official-map/"
+   },
+   "ts": 1795102722
+  },
+  "7ecae2ff": {
+   "text": "🎮 کونامی رونالدو را سفیر eFootball می‌کند\n\nکریستیانو رونالدو پس از پایان دوران فوتبال باشگاهی، سفیر رسمی بازی شبیه‌ساز فوتبال کونامی خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420406-ronaldo-konami-efootball-brand-ambassador/",
+   "item": {
+    "title": "کونامی رونالدو را سفیر eFootball می‌کند",
+    "summary": "کریستیانو رونالدو پس از پایان دوران فوتبال باشگاهی، سفیر رسمی بازی شبیه‌ساز فوتبال کونامی خواهد شد.",
+    "link": "https://www.zoomg.ir/game-news/420406-ronaldo-konami-efootball-brand-ambassador/"
+   },
+   "ts": 1795102723
+  },
+  "777d91ce": {
+   "text": "🎮 پوسترهای جدید Avengers: Doomsday منتشر شد\n\nنایت‌کراولر و ربات‌های سنتینل\n\n🔗 منبع: https://vigiato.net/r/new-avengers-doomsday-posters-reveal-key",
+   "item": {
+    "title": "پوسترهای جدید Avengers: Doomsday منتشر شد",
+    "summary": "نایت‌کراولر و ربات‌های سنتینل",
+    "link": "https://vigiato.net/r/new-avengers-doomsday-posters-reveal-key"
+   },
+   "ts": 1795102725
+  },
+  "00cccaa9": {
+   "text": "🎮 گیمرها در GTA 6 نشانه‌هایی از شکل‌گیری معمایی مشابه کوه چیلیاد پیدا کردند\n\nرازی مرموز در دل این بازی‌ پنهان شده\n\n🔗 منبع: https://vigiato.net/r/could-this-be-the-start-of-gta-6s-version-of-the-mount-chiliad-mystery",
+   "item": {
+    "title": "گیمرها در GTA 6 نشانه‌هایی از شکل‌گیری معمایی مشابه کوه چیلیاد پیدا کردند",
+    "summary": "رازی مرموز در دل این بازی‌ پنهان شده",
+    "link": "https://vigiato.net/r/could-this-be-the-start-of-gta-6s-version-of-the-mount-chiliad-mystery"
+   },
+   "ts": 1795102727
   }
  }
 }
