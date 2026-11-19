@@ -505,18 +505,10 @@
   "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
   "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
   "https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/",
-  "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/"
+  "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/",
+  "https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/"
  ],
  "pending": {
-  "211706e8": {
-   "text": "🎮 فصل دوم انیمه Witch Watch در سال ۲۰۲۷ پخش خواهد شد + پوستر جدید\n\nفصل دوم انیمه Witch Watch بر اساس برنامه‌ریزی رسمی در سال ۲۰۲۷ میلادی پخش خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/",
-   "item": {
-    "title": "فصل دوم انیمه Witch Watch در سال ۲۰۲۷ پخش خواهد شد + پوستر جدید",
-    "summary": "فصل دوم انیمه Witch Watch بر اساس برنامه‌ریزی رسمی در سال ۲۰۲۷ میلادی پخش خواهد شد.",
-    "link": "https://www.zoomg.ir/cinema-news/420254-witch-watch-season-2-date/"
-   },
-   "ts": 1794797289
-  },
   "e084fded": {
    "text": "🎮 جنسن هوانگ در حال بررسی بازگشت به مقام مدیرعاملی انویدیا است\n\nجنسن هوانگ پس از استعفای هفته‌ی گذشته، تحت فشار حامیان پرنفوذ در سیلیکون‌ولی، بازگشت به جایگاه مدیرعاملی انویدیا را بررسی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420255-jensen-huang-potential-nvidia-return/",
    "item": {
@@ -2325,6 +2317,15 @@
     "link": "https://www.zoomg.ir/nim-negah/420387-gta-6-first-hours-gameplay-story/"
    },
    "ts": 1795046672
+  },
+  "16d04753": {
+   "text": "🎮 فصل سوم سریال فال‌اوت به سوال‌ها در مورد Ghoul پاسخ می‌دهد\n\nوالتون گاگینز اعلام کرد فصل سوم سریال فال‌اوت به پرسش‌های بنیادی پیرامون انگیزه و سرنوشت شخصیت غول پس از دو قرن جست‌وجو پاسخ می‌دهد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/",
+   "item": {
+    "title": "فصل سوم سریال فال‌اوت به سوال‌ها در مورد Ghoul پاسخ می‌دهد",
+    "summary": "والتون گاگینز اعلام کرد فصل سوم سریال فال‌اوت به پرسش‌های بنیادی پیرامون انگیزه و سرنوشت شخصیت غول پس از دو قرن جست‌وجو پاسخ می‌دهد.",
+    "link": "https://www.zoomg.ir/cinema-news/420370-fallout-season-3-ghoul-mystery/"
+   },
+   "ts": 1795057693
   }
  }
 }
