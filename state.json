@@ -553,36 +553,11 @@
   "https://www.zoomg.ir/game-news/420411-game-industry-layoffs-crisis/",
   "https://www.zoomg.ir/cinema-news/420415-ice-age-boiling-point-trailer/",
   "https://www.zoomg.ir/game-news/420413-gta-6-revenue-beats-hollywood/",
-  "https://vigiato.net/r/breaking-gates-mobile-game-review"
+  "https://vigiato.net/r/breaking-gates-mobile-game-review",
+  "https://www.zoomg.ir/cinema-news/420416-blade-runner-2099-key-art/",
+  "https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/"
  ],
  "pending": {
-  "f6ffca2f": {
-   "text": "🎮 هکر بازی GTA 6 در دادگاه به گناهکار بودن خود اعتراف کرد\n\nعامل نفوذ امنیتی به سرورهای راک‌استار گیمز در دادگاه به تمام اتهامات سایبری و درگیری فیزیکی اعتراف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420289-gta-6-hacker-pleads-guilty/",
-   "item": {
-    "title": "هکر بازی GTA 6 در دادگاه به گناهکار بودن خود اعتراف کرد",
-    "summary": "عامل نفوذ امنیتی به سرورهای راک‌استار گیمز در دادگاه به تمام اتهامات سایبری و درگیری فیزیکی اعتراف کرد.",
-    "link": "https://www.zoomg.ir/game-news/420289-gta-6-hacker-pleads-guilty/"
-   },
-   "ts": 1794856118
-  },
-  "d8fe0365": {
-   "text": "🎮 علت حذف زامبی‌ها از Resident Evil 4 مشخص شد\n\nشینجی میکامی، خالق نام‌آشنای Resident Evil دلایل اصلی کنار گذاشتن زامبی‌ها و معرفی دشمنان جدید در نسخه چهارم این مجموعه را تشریح کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420288-shinji-mikami-resident-evil-zombies/",
-   "item": {
-    "title": "علت حذف زامبی‌ها از Resident Evil 4 مشخص شد",
-    "summary": "شینجی میکامی، خالق نام‌آشنای Resident Evil دلایل اصلی کنار گذاشتن زامبی‌ها و معرفی دشمنان جدید در نسخه چهارم این مجموعه را تشریح کرد.",
-    "link": "https://www.zoomg.ir/game-news/420288-shinji-mikami-resident-evil-zombies/"
-   },
-   "ts": 1794856120
-  },
-  "dfd91c1e": {
-   "text": "🎮 پنج بازی دیگر که همزمان با GTA 6 در تاریخ ۱۹ نوامبر منتشر می‌شوند\n\nبازی‌هایی که ظاهرا هیچ ترسی از جی تی ای ۶ ندارند\n\n🔗 منبع: https://vigiato.net/r/five-games-that-are-releasing-alongside-gta-6-november-19",
-   "item": {
-    "title": "پنج بازی دیگر که همزمان با GTA 6 در تاریخ ۱۹ نوامبر منتشر می‌شوند",
-    "summary": "بازی‌هایی که ظاهرا هیچ ترسی از جی تی ای ۶ ندارند",
-    "link": "https://vigiato.net/r/five-games-that-are-releasing-alongside-gta-6-november-19"
-   },
-   "ts": 1794856121
-  },
   "939e9be8": {
    "text": "🎮 معرفی بازی موبایل Drive Zone | از تیونینگ حرفه‌ای تا کل‌کل خیابانی\n\nDrive Zone Online با گیم‌پلی جهان‌باز، فیزیک واقع‌گرایانه و تیونینگ عمیق، هیجان رانندگی و دریفت را به گوشی شما می‌آورد.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420281-drive-zone-mobile-game/",
    "item": {
@@ -2310,6 +2285,24 @@
     "link": "https://vigiato.net/r/breaking-gates-mobile-game-review"
    },
    "ts": 1795112785
+  },
+  "99f21773": {
+   "text": "🎮 پوسترهایی از شخصیت‌های سریال Blade Runner 2099 منتشر شد\n\nپوسترهای شخصیت‌های سریال Blade Runner 2099 در آستانه پخش منتشر شدند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420416-blade-runner-2099-key-art/",
+   "item": {
+    "title": "پوسترهایی از شخصیت‌های سریال Blade Runner 2099 منتشر شد",
+    "summary": "پوسترهای شخصیت‌های سریال Blade Runner 2099 در آستانه پخش منتشر شدند.",
+    "link": "https://www.zoomg.ir/cinema-news/420416-blade-runner-2099-key-art/"
+   },
+   "ts": 1795116498
+  },
+  "9d6aaa02": {
+   "text": "🎮 نحوه فعال‌سازی کنترل‌های کلاسیک GTA 5 در GTA 6\n\nدر ادامه یاد می‌گیرید تنظیمات کنترل GTA 6 را طوری تغییر دهید که حس‌وحالی نزدیک‌تر به نسخه‌های قدیمی‌تر داشته باشد\n\n🔗 منبع: https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/",
+   "item": {
+    "title": "نحوه فعال‌سازی کنترل‌های کلاسیک GTA 5 در GTA 6",
+    "summary": "در ادامه یاد می‌گیرید تنظیمات کنترل GTA 6 را طوری تغییر دهید که حس‌وحالی نزدیک‌تر به نسخه‌های قدیمی‌تر داشته باشد",
+    "link": "https://www.zoomg.ir/learning/420412-gta-6-classic-controls-guide/"
+   },
+   "ts": 1795116499
   }
  }
 }
