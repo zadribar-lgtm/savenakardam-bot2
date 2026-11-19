@@ -560,18 +560,10 @@
   "https://www.zoomg.ir/cinema-news/420418-invincible-season-5-release-date/",
   "https://www.zoomg.ir/game-news/420417-gta-6-rx-men-parody/",
   "https://www.zoomg.ir/game-articles/420407-never-grave-mobile-game/",
-  "https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/"
+  "https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/",
+  "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/"
  ],
  "pending": {
-  "2fa7d6be": {
-   "text": "🎮 تصاویر جدید GTA 6 از ۶ سیستم آب‌وهوای بازی رونمایی کردند\n\nتصاویر جدیدی از بازی GTA 6 منتشر شده است که ۶ سیستم آب‌وهوایی مختلف و واقع‌گرایانه‌ی جهان لئونیدا را به نمایش می‌گذارند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420293-gta-6-weather-systems-screenshots/",
-   "item": {
-    "title": "تصاویر جدید GTA 6 از ۶ سیستم آب‌وهوای بازی رونمایی کردند",
-    "summary": "تصاویر جدیدی از بازی GTA 6 منتشر شده است که ۶ سیستم آب‌وهوایی مختلف و واقع‌گرایانه‌ی جهان لئونیدا را به نمایش می‌گذارند.",
-    "link": "https://www.zoomg.ir/game-news/420293-gta-6-weather-systems-screenshots/"
-   },
-   "ts": 1794867446
-  },
   "8ddb85ce": {
    "text": "🎮 رونمایی از پوستر دراکو مالفوی و پنج شخصیت دیگر در سریال هری پاتر\n\nشبکه اچ‌بی‌او با انتشار پوستر شخصیت دراکو مالفوی با بازی لاکس پرت، از ظاهر رقیب دیرینه هری پاتر رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420294-harry-potter-draco-malfoy-poster/",
    "item": {
@@ -2317,6 +2309,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/"
    },
    "ts": 1795125511
+  },
+  "ea0076e5": {
+   "text": "🎮 بیلد نسخه ایکس باکس GTA 6 احتمالا لو رفته است\n\nسایبرلیک مدعی انتشار بیلد کامل نسخه ایکس باکس بازی GTA 6 در حجم ۲۰۹ گیگابایت شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/",
+   "item": {
+    "title": "بیلد نسخه ایکس باکس GTA 6 احتمالا لو رفته است",
+    "summary": "سایبرلیک مدعی انتشار بیلد کامل نسخه ایکس باکس بازی GTA 6 در حجم ۲۰۹ گیگابایت شده است.",
+    "link": "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/"
+   },
+   "ts": 1795128030
   }
  }
 }
