@@ -570,18 +570,11 @@
   "https://www.zoomg.ir/game-news/420423-gta-6-paul-walker-tribute/",
   "https://www.zoomg.ir/game-news/420424-assassins-creed-jade-in-development/",
   "https://www.zoomg.ir/cinema-news/420426-solo-leveling-trading-cards-2027/",
-  "https://www.zoomg.ir/learning/420425-best-gta-6-settings/"
+  "https://www.zoomg.ir/learning/420425-best-gta-6-settings/",
+  "https://www.zoomg.ir/game-news/420428-battlefield-6-trolls-gta-vi/",
+  "https://www.zoomg.ir/game-news/420427-cd-projekt-praises-gta-6/"
  ],
  "pending": {
-  "2ad5e58d": {
-   "text": "🎮 مخالفت با نظر ترامپ: انویدیا بازگشت جنسن هوانگ را رد کرد\n\nانویدیا با وجود تشکیل اتاق جنگ حامیان و چراغ سبز ترامپ، بازگشت جنسن هوانگ را نمی‌پذیرد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420300-nvidia-rejects-jensen-huang-return/",
-   "item": {
-    "title": "مخالفت با نظر ترامپ: انویدیا بازگشت جنسن هوانگ را رد کرد",
-    "summary": "انویدیا با وجود تشکیل اتاق جنگ حامیان و چراغ سبز ترامپ، بازگشت جنسن هوانگ را نمی‌پذیرد.",
-    "link": "https://www.zoomg.ir/tech-news/420300-nvidia-rejects-jensen-huang-return/"
-   },
-   "ts": 1794896089
-  },
   "66ee2607": {
    "text": "🎮 هوش مصنوعی «دیا» معرفی شد؛ خرید اینترنتی با دستیار هوشمند دیجی‌کالا\n\nدیجی‌کالا با معرفی دیا، دستیار هوشمندی را به کار گرفته که با گفت‌وگوی صوتی، متنی و تصویری به انتخاب کالا و پیگیری سفارش‌ها کمک می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420303-digikala-dia-ai-shopping-assistant/",
    "item": {
@@ -2354,6 +2347,24 @@
     "link": "https://www.zoomg.ir/learning/420425-best-gta-6-settings/"
    },
    "ts": 1795149423
+  },
+  "23d122cb": {
+   "text": "🎮 EA با الهام از GTA 6 حالت وایس سیتی را به بتلفیلد ۶ اضافه کرد\n\nالکترونیک آرتز با افزودن حالتی ویژه به Battlefield 6، فضای شهر وایس سیتی را بازسازی کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420428-battlefield-6-trolls-gta-vi/",
+   "item": {
+    "title": "EA با الهام از GTA 6 حالت وایس سیتی را به بتلفیلد ۶ اضافه کرد",
+    "summary": "الکترونیک آرتز با افزودن حالتی ویژه به Battlefield 6، فضای شهر وایس سیتی را بازسازی کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420428-battlefield-6-trolls-gta-vi/"
+   },
+   "ts": 1795156510
+  },
+  "ae96ab0d": {
+   "text": "🎮 تمجید مدیران سی‌دی پراجکت از بازی GTA 6 با خطاب کردن آن به‌عنوان «شاهکار»\n\nمدیران ارشد استودیوی سی‌دی پراجکت رد با ستایش گسترده، اثر جدید راکستار گیمز را یک شاهکار نسلی توصیف کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420427-cd-projekt-praises-gta-6/",
+   "item": {
+    "title": "تمجید مدیران سی‌دی پراجکت از بازی GTA 6 با خطاب کردن آن به‌عنوان «شاهکار»",
+    "summary": "مدیران ارشد استودیوی سی‌دی پراجکت رد با ستایش گسترده، اثر جدید راکستار گیمز را یک شاهکار نسلی توصیف کردند.",
+    "link": "https://www.zoomg.ir/game-news/420427-cd-projekt-praises-gta-6/"
+   },
+   "ts": 1795156511
   }
  }
 }
