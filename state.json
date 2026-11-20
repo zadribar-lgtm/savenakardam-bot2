@@ -620,27 +620,12 @@
   "https://vigiato.net/r/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a8%d8%a7%d8%b2%db%8c-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84%db%8c-moonlight-peaks-%d8%b2%d9%86%d8%af%da%af%db%8c-%d8%a2%d8%b1%d8%a7%d9%85-%db%8c%da%a9-%d8%ae%d9%88",
   "https://www.zoomg.ir/game-news/420454-resident-evil-creator-slams-ai/",
   "https://www.zoomg.ir/cinema-news/420456-macaulay-culkin-home-alone-reboot/",
-  "https://www.zoomg.ir/game-news/420455-niko-bellic-returns-gta-6/"
+  "https://www.zoomg.ir/game-news/420455-niko-bellic-returns-gta-6/",
+  "https://www.zoomg.ir/game-news/420457-gta-6-day-one-sales/",
+  "https://www.zoomg.ir/game-articles/420447-caravan-sandwitch-mobile-game/",
+  "https://vigiato.net/r/new-home-alone-movie-is-in-works-with-disney"
  ],
  "pending": {
-  "fa5522eb": {
-   "text": "🎮 معرفی بازی موبایل Lil Guardsman | پادشاه نوجوان\n\nLil Guardsman داستان دخترکی ۱۲ ساله است که با طنزی جذاب، سرنوشت یک پادشاهی را در باجه‌ی نگهبانی رقم می‌زند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420323-lil-guardsman-mobile-game/",
-   "item": {
-    "title": "معرفی بازی موبایل Lil Guardsman | پادشاه نوجوان",
-    "summary": "Lil Guardsman داستان دخترکی ۱۲ ساله است که با طنزی جذاب، سرنوشت یک پادشاهی را در باجه‌ی نگهبانی رقم می‌زند.",
-    "link": "https://www.zoomg.ir/game-articles/420323-lil-guardsman-mobile-game/"
-   },
-   "ts": 1794948668
-  },
-  "d04ef19c": {
-   "text": "🎮 پلی استیشن برای اولین‌بار در ۱۱ سال اخیر نامزد بهترین بازی سال نیست\n\nنامزدهای گیم اواردز ۲۰۲۶ معرفی شدند و سونی پس از ۱۱ سال هیچ نماینده‌ای در بخش بازی سال ندارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/",
-   "item": {
-    "title": "پلی استیشن برای اولین‌بار در ۱۱ سال اخیر نامزد بهترین بازی سال نیست",
-    "summary": "نامزدهای گیم اواردز ۲۰۲۶ معرفی شدند و سونی پس از ۱۱ سال هیچ نماینده‌ای در بخش بازی سال ندارد.",
-    "link": "https://www.zoomg.ir/game-news/420336-sony-goty-nomination-streak-ends/"
-   },
-   "ts": 1794948670
-  },
   "221e3bfa": {
    "text": "🎮 پوستر جدید انیمیشن Angry Birds 3 با الهام از GTA 6 منتشر شد\n\nسازندگان انیمیشن انگری بردز ۳ پوستر تازه‌ای با الهام از سبک بصری بازی جی تی ای ۶ منتشر کردند که توجه زیادی در شبکه‌های اجتماعی برانگیخته است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420337-angry-birds-3-gta-6/",
    "item": {
@@ -2287,6 +2272,33 @@
     "link": "https://www.zoomg.ir/game-news/420455-niko-bellic-returns-gta-6/"
    },
    "ts": 1795205414
+  },
+  "fea5a1aa": {
+   "text": "🎮 آمار رسمی فروش GTA 6 اعلام شد؛ بزرگ‌ترین عرضه تاریخ سرگرمی\n\nبازی GTA 6 با ثبت فروش ۳.۷۹ میلیارد دلاری در روز نخست عرضه، بزرگ‌ترین رویداد تجاری تاریخ سرگرمی را رقم زد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420457-gta-6-day-one-sales/",
+   "item": {
+    "title": "آمار رسمی فروش GTA 6 اعلام شد؛ بزرگ‌ترین عرضه تاریخ سرگرمی",
+    "summary": "بازی GTA 6 با ثبت فروش ۳.۷۹ میلیارد دلاری در روز نخست عرضه، بزرگ‌ترین رویداد تجاری تاریخ سرگرمی را رقم زد.",
+    "link": "https://www.zoomg.ir/game-news/420457-gta-6-day-one-sales/"
+   },
+   "ts": 1795208122
+  },
+  "3a3ea1b3": {
+   "text": "🎮 معرفی بازی موبایل Caravan SandWitch | امید در دل ویرانی\n\nبازی موبایل Caravan SandWitch با یک ون زرد در سیگالو می‌تازد تا راز خواهر گمشده را بیابد.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420447-caravan-sandwitch-mobile-game/",
+   "item": {
+    "title": "معرفی بازی موبایل Caravan SandWitch | امید در دل ویرانی",
+    "summary": "بازی موبایل Caravan SandWitch با یک ون زرد در سیگالو می‌تازد تا راز خواهر گمشده را بیابد.",
+    "link": "https://www.zoomg.ir/game-articles/420447-caravan-sandwitch-mobile-game/"
+   },
+   "ts": 1795208124
+  },
+  "13af0d07": {
+   "text": "🎮 فیلم جدید Home Alone با بازگشت مکالی کالکین در دست ساخت است\n\nکالکین پس از ۳۴ سال به نقش خود باز می‌گردد\n\n🔗 منبع: https://vigiato.net/r/new-home-alone-movie-is-in-works-with-disney",
+   "item": {
+    "title": "فیلم جدید Home Alone با بازگشت مکالی کالکین در دست ساخت است",
+    "summary": "کالکین پس از ۳۴ سال به نقش خود باز می‌گردد",
+    "link": "https://vigiato.net/r/new-home-alone-movie-is-in-works-with-disney"
+   },
+   "ts": 1795208125
   }
  }
 }
