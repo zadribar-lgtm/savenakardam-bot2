@@ -566,18 +566,10 @@
   "https://vigiato.net/r/gta-6-day-one-first-impression-and-review",
   "https://vigiato.net/r/ice-age-boiling-point-trailer-released",
   "https://vigiato.net/r/gta-6-lucia-and-jason-actors-finally-revealed-officially",
-  "https://www.zoomg.ir/cinema-news/420422-man-of-tomorrow-footage-skydance/"
+  "https://www.zoomg.ir/cinema-news/420422-man-of-tomorrow-footage-skydance/",
+  "https://www.zoomg.ir/game-news/420423-gta-6-paul-walker-tribute/"
  ],
  "pending": {
-  "05279af2": {
-   "text": "🎮 درخواست ۲۶۸ هزار هوادار برای بازگشت جیمز گان به دی‌سی\n\nبیش از ۲۶۸ هزار نفر از هواداران دنیای سینمایی دی‌سی با امضای کارزاری رسمی، خواستار لغو تصمیم برکناری جیمز گان شدند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/",
-   "item": {
-    "title": "درخواست ۲۶۸ هزار هوادار برای بازگشت جیمز گان به دی‌سی",
-    "summary": "بیش از ۲۶۸ هزار نفر از هواداران دنیای سینمایی دی‌سی با امضای کارزاری رسمی، خواستار لغو تصمیم برکناری جیمز گان شدند.",
-    "link": "https://www.zoomg.ir/cinema-news/420296-petition-demands-james-gunn-return/"
-   },
-   "ts": 1794882830
-  },
   "870327ef": {
    "text": "🎮 شایعه حضور آرون پیر در نقش جدای در فیلم جنگ ستارگان\n\nگزارش‌ها حاکی از آن است که آرون پیر نقش یک جدای را در فیلم جدید جنگ ستارگان ایفا می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420298-aaron-pierre-star-wars-starfighter/",
    "item": {
@@ -2350,6 +2342,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420422-man-of-tomorrow-footage-skydance/"
    },
    "ts": 1795133035
+  },
+  "9324dd8b": {
+   "text": "🎮 ادای احترام راک‌استار به ستاره فقید سینما در GTA 6\n\nراک‌استار در بازی GTA 6 ادای احترامی نوستالژیک به یکی از ستارگان فقید سینما ارائه کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420423-gta-6-paul-walker-tribute/",
+   "item": {
+    "title": "ادای احترام راک‌استار به ستاره فقید سینما در GTA 6",
+    "summary": "راک‌استار در بازی GTA 6 ادای احترامی نوستالژیک به یکی از ستارگان فقید سینما ارائه کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420423-gta-6-paul-walker-tribute/"
+   },
+   "ts": 1795143003
   }
  }
 }
