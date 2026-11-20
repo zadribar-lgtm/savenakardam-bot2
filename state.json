@@ -625,18 +625,10 @@
   "https://www.zoomg.ir/game-articles/420447-caravan-sandwitch-mobile-game/",
   "https://vigiato.net/r/new-home-alone-movie-is-in-works-with-disney",
   "https://www.zoomg.ir/game-news/420458-persona-future-plans-atlus/",
-  "https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/"
+  "https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/",
+  "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/"
  ],
  "pending": {
-  "af6e58a8": {
-   "text": "🎮 موج دوم بازی‌های گیم پس در نوامبر ۲۰۲۶\n\nمایکروسافت فهرست بازی‌های جدید سرویس اشتراکی خود برای نیمه‌ی دوم نوامبر ۲۰۲۶ و روزهای نخست دسامبر را همراه با جزئیات پلتفرم‌ها منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/",
-   "item": {
-    "title": "موج دوم بازی‌های گیم پس در نوامبر ۲۰۲۶",
-    "summary": "مایکروسافت فهرست بازی‌های جدید سرویس اشتراکی خود برای نیمه‌ی دوم نوامبر ۲۰۲۶ و روزهای نخست دسامبر را همراه با جزئیات پلتفرم‌ها منتشر کرد.",
-    "link": "https://www.zoomg.ir/game-news/420338-game-pass-november-2026-lineup/"
-   },
-   "ts": 1794954518
-  },
   "a87af40b": {
    "text": "🎮 جنسن هوانگ: اگر هیئت‌مدیره بخواهد به سمت مدیرعاملی انویدیا بازمی‌گردم\n\nجنسن هوانگ با انتشار بیانیه‌ای رسمی اعلام کرد در صورت موافقت هیئت‌مدیره، حاضر است بار دیگر مدیریت عامل انویدیا را بر عهده بگیرد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/",
    "item": {
@@ -2310,6 +2302,15 @@
     "link": "https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/"
    },
    "ts": 1795213370
+  },
+  "4d625668": {
+   "text": "🎮 فرصت خرید بازی‌های کپکام با قیمت ۶ دلار و کمتر\n\nفروشگاه فناتیکال به مناسبت بلک فرایدی بسته تخفیفی ویژه‌ای از آثار کپ‌کام روی پلتفرم استیم عرضه کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/",
+   "item": {
+    "title": "فرصت خرید بازی‌های کپکام با قیمت ۶ دلار و کمتر",
+    "summary": "فروشگاه فناتیکال به مناسبت بلک فرایدی بسته تخفیفی ویژه‌ای از آثار کپ‌کام روی پلتفرم استیم عرضه کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/"
+   },
+   "ts": 1795216102
   }
  }
 }
