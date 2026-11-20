@@ -626,18 +626,10 @@
   "https://vigiato.net/r/new-home-alone-movie-is-in-works-with-disney",
   "https://www.zoomg.ir/game-news/420458-persona-future-plans-atlus/",
   "https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/",
-  "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/"
+  "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/",
+  "https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/"
  ],
  "pending": {
-  "a87af40b": {
-   "text": "🎮 جنسن هوانگ: اگر هیئت‌مدیره بخواهد به سمت مدیرعاملی انویدیا بازمی‌گردم\n\nجنسن هوانگ با انتشار بیانیه‌ای رسمی اعلام کرد در صورت موافقت هیئت‌مدیره، حاضر است بار دیگر مدیریت عامل انویدیا را بر عهده بگیرد.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/",
-   "item": {
-    "title": "جنسن هوانگ: اگر هیئت‌مدیره بخواهد به سمت مدیرعاملی انویدیا بازمی‌گردم",
-    "summary": "جنسن هوانگ با انتشار بیانیه‌ای رسمی اعلام کرد در صورت موافقت هیئت‌مدیره، حاضر است بار دیگر مدیریت عامل انویدیا را بر عهده بگیرد.",
-    "link": "https://www.zoomg.ir/tech-news/420339-jensen-huang-nvidia-ceo-return/"
-   },
-   "ts": 1794957605
-  },
   "ef8ad3ac": {
    "text": "🎮 مارول پیش از اخراج کانگ فاتح تصمیم به معرفی دکتر دووم گرفته بود\n\nکوین فایگی فاش کرد برنامه‌ریزی برای جایگزینی شخصیت کانگ با دکتر دووم، پیش از اخراج جاناتان میجرز آغاز شده بود.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420340-marvel-doctor-doom-kang-replacement/",
    "item": {
@@ -2311,6 +2303,15 @@
     "link": "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/"
    },
    "ts": 1795216102
+  },
+  "8b942d11": {
+   "text": "🎮 فناوری‌های GTA 6 برای طراح بازی Intergalactic غیرقابل‌درک است\n\nطراح کهنه‌کار استودیو ناتی داگ پیشرفت‌های فنی بازی GTA 6 را فراتر از تصورات رایج صنعت ویدیو گیم توصیف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/",
+   "item": {
+    "title": "فناوری‌های GTA 6 برای طراح بازی Intergalactic غیرقابل‌درک است",
+    "summary": "طراح کهنه‌کار استودیو ناتی داگ پیشرفت‌های فنی بازی GTA 6 را فراتر از تصورات رایج صنعت ویدیو گیم توصیف کرد.",
+    "link": "https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/"
+   },
+   "ts": 1795218722
   }
  }
 }
