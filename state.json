@@ -684,36 +684,10 @@
   "https://vigiato.net/r/new-avengers-doomsday-trailer-release-date",
   "https://www.zoomg.ir/cinema-news/420493-further-mis-adventures-cliff-booth-scores/",
   "https://www.zoomg.ir/game-news/420494-xbox-faster-gta-6-loading/",
-  "https://www.zoomg.ir/cinema-news/420495-early-design-for-doctor-doom/"
+  "https://www.zoomg.ir/cinema-news/420495-early-design-for-doctor-doom/",
+  "https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/"
  ],
  "pending": {
-  "fe37c93d": {
-   "text": "🎮 به‌روزرسانی بزرگ بازی Black Mesa با هدف بهبود گرافیک منتشر شد\n\nاستودیوی کرو بار کالکتیو با انتشار به‌روزرسانی بزرگ بازی Black Mesa، گرافیک، عملکرد فنی و رابط کاربری را ارتقا داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
-   "item": {
-    "title": "به‌روزرسانی بزرگ بازی Black Mesa با هدف بهبود گرافیک منتشر شد",
-    "summary": "استودیوی کرو بار کالکتیو با انتشار به‌روزرسانی بزرگ بازی Black Mesa، گرافیک، عملکرد فنی و رابط کاربری را ارتقا داد.",
-    "link": "https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/"
-   },
-   "ts": 1795040920
-  },
-  "1dfd1245": {
-   "text": "🎮 نگرانی سازندگان GTA 6 از احتمال تعدیل نیرو با وجود نمره ۹۹\n\nکارکنان استودیوی راک‌استار با وجود موفقیت‌های تجاری چشمگیر، به دلیل موج گسترده‌ی تعدیل نیرو در صنعت بازی احساس امنیت شغلی نمی‌کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/",
-   "item": {
-    "title": "نگرانی سازندگان GTA 6 از احتمال تعدیل نیرو با وجود نمره ۹۹",
-    "summary": "کارکنان استودیوی راک‌استار با وجود موفقیت‌های تجاری چشمگیر، به دلیل موج گسترده‌ی تعدیل نیرو در صنعت بازی احساس امنیت شغلی نمی‌کنند.",
-    "link": "https://www.zoomg.ir/game-news/420381-rockstar-devs-layoff-fears/"
-   },
-   "ts": 1795040922
-  },
-  "fcf4577e": {
-   "text": "🎮 ۷۰ درصد درآمد استیم مربوط به بازی‌های مولتی پلتفرم است\n\nپژوهش‌های تازه نشان می‌دهد بخش اعظم درآمد فروشگاه استیم تنها به شمار بسیار اندکی از بازی‌های چندپلتفرمی اختصاص دارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/",
-   "item": {
-    "title": "۷۰ درصد درآمد استیم مربوط به بازی‌های مولتی پلتفرم است",
-    "summary": "پژوهش‌های تازه نشان می‌دهد بخش اعظم درآمد فروشگاه استیم تنها به شمار بسیار اندکی از بازی‌های چندپلتفرمی اختصاص دارد.",
-    "link": "https://www.zoomg.ir/game-news/420379-steam-revenue-multiplatform-games-share/"
-   },
-   "ts": 1795040923
-  },
   "a14f2104": {
    "text": "🎮 تعداد بازیکنان هفتگی World of Warcraft رکورد ۱۵ ساله آن را شکست\n\nبازی World of Warcraft: Forever با ثبت بیش از ۱۵ میلیون بازیکن، رکورد فعالیت هفتگی بلیزارد در ۱۵ سال گذشته را شکست.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420375-wow-forever-hits-fifteen-million-players/",
    "item": {
@@ -2342,6 +2316,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420495-early-design-for-doctor-doom/"
    },
    "ts": 1795297740
+  },
+  "c430eb17": {
+   "text": "🎮 موزیک ویدیوهای جدیدی از انیمیشن Steps منتشر شد؛ روایت متفاوت سیندرلا\n\nنتفلیکس انیمیشن Steps را با روایتی متفاوت از سیندرلا و صداپیشگانی چون الی ونگ و بت میدلر منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/",
+   "item": {
+    "title": "موزیک ویدیوهای جدیدی از انیمیشن Steps منتشر شد؛ روایت متفاوت سیندرلا",
+    "summary": "نتفلیکس انیمیشن Steps را با روایتی متفاوت از سیندرلا و صداپیشگانی چون الی ونگ و بت میدلر منتشر کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/"
+   },
+   "ts": 1795302109
   }
  }
 }
