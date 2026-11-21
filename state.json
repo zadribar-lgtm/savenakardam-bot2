@@ -649,27 +649,10 @@
   "https://vigiato.net/r/kieran-culkin-says-hes-reuniting-with-succession-creator-jesse-armstrong-on-new-movie",
   "https://www.zoomg.ir/game-news/420473-battleground-cleaner-simulator-announced-pc/",
   "https://vigiato.net/r/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-  "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish"
+  "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish",
+  "https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/"
  ],
  "pending": {
-  "cd3d80ab": {
-   "text": "🎮 سرنوشت فیلم ماتریکس ۵ با یک چالش حقوقی غیرمنتظره گره خورد\n\nخواهران واچوفسکی با اقدام برای فسخ حق نشر ماتریکس، کنترل اسکای‌دنس بر ساخت قسمت پنجم را با چالشی جدی روبه‌رو کردند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420353-matrix-franchise-rights-dispute-wachowskis/",
-   "item": {
-    "title": "سرنوشت فیلم ماتریکس ۵ با یک چالش حقوقی غیرمنتظره گره خورد",
-    "summary": "خواهران واچوفسکی با اقدام برای فسخ حق نشر ماتریکس، کنترل اسکای‌دنس بر ساخت قسمت پنجم را با چالشی جدی روبه‌رو کردند.",
-    "link": "https://www.zoomg.ir/cinema-news/420353-matrix-franchise-rights-dispute-wachowskis/"
-   },
-   "ts": 1794995061
-  },
-  "aeef3b5c": {
-   "text": "🎮 سریال «مینی‌سیتی»؛ اثر جدید خالق «کنکل» با صابر ابر و هانیه توسلی به فیلیمو می‌آید\n\nاین سریال داستانی اجتماعی درباره پیامد اشتباهات نسل‌های گذشته روایت می‌کند\n\n🔗 منبع: https://vigiato.net/r/mini-city-ramtin-lavafi-filimo-series",
-   "item": {
-    "title": "سریال «مینی‌سیتی»؛ اثر جدید خالق «کنکل» با صابر ابر و هانیه توسلی به فیلیمو می‌آید",
-    "summary": "این سریال داستانی اجتماعی درباره پیامد اشتباهات نسل‌های گذشته روایت می‌کند",
-    "link": "https://vigiato.net/r/mini-city-ramtin-lavafi-filimo-series"
-   },
-   "ts": 1794995063
-  },
   "091d78b8": {
    "text": "🎮 پردازنده گرافیکی ابررایانشی جدید انویدیا بیش از ۵۰ هزار هسته CUDA دارد\n\nانویدیا از پردازنده‌ی گرافیکی Rubin HPC با برخورداری از بیش از ۵۰ هزار هسته‌ی کودا برای پردازش‌های سنگین رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/hardware-news/420355-nvidia-announces-rubin-hpc-gpu/",
    "item": {
@@ -2352,6 +2335,15 @@
     "link": "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish"
    },
    "ts": 1795253973
+  },
+  "c47782e5": {
+   "text": "🎮 کریستین بیل از نحوه خلق صدای ماندگار بتمن در فیلم نولان می‌گوید\n\nکریستین بیل فاش کرد که صدای بم و خشن بتمن را در تست بازیگری با کریستوفر نولان بداهه‌پردازی کرده است.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/",
+   "item": {
+    "title": "کریستین بیل از نحوه خلق صدای ماندگار بتمن در فیلم نولان می‌گوید",
+    "summary": "کریستین بیل فاش کرد که صدای بم و خشن بتمن را در تست بازیگری با کریستوفر نولان بداهه‌پردازی کرده است.",
+    "link": "https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/"
+   },
+   "ts": 1795256859
   }
  }
 }
