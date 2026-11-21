@@ -646,7 +646,10 @@
   "https://vigiato.net/r/sterling-k-brown-in-talks-to-star-in-new-longlegs-movie-with-nicolas-cage",
   "https://www.zoomg.ir/game-news/420472-nolan-movie-boosts-odyssey-sales/",
   "https://vigiato.net/r/gta-6-devs-reveal-movie-inspirations-for-jason-and-lucia",
-  "https://vigiato.net/r/kieran-culkin-says-hes-reuniting-with-succession-creator-jesse-armstrong-on-new-movie"
+  "https://vigiato.net/r/kieran-culkin-says-hes-reuniting-with-succession-creator-jesse-armstrong-on-new-movie",
+  "https://www.zoomg.ir/game-news/420473-battleground-cleaner-simulator-announced-pc/",
+  "https://vigiato.net/r/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+  "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish"
  ],
  "pending": {
   "cd3d80ab": {
@@ -2322,6 +2325,33 @@
     "link": "https://vigiato.net/r/kieran-culkin-says-hes-reuniting-with-succession-creator-jesse-armstrong-on-new-movie"
    },
    "ts": 1795251474
+  },
+  "f5754366": {
+   "text": "🎮 بازی Battleground Cleaner Simulator معرفی شد؛ پاک‌سازی میدان نبرد پس از جنگ\n\nبازی Battleground Cleaner Simulator با محوریت نظافت و جمع‌آوری اجساد پس از نبردهای خونین قرون وسطی برای کامپیوترهای شخصی معرفی شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420473-battleground-cleaner-simulator-announced-pc/",
+   "item": {
+    "title": "بازی Battleground Cleaner Simulator معرفی شد؛ پاک‌سازی میدان نبرد پس از جنگ",
+    "summary": "بازی Battleground Cleaner Simulator با محوریت نظافت و جمع‌آوری اجساد پس از نبردهای خونین قرون وسطی برای کامپیوترهای شخصی معرفی شد.",
+    "link": "https://www.zoomg.ir/game-news/420473-battleground-cleaner-simulator-announced-pc/"
+   },
+   "ts": 1795253970
+  },
+  "8bd5ccb3": {
+   "text": "🎮 بازی GTA 6 رکورد مصرف ترافیک اینترنت آمریکا را جابه‌جا کرده است\n\nپیش از روز موعود انتشار بزرگ‌ترین اثر صنعت سرگرمی\n\n🔗 منبع: https://vigiato.net/r/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+   "item": {
+    "title": "بازی GTA 6 رکورد مصرف ترافیک اینترنت آمریکا را جابه‌جا کرده است",
+    "summary": "پیش از روز موعود انتشار بزرگ‌ترین اثر صنعت سرگرمی",
+    "link": "https://vigiato.net/r/gta-6-triggers-busiest-traffic-day-in-comcast-history"
+   },
+   "ts": 1795253971
+  },
+  "cb1c413b": {
+   "text": "🎮 توسعه فصل هفتم بازی Deltarune پیش از انتشار فصل ششم آغاز شده است\n\nانتشار فصل ششم از نگاه توبی فاکس به پولیش بیشتری احتیاج دارد\n\n🔗 منبع: https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish",
+   "item": {
+    "title": "توسعه فصل هفتم بازی Deltarune پیش از انتشار فصل ششم آغاز شده است",
+    "summary": "انتشار فصل ششم از نگاه توبی فاکس به پولیش بیشتری احتیاج دارد",
+    "link": "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish"
+   },
+   "ts": 1795253973
   }
  }
 }
