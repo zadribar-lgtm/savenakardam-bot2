@@ -682,27 +682,10 @@
   "https://vigiato.net/r/best-ps5-games-of-2026",
   "https://www.zoomg.ir/movie-tv-show-review/420414--the-rings-of-power-season-3-part-5-and-6-review/",
   "https://vigiato.net/r/new-avengers-doomsday-trailer-release-date",
-  "https://www.zoomg.ir/cinema-news/420493-further-mis-adventures-cliff-booth-scores/"
+  "https://www.zoomg.ir/cinema-news/420493-further-mis-adventures-cliff-booth-scores/",
+  "https://www.zoomg.ir/game-news/420494-xbox-faster-gta-6-loading/"
  ],
  "pending": {
-  "7ef45a23": {
-   "text": "🎮 پیش بینی ۸۳ درصدی روی قطعی سرورهای پلی استیشن و ایکس باکس با عرضه GTA 6\n\nکارشناسان و تحلیل‌گران احتمال می‌دهند عرضه GTA 6 باعث اختلال گسترده در شبکه‌های آنلاین پلی‌استیشن و ایکس‌باکس شود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/",
-   "item": {
-    "title": "پیش بینی ۸۳ درصدی روی قطعی سرورهای پلی استیشن و ایکس باکس با عرضه GTA 6",
-    "summary": "کارشناسان و تحلیل‌گران احتمال می‌دهند عرضه GTA 6 باعث اختلال گسترده در شبکه‌های آنلاین پلی‌استیشن و ایکس‌باکس شود.",
-    "link": "https://www.zoomg.ir/game-news/420386-gta-6-launch-server-outage-risk/"
-   },
-   "ts": 1795035119
-  },
-  "42004834": {
-   "text": "🎮 آیا GTA 6 نیامده کرک شده است؟ ادعای یک هکر معروف\n\nهم‌زمان با انتشار جهانی GTA 6 روی کنسول‌های نسل نهم، گزارشی غیرمنتظره از دور زدن تدابیر امنیتی تازه‌ترین فریمور پلی‌استیشن ۵ منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/",
-   "item": {
-    "title": "آیا GTA 6 نیامده کرک شده است؟ ادعای یک هکر معروف",
-    "summary": "هم‌زمان با انتشار جهانی GTA 6 روی کنسول‌های نسل نهم، گزارشی غیرمنتظره از دور زدن تدابیر امنیتی تازه‌ترین فریمور پلی‌استیشن ۵ منتشر شد.",
-    "link": "https://www.zoomg.ir/game-news/420385-gta-6-ps5-jailbreak-claim/"
-   },
-   "ts": 1795035121
-  },
   "fe37c93d": {
    "text": "🎮 به‌روزرسانی بزرگ بازی Black Mesa با هدف بهبود گرافیک منتشر شد\n\nاستودیوی کرو بار کالکتیو با انتشار به‌روزرسانی بزرگ بازی Black Mesa، گرافیک، عملکرد فنی و رابط کاربری را ارتقا داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420382-black-mesa-major-visual-update/",
    "item": {
@@ -2340,6 +2323,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420493-further-mis-adventures-cliff-booth-scores/"
    },
    "ts": 1795293001
+  },
+  "c70e83a4": {
+   "text": "🎮 ایکس باکس سری ایکس GTA 6 را ۱۷ درصد سریع‌تر از پلی استیشن ۵ پرو اجرا می‌کند\n\nایکس باکس سری ایکس در مقایسه‌ی سرعت بارگذاری GTA 6 حدود ۱۷ درصد سریع‌تر از پلی استیشن ۵ پرو عمل کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420494-xbox-faster-gta-6-loading/",
+   "item": {
+    "title": "ایکس باکس سری ایکس GTA 6 را ۱۷ درصد سریع‌تر از پلی استیشن ۵ پرو اجرا می‌کند",
+    "summary": "ایکس باکس سری ایکس در مقایسه‌ی سرعت بارگذاری GTA 6 حدود ۱۷ درصد سریع‌تر از پلی استیشن ۵ پرو عمل کرد.",
+    "link": "https://www.zoomg.ir/game-news/420494-xbox-faster-gta-6-loading/"
+   },
+   "ts": 1795295534
   }
  }
 }
