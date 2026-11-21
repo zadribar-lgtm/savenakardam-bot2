@@ -628,18 +628,10 @@
   "https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/",
   "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/",
   "https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/",
-  "https://www.zoomg.ir/cinema-news/420462-josh-hutcherson-mister-miracle-dc/"
+  "https://www.zoomg.ir/cinema-news/420462-josh-hutcherson-mister-miracle-dc/",
+  "https://vigiato.net/r/gta-6-is-the-most-selling-entertainment-product-in-history"
  ],
  "pending": {
-  "ebe8d161": {
-   "text": "🎮 نینتندو سوییچ ۲ در نظرسنجی توسعه‌دهندگان از پلی استیشن ۵ پیشی گرفت\n\nکنسول نینتندو سوییچ ۲ توانست در میزان اشتیاق توسعه‌دهندگان برای ساخت بازی، کنسول پلی استیشن ۵ را پشت سر بگذارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/",
-   "item": {
-    "title": "نینتندو سوییچ ۲ در نظرسنجی توسعه‌دهندگان از پلی استیشن ۵ پیشی گرفت",
-    "summary": "کنسول نینتندو سوییچ ۲ توانست در میزان اشتیاق توسعه‌دهندگان برای ساخت بازی، کنسول پلی استیشن ۵ را پشت سر بگذارد.",
-    "link": "https://www.zoomg.ir/game-news/420341-switch-2-beats-ps5-survey/"
-   },
-   "ts": 1794971370
-  },
   "ed1ab053": {
    "text": "🎮 هشت بازی خروجی گیم پس در پایان نوامبر ۲۰۲۶\n\nمایکروسافت اعلام کرد هشت بازی دیگر از کتابخانه‌ی سرویس گیم پس حذف خواهند شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420342-gamepass-leaving-november-2026/",
    "item": {
@@ -2313,6 +2305,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420462-josh-hutcherson-mister-miracle-dc/"
    },
    "ts": 1795228654
+  },
+  "60f0728a": {
+   "text": "🎮 GTA 6 با فروش ۳.۸ میلیارد دلاری رکورد صنعت سرگرمی را شکست\n\nاونجرز اندگیم دیگر پرفروش‌ترین محصول تاریخ سرگرمی نیست\n\n🔗 منبع: https://vigiato.net/r/gta-6-is-the-most-selling-entertainment-product-in-history",
+   "item": {
+    "title": "GTA 6 با فروش ۳.۸ میلیارد دلاری رکورد صنعت سرگرمی را شکست",
+    "summary": "اونجرز اندگیم دیگر پرفروش‌ترین محصول تاریخ سرگرمی نیست",
+    "link": "https://vigiato.net/r/gta-6-is-the-most-selling-entertainment-product-in-history"
+   },
+   "ts": 1795231523
   }
  }
 }
