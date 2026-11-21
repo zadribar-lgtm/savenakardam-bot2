@@ -658,7 +658,9 @@
   "https://www.zoomg.ir/game-news/420477-florida-joker-gta-6-cameo/",
   "https://www.zoomg.ir/game-news/420476-nikke-gacha-malware-city-breach/",
   "https://www.zoomg.ir/cinema-news/420478-ej-carroll-actor-dies-at-66/",
-  "https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect"
+  "https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect",
+  "https://www.zoomg.ir/game-news/420479-first-gta-6-speedrun-record/",
+  "https://vigiato.net/r/naughty-dog-dev-blown-away-by-grand-theft-auto-6-gta-vi-appears-to-me-as-a-bugatti-veyron-would-to-a-nervous-victorian-child"
  ],
  "pending": {
   "6c5e358e": {
@@ -2325,6 +2327,24 @@
     "link": "https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect"
    },
    "ts": 1795264383
+  },
+  "156819f3": {
+   "text": "🎮 استریمر سرشناس با ۵۰ ساعت بیداری بی‌وقفه بازی GTA 6 را تمام کرد\n\nیک استریمر با تحمل بیش از ۵۰ ساعت بیداری مداوم موفق شد بازی GTA 6 را در کمتر از ۴۰ ساعت به پایان برساند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420479-first-gta-6-speedrun-record/",
+   "item": {
+    "title": "استریمر سرشناس با ۵۰ ساعت بیداری بی‌وقفه بازی GTA 6 را تمام کرد",
+    "summary": "یک استریمر با تحمل بیش از ۵۰ ساعت بیداری مداوم موفق شد بازی GTA 6 را در کمتر از ۴۰ ساعت به پایان برساند.",
+    "link": "https://www.zoomg.ir/game-news/420479-first-gta-6-speedrun-record/"
+   },
+   "ts": 1795268306
+  },
+  "8fcfe4ce": {
+   "text": "🎮 مدیر طراحی Intergalactic از دستاورد فنی راکستار برای GTA 6 مات و مبهوت است\n\nحس کودکی را دارم که در عهد ویکتوریا «بوگاتی ویرون» دیده است\n\n🔗 منبع: https://vigiato.net/r/naughty-dog-dev-blown-away-by-grand-theft-auto-6-gta-vi-appears-to-me-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+   "item": {
+    "title": "مدیر طراحی Intergalactic از دستاورد فنی راکستار برای GTA 6 مات و مبهوت است",
+    "summary": "حس کودکی را دارم که در عهد ویکتوریا «بوگاتی ویرون» دیده است",
+    "link": "https://vigiato.net/r/naughty-dog-dev-blown-away-by-grand-theft-auto-6-gta-vi-appears-to-me-as-a-bugatti-veyron-would-to-a-nervous-victorian-child"
+   },
+   "ts": 1795268307
   }
  }
 }
