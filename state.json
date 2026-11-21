@@ -650,36 +650,13 @@
   "https://www.zoomg.ir/game-news/420473-battleground-cleaner-simulator-announced-pc/",
   "https://vigiato.net/r/gta-6-triggers-busiest-traffic-day-in-comcast-history",
   "https://vigiato.net/r/deltarune-chapter-6-is-playable-from-start-to-finish",
-  "https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/"
+  "https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/",
+  "https://www.zoomg.ir/game-news/420475-gta-6-movie-inspirations-revealed/",
+  "https://vigiato.net/r/gta-6-pc-port-could-come-from-hackers-before-rockstar-if-cyberleek-makes-good-on-its-latest-threat-this-community-will-have-it-emulated-inside-a-week",
+  "https://vigiato.net/r/shadowheart-baldurs-gate-3-prequel-novel-revealed",
+  "https://vigiato.net/r/best-games-of-2026-according-to-google-play-store"
  ],
  "pending": {
-  "091d78b8": {
-   "text": "🎮 پردازنده گرافیکی ابررایانشی جدید انویدیا بیش از ۵۰ هزار هسته CUDA دارد\n\nانویدیا از پردازنده‌ی گرافیکی Rubin HPC با برخورداری از بیش از ۵۰ هزار هسته‌ی کودا برای پردازش‌های سنگین رونمایی کرد.\n\n🔗 منبع: https://www.zoomg.ir/hardware-news/420355-nvidia-announces-rubin-hpc-gpu/",
-   "item": {
-    "title": "پردازنده گرافیکی ابررایانشی جدید انویدیا بیش از ۵۰ هزار هسته CUDA دارد",
-    "summary": "انویدیا از پردازنده‌ی گرافیکی Rubin HPC با برخورداری از بیش از ۵۰ هزار هسته‌ی کودا برای پردازش‌های سنگین رونمایی کرد.",
-    "link": "https://www.zoomg.ir/hardware-news/420355-nvidia-announces-rubin-hpc-gpu/"
-   },
-   "ts": 1794998430
-  },
-  "7a11d7b9": {
-   "text": "🎮 از تریلر و تاریخ انتشار فصل دوم انیمه Sakamoto Days رونمایی شد\n\nاستودیوی تی‌ام‌اس اینترتینمنت با انتشار تریلر رسمی و پوستر جدید، تاریخ پخش فصل دوم انیمه Sakamoto Days را اعلام کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420354-sakamoto-days-season-2-premiere/",
-   "item": {
-    "title": "از تریلر و تاریخ انتشار فصل دوم انیمه Sakamoto Days رونمایی شد",
-    "summary": "استودیوی تی‌ام‌اس اینترتینمنت با انتشار تریلر رسمی و پوستر جدید، تاریخ پخش فصل دوم انیمه Sakamoto Days را اعلام کرد.",
-    "link": "https://www.zoomg.ir/cinema-news/420354-sakamoto-days-season-2-premiere/"
-   },
-   "ts": 1794998432
-  },
-  "e686b100": {
-   "text": "🎮 ۵ بازی نقش‌آفرینی PS5 که بهترین محتوای خود را برای بخش پایانی نگه می‌دارند\n\nوقتی بهترین بخش سفر، همان مقصد نهایی است\n\n🔗 منبع: https://vigiato.net/r/ps5-open-world-rpgs-that-save-their-best-content-for-the-endgame",
-   "item": {
-    "title": "۵ بازی نقش‌آفرینی PS5 که بهترین محتوای خود را برای بخش پایانی نگه می‌دارند",
-    "summary": "وقتی بهترین بخش سفر، همان مقصد نهایی است",
-    "link": "https://vigiato.net/r/ps5-open-world-rpgs-that-save-their-best-content-for-the-endgame"
-   },
-   "ts": 1794998433
-  },
   "28931ecc": {
    "text": "🎮 نمره‌های بازی GTA 6 منتشر شد؛ بهترین بازی تاریخ\n\nدر این مطلب نگاهی خواهیم داشت به نمره‌های بازی GTA 6 از سایت‌های معتبر دنیا.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420358-gta-6-scores/",
    "item": {
@@ -2344,6 +2321,42 @@
     "link": "https://www.zoomg.ir/cinema-news/420474-christian-bale-batman-voice-improvised/"
    },
    "ts": 1795256859
+  },
+  "e05b5a58": {
+   "text": "🎮 بازی GTA 6 از چه فیلم‌هایی الهام گرفته است؟ از بانی و کلاید تا پالپ فیکشن\n\nمعاون ارشد بخش روایت راک‌استار از فیلم‌های سینمایی الهام‌بخش در خلق شخصیت‌های جیسون و لوسیا پرده برداشت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420475-gta-6-movie-inspirations-revealed/",
+   "item": {
+    "title": "بازی GTA 6 از چه فیلم‌هایی الهام گرفته است؟ از بانی و کلاید تا پالپ فیکشن",
+    "summary": "معاون ارشد بخش روایت راک‌استار از فیلم‌های سینمایی الهام‌بخش در خلق شخصیت‌های جیسون و لوسیا پرده برداشت.",
+    "link": "https://www.zoomg.ir/game-news/420475-gta-6-movie-inspirations-revealed/"
+   },
+   "ts": 1795259607
+  },
+  "2542c8c3": {
+   "text": "🎮 سایبرلیک تلاش دارد نسخه پی‌سی GTA 6 را پیش از راکستار منتشر کند\n\nتموم دیتاهای نسخه ایکس‌باکس دست من امانت است\n\n🔗 منبع: https://vigiato.net/r/gta-6-pc-port-could-come-from-hackers-before-rockstar-if-cyberleek-makes-good-on-its-latest-threat-this-community-will-have-it-emulated-inside-a-week",
+   "item": {
+    "title": "سایبرلیک تلاش دارد نسخه پی‌سی GTA 6 را پیش از راکستار منتشر کند",
+    "summary": "تموم دیتاهای نسخه ایکس‌باکس دست من امانت است",
+    "link": "https://vigiato.net/r/gta-6-pc-port-could-come-from-hackers-before-rockstar-if-cyberleek-makes-good-on-its-latest-threat-this-community-will-have-it-emulated-inside-a-week"
+   },
+   "ts": 1795259608
+  },
+  "6ed0422d": {
+   "text": "🎮 انتشارات پنگوئن از رمان جدید دنیای بازی Baldur’s Gate 3 رونمایی کرد\n\nشدوهارت در معبدی مخفی در زیر شهر بالدورز گیت زندگی می‌کند..\n\n🔗 منبع: https://vigiato.net/r/shadowheart-baldurs-gate-3-prequel-novel-revealed",
+   "item": {
+    "title": "انتشارات پنگوئن از رمان جدید دنیای بازی Baldur’s Gate 3 رونمایی کرد",
+    "summary": "شدوهارت در معبدی مخفی در زیر شهر بالدورز گیت زندگی می‌کند..",
+    "link": "https://vigiato.net/r/shadowheart-baldurs-gate-3-prequel-novel-revealed"
+   },
+   "ts": 1795259609
+  },
+  "75278eb9": {
+   "text": "🎮 بهترین بازی‌های سال ۲۰۲۶ از نگاه گوگل پلی‌ استور\n\nنگاهی به عملکرد یکساله اندروید!\n\n🔗 منبع: https://vigiato.net/r/best-games-of-2026-according-to-google-play-store",
+   "item": {
+    "title": "بهترین بازی‌های سال ۲۰۲۶ از نگاه گوگل پلی‌ استور",
+    "summary": "نگاهی به عملکرد یکساله اندروید!",
+    "link": "https://vigiato.net/r/best-games-of-2026-according-to-google-play-store"
+   },
+   "ts": 1795259611
   }
  }
 }
