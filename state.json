@@ -670,7 +670,9 @@
   "https://vigiato.net/r/florence-pugh-and-anya-taylor-joy-are-nearly-tied-for-the-next-bond-girl-and-the-dune-connection-is-hard-to-ignore",
   "https://vigiato.net/r/i-play-rocky-just-went-the-distance-with-moviegoers-and-few-biopics-have-done-it-like-this-as-cinemascore-is-revealed",
   "https://www.zoomg.ir/cinema-news/420487-i-play-rocky-cinemascore-oscar/",
-  "https://www.zoomg.ir/game-news/420486-xbox-bans-gta-6-captures/"
+  "https://www.zoomg.ir/game-news/420486-xbox-bans-gta-6-captures/",
+  "https://www.zoomg.ir/game-news/420488-gattuso-mistakes-gta-6-car/",
+  "https://vigiato.net/r/arvancloud-game-development-competition"
  ],
  "pending": {
   "35e90258": {
@@ -2373,6 +2375,24 @@
     "link": "https://www.zoomg.ir/game-news/420486-xbox-bans-gta-6-captures/"
    },
    "ts": 1795276250
+  },
+  "66842d35": {
+   "text": "🎮 وقتی سرمربی لاتزیو فکر می‌کند جی تی ای ۶ اسم یک ماشین است!\n\nگنارو گتوزو، سرمربی لاتزیو، در نشست خبری اعتراف کرد که نام GTA 6 را با یک خودروی جدید اشتباه گرفته بود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420488-gattuso-mistakes-gta-6-car/",
+   "item": {
+    "title": "وقتی سرمربی لاتزیو فکر می‌کند جی تی ای ۶ اسم یک ماشین است!",
+    "summary": "گنارو گتوزو، سرمربی لاتزیو، در نشست خبری اعتراف کرد که نام GTA 6 را با یک خودروی جدید اشتباه گرفته بود.",
+    "link": "https://www.zoomg.ir/game-news/420488-gattuso-mistakes-gta-6-car/"
+   },
+   "ts": 1795278541
+  },
+  "2f274c53": {
+   "text": "🎮 آروان‌کلاد مسابقه‌ی ساخت و انتشار بازی روی پردازش لبه برگزار می‌کند\n\nبازی محبوبت رو خودت بساز\n\n🔗 منبع: https://vigiato.net/r/arvancloud-game-development-competition",
+   "item": {
+    "title": "آروان‌کلاد مسابقه‌ی ساخت و انتشار بازی روی پردازش لبه برگزار می‌کند",
+    "summary": "بازی محبوبت رو خودت بساز",
+    "link": "https://vigiato.net/r/arvancloud-game-development-competition"
+   },
+   "ts": 1795278542
   }
  }
 }
