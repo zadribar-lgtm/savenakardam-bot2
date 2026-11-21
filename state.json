@@ -656,45 +656,11 @@
   "https://vigiato.net/r/shadowheart-baldurs-gate-3-prequel-novel-revealed",
   "https://vigiato.net/r/best-games-of-2026-according-to-google-play-store",
   "https://www.zoomg.ir/game-news/420477-florida-joker-gta-6-cameo/",
-  "https://www.zoomg.ir/game-news/420476-nikke-gacha-malware-city-breach/"
+  "https://www.zoomg.ir/game-news/420476-nikke-gacha-malware-city-breach/",
+  "https://www.zoomg.ir/cinema-news/420478-ej-carroll-actor-dies-at-66/",
+  "https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect"
  ],
  "pending": {
-  "3dcc2a45": {
-   "text": "🎮 بازی GTA 6 پس از سال‌ها انتظار سرانجام عرضه شد؛ نیوزیلند نخستین مقصد\n\nبازی GTA 6 پس از سال‌ها انتظار، سرانجام در نیوزیلند به‌طور رسمی عرضه شد و به‌زودی در سراسر جهان در دسترس قرار می‌گیرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420359-gta-6-officially-out-now/",
-   "item": {
-    "title": "بازی GTA 6 پس از سال‌ها انتظار سرانجام عرضه شد؛ نیوزیلند نخستین مقصد",
-    "summary": "بازی GTA 6 پس از سال‌ها انتظار، سرانجام در نیوزیلند به‌طور رسمی عرضه شد و به‌زودی در سراسر جهان در دسترس قرار می‌گیرد.",
-    "link": "https://www.zoomg.ir/game-news/420359-gta-6-officially-out-now/"
-   },
-   "ts": 1795004917
-  },
-  "070fcaa6": {
-   "text": "🎮 واکنش گیمرها به پیام محبت‌آمیز AMD پس از تمرکز بر دیتاسنترها\n\nکاربران در واکنش به ادعای شعبه ژاپن AMD مبنی بر علاقه به گیمرها، اولویت‌های مالی این برند را به چالش کشیدند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420357-amd-gamers-love-community-note/",
-   "item": {
-    "title": "واکنش گیمرها به پیام محبت‌آمیز AMD پس از تمرکز بر دیتاسنترها",
-    "summary": "کاربران در واکنش به ادعای شعبه ژاپن AMD مبنی بر علاقه به گیمرها، اولویت‌های مالی این برند را به چالش کشیدند.",
-    "link": "https://www.zoomg.ir/tech-news/420357-amd-gamers-love-community-note/"
-   },
-   "ts": 1795004919
-  },
-  "2d0b7596": {
-   "text": "🎮 نقدها و نمرات بازی GTA 6 منتشر شد؛ بالاترین امتیاز تاریخ متاکریتیک برای یک بازی\n\nبله، GTA 6 تاریخ‌ساز شد\n\n🔗 منبع: https://vigiato.net/r/gta-6-reviews-and-scores-dropped-and-it-has-made-history-as-the-highest-rated-game-of-all-time",
-   "item": {
-    "title": "نقدها و نمرات بازی GTA 6 منتشر شد؛ بالاترین امتیاز تاریخ متاکریتیک برای یک بازی",
-    "summary": "بله، GTA 6 تاریخ‌ساز شد",
-    "link": "https://vigiato.net/r/gta-6-reviews-and-scores-dropped-and-it-has-made-history-as-the-highest-rated-game-of-all-time"
-   },
-   "ts": 1795004920
-  },
-  "627d676a": {
-   "text": "🎮 بازی GTA 6 پس از سیزده سال انتظار رسما منتشر شد\n\nمبدا اول نیوزلندی‌ها\n\n🔗 منبع: https://vigiato.net/r/grand-theft-auto-6-is-officially-out-now",
-   "item": {
-    "title": "بازی GTA 6 پس از سیزده سال انتظار رسما منتشر شد",
-    "summary": "مبدا اول نیوزلندی‌ها",
-    "link": "https://vigiato.net/r/grand-theft-auto-6-is-officially-out-now"
-   },
-   "ts": 1795004921
-  },
   "6c5e358e": {
    "text": "🎮 راک‌استار قابلیت تکرار مراحل داستانی را در GTA 6 حذف کرد\n\nراک‌استار تأیید کرد که بازی GTA 6 بر خلاف نسخه‌های پیشین، امکان تکرار مراحل داستانی از طریق منو را در اختیار کاربران نمی‌گذارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420361-gta-6-no-mission-replay/",
    "item": {
@@ -2341,6 +2307,24 @@
     "link": "https://www.zoomg.ir/game-news/420476-nikke-gacha-malware-city-breach/"
    },
    "ts": 1795261987
+  },
+  "bd38d741": {
+   "text": "🎮 ای. جی. کارول بازیگر سریال Deuce و بازی GTA V درگذشت\n\nای. جی. کارول، بازیگر سریال‌های مطرحی همچون دوز و صداپیشه بازی Grand Theft Auto V، در سن ۶۶ سالگی درگذشت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420478-ej-carroll-actor-dies-at-66/",
+   "item": {
+    "title": "ای. جی. کارول بازیگر سریال Deuce و بازی GTA V درگذشت",
+    "summary": "ای. جی. کارول، بازیگر سریال‌های مطرحی همچون دوز و صداپیشه بازی Grand Theft Auto V، در سن ۶۶ سالگی درگذشت.",
+    "link": "https://www.zoomg.ir/cinema-news/420478-ej-carroll-actor-dies-at-66/"
+   },
+   "ts": 1795264381
+  },
+  "e10ad611": {
+   "text": "🎮 کارگردان Star Wars: Fate of the Old Republic بابت انتظارات بازی واهمه‌ ندارد\n\nچراکه پشت او به توسعه‌دهندگان مس افکت گرم است\n\n🔗 منبع: https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect",
+   "item": {
+    "title": "کارگردان Star Wars: Fate of the Old Republic بابت انتظارات بازی واهمه‌ ندارد",
+    "summary": "چراکه پشت او به توسعه‌دهندگان مس افکت گرم است",
+    "link": "https://vigiato.net/r/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect"
+   },
+   "ts": 1795264383
   }
  }
 }
