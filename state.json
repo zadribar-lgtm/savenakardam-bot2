@@ -635,27 +635,11 @@
   "https://vigiato.net/r/expedition-33-writer-on-marketing-demands",
   "https://vigiato.net/r/mobland-season-three-filming-starts-with-tom-hardy",
   "https://vigiato.net/r/prince-harry-on-robert-pattinson-007-james-bond",
-  "https://www.zoomg.ir/learning/420463-gta-6-ufo-location/"
+  "https://www.zoomg.ir/learning/420463-gta-6-ufo-location/",
+  "https://www.zoomg.ir/game-news/420468-rockstar-veterans-gta-6-retention/",
+  "https://www.zoomg.ir/game-news/420467-kotor-remake-the-game-awards/"
  ],
  "pending": {
-  "2652bfc2": {
-   "text": "🎮 رونمایی میامی هیت از زمین اختصاصی وایس سیتی برای عرضه GTA 6\n\nتیم بسکتبال میامی هیت با تغییر کامل ظاهر زمین و لباس‌های خود، اتمسفر خیالی شهر وایس سیتی را پیش از عرضه GTA 6 بازسازی کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420348-miami-heat-gta-6-hardwood/",
-   "item": {
-    "title": "رونمایی میامی هیت از زمین اختصاصی وایس سیتی برای عرضه GTA 6",
-    "summary": "تیم بسکتبال میامی هیت با تغییر کامل ظاهر زمین و لباس‌های خود، اتمسفر خیالی شهر وایس سیتی را پیش از عرضه GTA 6 بازسازی کرد.",
-    "link": "https://www.zoomg.ir/game-news/420348-miami-heat-gta-6-hardwood/"
-   },
-   "ts": 1794984475
-  },
-  "9cf65a24": {
-   "text": "🎮 آکیرا کورابایاشی، کارگردان Street Fighter EX و بازی‌ساز باسابقه درگذشت\n\nآکیرا کورابایاشی، کارگردان استودیو آریکا و از پیشگامان انتقال بازی‌های مبارزه‌ای به دنیای سه‌بعدی، درگذشت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420347-street-fighter-creator-passes-away/",
-   "item": {
-    "title": "آکیرا کورابایاشی، کارگردان Street Fighter EX و بازی‌ساز باسابقه درگذشت",
-    "summary": "آکیرا کورابایاشی، کارگردان استودیو آریکا و از پیشگامان انتقال بازی‌های مبارزه‌ای به دنیای سه‌بعدی، درگذشت.",
-    "link": "https://www.zoomg.ir/game-news/420347-street-fighter-creator-passes-away/"
-   },
-   "ts": 1794984477
-  },
   "9d8f83c4": {
    "text": "🎮 رده‌بندی سنی و مدت‌زمان فیلم Avengers: Doomsday مشخص شد\n\nفیلم Avengers Doomsday با دریافت رده‌بندی سنی و مدت‌زمان رسمی، یک قدم به اکران نزدیک‌تر شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420350-avengers-doomsday-rating-runtime-details/",
    "item": {
@@ -2311,6 +2295,24 @@
     "link": "https://www.zoomg.ir/learning/420463-gta-6-ufo-location/"
    },
    "ts": 1795238084
+  },
+  "2c9912cd": {
+   "text": "🎮 بیش از ۱۰۰۰ نفر از سازندگان GTA 6 بالای ۱۰ سال در راک‌استار بوده‌اند\n\nراک‌استار تأیید کرد حدود هزار نفر از کارکنانش بیش از یک دهه سابقه کار در این استودیو دارند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420468-rockstar-veterans-gta-6-retention/",
+   "item": {
+    "title": "بیش از ۱۰۰۰ نفر از سازندگان GTA 6 بالای ۱۰ سال در راک‌استار بوده‌اند",
+    "summary": "راک‌استار تأیید کرد حدود هزار نفر از کارکنانش بیش از یک دهه سابقه کار در این استودیو دارند.",
+    "link": "https://www.zoomg.ir/game-news/420468-rockstar-veterans-gta-6-retention/"
+   },
+   "ts": 1795244780
+  },
+  "75da97be": {
+   "text": "🎮 احتمال حضور ریمیک بازی محبوب جنگ ستارگان در مراسم گیم اواردز ۲۰۲۶\n\nپروژه‌ی بازسازی Star Wars: Knights of the Old Republic Remake ممکن است در مراسم گیم اواردز ۲۰۲۶ به نمایش درآید.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420467-kotor-remake-the-game-awards/",
+   "item": {
+    "title": "احتمال حضور ریمیک بازی محبوب جنگ ستارگان در مراسم گیم اواردز ۲۰۲۶",
+    "summary": "پروژه‌ی بازسازی Star Wars: Knights of the Old Republic Remake ممکن است در مراسم گیم اواردز ۲۰۲۶ به نمایش درآید.",
+    "link": "https://www.zoomg.ir/game-news/420467-kotor-remake-the-game-awards/"
+   },
+   "ts": 1795244782
   }
  }
 }
