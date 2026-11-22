@@ -735,7 +735,10 @@
   "https://www.zoomg.ir/cinema-news/420523-robert-pattinson-james-bond-filming/",
   "https://vigiato.net/r/hafez-theater-music-awards-1405-winners",
   "https://vigiato.net/r/five-things-to-do-before-wrapping-up-gta-6-chapter-1",
-  "https://www.zoomg.ir/game-articles/420483-absolum-mobile-game/"
+  "https://www.zoomg.ir/game-articles/420483-absolum-mobile-game/",
+  "https://www.zoomg.ir/cinema-news/420527-josh-hutcherson-spider-man-rejection/",
+  "https://www.zoomg.ir/game-news/420526-jordan-plans-ban-gta-6/",
+  "https://vigiato.net/r/avengers-doomsday-runtime-revealed"
  ],
  "pending": {
   "f9ba59a9": {
@@ -2357,6 +2360,33 @@
     "link": "https://www.zoomg.ir/game-articles/420483-absolum-mobile-game/"
    },
    "ts": 1795376121
+  },
+  "1f6e94e4": {
+   "text": "🎮 جاش هاچرسون پس از شکست از اندرو گارفیلد قید فیلم‌های ابرقهرمانی را زده بود!\n\nجاش هاچرسون پس از ناکامی در به‌دست آوردن نقش مرد عنکبوتی در سال ۲۰۱۲، تصمیم گرفت پرونده فیلم‌های ابرقهرمانی را برای همیشه ببندد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420527-josh-hutcherson-spider-man-rejection/",
+   "item": {
+    "title": "جاش هاچرسون پس از شکست از اندرو گارفیلد قید فیلم‌های ابرقهرمانی را زده بود!",
+    "summary": "جاش هاچرسون پس از ناکامی در به‌دست آوردن نقش مرد عنکبوتی در سال ۲۰۱۲، تصمیم گرفت پرونده فیلم‌های ابرقهرمانی را برای همیشه ببندد.",
+    "link": "https://www.zoomg.ir/cinema-news/420527-josh-hutcherson-spider-man-rejection/"
+   },
+   "ts": 1795378949
+  },
+  "8b4acc9c": {
+   "text": "🎮 کشور اردن در آستانه مسدودسازی بازی GTA 6 قرار دارد\n\nنهادهای نظارتی اردن در پی فشارهای عمومی قصد دارند دسترسی به بازی GTA 6 را مسدود کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420526-jordan-plans-ban-gta-6/",
+   "item": {
+    "title": "کشور اردن در آستانه مسدودسازی بازی GTA 6 قرار دارد",
+    "summary": "نهادهای نظارتی اردن در پی فشارهای عمومی قصد دارند دسترسی به بازی GTA 6 را مسدود کنند.",
+    "link": "https://www.zoomg.ir/game-news/420526-jordan-plans-ban-gta-6/"
+   },
+   "ts": 1795378950
+  },
+  "2858a526": {
+   "text": "🎮 مدت زمان فیلم اونجرز دومزدی مشخص شد\n\nفیلمی کوتاه‌تر از اندگیم!\n\n🔗 منبع: https://vigiato.net/r/avengers-doomsday-runtime-revealed",
+   "item": {
+    "title": "مدت زمان فیلم اونجرز دومزدی مشخص شد",
+    "summary": "فیلمی کوتاه‌تر از اندگیم!",
+    "link": "https://vigiato.net/r/avengers-doomsday-runtime-revealed"
+   },
+   "ts": 1795378952
   }
  }
 }
