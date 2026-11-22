@@ -727,18 +727,12 @@
   "https://www.zoomg.ir/game-news/420520-cyberpunk-2-director-gta-6/",
   "https://vigiato.net/r/avengers-doomsday-new-posters-fantastic-4",
   "https://vigiato.net/r/gta-6-glitch-on-xbox-series-x-gets-game-running-at-60fps",
-  "https://vigiato.net/r/american-psycho-reboot-no-longer-in-works"
+  "https://vigiato.net/r/american-psycho-reboot-no-longer-in-works",
+  "https://www.zoomg.ir/comic-news/420521-darth-vader-vs-doctor-doom/",
+  "https://vigiato.net/r/007-first-light-wins-tiga-2026-goty",
+  "https://vigiato.net/p/667742"
  ],
  "pending": {
-  "aacf586f": {
-   "text": "🎮 نویسنده Expedition 33: صنعت بازی در حال نابودی خودش است!\n\nنویسنده‌ی بازی Clair Obscur: Expedition 33 با انتقاد از اخراج‌های گسترده، معتقد است صنعت بازی در حال نابودیِ دانش فنی و سرمایه‌های انسانی خود است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420411-game-industry-layoffs-crisis/",
-   "item": {
-    "title": "نویسنده Expedition 33: صنعت بازی در حال نابودی خودش است!",
-    "summary": "نویسنده‌ی بازی Clair Obscur: Expedition 33 با انتقاد از اخراج‌های گسترده، معتقد است صنعت بازی در حال نابودیِ دانش فنی و سرمایه‌های انسانی خود است.",
-    "link": "https://www.zoomg.ir/game-news/420411-game-industry-layoffs-crisis/"
-   },
-   "ts": 1795109648
-  },
   "dacfb4d7": {
    "text": "🎮 تریلر و پوستر جدیدی از انیمیشن عصر یخبندان ۶ منتشر شد\n\nدیزنی با انتشار تریلر رسمی Ice Age: Boiling Point تاریخ اکران قسمت جدید این فرنچایز محبوب را مشخص کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420415-ice-age-boiling-point-trailer/",
    "item": {
@@ -2331,6 +2325,33 @@
     "link": "https://vigiato.net/r/american-psycho-reboot-no-longer-in-works"
    },
    "ts": 1795368421
+  },
+  "647f46ba": {
+   "text": "🎮 دارث ویدر و دکتر دووم رسما در سال ۲۰۲۷ رودرروی هم قرار می‌گیرند\n\nمارول و لوکاس‌فیلم با انتشار مجموعه‌ی کمیک مشترک، رویارویی مستقیم دارث ویدر و دکتر دوم را برای دی ۱۴۰۵ رسما تأیید کردند.\n\n🔗 منبع: https://www.zoomg.ir/comic-news/420521-darth-vader-vs-doctor-doom/",
+   "item": {
+    "title": "دارث ویدر و دکتر دووم رسما در سال ۲۰۲۷ رودرروی هم قرار می‌گیرند",
+    "summary": "مارول و لوکاس‌فیلم با انتشار مجموعه‌ی کمیک مشترک، رویارویی مستقیم دارث ویدر و دکتر دوم را برای دی ۱۴۰۵ رسما تأیید کردند.",
+    "link": "https://www.zoomg.ir/comic-news/420521-darth-vader-vs-doctor-doom/"
+   },
+   "ts": 1795370651
+  },
+  "d5a0c40f": {
+   "text": "🎮 بازی 007 First Light جایزه بهترین بازی سال مراسم TIGA 2026 را دریافت کرد\n\nکریمزون دزرت و گوست آو یوتی از دیگر برندگان این مراسم بودند\n\n🔗 منبع: https://vigiato.net/r/007-first-light-wins-tiga-2026-goty",
+   "item": {
+    "title": "بازی 007 First Light جایزه بهترین بازی سال مراسم TIGA 2026 را دریافت کرد",
+    "summary": "کریمزون دزرت و گوست آو یوتی از دیگر برندگان این مراسم بودند",
+    "link": "https://vigiato.net/r/007-first-light-wins-tiga-2026-goty"
+   },
+   "ts": 1795370652
+  },
+  "9bd9f788": {
+   "text": "🎮 بررسی بازی موبایلی Universe For Sale – جهانی برای فروش!\n\nاگر علاقه‌مند به تجربه بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Universe For Sale همراه ویجیاتو باشید.\n\n🔗 منبع: https://vigiato.net/p/667742",
+   "item": {
+    "title": "بررسی بازی موبایلی Universe For Sale – جهانی برای فروش!",
+    "summary": "اگر علاقه‌مند به تجربه بازی‌های اشاره و کلیک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Universe For Sale همراه ویجیاتو باشید.",
+    "link": "https://vigiato.net/p/667742"
+   },
+   "ts": 1795370654
   }
  }
 }
