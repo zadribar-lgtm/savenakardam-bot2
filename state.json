@@ -741,18 +741,10 @@
   "https://vigiato.net/r/avengers-doomsday-runtime-revealed",
   "https://www.zoomg.ir/game-news/420528-amsterdam-1666-world-doubles-update/",
   "https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/",
-  "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/"
+  "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/",
+  "https://www.zoomg.ir/game-news/420531-unreal-engine-6-drops-blueprints/"
  ],
  "pending": {
-  "ea0076e5": {
-   "text": "🎮 بیلد نسخه ایکس باکس GTA 6 احتمالا لو رفته است\n\nسایبرلیک مدعی انتشار بیلد کامل نسخه ایکس باکس بازی GTA 6 در حجم ۲۰۹ گیگابایت شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/",
-   "item": {
-    "title": "بیلد نسخه ایکس باکس GTA 6 احتمالا لو رفته است",
-    "summary": "سایبرلیک مدعی انتشار بیلد کامل نسخه ایکس باکس بازی GTA 6 در حجم ۲۰۹ گیگابایت شده است.",
-    "link": "https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/"
-   },
-   "ts": 1795128030
-  },
   "1ae0c890": {
    "text": "🎮 یوبیسافت ۱۶۶ نفر از کارکنان خود را اخراج می‌کند\n\nاین تعدیل نیرو متوجه نیروهای کانادایی خواهد شد\n\n🔗 منبع: https://vigiato.net/r/ubisoft-lays-off-166-people-in-canadian-studios",
    "item": {
@@ -2372,6 +2364,15 @@
     "link": "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/"
    },
    "ts": 1795386316
+  },
+  "aa498f69": {
+   "text": "🎮 اپیک گیمز برای جایگزینی سیستم‌های آنریل انجین ۶ با هوش مصنوعی عجله می‌کند\n\nاپیک گیمز سیستم برنامه‌نویسی پرکاربرد بلوپرینت را زودتر از موعد تعیین‌شده از موتور بازی‌سازی آنریل انجین ۶ حذف می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420531-unreal-engine-6-drops-blueprints/",
+   "item": {
+    "title": "اپیک گیمز برای جایگزینی سیستم‌های آنریل انجین ۶ با هوش مصنوعی عجله می‌کند",
+    "summary": "اپیک گیمز سیستم برنامه‌نویسی پرکاربرد بلوپرینت را زودتر از موعد تعیین‌شده از موتور بازی‌سازی آنریل انجین ۶ حذف می‌کند.",
+    "link": "https://www.zoomg.ir/game-news/420531-unreal-engine-6-drops-blueprints/"
+   },
+   "ts": 1795388741
   }
  }
 }
