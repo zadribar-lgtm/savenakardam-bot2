@@ -714,7 +714,9 @@
   "https://vigiato.net/r/gta-6-first-hours-player-discoveries",
   "https://vigiato.net/r/culckin-on-succession-spin-off-possibility",
   "https://www.zoomg.ir/cinema-news/420509-blade-runner-2099-ridley-scott-canon/",
-  "https://www.zoomg.ir/game-news/420508-nioh-3-complete-edition-leak/"
+  "https://www.zoomg.ir/game-news/420508-nioh-3-complete-edition-leak/",
+  "https://www.zoomg.ir/game-news/420502-binding-of-isaac-ai-music-removed/",
+  "https://vigiato.net/r/how-to-change-your-criminal-profile-in-gta-6"
  ],
  "pending": {
   "785bc3b9": {
@@ -2336,6 +2338,24 @@
     "link": "https://www.zoomg.ir/game-news/420508-nioh-3-complete-edition-leak/"
    },
    "ts": 1795352261
+  },
+  "c208e1a3": {
+   "text": "🎮 حذف موسیقی‌های هوش مصنوعی The Binding of Isaac پس از اعتراض کاربران\n\nاستودیوی Nicalis پس از اعتراض گسترده کاربران استیم و ثبت نظرات منفی، قطعات موسیقی تولیدشده با هوش مصنوعی را حذف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420502-binding-of-isaac-ai-music-removed/",
+   "item": {
+    "title": "حذف موسیقی‌های هوش مصنوعی The Binding of Isaac پس از اعتراض کاربران",
+    "summary": "استودیوی Nicalis پس از اعتراض گسترده کاربران استیم و ثبت نظرات منفی، قطعات موسیقی تولیدشده با هوش مصنوعی را حذف کرد.",
+    "link": "https://www.zoomg.ir/game-news/420502-binding-of-isaac-ai-music-removed/"
+   },
+   "ts": 1795355374
+  },
+  "74ebc92f": {
+   "text": "🎮 چگونه Criminal Profile خود را در GTA 6 تغییر دهیم؟\n\nمی‌خواهید شخصیتی خشن باشید، یا فردی که از خشونت بیهوده پرهیز می‌کند؟\n\n🔗 منبع: https://vigiato.net/r/how-to-change-your-criminal-profile-in-gta-6",
+   "item": {
+    "title": "چگونه Criminal Profile خود را در GTA 6 تغییر دهیم؟",
+    "summary": "می‌خواهید شخصیتی خشن باشید، یا فردی که از خشونت بیهوده پرهیز می‌کند؟",
+    "link": "https://vigiato.net/r/how-to-change-your-criminal-profile-in-gta-6"
+   },
+   "ts": 1795355375
   }
  }
 }
