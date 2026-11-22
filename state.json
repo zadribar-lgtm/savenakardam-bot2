@@ -740,27 +740,10 @@
   "https://www.zoomg.ir/game-news/420526-jordan-plans-ban-gta-6/",
   "https://vigiato.net/r/avengers-doomsday-runtime-revealed",
   "https://www.zoomg.ir/game-news/420528-amsterdam-1666-world-doubles-update/",
-  "https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/"
+  "https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/",
+  "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/"
  ],
  "pending": {
-  "4e9a3e98": {
-   "text": "🎮 معرفی بازی موبایل Never Grave | اکشن جادویی\n\nبازی موبایلی Never Grave دانجن‌های متغیر، تسخیر دشمنان با کلاه نفرین‌شده و بازسازی دهکده را در یک اکشن دوبعدی گرد هم می‌آورد.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420407-never-grave-mobile-game/",
-   "item": {
-    "title": "معرفی بازی موبایل Never Grave | اکشن جادویی",
-    "summary": "بازی موبایلی Never Grave دانجن‌های متغیر، تسخیر دشمنان با کلاه نفرین‌شده و بازسازی دهکده را در یک اکشن دوبعدی گرد هم می‌آورد.",
-    "link": "https://www.zoomg.ir/game-articles/420407-never-grave-mobile-game/"
-   },
-   "ts": 1795125510
-  },
-  "6a4d0c83": {
-   "text": "🎮 رونمایی از چوبدستی افسانه‌ای دامبلدور در پوستر جدید سریال هری پاتر\n\nشبکه اچ‌بی‌او با انتشار پوستر جدیدی از سریال هری پاتر، ظاهر متفاوت و کتاب‌محور چوب‌دستی ارشد را به نمایش گذاشت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/",
-   "item": {
-    "title": "رونمایی از چوبدستی افسانه‌ای دامبلدور در پوستر جدید سریال هری پاتر",
-    "summary": "شبکه اچ‌بی‌او با انتشار پوستر جدیدی از سریال هری پاتر، ظاهر متفاوت و کتاب‌محور چوب‌دستی ارشد را به نمایش گذاشت.",
-    "link": "https://www.zoomg.ir/cinema-news/420420-hbo-harry-potter-elder-wand/"
-   },
-   "ts": 1795125511
-  },
   "ea0076e5": {
    "text": "🎮 بیلد نسخه ایکس باکس GTA 6 احتمالا لو رفته است\n\nسایبرلیک مدعی انتشار بیلد کامل نسخه ایکس باکس بازی GTA 6 در حجم ۲۰۹ گیگابایت شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420421-gta-6-xbox-build-leak/",
    "item": {
@@ -2380,6 +2363,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/"
    },
    "ts": 1795383701
+  },
+  "9777c3fc": {
+   "text": "🎮 پس از جنسن هوانگ چه کسی سکان هدایت انویدیا را به دست می‌گیرد؟\n\nبا آغاز گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا، کارشناسان از چالش‌های پیش‌روی گیمرها در بازار سخت‌افزار می‌گویند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/",
+   "item": {
+    "title": "پس از جنسن هوانگ چه کسی سکان هدایت انویدیا را به دست می‌گیرد؟",
+    "summary": "با آغاز گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا، کارشناسان از چالش‌های پیش‌روی گیمرها در بازار سخت‌افزار می‌گویند.",
+    "link": "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/"
+   },
+   "ts": 1795386316
   }
  }
 }
