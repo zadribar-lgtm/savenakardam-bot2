@@ -802,18 +802,12 @@
   "https://vigiato.net/r/dont-starve-together-mobile-game-review",
   "https://vigiato.net/r/anthropic-boss-dario-amodei-reportedly-had-a-dystopian-solution-for-simulating-a-fulfilling-life-for-people-who-lose-their-jobs-to-ai-video-games",
   "https://www.zoomg.ir/tech-news/420560-nvidia-reclaims-second-spot-valuation/",
-  "https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/"
+  "https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/",
+  "https://www.zoomg.ir/game-articles/420552-sparklite-mobile-game/",
+  "https://www.zoomg.ir/game-news/420561-xbox-helix-steam-multiplayer-plans/",
+  "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock"
  ],
  "pending": {
-  "eca20f92": {
-   "text": "🎮 خالق Resident Evil: آرزو می‌کنم هوش مصنوعی از جهان ناپدید شود\n\nشینجی میکامی، خالق نام آشنای Resident Evil، خواستار حذف کامل هوش مصنوعی از صنعت بازی و جهان شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420454-resident-evil-creator-slams-ai/",
-   "item": {
-    "title": "خالق Resident Evil: آرزو می‌کنم هوش مصنوعی از جهان ناپدید شود",
-    "summary": "شینجی میکامی، خالق نام آشنای Resident Evil، خواستار حذف کامل هوش مصنوعی از صنعت بازی و جهان شد.",
-    "link": "https://www.zoomg.ir/game-news/420454-resident-evil-creator-slams-ai/"
-   },
-   "ts": 1795202036
-  },
   "b1e75a0e": {
    "text": "🎮 دنباله‌ی فیلم «تنها در خانه» ساخته می‌شود\n\nمکالی کالکین، ست روگن و ایوان گلدبرگ با همکاری دیزنی دنباله‌ی جدیدی برای مجموعه‌ی تنها در خانه می‌سازند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420456-macaulay-culkin-home-alone-reboot/",
    "item": {
@@ -2469,6 +2463,33 @@
     "link": "https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/"
    },
    "ts": 1795458366
+  },
+  "49ff01b7": {
+   "text": "🎮 معرفی بازی موبایل Sparklite | نبرد با تایتان‌های معدن\n\nدر بازی Sparklite، آدا برای متوقف کردن بارون طماع وارد سرزمین ژئودیا می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420552-sparklite-mobile-game/",
+   "item": {
+    "title": "معرفی بازی موبایل Sparklite | نبرد با تایتان‌های معدن",
+    "summary": "در بازی Sparklite، آدا برای متوقف کردن بارون طماع وارد سرزمین ژئودیا می‌شود.",
+    "link": "https://www.zoomg.ir/game-articles/420552-sparklite-mobile-game/"
+   },
+   "ts": 1795462076
+  },
+  "a41d2f6d": {
+   "text": "🎮 چرا ایده انقلابی مایکروسافت برای ایکس باکس هلیکس کنار گذاشته شد؟\n\nمایکروسافت قصد داشت در کنسول نسل بعدی خود امکان اجرای بازی‌های فروشگاه استیم و بخش چندنفره‌ی کاملا رایگان را فراهم کند؛ اما برنامه‌ها تغییر کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420561-xbox-helix-steam-multiplayer-plans/",
+   "item": {
+    "title": "چرا ایده انقلابی مایکروسافت برای ایکس باکس هلیکس کنار گذاشته شد؟",
+    "summary": "مایکروسافت قصد داشت در کنسول نسل بعدی خود امکان اجرای بازی‌های فروشگاه استیم و بخش چندنفره‌ی کاملا رایگان را فراهم کند؛ اما برنامه‌ها تغییر کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420561-xbox-helix-steam-multiplayer-plans/"
+   },
+   "ts": 1795462077
+  },
+  "313f2246": {
+   "text": "🎮 معرفی تمام برنامه‌های گوشی در GTA 6\n\nآشنایی با ۱۴ اپلیکیشن گوشی GTA VI، کاربرد هرکدام و نحوه آزاد کردن آن‌ها در طول بازی\n\n🔗 منبع: https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock",
+   "item": {
+    "title": "معرفی تمام برنامه‌های گوشی در GTA 6",
+    "summary": "آشنایی با ۱۴ اپلیکیشن گوشی GTA VI، کاربرد هرکدام و نحوه آزاد کردن آن‌ها در طول بازی",
+    "link": "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock"
+   },
+   "ts": 1795462079
   }
  }
 }
