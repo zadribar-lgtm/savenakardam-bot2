@@ -790,18 +790,12 @@
   "https://www.zoomg.ir/movie-tv-show-review/420515-never-after-dark-movie-review/",
   "https://vigiato.net/r/jensen-huang-is-back-to-nvidia",
   "https://vigiato.net/r/avengers-doomsday-final-trailer-is-here",
-  "https://vigiato.net/r/yo-academy-when-rocky-was-crowned-best-picture-champ"
+  "https://vigiato.net/r/yo-academy-when-rocky-was-crowned-best-picture-champ",
+  "https://www.zoomg.ir/game-news/420557-gta-6-xbox-exe-leak/",
+  "https://www.zoomg.ir/game-news/420547-naughty-dog-dev-praises-gta-6/",
+  "https://vigiato.net/r/the-last-jedi-director-rian-johnson-finally-addresses-whether-hed-ever-return-to-star-wars"
  ],
  "pending": {
-  "55f0160f": {
-   "text": "🎮 نقد فیلم سامورایی و زندانی (The Samurai and the Prisoner) | کوروساوا؛ رازهای مدفون قلعه\n\nکیوشی کوروساوا در اولین تجربه سامورایی خود، با فیلم سامورایی و زندانی دغدغه‌های همیشگی و تعلیق روان‌شناختی سینمایش را به تاریخ فئودالی برده است.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420326--the-samurai-and-the-prisoner-movie-review/",
-   "item": {
-    "title": "نقد فیلم سامورایی و زندانی (The Samurai and the Prisoner) | کوروساوا؛ رازهای مدفون قلعه",
-    "summary": "کیوشی کوروساوا در اولین تجربه سامورایی خود، با فیلم سامورایی و زندانی دغدغه‌های همیشگی و تعلیق روان‌شناختی سینمایش را به تاریخ فئودالی برده است.",
-    "link": "https://www.zoomg.ir/movie-tv-show-review/420326--the-samurai-and-the-prisoner-movie-review/"
-   },
-   "ts": 1795188531
-  },
   "6a019899": {
    "text": "🎮 آیا پدرو پاسکال در فصل سوم سریال The Last of Us حضور دارد؟\n\nگابریل لونا، بازیگر نقش تامی جزئیاتی از فصل سوم سریال The Last of Us را با طرفداران به اشتراک گذاشت.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420449-pedro-pascal-tlou-season-3/",
    "item": {
@@ -2430,6 +2424,33 @@
     "link": "https://vigiato.net/r/yo-academy-when-rocky-was-crowned-best-picture-champ"
    },
    "ts": 1795445341
+  },
+  "aa2d26b6": {
+   "text": "🎮 پورت پی‌سی GTA 6 در آستانه‌ی انتشار است\n\nگروهی از هکرها فایل اجرایی نسخه ایکس باکس بازی GTA 6 را منتشر کردند تا راه برای اجرای غیررسمی روی کامپیوتر هموار شود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420557-gta-6-xbox-exe-leak/",
+   "item": {
+    "title": "پورت پی‌سی GTA 6 در آستانه‌ی انتشار است",
+    "summary": "گروهی از هکرها فایل اجرایی نسخه ایکس باکس بازی GTA 6 را منتشر کردند تا راه برای اجرای غیررسمی روی کامپیوتر هموار شود.",
+    "link": "https://www.zoomg.ir/game-news/420557-gta-6-xbox-exe-leak/"
+   },
+   "ts": 1795448853
+  },
+  "f0408eec": {
+   "text": "🎮 بازیساز ناتی‌داگ گرافیک و ویژگی‌های بازی GTA 6 را به بوگاتی تشبیه کرد\n\nتوسعه‌دهندگان کهنه‌کار صنعت بازی در پی عرضه بازی GTA 6، دستاوردهای فنی و گرافیکی این اثر را فراتر از حد تصور خواندند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420547-naughty-dog-dev-praises-gta-6/",
+   "item": {
+    "title": "بازیساز ناتی‌داگ گرافیک و ویژگی‌های بازی GTA 6 را به بوگاتی تشبیه کرد",
+    "summary": "توسعه‌دهندگان کهنه‌کار صنعت بازی در پی عرضه بازی GTA 6، دستاوردهای فنی و گرافیکی این اثر را فراتر از حد تصور خواندند.",
+    "link": "https://www.zoomg.ir/game-news/420547-naughty-dog-dev-praises-gta-6/"
+   },
+   "ts": 1795448854
+  },
+  "7b13114f": {
+   "text": "🎮 رایان جانسون برای بازگشت به دنیای Star Wars اعلام آمادگی کرد\n\nکارگردان The Last Jedi همچنان به ساخت فیلمی جدید از این مجموعه علاقه‌مند است\n\n🔗 منبع: https://vigiato.net/r/the-last-jedi-director-rian-johnson-finally-addresses-whether-hed-ever-return-to-star-wars",
+   "item": {
+    "title": "رایان جانسون برای بازگشت به دنیای Star Wars اعلام آمادگی کرد",
+    "summary": "کارگردان The Last Jedi همچنان به ساخت فیلمی جدید از این مجموعه علاقه‌مند است",
+    "link": "https://vigiato.net/r/the-last-jedi-director-rian-johnson-finally-addresses-whether-hed-ever-return-to-star-wars"
+   },
+   "ts": 1795448856
   }
  }
 }
