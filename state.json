@@ -808,18 +808,11 @@
   "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock",
   "https://www.zoomg.ir/cinema-news/420563-spielberg-western-cillian-murphy/",
   "https://www.zoomg.ir/game-news/420562-control-resonant-budget-sales-remedy/",
-  "https://www.zoomg.ir/game-news/420564-witcher-4-ciri-story-details/"
+  "https://www.zoomg.ir/game-news/420564-witcher-4-ciri-story-details/",
+  "https://www.zoomg.ir/cinema-news/420566-hiroyuki-sanada-naruto-live-action/",
+  "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/"
  ],
  "pending": {
-  "be37b40f": {
-   "text": "🎮 بازی Persona 6 پایان این فرنچایز نیست\n\nاستودیوی اتلوس برای کاهش فاصله‌ی زمانی میان نسخه‌های آینده‌ی پرسونا و ادامه‌ی این مجموعه برنامه‌ریزی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420458-persona-future-plans-atlus/",
-   "item": {
-    "title": "بازی Persona 6 پایان این فرنچایز نیست",
-    "summary": "استودیوی اتلوس برای کاهش فاصله‌ی زمانی میان نسخه‌های آینده‌ی پرسونا و ادامه‌ی این مجموعه برنامه‌ریزی می‌کند.",
-    "link": "https://www.zoomg.ir/game-news/420458-persona-future-plans-atlus/"
-   },
-   "ts": 1795210499
-  },
   "d5c359a6": {
    "text": "🎮 کرش‌های مکرر GTA 6 روی پلی استیشن ۵ به دلیل داغ شدن بیش از حد\n\nاجرای سنگین GTA 6 روی کنسول پلی استیشن ۵ با کرش‌های مکرر و داغی ناشی از سیستم خنک‌کننده همراه شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420459-gta-6-ps5-overheating-crashes/",
    "item": {
@@ -2475,6 +2468,24 @@
     "link": "https://www.zoomg.ir/game-news/420564-witcher-4-ciri-story-details/"
    },
    "ts": 1795468202
+  },
+  "2eec6541": {
+   "text": "🎮 ستاره سریال شوگون در مسیر تصاحب نقشی افسانه‌ای در فیلم ناروتو\n\nهیرویوکی سانادا برای ایفای نقش هیروزن ساروتوبی در فیلم لایو اکشن ناروتو وارد مذاکرات نهایی شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420566-hiroyuki-sanada-naruto-live-action/",
+   "item": {
+    "title": "ستاره سریال شوگون در مسیر تصاحب نقشی افسانه‌ای در فیلم ناروتو",
+    "summary": "هیرویوکی سانادا برای ایفای نقش هیروزن ساروتوبی در فیلم لایو اکشن ناروتو وارد مذاکرات نهایی شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420566-hiroyuki-sanada-naruto-live-action/"
+   },
+   "ts": 1795471017
+  },
+  "97d40ad8": {
+   "text": "🎮 سریال تد لاسو برای فصل پنجم تمدید شد\n\nپلتفرم اپل تی‌وی پلاس مجموعه‌ی کمدی پرطرفدار تد لاسو را برای فصل پنجم تمدید کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/",
+   "item": {
+    "title": "سریال تد لاسو برای فصل پنجم تمدید شد",
+    "summary": "پلتفرم اپل تی‌وی پلاس مجموعه‌ی کمدی پرطرفدار تد لاسو را برای فصل پنجم تمدید کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/"
+   },
+   "ts": 1795471018
   }
  }
 }
