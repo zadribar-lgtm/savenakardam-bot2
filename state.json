@@ -810,18 +810,10 @@
   "https://www.zoomg.ir/game-news/420562-control-resonant-budget-sales-remedy/",
   "https://www.zoomg.ir/game-news/420564-witcher-4-ciri-story-details/",
   "https://www.zoomg.ir/cinema-news/420566-hiroyuki-sanada-naruto-live-action/",
-  "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/"
+  "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/",
+  "https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/"
  ],
  "pending": {
-  "4d625668": {
-   "text": "🎮 فرصت خرید بازی‌های کپکام با قیمت ۶ دلار و کمتر\n\nفروشگاه فناتیکال به مناسبت بلک فرایدی بسته تخفیفی ویژه‌ای از آثار کپ‌کام روی پلتفرم استیم عرضه کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/",
-   "item": {
-    "title": "فرصت خرید بازی‌های کپکام با قیمت ۶ دلار و کمتر",
-    "summary": "فروشگاه فناتیکال به مناسبت بلک فرایدی بسته تخفیفی ویژه‌ای از آثار کپ‌کام روی پلتفرم استیم عرضه کرده است.",
-    "link": "https://www.zoomg.ir/game-news/420460-fanatical-black-friday-capcom-bundle/"
-   },
-   "ts": 1795216102
-  },
   "8b942d11": {
    "text": "🎮 فناوری‌های GTA 6 برای طراح بازی Intergalactic غیرقابل‌درک است\n\nطراح کهنه‌کار استودیو ناتی داگ پیشرفت‌های فنی بازی GTA 6 را فراتر از تصورات رایج صنعت ویدیو گیم توصیف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/",
    "item": {
@@ -2477,6 +2469,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/"
    },
    "ts": 1795471018
+  },
+  "b53a4eba": {
+   "text": "🎮 درخواست کمک بازیگر GTA 6 از طرفداران: نمی‌دانم چه شخصیتی را بازی کرده‌ام!\n\nیکی از بازیگران موشن‌کپچر GTA 6 به‌دلیل پنهان‌کاری شدید سازندگان، هویت شخصیت خود را نمی‌داند و برای یافتنش از گیمرها کمک خواست.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/",
+   "item": {
+    "title": "درخواست کمک بازیگر GTA 6 از طرفداران: نمی‌دانم چه شخصیتی را بازی کرده‌ام!",
+    "summary": "یکی از بازیگران موشن‌کپچر GTA 6 به‌دلیل پنهان‌کاری شدید سازندگان، هویت شخصیت خود را نمی‌داند و برای یافتنش از گیمرها کمک خواست.",
+    "link": "https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/"
+   },
+   "ts": 1795476687
   }
  }
 }
