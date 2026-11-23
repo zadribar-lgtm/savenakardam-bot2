@@ -805,27 +805,11 @@
   "https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/",
   "https://www.zoomg.ir/game-articles/420552-sparklite-mobile-game/",
   "https://www.zoomg.ir/game-news/420561-xbox-helix-steam-multiplayer-plans/",
-  "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock"
+  "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock",
+  "https://www.zoomg.ir/cinema-news/420563-spielberg-western-cillian-murphy/",
+  "https://www.zoomg.ir/game-news/420562-control-resonant-budget-sales-remedy/"
  ],
  "pending": {
-  "b1e75a0e": {
-   "text": "🎮 دنباله‌ی فیلم «تنها در خانه» ساخته می‌شود\n\nمکالی کالکین، ست روگن و ایوان گلدبرگ با همکاری دیزنی دنباله‌ی جدیدی برای مجموعه‌ی تنها در خانه می‌سازند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420456-macaulay-culkin-home-alone-reboot/",
-   "item": {
-    "title": "دنباله‌ی فیلم «تنها در خانه» ساخته می‌شود",
-    "summary": "مکالی کالکین، ست روگن و ایوان گلدبرگ با همکاری دیزنی دنباله‌ی جدیدی برای مجموعه‌ی تنها در خانه می‌سازند.",
-    "link": "https://www.zoomg.ir/cinema-news/420456-macaulay-culkin-home-alone-reboot/"
-   },
-   "ts": 1795205412
-  },
-  "44fac351": {
-   "text": "🎮 بازگشت شخصیت قدیمی در GTA 6 هواداران را به شوک فرو برد\n\nحضور غیرمنتظره یک شخصیت قدیمی و محبوب در داستان GTA 6 واکنش‌های احساسی متناقضی را میان طرفداران برانگیخته است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420455-niko-bellic-returns-gta-6/",
-   "item": {
-    "title": "بازگشت شخصیت قدیمی در GTA 6 هواداران را به شوک فرو برد",
-    "summary": "حضور غیرمنتظره یک شخصیت قدیمی و محبوب در داستان GTA 6 واکنش‌های احساسی متناقضی را میان طرفداران برانگیخته است.",
-    "link": "https://www.zoomg.ir/game-news/420455-niko-bellic-returns-gta-6/"
-   },
-   "ts": 1795205414
-  },
   "fea5a1aa": {
    "text": "🎮 آمار رسمی فروش GTA 6 اعلام شد؛ بزرگ‌ترین عرضه تاریخ سرگرمی\n\nبازی GTA 6 با ثبت فروش ۳.۷۹ میلیارد دلاری در روز نخست عرضه، بزرگ‌ترین رویداد تجاری تاریخ سرگرمی را رقم زد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420457-gta-6-day-one-sales/",
    "item": {
@@ -2490,6 +2474,24 @@
     "link": "https://vigiato.net/r/gta-6-all-phone-apps-how-to-use-unlock"
    },
    "ts": 1795462079
+  },
+  "af6ba126": {
+   "text": "🎮 از بازیگران فیلم وسترن استیون اسپیلبرگ رونمایی شد\n\nاستیون اسپیلبرگ با همراهی کیلین مورفی، جسی باکلی و مارک رایلنس، اقتباس سینمایی رمان وسترن The Heart in Winter را برای سال ۲۰۲۸ کارگردانی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420563-spielberg-western-cillian-murphy/",
+   "item": {
+    "title": "از بازیگران فیلم وسترن استیون اسپیلبرگ رونمایی شد",
+    "summary": "استیون اسپیلبرگ با همراهی کیلین مورفی، جسی باکلی و مارک رایلنس، اقتباس سینمایی رمان وسترن The Heart in Winter را برای سال ۲۰۲۸ کارگردانی می‌کند.",
+    "link": "https://www.zoomg.ir/cinema-news/420563-spielberg-western-cillian-murphy/"
+   },
+   "ts": 1795465151
+  },
+  "a8ae1648": {
+   "text": "🎮 بودجه ساخت بازی Control Resonant رسما اعلام شد\n\nمدیرعامل رمدی اعلام کرد هزینه ساخت Control Resonant حدود ۵۰ تا ۵۵ میلیون یورو تمام شده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420562-control-resonant-budget-sales-remedy/",
+   "item": {
+    "title": "بودجه ساخت بازی Control Resonant رسما اعلام شد",
+    "summary": "مدیرعامل رمدی اعلام کرد هزینه ساخت Control Resonant حدود ۵۰ تا ۵۵ میلیون یورو تمام شده است.",
+    "link": "https://www.zoomg.ir/game-news/420562-control-resonant-budget-sales-remedy/"
+   },
+   "ts": 1795465152
   }
  }
 }
