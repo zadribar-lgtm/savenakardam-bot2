@@ -876,18 +876,10 @@
   "https://www.zoomg.ir/cinema-news/420607-james-marsden-cyclops-avengers-doomsday/",
   "https://www.zoomg.ir/game-news/420606-naughty-dog-praises-gta-6/",
   "https://www.zoomg.ir/cinema-news/420608-kelsey-grammer-beast-avengers-doomsday/",
-  "https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/"
+  "https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/",
+  "https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/"
  ],
  "pending": {
-  "c430eb17": {
-   "text": "🎮 موزیک ویدیوهای جدیدی از انیمیشن Steps منتشر شد؛ روایت متفاوت سیندرلا\n\nنتفلیکس انیمیشن Steps را با روایتی متفاوت از سیندرلا و صداپیشگانی چون الی ونگ و بت میدلر منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/",
-   "item": {
-    "title": "موزیک ویدیوهای جدیدی از انیمیشن Steps منتشر شد؛ روایت متفاوت سیندرلا",
-    "summary": "نتفلیکس انیمیشن Steps را با روایتی متفاوت از سیندرلا و صداپیشگانی چون الی ونگ و بت میدلر منتشر کرد.",
-    "link": "https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/"
-   },
-   "ts": 1795302109
-  },
   "03b78a77": {
    "text": "🎮 هیلی اتول زمان انتشار تریلر جدید فیلم Avengers: Doomsday را لو داد\n\nهیلی اتول، بازیگر نقش کاپیتان کارتر اعلام کرد تریلر جدید فیلم انتقام‌جویان دوشنبه منتشر خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420497-avengers-doomsday-trailer-hayley-atwell/",
    "item": {
@@ -2606,6 +2598,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/"
    },
    "ts": 1795561213
+  },
+  "17c37139": {
+   "text": "🎮 پلی استیشن ۶ خودش تنظیمات گرافیکی را عوض می‌کند؟\n\nسونی پتنت جدیدی برای تنظیم پویای گرافیک در حین بازی و کلید اختصاصی کنترلر ثبت کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/",
+   "item": {
+    "title": "پلی استیشن ۶ خودش تنظیمات گرافیکی را عوض می‌کند؟",
+    "summary": "سونی پتنت جدیدی برای تنظیم پویای گرافیک در حین بازی و کلید اختصاصی کنترلر ثبت کرده است.",
+    "link": "https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/"
+   },
+   "ts": 1795563846
   }
  }
 }
