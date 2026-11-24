@@ -817,7 +817,9 @@
   "https://www.zoomg.ir/game-news/420570-doom-dark-ages-xbox-exclusive/",
   "https://vigiato.net/r/concept-art-from-a-cancelled-certain-affinity-game-has-surfaced-online",
   "https://vigiato.net/r/gta-6s-free-pre-order-bonus-is-now-a-paid-store-purchase",
-  "https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/"
+  "https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/",
+  "https://www.zoomg.ir/game-news/420574-activision-banjo-kazooie-job-listing/",
+  "https://www.zoomg.ir/game-news/420573-gta-6-call-of-duty-player-drop/"
  ],
  "pending": {
   "2c9912cd": {
@@ -2457,6 +2459,24 @@
     "link": "https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/"
    },
    "ts": 1795498474
+  },
+  "0c070b29": {
+   "text": "🎮 اکتیویژن احتمالا نسخه جدیدی از Banjo-Kazooie را می‌سازد\n\nآگهی استخدام اکتیویژن، نام بنجو کازویی را در کنار عنوانی «پرمیوم برای کنسول و PC» قرار داده و گمانه‌زنی‌ها را برانگیخته است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420574-activision-banjo-kazooie-job-listing/",
+   "item": {
+    "title": "اکتیویژن احتمالا نسخه جدیدی از Banjo-Kazooie را می‌سازد",
+    "summary": "آگهی استخدام اکتیویژن، نام بنجو کازویی را در کنار عنوانی «پرمیوم برای کنسول و PC» قرار داده و گمانه‌زنی‌ها را برانگیخته است.",
+    "link": "https://www.zoomg.ir/game-news/420574-activision-banjo-kazooie-job-listing/"
+   },
+   "ts": 1795501647
+  },
+  "1e869882": {
+   "text": "🎮 ضربه‌ی سنگین GTA 6 به Call of Duty؛ ریزش ۴۲ درصدی بازیکنان\n\nگزارشی تازه نشان می‌دهد هم‌زمان با عرضه‌ی رکوردشکن GTA 6، شمار بازیکنان روزانه‌ی Call of Duty نزدیک به نصف کاهش یافته است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420573-gta-6-call-of-duty-player-drop/",
+   "item": {
+    "title": "ضربه‌ی سنگین GTA 6 به Call of Duty؛ ریزش ۴۲ درصدی بازیکنان",
+    "summary": "گزارشی تازه نشان می‌دهد هم‌زمان با عرضه‌ی رکوردشکن GTA 6، شمار بازیکنان روزانه‌ی Call of Duty نزدیک به نصف کاهش یافته است.",
+    "link": "https://www.zoomg.ir/game-news/420573-gta-6-call-of-duty-player-drop/"
+   },
+   "ts": 1795501648
   }
  }
 }
