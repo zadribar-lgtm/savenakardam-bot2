@@ -864,27 +864,11 @@
   "https://vigiato.net/r/gta-6-optimization",
   "https://www.zoomg.ir/game-news/420600-new-dead-or-alive-confirmed/",
   "https://vigiato.net/r/adam-driver-teases-his-x-men-villain-mister-sinister-to-seth-meyers",
-  "https://vigiato.net/r/gta-6-killed-call-of-duty-or-at-least-seriously-injured-it"
+  "https://vigiato.net/r/gta-6-killed-call-of-duty-or-at-least-seriously-injured-it",
+  "https://www.zoomg.ir/game-news/420602-crimson-desert-map-size-revealed/",
+  "https://www.zoomg.ir/game-news/420601-rockstar-shuts-gta-6-port/"
  ],
  "pending": {
-  "2c82d877": {
-   "text": "🎮 جشن آغاز بلک فرایدی دیجی‌کالا با حضور هومن حاجی‌عبداللهی برگزار شد\n\nجشن آغاز رویداد ده‌روزه بلک‌فرایدی دیجی‌کالا در ایران‌مال برگزار شد و کاربران پلاس از ظهر ۳۰ آبان دسترسی زودهنگام به تخفیف‌ها خواهند داشت.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420489-digikala-black-friday-discounts-start/",
-   "item": {
-    "title": "جشن آغاز بلک فرایدی دیجی‌کالا با حضور هومن حاجی‌عبداللهی برگزار شد",
-    "summary": "جشن آغاز رویداد ده‌روزه بلک‌فرایدی دیجی‌کالا در ایران‌مال برگزار شد و کاربران پلاس از ظهر ۳۰ آبان دسترسی زودهنگام به تخفیف‌ها خواهند داشت.",
-    "link": "https://www.zoomg.ir/tech-news/420489-digikala-black-friday-discounts-start/"
-   },
-   "ts": 1795283463
-  },
-  "263dd0af": {
-   "text": "🎮 بررسی بازی موبایلی Wizard of Legend – به سرزمین جادو و خیال خوش آمدید\n\nاگر علاقه‌مند به تجربه بازی‌های اکشن - روگ‌لایک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Wizard of Legend همراه ویجیاتو باشید.\n\n🔗 منبع: https://vigiato.net/r/wizard-of-legend-mobile-game-review",
-   "item": {
-    "title": "بررسی بازی موبایلی Wizard of Legend – به سرزمین جادو و خیال خوش آمدید",
-    "summary": "اگر علاقه‌مند به تجربه بازی‌های اکشن - روگ‌لایک موبایلی هستید، در این مطلب با بررسی بازی iOS و اندروید Wizard of Legend همراه ویجیاتو باشید.",
-    "link": "https://vigiato.net/r/wizard-of-legend-mobile-game-review"
-   },
-   "ts": 1795283465
-  },
   "6f1a2e50": {
    "text": "🎮 نمره‌های فیلم I Play Rocky از سایت‌های معتبر دنیا\n\nدر این مطلب نگاهی خواهیم داشت به نمره‌های فیلم I Play Rocky از سایت‌های معتبر دنیا.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420491-i-play-rocky-scores/",
    "item": {
@@ -2576,6 +2560,24 @@
     "link": "https://vigiato.net/r/gta-6-killed-call-of-duty-or-at-least-seriously-injured-it"
    },
    "ts": 1795541669
+  },
+  "67323ebd": {
+   "text": "🎮 نقشه بازی Crimson Desert بیش از ۲.۵ برابر GTA 5 و Elden Ring است\n\nاستودیوی پرل ابیس وسعت قاره پیول در بازی Crimson Desert را حدود ۲۰۰ کیلومتر مربع اعلام کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420602-crimson-desert-map-size-revealed/",
+   "item": {
+    "title": "نقشه بازی Crimson Desert بیش از ۲.۵ برابر GTA 5 و Elden Ring است",
+    "summary": "استودیوی پرل ابیس وسعت قاره پیول در بازی Crimson Desert را حدود ۲۰۰ کیلومتر مربع اعلام کرد.",
+    "link": "https://www.zoomg.ir/game-news/420602-crimson-desert-map-size-revealed/"
+   },
+   "ts": 1795544565
+  },
+  "d47a44ba": {
+   "text": "🎮 راک‌استار جلوی پورت غیررسمی GTA 6 روی پی‌سی را گرفت\n\nراک‌استار گیمز فعالیت سرور دیسکوردی را که برای پورت غیررسمی GTA 6 روی کامپیوتر تلاش می‌کرد، متوقف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420601-rockstar-shuts-gta-6-port/",
+   "item": {
+    "title": "راک‌استار جلوی پورت غیررسمی GTA 6 روی پی‌سی را گرفت",
+    "summary": "راک‌استار گیمز فعالیت سرور دیسکوردی را که برای پورت غیررسمی GTA 6 روی کامپیوتر تلاش می‌کرد، متوقف کرد.",
+    "link": "https://www.zoomg.ir/game-news/420601-rockstar-shuts-gta-6-port/"
+   },
+   "ts": 1795544567
   }
  }
 }
