@@ -811,18 +811,10 @@
   "https://www.zoomg.ir/game-news/420564-witcher-4-ciri-story-details/",
   "https://www.zoomg.ir/cinema-news/420566-hiroyuki-sanada-naruto-live-action/",
   "https://www.zoomg.ir/cinema-news/420565-ted-lasso-renewed-season-5/",
-  "https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/"
+  "https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/",
+  "https://www.zoomg.ir/cinema-news/420568-brand-new-day-posters/"
  ],
  "pending": {
-  "8b942d11": {
-   "text": "🎮 فناوری‌های GTA 6 برای طراح بازی Intergalactic غیرقابل‌درک است\n\nطراح کهنه‌کار استودیو ناتی داگ پیشرفت‌های فنی بازی GTA 6 را فراتر از تصورات رایج صنعت ویدیو گیم توصیف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/",
-   "item": {
-    "title": "فناوری‌های GTA 6 برای طراح بازی Intergalactic غیرقابل‌درک است",
-    "summary": "طراح کهنه‌کار استودیو ناتی داگ پیشرفت‌های فنی بازی GTA 6 را فراتر از تصورات رایج صنعت ویدیو گیم توصیف کرد.",
-    "link": "https://www.zoomg.ir/game-news/420461-naughty-dog-praises-gta-6/"
-   },
-   "ts": 1795218722
-  },
   "a92b3818": {
    "text": "🎮 بازیگر نقش مستر میراکل را در دنیای جدید دی‌سی معرفی شد\n\nجاش هاچرسون پس از ناکامی در تصاحب نقش مرد عنکبوتی، با پذیرفتن نقش مستر میراکل وارد دنیای سینمایی دی‌سی شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420462-josh-hutcherson-mister-miracle-dc/",
    "item": {
@@ -2478,6 +2470,15 @@
     "link": "https://www.zoomg.ir/game-news/420567-gta-6-actor-lost-character/"
    },
    "ts": 1795476687
+  },
+  "80458399": {
+   "text": "🎮 پوسترهای جدید فیلم Spider-Man: (Brand New) Brand New Day منتشر شد\n\nپوسترهای اختصاصی نسخه‌ی اسکرین‌ایکس فیلم Spider-Man: (Brand New) Brand New Day با ارجاعاتی به دنیای سینمایی مارول منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420568-brand-new-day-posters/",
+   "item": {
+    "title": "پوسترهای جدید فیلم Spider-Man: (Brand New) Brand New Day منتشر شد",
+    "summary": "پوسترهای اختصاصی نسخه‌ی اسکرین‌ایکس فیلم Spider-Man: (Brand New) Brand New Day با ارجاعاتی به دنیای سینمایی مارول منتشر شد.",
+    "link": "https://www.zoomg.ir/cinema-news/420568-brand-new-day-posters/"
+   },
+   "ts": 1795479594
   }
  }
 }
