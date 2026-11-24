@@ -874,18 +874,10 @@
   "https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/",
   "https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/",
   "https://www.zoomg.ir/cinema-news/420607-james-marsden-cyclops-avengers-doomsday/",
-  "https://www.zoomg.ir/game-news/420606-naughty-dog-praises-gta-6/"
+  "https://www.zoomg.ir/game-news/420606-naughty-dog-praises-gta-6/",
+  "https://www.zoomg.ir/cinema-news/420608-kelsey-grammer-beast-avengers-doomsday/"
  ],
  "pending": {
-  "76df9265": {
-   "text": "🎮 از طراحی اولیه دکتر دووم در فیلم Avengers: Doomsday رونمایی شد\n\nطرحی جایگزین از دکتر دووم پیش از اکران Avengers: Doomsday منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420495-early-design-for-doctor-doom/",
-   "item": {
-    "title": "از طراحی اولیه دکتر دووم در فیلم Avengers: Doomsday رونمایی شد",
-    "summary": "طرحی جایگزین از دکتر دووم پیش از اکران Avengers: Doomsday منتشر شد.",
-    "link": "https://www.zoomg.ir/cinema-news/420495-early-design-for-doctor-doom/"
-   },
-   "ts": 1795297740
-  },
   "c430eb17": {
    "text": "🎮 موزیک ویدیوهای جدیدی از انیمیشن Steps منتشر شد؛ روایت متفاوت سیندرلا\n\nنتفلیکس انیمیشن Steps را با روایتی متفاوت از سیندرلا و صداپیشگانی چون الی ونگ و بت میدلر منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420496-netflix-steps-animated-premiere/",
    "item": {
@@ -2595,6 +2587,15 @@
     "link": "https://www.zoomg.ir/game-news/420606-naughty-dog-praises-gta-6/"
    },
    "ts": 1795554868
+  },
+  "6e934d1a": {
+   "text": "🎮 ظاهر شخصیت بیست در Avengers: Doomsday بحث‌برانگیز شد\n\nمارول نخستین تصویر کلسی گرمر در نقش بیست برای فیلم Avengers: Doomsday را منتشر کرد و هواداران را به دو دسته تقسیم کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420608-kelsey-grammer-beast-avengers-doomsday/",
+   "item": {
+    "title": "ظاهر شخصیت بیست در Avengers: Doomsday بحث‌برانگیز شد",
+    "summary": "مارول نخستین تصویر کلسی گرمر در نقش بیست برای فیلم Avengers: Doomsday را منتشر کرد و هواداران را به دو دسته تقسیم کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420608-kelsey-grammer-beast-avengers-doomsday/"
+   },
+   "ts": 1795558114
   }
  }
 }
