@@ -816,18 +816,10 @@
   "https://www.zoomg.ir/game-news/420569-gta-6-biggest-playstation-launch/",
   "https://www.zoomg.ir/game-news/420570-doom-dark-ages-xbox-exclusive/",
   "https://vigiato.net/r/concept-art-from-a-cancelled-certain-affinity-game-has-surfaced-online",
-  "https://vigiato.net/r/gta-6s-free-pre-order-bonus-is-now-a-paid-store-purchase"
+  "https://vigiato.net/r/gta-6s-free-pre-order-bonus-is-now-a-paid-store-purchase",
+  "https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/"
  ],
  "pending": {
-  "75be5b3e": {
-   "text": "🎮 راهنمای پیدا کردن بشقاب‌پرنده و آدم فضایی در GTA 6\n\nرویداد UFO در GTA 6 بازیکن را به تعقیب ردی مرموز در جنگل و مواجهه با بیگانگان می‌کشاند.\n\n🔗 منبع: https://www.zoomg.ir/learning/420463-gta-6-ufo-location/",
-   "item": {
-    "title": "راهنمای پیدا کردن بشقاب‌پرنده و آدم فضایی در GTA 6",
-    "summary": "رویداد UFO در GTA 6 بازیکن را به تعقیب ردی مرموز در جنگل و مواجهه با بیگانگان می‌کشاند.",
-    "link": "https://www.zoomg.ir/learning/420463-gta-6-ufo-location/"
-   },
-   "ts": 1795238084
-  },
   "2c9912cd": {
    "text": "🎮 بیش از ۱۰۰۰ نفر از سازندگان GTA 6 بالای ۱۰ سال در راک‌استار بوده‌اند\n\nراک‌استار تأیید کرد حدود هزار نفر از کارکنانش بیش از یک دهه سابقه کار در این استودیو دارند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420468-rockstar-veterans-gta-6-retention/",
    "item": {
@@ -2456,6 +2448,15 @@
     "link": "https://vigiato.net/r/gta-6s-free-pre-order-bonus-is-now-a-paid-store-purchase"
    },
    "ts": 1795494974
+  },
+  "0410e385": {
+   "text": "🎮 سوختن کامل پلی استیشن ۵ در جریان پخش زنده بازی GTA 6\n\nیک دستگاه پلی استیشن ۵ در جریان پخش زنده بازی GTA 6 بر اثر فشار سنگین پردازشی دچار آتش‌سوزی داخلی و خرابی دائمی شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/",
+   "item": {
+    "title": "سوختن کامل پلی استیشن ۵ در جریان پخش زنده بازی GTA 6",
+    "summary": "یک دستگاه پلی استیشن ۵ در جریان پخش زنده بازی GTA 6 بر اثر فشار سنگین پردازشی دچار آتش‌سوزی داخلی و خرابی دائمی شد.",
+    "link": "https://www.zoomg.ir/game-news/420572-gta-6-burns-ps5-console/"
+   },
+   "ts": 1795498474
   }
  }
 }
