@@ -870,27 +870,11 @@
   "https://www.zoomg.ir/game-articles/420593-beach-buggy-2-mobile-game/",
   "https://www.zoomg.ir/game-news/420603-cdpr-sony-playstation-partnership-deal/",
   "https://vigiato.net/r/rockstar-red-dead-redemption-adaptation",
-  "https://vigiato.net/r/the-bazaar-mobile-game-review"
+  "https://vigiato.net/r/the-bazaar-mobile-game-review",
+  "https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/",
+  "https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/"
  ],
  "pending": {
-  "d2dfd5bb": {
-   "text": "🎮 نقد فصل سوم سریال ارباب حلقه‌ها: حلقه های قدرت | قسمت پنجم و ششم\n\nقسمت‌های پنجم و ششم فصل سوم حلقه‌های قدرت نشان می‌دهد که سریال با وجود انسجام مضمونی همچنان درگیر ضعف‌های اقتباسی است. همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420414--the-rings-of-power-season-3-part-5-and-6-review/",
-   "item": {
-    "title": "نقد فصل سوم سریال ارباب حلقه‌ها: حلقه های قدرت | قسمت پنجم و ششم",
-    "summary": "قسمت‌های پنجم و ششم فصل سوم حلقه‌های قدرت نشان می‌دهد که سریال با وجود انسجام مضمونی همچنان درگیر ضعف‌های اقتباسی است. همراه زومجی باشید.",
-    "link": "https://www.zoomg.ir/movie-tv-show-review/420414--the-rings-of-power-season-3-part-5-and-6-review/"
-   },
-   "ts": 1795291024
-  },
-  "ce1b7188": {
-   "text": "🎮 تریلر جدید فیلم Avengers: Doomsday احتمالا روز دوشنبه منتشر می‌شود\n\nهیلی اتول به راحتی آب خوردن زمان انتشار تریلر جدید اونجرز را لو داد\n\n🔗 منبع: https://vigiato.net/r/new-avengers-doomsday-trailer-release-date",
-   "item": {
-    "title": "تریلر جدید فیلم Avengers: Doomsday احتمالا روز دوشنبه منتشر می‌شود",
-    "summary": "هیلی اتول به راحتی آب خوردن زمان انتشار تریلر جدید اونجرز را لو داد",
-    "link": "https://vigiato.net/r/new-avengers-doomsday-trailer-release-date"
-   },
-   "ts": 1795291026
-  },
   "19ad030a": {
    "text": "🎮 نمره‌های فیلم The Further Mis-Adventures of Cliff Booth از سایت‌های معتبر دنیا\n\nدر این مطلب نگاهی خواهیم داشت به نمره‌های فیلم The Further Mis-Adventures of Cliff Booth از سایت‌های معتبر دنیا.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420493-further-mis-adventures-cliff-booth-scores/",
    "item": {
@@ -2591,6 +2575,24 @@
     "link": "https://vigiato.net/r/the-bazaar-mobile-game-review"
    },
    "ts": 1795548351
+  },
+  "5ff9dab9": {
+   "text": "🎮 سرانجام زمان عرضه بازی Lords of the Fallen 2 اعلام شد\n\nبازی اکشن نقش‌آفرینی Lords of the Fallen 2 در فروردین ۱۴۰۶ برای کنسول‌ها و کامپیوترهای شخصی عرضه خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/",
+   "item": {
+    "title": "سرانجام زمان عرضه بازی Lords of the Fallen 2 اعلام شد",
+    "summary": "بازی اکشن نقش‌آفرینی Lords of the Fallen 2 در فروردین ۱۴۰۶ برای کنسول‌ها و کامپیوترهای شخصی عرضه خواهد شد.",
+    "link": "https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/"
+   },
+   "ts": 1795551560
+  },
+  "807b0a80": {
+   "text": "🎮 فصل چهارم سریال ارباب حلقه‌ها رسما تأیید شد\n\nآمازون پیش از پخش قسمت پایانی فصل سوم، سریال ارباب حلقه‌ها را برای فصل چهارم تمدید کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/",
+   "item": {
+    "title": "فصل چهارم سریال ارباب حلقه‌ها رسما تأیید شد",
+    "summary": "آمازون پیش از پخش قسمت پایانی فصل سوم، سریال ارباب حلقه‌ها را برای فصل چهارم تمدید کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/"
+   },
+   "ts": 1795551561
   }
  }
 }
