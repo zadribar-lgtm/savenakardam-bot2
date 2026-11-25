@@ -880,27 +880,11 @@
   "https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/",
   "https://www.zoomg.ir/game-news/420611-nioh-3-xbox-release-date/",
   "https://www.zoomg.ir/game-news/420617-gta-6-physical-trading-cards/",
-  "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/"
+  "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/",
+  "https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/",
+  "https://vigiato.net/r/gta-6-runs-better-on-xbox-series-x"
  ],
  "pending": {
-  "ec308889": {
-   "text": "🎮 بن ناگهانی هزار گیمر؛ اشتباه در سیستم ضدتقلب بازی Apex Legends\n\nبه‌روزرسانی جدید سیستم ضدتقلب Apex Legends حساب حدود هزار بازیکن را به اشتباه مسدود کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420499-apex-legends-anti-cheat-bug-bans/",
-   "item": {
-    "title": "بن ناگهانی هزار گیمر؛ اشتباه در سیستم ضدتقلب بازی Apex Legends",
-    "summary": "به‌روزرسانی جدید سیستم ضدتقلب Apex Legends حساب حدود هزار بازیکن را به اشتباه مسدود کرد.",
-    "link": "https://www.zoomg.ir/game-news/420499-apex-legends-anti-cheat-bug-bans/"
-   },
-   "ts": 1795329344
-  },
-  "c2aca4ce": {
-   "text": "🎮 کلاهبرداری رمز ارزی با نسخه پی سی جعلی بازی GTA 6\n\nکلاهبرداران با عرضه بسته‌های آماده ۲۰۰ دلاری، هواداران چشم‌انتظار نسخه کامپیوترهای شخصی GTA 6 را هدف سرقت کیف‌پول‌های رمزارز قرار داده‌اند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420498-gta-6-pc-scam-toolkits/",
-   "item": {
-    "title": "کلاهبرداری رمز ارزی با نسخه پی سی جعلی بازی GTA 6",
-    "summary": "کلاهبرداران با عرضه بسته‌های آماده ۲۰۰ دلاری، هواداران چشم‌انتظار نسخه کامپیوترهای شخصی GTA 6 را هدف سرقت کیف‌پول‌های رمزارز قرار داده‌اند.",
-    "link": "https://www.zoomg.ir/game-news/420498-gta-6-pc-scam-toolkits/"
-   },
-   "ts": 1795329345
-  },
   "22b197db": {
    "text": "🎮 رکوردشکنی ترافیک اینترنت کامکست با عرضه بازی GTA 6\n\nعرضه بازی GTA 6 با اشغال یک‌چهارم ترافیک اوج مصرف، رکورد تاریخی مصرف داده در شبکه کامکست را شکست.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420501-gta-6-breaks-internet-traffic-record/",
    "item": {
@@ -2628,6 +2612,24 @@
     "link": "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/"
    },
    "ts": 1795585272
+  },
+  "3c09d566": {
+   "text": "🎮 دیزنی ساخت فیلم Avatar 4 جیمز کامرون را رسما تأیید کرد\n\nدیزنی با گنجاندن رسمی قسمت چهارم آواتار در جدول اکران خود، به تردیدها پیرامون ادامه این مجموعه پایان داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/",
+   "item": {
+    "title": "دیزنی ساخت فیلم Avatar 4 جیمز کامرون را رسما تأیید کرد",
+    "summary": "دیزنی با گنجاندن رسمی قسمت چهارم آواتار در جدول اکران خود، به تردیدها پیرامون ادامه این مجموعه پایان داد.",
+    "link": "https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/"
+   },
+   "ts": 1795588583
+  },
+  "9ac19238": {
+   "text": "🎮 بازی GTA 6 روی ایکس‌باکس سری ایکس عملکرد بهتری نسبت به پلی‌استیشن ۵ دارد\n\n«بهترین تجربه روی PS5» در تاریخ ثبت خواهد شد\n\n🔗 منبع: https://vigiato.net/r/gta-6-runs-better-on-xbox-series-x",
+   "item": {
+    "title": "بازی GTA 6 روی ایکس‌باکس سری ایکس عملکرد بهتری نسبت به پلی‌استیشن ۵ دارد",
+    "summary": "«بهترین تجربه روی PS5» در تاریخ ثبت خواهد شد",
+    "link": "https://vigiato.net/r/gta-6-runs-better-on-xbox-series-x"
+   },
+   "ts": 1795588585
   }
  }
 }
