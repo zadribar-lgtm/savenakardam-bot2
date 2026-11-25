@@ -932,18 +932,12 @@
   "https://vigiato.net/r/team-cherry-announces-special-presentation-for-november-27",
   "https://vigiato.net/r/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
   "https://vigiato.net/r/mass-effect-5-dev-doesnt-believe-ea-will-ever-let-it-go-and-itll-be-a-miracle-if-we-get-another-rpg-book-or-comic",
-  "https://vigiato.net/r/raul-bautista-actor-manny-perez-bought-a-ps5-so-he-could-play-gta-6"
+  "https://vigiato.net/r/raul-bautista-actor-manny-perez-bought-a-ps5-so-he-could-play-gta-6",
+  "https://www.zoomg.ir/game-news/420638-rayman-legends-retold-review-embargo/",
+  "https://vigiato.net/r/the-witcher-4-and-all-future-cd-projekt-games-will-remain-multiplatform-despite-the-marketing-deal-with-playstation",
+  "https://vigiato.net/r/gta-6-ai-npc-crowd-traffic-management"
  ],
  "pending": {
-  "d194c784": {
-   "text": "🎮 وارد وایس سیتی شدیم؛ ماجراجویی لوسیا و جیسون در GTA 6 جدی‌تر می‌شود\n\nورود به وایس سیتی و استقرار در خانه جدید، با آغاز ماجرای هارددیسک مرموز داستان لوسیا و جیسون را در GTA 6 وارد مرحله‌ای جدی‌تر می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/video/420514-gta-6-vice-city-lucia-jason/",
-   "item": {
-    "title": "وارد وایس سیتی شدیم؛ ماجراجویی لوسیا و جیسون در GTA 6 جدی‌تر می‌شود",
-    "summary": "ورود به وایس سیتی و استقرار در خانه جدید، با آغاز ماجرای هارددیسک مرموز داستان لوسیا و جیسون را در GTA 6 وارد مرحله‌ای جدی‌تر می‌کند.",
-    "link": "https://www.zoomg.ir/video/420514-gta-6-vice-city-lucia-jason/"
-   },
-   "ts": 1795365953
-  },
   "b55b6ef9": {
    "text": "🎮 کارگردان Cyberpunk 2 در واکنش به عظمت GTA 6: بازی ما لغو شد\n\nکارگردان خلاق بازی Cyberpunk 2 اعلام کرد استودیوی سی‌دی پراجکت رد هیچ برنامه‌ای برای رقابت با مقیاس عظیم GTA 6 ندارد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420520-cyberpunk-2-director-gta-6/",
    "item": {
@@ -2824,6 +2818,33 @@
     "link": "https://vigiato.net/r/raul-bautista-actor-manny-perez-bought-a-ps5-so-he-could-play-gta-6"
    },
    "ts": 1795622853
+  },
+  "efa67f3d": {
+   "text": "🎮 تاریخ و ساعت انتشار نمره‌های Rayman Legends Retold اعلام شد\n\nتاریخ و ساعت دقیق انتشار نقدها و نمرات بازی Rayman Legends Retold به‌طور رسمی مشخص شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420638-rayman-legends-retold-review-embargo/",
+   "item": {
+    "title": "تاریخ و ساعت انتشار نمره‌های Rayman Legends Retold اعلام شد",
+    "summary": "تاریخ و ساعت دقیق انتشار نقدها و نمرات بازی Rayman Legends Retold به‌طور رسمی مشخص شد.",
+    "link": "https://www.zoomg.ir/game-news/420638-rayman-legends-retold-review-embargo/"
+   },
+   "ts": 1795626500
+  },
+  "1708dad2": {
+   "text": "🎮 بازی ویچر ۴ با وجود همکاری پلی‌استیشن انحصاری نخواهد شد\n\nتیم سازنده تأکید کرد که قرارداد بازاریابی با سونی، عرضه چندپلتفرمی بازی‌های آینده این استودیو را تغییر نمی‌دهد\n\n🔗 منبع: https://vigiato.net/r/the-witcher-4-and-all-future-cd-projekt-games-will-remain-multiplatform-despite-the-marketing-deal-with-playstation",
+   "item": {
+    "title": "بازی ویچر ۴ با وجود همکاری پلی‌استیشن انحصاری نخواهد شد",
+    "summary": "تیم سازنده تأکید کرد که قرارداد بازاریابی با سونی، عرضه چندپلتفرمی بازی‌های آینده این استودیو را تغییر نمی‌دهد",
+    "link": "https://vigiato.net/r/the-witcher-4-and-all-future-cd-projekt-games-will-remain-multiplatform-despite-the-marketing-deal-with-playstation"
+   },
+   "ts": 1795626501
+  },
+  "4ad0a087": {
+   "text": "🎮 GTA 6 چطور هزاران NPC، ماشین و شیء متحرک را هم‌زمان مدیریت می‌کند؟\n\nهوش مصنوعی و مدیریت جمعیت در GTA 6 چگونه کار می‌کند؟\n\n🔗 منبع: https://vigiato.net/r/gta-6-ai-npc-crowd-traffic-management",
+   "item": {
+    "title": "GTA 6 چطور هزاران NPC، ماشین و شیء متحرک را هم‌زمان مدیریت می‌کند؟",
+    "summary": "هوش مصنوعی و مدیریت جمعیت در GTA 6 چگونه کار می‌کند؟",
+    "link": "https://vigiato.net/r/gta-6-ai-npc-crowd-traffic-management"
+   },
+   "ts": 1795626503
   }
  }
 }
