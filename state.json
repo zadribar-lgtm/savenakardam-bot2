@@ -922,18 +922,10 @@
   "https://www.zoomg.ir/cinema-news/420629-metal-slug-live-action-movie/",
   "https://vigiato.net/r/the-last-of-us-2-lead-laura-bailey-says-pre-release-leaks-played-a-big-part-in-the-backlash",
   "https://vigiato.net/r/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
-  "https://vigiato.net/r/gta-6-best-places-to-explore"
+  "https://vigiato.net/r/gta-6-best-places-to-explore",
+  "https://www.zoomg.ir/game-news/420628-attack-on-titan-3-gameplay/"
  ],
  "pending": {
-  "38fcc051": {
-   "text": "🎮 راک‌استار: GTA 6 را بدون وسواس انجام دادن همه وظایف تجربه کنید\n\nمعاون طراحی راکستار از بازیکنان خواست چک‌لیست‌ها، راهنماهای آنلاین و وسواس درصد پیشرفت را در GTA 6 رها کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420504-gta-6-developers-checklist-approach/",
-   "item": {
-    "title": "راک‌استار: GTA 6 را بدون وسواس انجام دادن همه وظایف تجربه کنید",
-    "summary": "معاون طراحی راکستار از بازیکنان خواست چک‌لیست‌ها، راهنماهای آنلاین و وسواس درصد پیشرفت را در GTA 6 رها کنند.",
-    "link": "https://www.zoomg.ir/game-news/420504-gta-6-developers-checklist-approach/"
-   },
-   "ts": 1795358156
-  },
   "75573da7": {
    "text": "🎮 با این روش GTA 6 را روی ایکس باکس با نرخ ۶۰ فریم تجربه کنید\n\nکاربران با بهره‌گیری از یک باگ نرم‌افزاری در کنسول ایکس باکس موفق شدند قفل نرخ فریم بازی GTA 6 را باز کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420517-gta-6-60fps-xbox-glitch/",
    "item": {
@@ -2778,6 +2770,15 @@
     "link": "https://vigiato.net/r/gta-6-best-places-to-explore"
    },
    "ts": 1795615459
+  },
+  "4d0b4024": {
+   "text": "🎮 ویدیو جدید بازی Attack on Titan 3 با محوریت زندگی در شهر و ارتقای تجهیزات\n\nاستودیوی امگا فورس با انتشار ویدیویی تازه، جزییات گشت‌وگذار در شهر و سیستم ارتقای تجهیزات را به نمایش گذاشت.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420628-attack-on-titan-3-gameplay/",
+   "item": {
+    "title": "ویدیو جدید بازی Attack on Titan 3 با محوریت زندگی در شهر و ارتقای تجهیزات",
+    "summary": "استودیوی امگا فورس با انتشار ویدیویی تازه، جزییات گشت‌وگذار در شهر و سیستم ارتقای تجهیزات را به نمایش گذاشت.",
+    "link": "https://www.zoomg.ir/game-news/420628-attack-on-titan-3-gameplay/"
+   },
+   "ts": 1795619053
   }
  }
 }
