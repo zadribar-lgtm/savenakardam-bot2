@@ -945,18 +945,11 @@
   "https://www.zoomg.ir/cinema-news/420642-man-of-tomorrow-ccxp-poster/",
   "https://vigiato.net/r/gta-6-effect-on-society-and-culture",
   "https://www.zoomg.ir/game-news/420644-gta-6-ps5-build-leaked/",
-  "https://www.zoomg.ir/game-articles/420633-chants-of-sennaar-mobile-game/"
+  "https://www.zoomg.ir/game-articles/420633-chants-of-sennaar-mobile-game/",
+  "https://www.zoomg.ir/cinema-news/420646-pitt-season-3-release-date/",
+  "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/"
  ],
  "pending": {
-  "ffb8ec72": {
-   "text": "🎮 وسعت نقشه بازی 1666: Amsterdam دو برابر خواهد شد + تریلر جدید\n\nپاتریس دزیله با انتشار تریلری تازه از دو برابر شدن وسعت نقشه و اضافه شدن مکان‌های جدید به بازی 1666: Amsterdam خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420528-amsterdam-1666-world-doubles-update/",
-   "item": {
-    "title": "وسعت نقشه بازی 1666: Amsterdam دو برابر خواهد شد + تریلر جدید",
-    "summary": "پاتریس دزیله با انتشار تریلری تازه از دو برابر شدن وسعت نقشه و اضافه شدن مکان‌های جدید به بازی 1666: Amsterdam خبر داد.",
-    "link": "https://www.zoomg.ir/game-news/420528-amsterdam-1666-world-doubles-update/"
-   },
-   "ts": 1795381432
-  },
   "b3bc40de": {
    "text": "🎮 تریلر و پوستر جدیدی از انیمه Shōzen منتشر شد + زمان پخش\n\nعوامل سازنده‌ی انیمه‌ی تلویزیونی Shōzen با انتشار پوستر و تیزری تبلیغاتی، تاریخ پخش اثر را فروردین ۱۴۰۶ اعلام کردند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/",
    "item": {
@@ -2810,6 +2803,24 @@
     "link": "https://www.zoomg.ir/game-articles/420633-chants-of-sennaar-mobile-game/"
    },
    "ts": 1795638261
+  },
+  "290dbf9c": {
+   "text": "🎮 تاریخ پخش فصل سوم سریال The Pitt اعلام شد\n\nشبکه‌ی اچ‌بی‌او مکس تاریخ پخش فصل سوم سریال پزشکی و درام The Pitt را به‌طور رسمی اعلام کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420646-pitt-season-3-release-date/",
+   "item": {
+    "title": "تاریخ پخش فصل سوم سریال The Pitt اعلام شد",
+    "summary": "شبکه‌ی اچ‌بی‌او مکس تاریخ پخش فصل سوم سریال پزشکی و درام The Pitt را به‌طور رسمی اعلام کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420646-pitt-season-3-release-date/"
+   },
+   "ts": 1795641700
+  },
+  "7b95e1fa": {
+   "text": "🎮 مدت‌زمان فیلم جومانجی ۳ اعلام شد؛ طولانی‌ترین قسمت مجموعه\n\nمدت‌زمان نهایی فیلم Jumanji: Open World چیزی حدود ۲ ساعت و ۶ دقیقه خواهد بود.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/",
+   "item": {
+    "title": "مدت‌زمان فیلم جومانجی ۳ اعلام شد؛ طولانی‌ترین قسمت مجموعه",
+    "summary": "مدت‌زمان نهایی فیلم Jumanji: Open World چیزی حدود ۲ ساعت و ۶ دقیقه خواهد بود.",
+    "link": "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/"
+   },
+   "ts": 1795641702
   }
  }
 }
