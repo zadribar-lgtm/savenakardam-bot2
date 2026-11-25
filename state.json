@@ -947,18 +947,10 @@
   "https://www.zoomg.ir/game-news/420644-gta-6-ps5-build-leaked/",
   "https://www.zoomg.ir/game-articles/420633-chants-of-sennaar-mobile-game/",
   "https://www.zoomg.ir/cinema-news/420646-pitt-season-3-release-date/",
-  "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/"
+  "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/",
+  "https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/"
  ],
  "pending": {
-  "b3bc40de": {
-   "text": "🎮 تریلر و پوستر جدیدی از انیمه Shōzen منتشر شد + زمان پخش\n\nعوامل سازنده‌ی انیمه‌ی تلویزیونی Shōzen با انتشار پوستر و تیزری تبلیغاتی، تاریخ پخش اثر را فروردین ۱۴۰۶ اعلام کردند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/",
-   "item": {
-    "title": "تریلر و پوستر جدیدی از انیمه Shōzen منتشر شد + زمان پخش",
-    "summary": "عوامل سازنده‌ی انیمه‌ی تلویزیونی Shōzen با انتشار پوستر و تیزری تبلیغاتی، تاریخ پخش اثر را فروردین ۱۴۰۶ اعلام کردند.",
-    "link": "https://www.zoomg.ir/cinema-news/420529-shozen-anime-promo-visual-revealed/"
-   },
-   "ts": 1795383701
-  },
   "9777c3fc": {
    "text": "🎮 پس از جنسن هوانگ چه کسی سکان هدایت انویدیا را به دست می‌گیرد؟\n\nبا آغاز گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا، کارشناسان از چالش‌های پیش‌روی گیمرها در بازار سخت‌افزار می‌گویند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/",
    "item": {
@@ -2821,6 +2813,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/"
    },
    "ts": 1795641702
+  },
+  "67d1ec9c": {
+   "text": "🎮 کوین فایگی پایان‌بندی فیلم Avengers: Doomsday را لو داد\n\nکوین فایگی با تأیید شکل‌گیری یک سیاره واحد در فیلم Avengers: Secret Wars، عملا پایان‌بندی اونجرز دوومزدی را برای مخاطبان فاش کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/",
+   "item": {
+    "title": "کوین فایگی پایان‌بندی فیلم Avengers: Doomsday را لو داد",
+    "summary": "کوین فایگی با تأیید شکل‌گیری یک سیاره واحد در فیلم Avengers: Secret Wars، عملا پایان‌بندی اونجرز دوومزدی را برای مخاطبان فاش کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/"
+   },
+   "ts": 1795645085
   }
  }
 }
