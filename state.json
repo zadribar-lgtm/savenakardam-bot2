@@ -879,18 +879,10 @@
   "https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/",
   "https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/",
   "https://www.zoomg.ir/game-news/420611-nioh-3-xbox-release-date/",
-  "https://www.zoomg.ir/game-news/420617-gta-6-physical-trading-cards/"
+  "https://www.zoomg.ir/game-news/420617-gta-6-physical-trading-cards/",
+  "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/"
  ],
  "pending": {
-  "03b78a77": {
-   "text": "🎮 هیلی اتول زمان انتشار تریلر جدید فیلم Avengers: Doomsday را لو داد\n\nهیلی اتول، بازیگر نقش کاپیتان کارتر اعلام کرد تریلر جدید فیلم انتقام‌جویان دوشنبه منتشر خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420497-avengers-doomsday-trailer-hayley-atwell/",
-   "item": {
-    "title": "هیلی اتول زمان انتشار تریلر جدید فیلم Avengers: Doomsday را لو داد",
-    "summary": "هیلی اتول، بازیگر نقش کاپیتان کارتر اعلام کرد تریلر جدید فیلم انتقام‌جویان دوشنبه منتشر خواهد شد.",
-    "link": "https://www.zoomg.ir/cinema-news/420497-avengers-doomsday-trailer-hayley-atwell/"
-   },
-   "ts": 1795322902
-  },
   "ec308889": {
    "text": "🎮 بن ناگهانی هزار گیمر؛ اشتباه در سیستم ضدتقلب بازی Apex Legends\n\nبه‌روزرسانی جدید سیستم ضدتقلب Apex Legends حساب حدود هزار بازیکن را به اشتباه مسدود کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420499-apex-legends-anti-cheat-bug-bans/",
    "item": {
@@ -2627,6 +2619,15 @@
     "link": "https://www.zoomg.ir/game-news/420617-gta-6-physical-trading-cards/"
    },
    "ts": 1795581984
+  },
+  "8bd74671": {
+   "text": "🎮 مکس ورستپن پس از ۴۰ ساعت تجربه GTA 6 قهرمان گرندپری شد\n\nمکس ورستپن در جریان آخر هفته گرندپری لاس‌وگاس، بیش از ۴۰ ساعت را صرف تجربه GTA 6 کرد و سپس به مقام قهرمانی رسید.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/",
+   "item": {
+    "title": "مکس ورستپن پس از ۴۰ ساعت تجربه GTA 6 قهرمان گرندپری شد",
+    "summary": "مکس ورستپن در جریان آخر هفته گرندپری لاس‌وگاس، بیش از ۴۰ ساعت را صرف تجربه GTA 6 کرد و سپس به مقام قهرمانی رسید.",
+    "link": "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/"
+   },
+   "ts": 1795585272
   }
  }
 }
