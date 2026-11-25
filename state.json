@@ -948,27 +948,10 @@
   "https://www.zoomg.ir/game-articles/420633-chants-of-sennaar-mobile-game/",
   "https://www.zoomg.ir/cinema-news/420646-pitt-season-3-release-date/",
   "https://www.zoomg.ir/cinema-news/420645-jumanji-open-world-runtime-revealed/",
-  "https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/"
+  "https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/",
+  "https://www.zoomg.ir/hardware-news/420648-nvidia-cuts-gaming-gpu-supply/"
  ],
  "pending": {
-  "9777c3fc": {
-   "text": "🎮 پس از جنسن هوانگ چه کسی سکان هدایت انویدیا را به دست می‌گیرد؟\n\nبا آغاز گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا، کارشناسان از چالش‌های پیش‌روی گیمرها در بازار سخت‌افزار می‌گویند.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/",
-   "item": {
-    "title": "پس از جنسن هوانگ چه کسی سکان هدایت انویدیا را به دست می‌گیرد؟",
-    "summary": "با آغاز گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا، کارشناسان از چالش‌های پیش‌روی گیمرها در بازار سخت‌افزار می‌گویند.",
-    "link": "https://www.zoomg.ir/tech-news/420530-ceo-successors-after-jensen-huang/"
-   },
-   "ts": 1795386316
-  },
-  "aa498f69": {
-   "text": "🎮 اپیک گیمز برای جایگزینی سیستم‌های آنریل انجین ۶ با هوش مصنوعی عجله می‌کند\n\nاپیک گیمز سیستم برنامه‌نویسی پرکاربرد بلوپرینت را زودتر از موعد تعیین‌شده از موتور بازی‌سازی آنریل انجین ۶ حذف می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420531-unreal-engine-6-drops-blueprints/",
-   "item": {
-    "title": "اپیک گیمز برای جایگزینی سیستم‌های آنریل انجین ۶ با هوش مصنوعی عجله می‌کند",
-    "summary": "اپیک گیمز سیستم برنامه‌نویسی پرکاربرد بلوپرینت را زودتر از موعد تعیین‌شده از موتور بازی‌سازی آنریل انجین ۶ حذف می‌کند.",
-    "link": "https://www.zoomg.ir/game-news/420531-unreal-engine-6-drops-blueprints/"
-   },
-   "ts": 1795388741
-  },
   "14b3cc55": {
    "text": "🎮 راکستار بدون پرداخت حتی یک دلار، موسیقی‌های GTA 3 را تامین کرد\n\nاطلاعات جدیدی از پشت صحنه ساخت بازی GTA 3 منتشر شده که نشان می‌دهد راکستار با وجود اختصاص بودجه ۶۰۰ هزار دلاری برای موسیقی‌های این عنوان، در نهایت هیچ مبلغی برای دریافت حق استفاده از آهنگ‌ها پرداخت نکرد. کلی سامنر، مدیر سابق شرکت تیک‌تو، در گفت‌وگو با کریستوفر درینگ از رسانه The Game Business توضیح […]\n\n🔗 منبع: https://vigiato.net/r/gta-3-budget-used-without-a-single-dollar-spent",
    "item": {
@@ -2822,6 +2805,15 @@
     "link": "https://www.zoomg.ir/cinema-news/420647-avengers-secret-wars-battleworld-spoilers/"
    },
    "ts": 1795645085
+  },
+  "53d1a604": {
+   "text": "🎮 انویدیا عرضه کارت‌های گرافیک گیمینگ را تا ۳۰ درصد کاهش داد\n\nانویدیا تخصیص پردازنده‌های گرافیکی گیمینگ به شرکای تجاری را در سه‌ماهه پایانی بین ۲۰ تا ۳۰ درصد کاهش داده است.\n\n🔗 منبع: https://www.zoomg.ir/hardware-news/420648-nvidia-cuts-gaming-gpu-supply/",
+   "item": {
+    "title": "انویدیا عرضه کارت‌های گرافیک گیمینگ را تا ۳۰ درصد کاهش داد",
+    "summary": "انویدیا تخصیص پردازنده‌های گرافیکی گیمینگ به شرکای تجاری را در سه‌ماهه پایانی بین ۲۰ تا ۳۰ درصد کاهش داده است.",
+    "link": "https://www.zoomg.ir/hardware-news/420648-nvidia-cuts-gaming-gpu-supply/"
+   },
+   "ts": 1795648225
   }
  }
 }
