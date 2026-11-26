@@ -998,27 +998,11 @@
   "https://vigiato.net/r/gholamreza-nikkhah-memorable-roles",
   "https://vigiato.net/r/gta-6-physics-vs-gta-5",
   "https://www.zoomg.ir/game-news/420679-gta-6-unofficial-pc-port/",
-  "https://vigiato.net/r/hillthorn-mobile-game-review"
+  "https://vigiato.net/r/hillthorn-mobile-game-review",
+  "https://www.zoomg.ir/cinema-news/420680-dark-creators-sonnental-teaser-revealed/",
+  "https://www.zoomg.ir/movie-tv-show-review/420199-the-odyssey-movie-review/"
  ],
  "pending": {
-  "622b0981": {
-   "text": "🎮 انویدیا بار دیگر دومین شرکت باارزش جهان شد\n\nانویدیا با دستیابی به ارزش ۴٫۰۳ تریلیون دلار، جایگاه دومین شرکت باارزش جهان را از مایکروسافت پس گرفت.\n\n🔗 منبع: https://www.zoomg.ir/tech-news/420560-nvidia-reclaims-second-spot-valuation/",
-   "item": {
-    "title": "انویدیا بار دیگر دومین شرکت باارزش جهان شد",
-    "summary": "انویدیا با دستیابی به ارزش ۴٫۰۳ تریلیون دلار، جایگاه دومین شرکت باارزش جهان را از مایکروسافت پس گرفت.",
-    "link": "https://www.zoomg.ir/tech-news/420560-nvidia-reclaims-second-spot-valuation/"
-   },
-   "ts": 1795458364
-  },
-  "a2df4253": {
-   "text": "🎮 بازیگر نقش همسر کریتوس در سریال خدای جنگ معرفی شد\n\nدبورا آن ول نقش فی را در سریال خدای جنگ محصول پرایم ویدیو بازی خواهد کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/",
-   "item": {
-    "title": "بازیگر نقش همسر کریتوس در سریال خدای جنگ معرفی شد",
-    "summary": "دبورا آن ول نقش فی را در سریال خدای جنگ محصول پرایم ویدیو بازی خواهد کرد.",
-    "link": "https://www.zoomg.ir/cinema-news/420559-deborah-ann-woll-faye-gow/"
-   },
-   "ts": 1795458366
-  },
   "49ff01b7": {
    "text": "🎮 معرفی بازی موبایل Sparklite | نبرد با تایتان‌های معدن\n\nدر بازی Sparklite، آدا برای متوقف کردن بارون طماع وارد سرزمین ژئودیا می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420552-sparklite-mobile-game/",
    "item": {
@@ -2782,6 +2766,24 @@
     "link": "https://vigiato.net/r/hillthorn-mobile-game-review"
    },
    "ts": 1795714772
+  },
+  "a93dfcbf": {
+   "text": "🎮 اولین تیزر سریال جدید سازندگان Dark منتشر شد\n\nشبکه‌ی اچ‌بی‌او مکس نخستین تیزر رسمی سریال معمایی و مهیج Sonnental، اثر جدید خالقان سریال تحسین‌شده‌ی دارک را منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420680-dark-creators-sonnental-teaser-revealed/",
+   "item": {
+    "title": "اولین تیزر سریال جدید سازندگان Dark منتشر شد",
+    "summary": "شبکه‌ی اچ‌بی‌او مکس نخستین تیزر رسمی سریال معمایی و مهیج Sonnental، اثر جدید خالقان سریال تحسین‌شده‌ی دارک را منتشر کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420680-dark-creators-sonnental-teaser-revealed/"
+   },
+   "ts": 1795717676
+  },
+  "6abd9026": {
+   "text": "🎮 نقد فیلم ادیسه (The Odyssey) | راوی گناهکار\n\nقبل از تماشا می‌پرسیدم کارگردان چرا به سراغ قصه‌ای از چند هزار سال قبل رفت؟ در جریان فیلم، حماسه جای خود را به سوگواری برای بشریت داد و پاسخ آشکار شد.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420199-the-odyssey-movie-review/",
+   "item": {
+    "title": "نقد فیلم ادیسه (The Odyssey) | راوی گناهکار",
+    "summary": "قبل از تماشا می‌پرسیدم کارگردان چرا به سراغ قصه‌ای از چند هزار سال قبل رفت؟ در جریان فیلم، حماسه جای خود را به سوگواری برای بشریت داد و پاسخ آشکار شد.",
+    "link": "https://www.zoomg.ir/movie-tv-show-review/420199-the-odyssey-movie-review/"
+   },
+   "ts": 1795717678
   }
  }
 }
