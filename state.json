@@ -956,18 +956,14 @@
   "https://vigiato.net/r/proximity-chat-coming-to-skate",
   "https://www.zoomg.ir/cinema-news/420661-dune-part-three-teaser-released/",
   "https://vigiato.net/r/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
-  "https://www.zoomg.ir/game-news/420650-delta-force-metal-gear-solid-crossover/"
+  "https://www.zoomg.ir/game-news/420650-delta-force-metal-gear-solid-crossover/",
+  "https://www.zoomg.ir/game-news/420652-ubisoft-generative-ai-pitch-mandate/",
+  "https://www.zoomg.ir/game-news/420651-switch-2-piracy-hack-era/",
+  "https://vigiato.net/r/hideki-kamiya-castlevania-konami",
+  "https://vigiato.net/r/the-pitt-season-3-release-date",
+  "https://vigiato.net/r/nvidia-cutting-gaming-gpu-production"
  ],
  "pending": {
-  "ec6d1abd": {
-   "text": "🎮 دلقک بی‌رحم مجموعه Terrifier به بازی Dead by Daylight اضافه می‌شود\n\nشخصیت آرت دلقک از مجموعه‌ی سینمایی ترایفر به بازی چندنفره‌ی محبوب Dead by Daylight می‌پیوندد.\n\n🔗 منبع: https://www.zoomg.ir/video/420533-art-the-clown-dead-by-daylight/",
-   "item": {
-    "title": "دلقک بی‌رحم مجموعه Terrifier به بازی Dead by Daylight اضافه می‌شود",
-    "summary": "شخصیت آرت دلقک از مجموعه‌ی سینمایی ترایفر به بازی چندنفره‌ی محبوب Dead by Daylight می‌پیوندد.",
-    "link": "https://www.zoomg.ir/video/420533-art-the-clown-dead-by-daylight/"
-   },
-   "ts": 1795412908
-  },
   "ec304ae5": {
    "text": "🎮 هیلی استاینفلد حضور در فیلم انتقام‌جویان: دومزدی را تأیید کرد\n\nهیلی استاینفلد رسما حضور خود در فیلم Avengers: Doomsday تأیید کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420534-steinfeld-avengers-doomsday-kate-bishop/",
    "item": {
@@ -2830,6 +2826,51 @@
     "link": "https://www.zoomg.ir/game-news/420650-delta-force-metal-gear-solid-crossover/"
    },
    "ts": 1795671716
+  },
+  "1c796fbe": {
+   "text": "🎮 استفاده از هوش مصنوعی در یوبیسافت اجباری شده است\n\nتوسعه‌دهندگان یوبیسافت برای تصویب طرح‌های جدید ملزم به استفاده از هوش مصنوعی یا ارائه‌ی دلایل دقیق برای عدم به‌کارگیری آن هستند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420652-ubisoft-generative-ai-pitch-mandate/",
+   "item": {
+    "title": "استفاده از هوش مصنوعی در یوبیسافت اجباری شده است",
+    "summary": "توسعه‌دهندگان یوبیسافت برای تصویب طرح‌های جدید ملزم به استفاده از هوش مصنوعی یا ارائه‌ی دلایل دقیق برای عدم به‌کارگیری آن هستند.",
+    "link": "https://www.zoomg.ir/game-news/420652-ubisoft-generative-ai-pitch-mandate/"
+   },
+   "ts": 1795675084
+  },
+  "078c2aca": {
+   "text": "🎮 هک جدید نینتندو سوییچ ۲ با امکان اجرای بازی‌های کرکی از راه رسید\n\nابزارهای جدید جیلبریک با کمک هوش مصنوعی راه را برای اجرای بازی‌های کپی روی کنسول سوییچ ۲ هموار کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420651-switch-2-piracy-hack-era/",
+   "item": {
+    "title": "هک جدید نینتندو سوییچ ۲ با امکان اجرای بازی‌های کرکی از راه رسید",
+    "summary": "ابزارهای جدید جیلبریک با کمک هوش مصنوعی راه را برای اجرای بازی‌های کپی روی کنسول سوییچ ۲ هموار کردند.",
+    "link": "https://www.zoomg.ir/game-news/420651-switch-2-piracy-hack-era/"
+   },
+   "ts": 1795675085
+  },
+  "1463f4ad": {
+   "text": "🎮 خالق Devil May Cry می‌خواهد یک بازی جدید از Castlevania بسازد\n\nکامیا منتظر تماس کونامی است\n\n🔗 منبع: https://vigiato.net/r/hideki-kamiya-castlevania-konami",
+   "item": {
+    "title": "خالق Devil May Cry می‌خواهد یک بازی جدید از Castlevania بسازد",
+    "summary": "کامیا منتظر تماس کونامی است",
+    "link": "https://vigiato.net/r/hideki-kamiya-castlevania-konami"
+   },
+   "ts": 1795675087
+  },
+  "6507151a": {
+   "text": "🎮 تاریخ پخش فصل سوم سریال The Pitt مشخص شد\n\nفصل جدید این سریال موفق در دی‌ماه پخش خواهد شد\n\n🔗 منبع: https://vigiato.net/r/the-pitt-season-3-release-date",
+   "item": {
+    "title": "تاریخ پخش فصل سوم سریال The Pitt مشخص شد",
+    "summary": "فصل جدید این سریال موفق در دی‌ماه پخش خواهد شد",
+    "link": "https://vigiato.net/r/the-pitt-season-3-release-date"
+   },
+   "ts": 1795675088
+  },
+  "37cf63bb": {
+   "text": "🎮 انویدیا ظاهرا تولید کارت‌های گرافیک خود را تا ۳۰ درصد کاهش می‌دهد\n\nتا پایان ماه ژانویه ۲۰۲۷ این کاهش عرضه ادامه خواهد داشت\n\n🔗 منبع: https://vigiato.net/r/nvidia-cutting-gaming-gpu-production",
+   "item": {
+    "title": "انویدیا ظاهرا تولید کارت‌های گرافیک خود را تا ۳۰ درصد کاهش می‌دهد",
+    "summary": "تا پایان ماه ژانویه ۲۰۲۷ این کاهش عرضه ادامه خواهد داشت",
+    "link": "https://vigiato.net/r/nvidia-cutting-gaming-gpu-production"
+   },
+   "ts": 1795675089
   }
  }
 }
