@@ -1012,7 +1012,8 @@
   "https://www.zoomg.ir/game-news/420685-gta-6-player-survey-results/",
   "https://www.zoomg.ir/game-news/420684-xbox-branding-strategy-shift-2027/",
   "https://www.zoomg.ir/game-news/420686-anbernic-rg-47g1-handheld-announcement/",
-  "https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/"
+  "https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/",
+  "https://www.zoomg.ir/game-news/420688-gta-6-weather-bug-fix/"
  ],
  "pending": {
   "93fd78eb": {
@@ -2805,6 +2806,15 @@
     "link": "https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/"
    },
    "ts": 1795749933
+  },
+  "2553dccf": {
+   "text": "🎮 چگونه باگ آب‌و‌هوای ثابت GTA 6 را در پلی استیشن ۵ رفع کنیم؟\n\nبازیکنان GTA 6 با پاک‌سازی حافظه‌ی موقت کنسول پلی استیشن ۵ توانستند نقص فنی سیستم آب‌وهوای پویا را برطرف کنند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420688-gta-6-weather-bug-fix/",
+   "item": {
+    "title": "چگونه باگ آب‌و‌هوای ثابت GTA 6 را در پلی استیشن ۵ رفع کنیم؟",
+    "summary": "بازیکنان GTA 6 با پاک‌سازی حافظه‌ی موقت کنسول پلی استیشن ۵ توانستند نقص فنی سیستم آب‌وهوای پویا را برطرف کنند.",
+    "link": "https://www.zoomg.ir/game-news/420688-gta-6-weather-bug-fix/"
+   },
+   "ts": 1795753971
   }
  }
 }
