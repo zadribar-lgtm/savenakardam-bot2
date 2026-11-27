@@ -1036,18 +1036,12 @@
   "https://vigiato.net/r/10-games-that-have-recreated-real-cities-of-the-world",
   "https://vigiato.net/r/microsoft-owned-github-stuns-followers-as-it-celebrates-anyps-repo-in-now-deleted-tweet",
   "https://www.zoomg.ir/game-news/420702-zelda-ocarina-of-time-switch-2-patch/",
-  "https://vigiato.net/r/the-further-mis-adventures-of-cliff-booth-director-david-fincher-sparks-backlash-for-wildly-dystopian-vision-of-ai-powered-filmmaking"
+  "https://vigiato.net/r/the-further-mis-adventures-of-cliff-booth-director-david-fincher-sparks-backlash-for-wildly-dystopian-vision-of-ai-powered-filmmaking",
+  "https://www.zoomg.ir/game-news/420704-games-without-ai-festival-steam/",
+  "https://www.zoomg.ir/toy-articles/420703-lego-godzilla-black-friday-release/",
+  "https://vigiato.net/r/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late"
  ],
  "pending": {
-  "16f78b27": {
-   "text": "🎮 ریمیک بازی Demon's Souls حالا روی پی سی با نرخ ۶۰ فریم و DLSS اجرا می‌شود\n\nپورت غیررسمی ریمیک Demon's Souls با پشتیبانی از فناوری‌های نوین پردازش تصویر و نرخ فریم نامحدود برای ویندوز منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420585-demons-souls-unofficial-pc-port/",
-   "item": {
-    "title": "ریمیک بازی Demon's Souls حالا روی پی سی با نرخ ۶۰ فریم و DLSS اجرا می‌شود",
-    "summary": "پورت غیررسمی ریمیک Demon's Souls با پشتیبانی از فناوری‌های نوین پردازش تصویر و نرخ فریم نامحدود برای ویندوز منتشر شد.",
-    "link": "https://www.zoomg.ir/game-news/420585-demons-souls-unofficial-pc-port/"
-   },
-   "ts": 1795519983
-  },
   "05f0515d": {
    "text": "🎮 تخفیف‌های بلک فرایدی را از کجا پیدا کنیم؟\n\nمقایسه قیمت‌ها پیش از حراج، بررسی فروشگاه‌ها و استفاده از کدها و کانال‌های رسمی، راهکارهای اصلی برای تشخیص تخفیف‌های واقعی بلک فرایدی هستند.\n\n🔗 منبع: https://www.zoomg.ir/pr/420587-snapppay-black-friday-reportage-november-24/",
    "item": {
@@ -2784,6 +2778,33 @@
     "link": "https://vigiato.net/r/the-further-mis-adventures-of-cliff-booth-director-david-fincher-sparks-backlash-for-wildly-dystopian-vision-of-ai-powered-filmmaking"
    },
    "ts": 1795779014
+  },
+  "db1598f3": {
+   "text": "🎮 فستیوال بازی‌های ساخته شده بدون AI در استیم آغاز شد\n\nتوسعه‌دهندگان مستقل در اعتراض به آثار بی‌کیفیت هوش مصنوعی، فستیوالی با بیش از ۹۰ بازی کاملا انسانی در استیم برپا کردند.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420704-games-without-ai-festival-steam/",
+   "item": {
+    "title": "فستیوال بازی‌های ساخته شده بدون AI در استیم آغاز شد",
+    "summary": "توسعه‌دهندگان مستقل در اعتراض به آثار بی‌کیفیت هوش مصنوعی، فستیوالی با بیش از ۹۰ بازی کاملا انسانی در استیم برپا کردند.",
+    "link": "https://www.zoomg.ir/game-news/420704-games-without-ai-festival-steam/"
+   },
+   "ts": 1795782405
+  },
+  "71b61a06": {
+   "text": "🎮 عرضه رسمی لگو گودزیلا با ۵۳۶۳ قطعه و قیمت ۴۵۰ دلار\n\nلگو رسما ست عظیم گودزیلا را با بیش از پنج هزار قطعه و هدیه‌ای رایگان به مناسبت بلک فرایدی روانه بازار کرد.\n\n🔗 منبع: https://www.zoomg.ir/toy-articles/420703-lego-godzilla-black-friday-release/",
+   "item": {
+    "title": "عرضه رسمی لگو گودزیلا با ۵۳۶۳ قطعه و قیمت ۴۵۰ دلار",
+    "summary": "لگو رسما ست عظیم گودزیلا را با بیش از پنج هزار قطعه و هدیه‌ای رایگان به مناسبت بلک فرایدی روانه بازار کرد.",
+    "link": "https://www.zoomg.ir/toy-articles/420703-lego-godzilla-black-friday-release/"
+   },
+   "ts": 1795782406
+  },
+  "4fe22490": {
+   "text": "🎮 بلیزارد برای مقابله با سوءاستفاده بازیکنان WoW: Forever دست به کار شده است\n\nپلیس میدان نبرد خیابان آلترک: «زرنگ بازی نداریم!»\n\n🔗 منبع: https://vigiato.net/r/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late",
+   "item": {
+    "title": "بلیزارد برای مقابله با سوءاستفاده بازیکنان WoW: Forever دست به کار شده است",
+    "summary": "پلیس میدان نبرد خیابان آلترک: «زرنگ بازی نداریم!»",
+    "link": "https://vigiato.net/r/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late"
+   },
+   "ts": 1795782407
   }
  }
 }
