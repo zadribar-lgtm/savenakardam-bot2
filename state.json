@@ -1069,27 +1069,10 @@
   "https://vigiato.net/r/silver-pines-review",
   "https://vigiato.net/r/hollow-knight-silksong-sea-of-sorrow-dlc-release-date",
   "https://www.zoomg.ir/game-articles/420709-terraria-mobile-game/",
-  "https://www.zoomg.ir/game-news/420719-gta-6-ps5-40fps-overheat/"
+  "https://www.zoomg.ir/game-news/420719-gta-6-ps5-40fps-overheat/",
+  "https://www.zoomg.ir/cinema-news/420720-cod-movie-captain-price/"
  ],
  "pending": {
-  "5ff9dab9": {
-   "text": "🎮 سرانجام زمان عرضه بازی Lords of the Fallen 2 اعلام شد\n\nبازی اکشن نقش‌آفرینی Lords of the Fallen 2 در فروردین ۱۴۰۶ برای کنسول‌ها و کامپیوترهای شخصی عرضه خواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/",
-   "item": {
-    "title": "سرانجام زمان عرضه بازی Lords of the Fallen 2 اعلام شد",
-    "summary": "بازی اکشن نقش‌آفرینی Lords of the Fallen 2 در فروردین ۱۴۰۶ برای کنسول‌ها و کامپیوترهای شخصی عرضه خواهد شد.",
-    "link": "https://www.zoomg.ir/game-news/420605-lords-fallen-2-release-date/"
-   },
-   "ts": 1795551560
-  },
-  "807b0a80": {
-   "text": "🎮 فصل چهارم سریال ارباب حلقه‌ها رسما تأیید شد\n\nآمازون پیش از پخش قسمت پایانی فصل سوم، سریال ارباب حلقه‌ها را برای فصل چهارم تمدید کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/",
-   "item": {
-    "title": "فصل چهارم سریال ارباب حلقه‌ها رسما تأیید شد",
-    "summary": "آمازون پیش از پخش قسمت پایانی فصل سوم، سریال ارباب حلقه‌ها را برای فصل چهارم تمدید کرد.",
-    "link": "https://www.zoomg.ir/cinema-news/420604-rings-power-season-4-renewed/"
-   },
-   "ts": 1795551561
-  },
   "579a8bed": {
    "text": "🎮 جیمز مارسدن از نقش کلیدی سایکلاپس در Avengers: Doomsday می‌گوید\n\nجیمز مارسدن پس از دو دهه با نقش سایکلاپس بازگشته است تا رهبری مردان ایکس را در فیلم Avengers: Doomsday بر عهده بگیرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420607-james-marsden-cyclops-avengers-doomsday/",
    "item": {
@@ -2862,6 +2845,15 @@
     "link": "https://www.zoomg.ir/game-news/420719-gta-6-ps5-40fps-overheat/"
    },
    "ts": 1795810615
+  },
+  "b3f841eb": {
+   "text": "🎮 حضور کاپیتان پرایس در فیلم اقتباسی Call of Duty تأیید شد\n\nکارگردان فیلم Call of Duty از احتمال بسیار بالای حضور کاپیتان پرایس در فیلم و آغاز فرآیند انتخاب بازیگران خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420720-cod-movie-captain-price/",
+   "item": {
+    "title": "حضور کاپیتان پرایس در فیلم اقتباسی Call of Duty تأیید شد",
+    "summary": "کارگردان فیلم Call of Duty از احتمال بسیار بالای حضور کاپیتان پرایس در فیلم و آغاز فرآیند انتخاب بازیگران خبر داد.",
+    "link": "https://www.zoomg.ir/cinema-news/420720-cod-movie-captain-price/"
+   },
+   "ts": 1795813894
   }
  }
 }
