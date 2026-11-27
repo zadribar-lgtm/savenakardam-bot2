@@ -1063,27 +1063,13 @@
   "https://vigiato.net/r/the-witcher-3-update-5-02-patch-notes-photo-mode-improvements-bug-fixes-and-more",
   "https://www.zoomg.ir/cinema-news/420717-avengers-doomsday-cillian-murphy-theory/",
   "https://www.zoomg.ir/game-news/420716-kojima-visits-cd-projekt-red/",
-  "https://vigiato.net/r/songs-of-conquest-mobile-game-review"
+  "https://vigiato.net/r/songs-of-conquest-mobile-game-review",
+  "https://www.zoomg.ir/game-news/420718-exodus-pc-system-requirements-revealed/",
+  "https://www.zoomg.ir/movie-tv-show-review/420670-the-rings-of-power-season-3-part-7-and-8-review/",
+  "https://vigiato.net/r/silver-pines-review",
+  "https://vigiato.net/r/hollow-knight-silksong-sea-of-sorrow-dlc-release-date"
  ],
  "pending": {
-  "67323ebd": {
-   "text": "🎮 نقشه بازی Crimson Desert بیش از ۲.۵ برابر GTA 5 و Elden Ring است\n\nاستودیوی پرل ابیس وسعت قاره پیول در بازی Crimson Desert را حدود ۲۰۰ کیلومتر مربع اعلام کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420602-crimson-desert-map-size-revealed/",
-   "item": {
-    "title": "نقشه بازی Crimson Desert بیش از ۲.۵ برابر GTA 5 و Elden Ring است",
-    "summary": "استودیوی پرل ابیس وسعت قاره پیول در بازی Crimson Desert را حدود ۲۰۰ کیلومتر مربع اعلام کرد.",
-    "link": "https://www.zoomg.ir/game-news/420602-crimson-desert-map-size-revealed/"
-   },
-   "ts": 1795544565
-  },
-  "d47a44ba": {
-   "text": "🎮 راک‌استار جلوی پورت غیررسمی GTA 6 روی پی‌سی را گرفت\n\nراک‌استار گیمز فعالیت سرور دیسکوردی را که برای پورت غیررسمی GTA 6 روی کامپیوتر تلاش می‌کرد، متوقف کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420601-rockstar-shuts-gta-6-port/",
-   "item": {
-    "title": "راک‌استار جلوی پورت غیررسمی GTA 6 روی پی‌سی را گرفت",
-    "summary": "راک‌استار گیمز فعالیت سرور دیسکوردی را که برای پورت غیررسمی GTA 6 روی کامپیوتر تلاش می‌کرد، متوقف کرد.",
-    "link": "https://www.zoomg.ir/game-news/420601-rockstar-shuts-gta-6-port/"
-   },
-   "ts": 1795544567
-  },
   "7b8b798f": {
    "text": "🎮 معرفی بازی موبایل Beach Buggy Racing 2 | برای عاشقان کراش ماشینی\n\nدر Beach Buggy Racing 2، هیجان کارتینگ با فیزیک روان، سلاح‌های متنوع و پیست‌های پرآشوب گره می‌خورد و هر رقابت را غیرقابل‌پیش‌بینی می‌کند.\n\n🔗 منبع: https://www.zoomg.ir/game-articles/420593-beach-buggy-2-mobile-game/",
    "item": {
@@ -2856,6 +2842,42 @@
     "link": "https://vigiato.net/r/songs-of-conquest-mobile-game-review"
    },
    "ts": 1795803632
+  },
+  "7621a3b5": {
+   "text": "🎮 سیستم مورد نیاز بازی Exodus اعلام شد\n\nمشخصات فنی سیستم مورد نیاز بازی علمی‌تخیلی Exodus برای کامپیوترهای شخصی اعلام شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420718-exodus-pc-system-requirements-revealed/",
+   "item": {
+    "title": "سیستم مورد نیاز بازی Exodus اعلام شد",
+    "summary": "مشخصات فنی سیستم مورد نیاز بازی علمی‌تخیلی Exodus برای کامپیوترهای شخصی اعلام شد.",
+    "link": "https://www.zoomg.ir/game-news/420718-exodus-pc-system-requirements-revealed/"
+   },
+   "ts": 1795807321
+  },
+  "e33cdf2f": {
+   "text": "🎮 نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت| قسمت هفتم و هشتم\n\nدو قسمت پایانی فصل سوم حلقه‌های قدرت باز هم با اقتباسی ضعیف همراه بود و دو اتفاق مهم را به بی‌وزن‌ترین شکل ممکن پیش برد. همراه زومجی باشید.\n\n🔗 منبع: https://www.zoomg.ir/movie-tv-show-review/420670-the-rings-of-power-season-3-part-7-and-8-review/",
+   "item": {
+    "title": "نقد فصل سوم سریال ارباب حلقه ها: حلقه های قدرت| قسمت هفتم و هشتم",
+    "summary": "دو قسمت پایانی فصل سوم حلقه‌های قدرت باز هم با اقتباسی ضعیف همراه بود و دو اتفاق مهم را به بی‌وزن‌ترین شکل ممکن پیش برد. همراه زومجی باشید.",
+    "link": "https://www.zoomg.ir/movie-tv-show-review/420670-the-rings-of-power-season-3-part-7-and-8-review/"
+   },
+   "ts": 1795807322
+  },
+  "5692d1ef": {
+   "text": "🎮 بررسی بازی Silver Pines؛ لینچ در مه\n\nآن‌سوی قله‌ها، میان کاج‌ها\n\n🔗 منبع: https://vigiato.net/r/silver-pines-review",
+   "item": {
+    "title": "بررسی بازی Silver Pines؛ لینچ در مه",
+    "summary": "آن‌سوی قله‌ها، میان کاج‌ها",
+    "link": "https://vigiato.net/r/silver-pines-review"
+   },
+   "ts": 1795807323
+  },
+  "f9ff4484": {
+   "text": "🎮 تاریخ انتشار بسته الحاقی رایگان Hollow Knight: Silksong اعلام شد\n\nاین بسته الحاقی به صورت رایگان در دسترس خواهد بود\n\n🔗 منبع: https://vigiato.net/r/hollow-knight-silksong-sea-of-sorrow-dlc-release-date",
+   "item": {
+    "title": "تاریخ انتشار بسته الحاقی رایگان Hollow Knight: Silksong اعلام شد",
+    "summary": "این بسته الحاقی به صورت رایگان در دسترس خواهد بود",
+    "link": "https://vigiato.net/r/hollow-knight-silksong-sea-of-sorrow-dlc-release-date"
+   },
+   "ts": 1795807325
   }
  }
 }
