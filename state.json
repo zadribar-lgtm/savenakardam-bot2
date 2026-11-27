@@ -1011,18 +1011,10 @@
   "https://www.zoomg.ir/game-news/420682-fable-massive-dialogue-record/",
   "https://www.zoomg.ir/game-news/420685-gta-6-player-survey-results/",
   "https://www.zoomg.ir/game-news/420684-xbox-branding-strategy-shift-2027/",
-  "https://www.zoomg.ir/game-news/420686-anbernic-rg-47g1-handheld-announcement/"
+  "https://www.zoomg.ir/game-news/420686-anbernic-rg-47g1-handheld-announcement/",
+  "https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/"
  ],
  "pending": {
-  "505dd304": {
-   "text": "🎮 بازی GTA 6 بزرگ‌ترین عرضه تاریخ پلی استیشن را رقم زد\n\nعرضه‌ی GTA 6 با جذب بیش از ۳۹ میلیون کاربر، عنوان بزرگ‌ترین لانچ تاریخ پلی استیشن را از آن خود کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420569-gta-6-biggest-playstation-launch/",
-   "item": {
-    "title": "بازی GTA 6 بزرگ‌ترین عرضه تاریخ پلی استیشن را رقم زد",
-    "summary": "عرضه‌ی GTA 6 با جذب بیش از ۳۹ میلیون کاربر، عنوان بزرگ‌ترین لانچ تاریخ پلی استیشن را از آن خود کرد.",
-    "link": "https://www.zoomg.ir/game-news/420569-gta-6-biggest-playstation-launch/"
-   },
-   "ts": 1795487851
-  },
   "93fd78eb": {
    "text": "🎮 بازی DOOM: The Dark Ages قرار بود انحصاری ایکس باکس باشد!\n\nتوسعه‌دهندگان سابق استودیوی سازنده فاش کردند بازی DOOM: The Dark Ages در ابتدا قرار بود به صورت انحصاری برای کنسول ایکس باکس عرضه شود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420570-doom-dark-ages-xbox-exclusive/",
    "item": {
@@ -2804,6 +2796,15 @@
     "link": "https://www.zoomg.ir/game-news/420686-anbernic-rg-47g1-handheld-announcement/"
    },
    "ts": 1795731389
+  },
+  "36e2683f": {
+   "text": "🎮 ‏دنوو هنوز موفق به شناسایی هویت Voices38 نشده است\n\nولو اطلاعات شناسایی هفت حساب کاربری استیم را در پی احضاریه دادگاه به شرکت ‏دنوو تحویل داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/",
+   "item": {
+    "title": "‏دنوو هنوز موفق به شناسایی هویت Voices38 نشده است",
+    "summary": "ولو اطلاعات شناسایی هفت حساب کاربری استیم را در پی احضاریه دادگاه به شرکت ‏دنوو تحویل داد.",
+    "link": "https://www.zoomg.ir/game-news/420687-valve-denuvo-steam-hacker-subpoena/"
+   },
+   "ts": 1795749933
   }
  }
 }
