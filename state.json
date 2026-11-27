@@ -1028,7 +1028,9 @@
   "https://vigiato.net/r/path-of-exile-co-creator-says-a-shift-back-to-games-like-baldurs-gate-3-over-live-service-releases-would-be-better-for-the-industry",
   "https://www.zoomg.ir/game-news/420697-ea-sports-fc-27-update-130/",
   "https://www.zoomg.ir/game-news/420696-dawn-of-war-4-branching-narrative/",
-  "https://vigiato.net/r/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing"
+  "https://vigiato.net/r/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
+  "https://www.zoomg.ir/game-news/420699-hitman-elusive-target-007-bawma/",
+  "https://www.zoomg.ir/video/420707-gta-6-pc-rtx-2070-super-leak/"
  ],
  "pending": {
   "6ad3e2b8": {
@@ -2794,6 +2796,24 @@
     "link": "https://vigiato.net/r/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing"
    },
    "ts": 1795769493
+  },
+  "a64ebbc7": {
+   "text": "🎮 هدف موقت جدید بازی Hitman از 007 First Light می‌آید\n\nاستودیو آی‌او اینتراکتیو ماموریت جدیدی را در بازی Hitman World of Assassination با حضور یکی از شخصیت‌های 007 First Light معرفی کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420699-hitman-elusive-target-007-bawma/",
+   "item": {
+    "title": "هدف موقت جدید بازی Hitman از 007 First Light می‌آید",
+    "summary": "استودیو آی‌او اینتراکتیو ماموریت جدیدی را در بازی Hitman World of Assassination با حضور یکی از شخصیت‌های 007 First Light معرفی کرد.",
+    "link": "https://www.zoomg.ir/game-news/420699-hitman-elusive-target-007-bawma/"
+   },
+   "ts": 1795773026
+  },
+  "6838ac52": {
+   "text": "🎮 تماشا کنید: اجرای پورت پی سی GTA 6 روی 2070 Super با نرخ ۶۰ فریم\n\nگزارش‌های غیررسمی جدید ادعا می‌کنند نسخه‌ی اولیه‌ی GTA 6 روی کارت گرافیک RTX 2070 Super با نرخ ۶۰ فریم بر ثانیه اجرا می‌شود.\n\n🔗 منبع: https://www.zoomg.ir/video/420707-gta-6-pc-rtx-2070-super-leak/",
+   "item": {
+    "title": "تماشا کنید: اجرای پورت پی سی GTA 6 روی 2070 Super با نرخ ۶۰ فریم",
+    "summary": "گزارش‌های غیررسمی جدید ادعا می‌کنند نسخه‌ی اولیه‌ی GTA 6 روی کارت گرافیک RTX 2070 Super با نرخ ۶۰ فریم بر ثانیه اجرا می‌شود.",
+    "link": "https://www.zoomg.ir/video/420707-gta-6-pc-rtx-2070-super-leak/"
+   },
+   "ts": 1795773027
   }
  }
 }
