@@ -1071,18 +1071,10 @@
   "https://www.zoomg.ir/game-articles/420709-terraria-mobile-game/",
   "https://www.zoomg.ir/game-news/420719-gta-6-ps5-40fps-overheat/",
   "https://www.zoomg.ir/cinema-news/420720-cod-movie-captain-price/",
-  "https://www.zoomg.ir/game-news/420721-modders-multiplayer-gta-6-pc/"
+  "https://www.zoomg.ir/game-news/420721-modders-multiplayer-gta-6-pc/",
+  "https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/"
  ],
  "pending": {
-  "a718b5f3": {
-   "text": "🎮 اولین کلیپ رسمی فیلم Werwulf با بازی آرون تیلور جانسون منتشر شد\n\nنخستین ویدیوی رسمی فیلم ترسناک Werwulf به کارگردانی رابرت اگرز با بازی آرون تیلور-جانسون منتشر شد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/",
-   "item": {
-    "title": "اولین کلیپ رسمی فیلم Werwulf با بازی آرون تیلور جانسون منتشر شد",
-    "summary": "نخستین ویدیوی رسمی فیلم ترسناک Werwulf به کارگردانی رابرت اگرز با بازی آرون تیلور-جانسون منتشر شد.",
-    "link": "https://www.zoomg.ir/cinema-news/420609-werwulf-first-clip-robert-eggers/"
-   },
-   "ts": 1795561213
-  },
   "17c37139": {
    "text": "🎮 پلی استیشن ۶ خودش تنظیمات گرافیکی را عوض می‌کند؟\n\nسونی پتنت جدیدی برای تنظیم پویای گرافیک در حین بازی و کلید اختصاصی کنترلر ثبت کرده است.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420610-sony-patents-adaptive-visual-quality/",
    "item": {
@@ -2837,6 +2829,15 @@
     "link": "https://www.zoomg.ir/game-news/420721-modders-multiplayer-gta-6-pc/"
    },
    "ts": 1795816896
+  },
+  "c923695b": {
+   "text": "🎮 دنباله فیلم How the Grinch Stole Christmas با بازی جیم کری ساخته می‌شود\n\nران هاوارد از آغاز نگارش فیلمنامه قسمت دوم فیلم How the Grinch Stole Christmas و مذاکره برای بازگشت جیم کری خبر داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/",
+   "item": {
+    "title": "دنباله فیلم How the Grinch Stole Christmas با بازی جیم کری ساخته می‌شود",
+    "summary": "ران هاوارد از آغاز نگارش فیلمنامه قسمت دوم فیلم How the Grinch Stole Christmas و مذاکره برای بازگشت جیم کری خبر داد.",
+    "link": "https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/"
+   },
+   "ts": 1795822767
   }
  }
 }
