@@ -1079,27 +1079,11 @@
   "https://vigiato.net/r/supercell-boat-game-returns-to-limited-testing",
   "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear",
   "https://www.zoomg.ir/game-news/420725-ubisoft-denies-forcing-ai-tools/",
-  "https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/"
+  "https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/",
+  "https://www.zoomg.ir/game-news/420727-gta-5-actor-defends-lucia/",
+  "https://www.zoomg.ir/game-news/420726-team-cherry-indie-publishing-label/"
  ],
  "pending": {
-  "3c09d566": {
-   "text": "🎮 دیزنی ساخت فیلم Avatar 4 جیمز کامرون را رسما تأیید کرد\n\nدیزنی با گنجاندن رسمی قسمت چهارم آواتار در جدول اکران خود، به تردیدها پیرامون ادامه این مجموعه پایان داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/",
-   "item": {
-    "title": "دیزنی ساخت فیلم Avatar 4 جیمز کامرون را رسما تأیید کرد",
-    "summary": "دیزنی با گنجاندن رسمی قسمت چهارم آواتار در جدول اکران خود، به تردیدها پیرامون ادامه این مجموعه پایان داد.",
-    "link": "https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/"
-   },
-   "ts": 1795588583
-  },
-  "9ac19238": {
-   "text": "🎮 بازی GTA 6 روی ایکس‌باکس سری ایکس عملکرد بهتری نسبت به پلی‌استیشن ۵ دارد\n\n«بهترین تجربه روی PS5» در تاریخ ثبت خواهد شد\n\n🔗 منبع: https://vigiato.net/r/gta-6-runs-better-on-xbox-series-x",
-   "item": {
-    "title": "بازی GTA 6 روی ایکس‌باکس سری ایکس عملکرد بهتری نسبت به پلی‌استیشن ۵ دارد",
-    "summary": "«بهترین تجربه روی PS5» در تاریخ ثبت خواهد شد",
-    "link": "https://vigiato.net/r/gta-6-runs-better-on-xbox-series-x"
-   },
-   "ts": 1795588585
-  },
   "64553e3a": {
    "text": "🎮 خالق دارک سولز خود را لایق مقایسه با زلدا نمی‌داند\n\nهیده‌تاکا میازاکی سال‌ها پیش از ساخت Elden Ring، مقایسه‌ی آثارش با The Legend of Zelda را نادرست و خود را نالایق آن خوانده بود.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420616-miyazaki-dark-souls-zelda-comparison/",
    "item": {
@@ -2872,6 +2856,24 @@
     "link": "https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/"
    },
    "ts": 1795847161
+  },
+  "3291b9e0": {
+   "text": "🎮 بازیگر مایکل GTA V منتقدان شخصیت لوسیا در بازی GTA 6 را احمق خطاب کرد\n\nند لوک، صداپیشه و بازیگر شخصیت مایکل در بازی GTA 5، ادعاهای مربوط به ووک شدن GTA 6 را به‌شدت رد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420727-gta-5-actor-defends-lucia/",
+   "item": {
+    "title": "بازیگر مایکل GTA V منتقدان شخصیت لوسیا در بازی GTA 6 را احمق خطاب کرد",
+    "summary": "ند لوک، صداپیشه و بازیگر شخصیت مایکل در بازی GTA 5، ادعاهای مربوط به ووک شدن GTA 6 را به‌شدت رد کرد.",
+    "link": "https://www.zoomg.ir/game-news/420727-gta-5-actor-defends-lucia/"
+   },
+   "ts": 1795851830
+  },
+  "de17dc09": {
+   "text": "🎮 حمایت سازنده Hollow Knight از آثار مستقل با درآمد حاصل از این بازی\n\nاستودیوی Team Cherry با تاسیس یک شاخه‌ی نشر اختصاصی، درآمد و اعتبار خود را به حمایت از بازی‌های مستقل نوپا اختصاص داد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420726-team-cherry-indie-publishing-label/",
+   "item": {
+    "title": "حمایت سازنده Hollow Knight از آثار مستقل با درآمد حاصل از این بازی",
+    "summary": "استودیوی Team Cherry با تاسیس یک شاخه‌ی نشر اختصاصی، درآمد و اعتبار خود را به حمایت از بازی‌های مستقل نوپا اختصاص داد.",
+    "link": "https://www.zoomg.ir/game-news/420726-team-cherry-indie-publishing-label/"
+   },
+   "ts": 1795851831
   }
  }
 }
