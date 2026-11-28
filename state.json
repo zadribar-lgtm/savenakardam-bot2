@@ -1106,7 +1106,9 @@
   "https://www.zoomg.ir/cinema-articles/420581-avengers-doomsday-movie/",
   "https://vigiato.net/r/%d9%86%d8%b3%d8%a8%d8%aa-%d8%b7%d9%84%d8%a7-%d8%a8%d9%87-%d9%86%d9%82%d8%b1%d9%87-%da%86%db%8c%d8%b3%d8%aa-%d9%88-%da%86%da%af%d9%88%d9%86%d9%87-%d8%a7%d8%b2-%d8%a2%d9%86-%d8%af%d8%b1-%d8%aa%d8%b5",
   "https://vigiato.net/r/peter-berg-says-will-smith-sent-him-an-incredibly-funny-script-for-hancock-2-and-he-wants-in",
-  "https://vigiato.net/r/gta-6-jason-real-life-house-listed-for-sale"
+  "https://vigiato.net/r/gta-6-jason-real-life-house-listed-for-sale",
+  "https://www.zoomg.ir/cinema-news/420743-hancock-2-peter-berg-update/",
+  "https://vigiato.net/r/bob-iger-reportedly-hated-george-lucas-star-wars-sequel-plans-so-much-that-he-made-sure-disney-never-had-to-use-them"
  ],
  "pending": {
   "853e39a5": {
@@ -2755,6 +2757,24 @@
     "link": "https://vigiato.net/r/gta-6-jason-real-life-house-listed-for-sale"
    },
    "ts": 1795878826
+  },
+  "47ddf6af": {
+   "text": "🎮 پیتر برگ از ساخت فیلم هانکوک ۲ با بازی ویل اسمیت خبر داد\n\nپیتر برگ اعلام کرد ویل اسمیت فیلمنامه‌ای جذاب برای دنباله فیلم سینمایی هانکوک ارسال کرده و هر دو آماده ساخت آن هستند.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420743-hancock-2-peter-berg-update/",
+   "item": {
+    "title": "پیتر برگ از ساخت فیلم هانکوک ۲ با بازی ویل اسمیت خبر داد",
+    "summary": "پیتر برگ اعلام کرد ویل اسمیت فیلمنامه‌ای جذاب برای دنباله فیلم سینمایی هانکوک ارسال کرده و هر دو آماده ساخت آن هستند.",
+    "link": "https://www.zoomg.ir/cinema-news/420743-hancock-2-peter-berg-update/"
+   },
+   "ts": 1795881404
+  },
+  "73633340": {
+   "text": "🎮 باب ایگر با ایده‌های جورج لوکاس برای سه‌گانه جدید Star Wars مخالف بود\n\nدیزنی در قرارداد خرید Lucasfilm تضمین کرد که این شرکت الزامی برای استفاده از طرح‌های داستانی لوکاس نداشته باشد\n\n🔗 منبع: https://vigiato.net/r/bob-iger-reportedly-hated-george-lucas-star-wars-sequel-plans-so-much-that-he-made-sure-disney-never-had-to-use-them",
+   "item": {
+    "title": "باب ایگر با ایده‌های جورج لوکاس برای سه‌گانه جدید Star Wars مخالف بود",
+    "summary": "دیزنی در قرارداد خرید Lucasfilm تضمین کرد که این شرکت الزامی برای استفاده از طرح‌های داستانی لوکاس نداشته باشد",
+    "link": "https://vigiato.net/r/bob-iger-reportedly-hated-george-lucas-star-wars-sequel-plans-so-much-that-he-made-sure-disney-never-had-to-use-them"
+   },
+   "ts": 1795881405
   }
  }
 }
