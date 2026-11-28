@@ -1077,18 +1077,11 @@
   "https://vigiato.net/r/the-simpsons-hit-and-run-remake-reportedly-canceled",
   "https://vigiato.net/r/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-date",
   "https://vigiato.net/r/supercell-boat-game-returns-to-limited-testing",
-  "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear"
+  "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear",
+  "https://www.zoomg.ir/game-news/420725-ubisoft-denies-forcing-ai-tools/",
+  "https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/"
  ],
  "pending": {
-  "8bd74671": {
-   "text": "🎮 مکس ورستپن پس از ۴۰ ساعت تجربه GTA 6 قهرمان گرندپری شد\n\nمکس ورستپن در جریان آخر هفته گرندپری لاس‌وگاس، بیش از ۴۰ ساعت را صرف تجربه GTA 6 کرد و سپس به مقام قهرمانی رسید.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/",
-   "item": {
-    "title": "مکس ورستپن پس از ۴۰ ساعت تجربه GTA 6 قهرمان گرندپری شد",
-    "summary": "مکس ورستپن در جریان آخر هفته گرندپری لاس‌وگاس، بیش از ۴۰ ساعت را صرف تجربه GTA 6 کرد و سپس به مقام قهرمانی رسید.",
-    "link": "https://www.zoomg.ir/game-news/420612-verstappen-gta-6-las-vegas-gp/"
-   },
-   "ts": 1795585272
-  },
   "3c09d566": {
    "text": "🎮 دیزنی ساخت فیلم Avatar 4 جیمز کامرون را رسما تأیید کرد\n\nدیزنی با گنجاندن رسمی قسمت چهارم آواتار در جدول اکران خود، به تردیدها پیرامون ادامه این مجموعه پایان داد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420613-disney-confirms-avatar-4-release/",
    "item": {
@@ -2861,6 +2854,24 @@
     "link": "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear"
    },
    "ts": 1795840373
+  },
+  "d673fce7": {
+   "text": "🎮 یوبی‌سافت اجبار کارکنان به استفاده از هوش مصنوعی را تکذیب کرد\n\nیوبی‌سافت ادعاهای مربوط به اجبار توسعه‌دهندگان بازی برای استفاده از ابزارهای هوش مصنوعی مولد در روند ساخت پروژه‌ها را رد کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420725-ubisoft-denies-forcing-ai-tools/",
+   "item": {
+    "title": "یوبی‌سافت اجبار کارکنان به استفاده از هوش مصنوعی را تکذیب کرد",
+    "summary": "یوبی‌سافت ادعاهای مربوط به اجبار توسعه‌دهندگان بازی برای استفاده از ابزارهای هوش مصنوعی مولد در روند ساخت پروژه‌ها را رد کرد.",
+    "link": "https://www.zoomg.ir/game-news/420725-ubisoft-denies-forcing-ai-tools/"
+   },
+   "ts": 1795847160
+  },
+  "fb57d1a7": {
+   "text": "🎮 گلایه دنی ویلنوو از اکران همزمان اونجرز دومزدی و Dune 3\n\nدنی ویلنوو از تصمیم دیزنی برای اکران هم‌زمان فیلم انتقام‌جویان با قسمت سوم تل‌ماسه ابراز ناامیدی کرد.\n\n🔗 منبع: https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/",
+   "item": {
+    "title": "گلایه دنی ویلنوو از اکران همزمان اونجرز دومزدی و Dune 3",
+    "summary": "دنی ویلنوو از تصمیم دیزنی برای اکران هم‌زمان فیلم انتقام‌جویان با قسمت سوم تل‌ماسه ابراز ناامیدی کرد.",
+    "link": "https://www.zoomg.ir/cinema-news/420724-villeneuve-disappointed-avengers-dune-clash/"
+   },
+   "ts": 1795847161
   }
  }
 }
