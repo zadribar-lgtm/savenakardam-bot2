@@ -1072,7 +1072,12 @@
   "https://www.zoomg.ir/game-news/420719-gta-6-ps5-40fps-overheat/",
   "https://www.zoomg.ir/cinema-news/420720-cod-movie-captain-price/",
   "https://www.zoomg.ir/game-news/420721-modders-multiplayer-gta-6-pc/",
-  "https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/"
+  "https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/",
+  "https://www.zoomg.ir/game-news/420723-game-pass-december-2026/",
+  "https://vigiato.net/r/the-simpsons-hit-and-run-remake-reportedly-canceled",
+  "https://vigiato.net/r/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-date",
+  "https://vigiato.net/r/supercell-boat-game-returns-to-limited-testing",
+  "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear"
  ],
  "pending": {
   "416e4ab3": {
@@ -2820,6 +2825,51 @@
     "link": "https://www.zoomg.ir/cinema-news/420722-grinch-sequel-jim-carrey/"
    },
    "ts": 1795822767
+  },
+  "9501992c": {
+   "text": "🎮 بازی‌های گیم پس در نیمه اول دسامبر ۲۰۲۶ معرفی شدند\n\nمایکروسافت فهرست بازی‌های نیمه اول دسامبر ۲۰۲۶ گیم پس را با ترکیبی از آثار ترسناک چندنفره و ماجراجویی‌های داستانی منتشر کرد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420723-game-pass-december-2026/",
+   "item": {
+    "title": "بازی‌های گیم پس در نیمه اول دسامبر ۲۰۲۶ معرفی شدند",
+    "summary": "مایکروسافت فهرست بازی‌های نیمه اول دسامبر ۲۰۲۶ گیم پس را با ترکیبی از آثار ترسناک چندنفره و ماجراجویی‌های داستانی منتشر کرد.",
+    "link": "https://www.zoomg.ir/game-news/420723-game-pass-december-2026/"
+   },
+   "ts": 1795840367
+  },
+  "55a21bf6": {
+   "text": "🎮 ریمیک بازی The Simpsons: Hit & Run احتمالا لغو شده است\n\nرادیکال گیمز ظاهرا یک بازی معرفی نشده را کنسل کرده است\n\n🔗 منبع: https://vigiato.net/r/the-simpsons-hit-and-run-remake-reportedly-canceled",
+   "item": {
+    "title": "ریمیک بازی The Simpsons: Hit & Run احتمالا لغو شده است",
+    "summary": "رادیکال گیمز ظاهرا یک بازی معرفی نشده را کنسل کرده است",
+    "link": "https://vigiato.net/r/the-simpsons-hit-and-run-remake-reportedly-canceled"
+   },
+   "ts": 1795840369
+  },
+  "064ef28e": {
+   "text": "🎮 دنی ویلنوو از اکران هم‌زمان فیلم‌ جدید دون و اونجرز دومزدی ابراز ناامیدی کرد\n\nدونزدی قرار نیست به نفع همه کار کند\n\n🔗 منبع: https://vigiato.net/r/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-date",
+   "item": {
+    "title": "دنی ویلنوو از اکران هم‌زمان فیلم‌ جدید دون و اونجرز دومزدی ابراز ناامیدی کرد",
+    "summary": "دونزدی قرار نیست به نفع همه کار کند",
+    "link": "https://vigiato.net/r/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-date"
+   },
+   "ts": 1795840370
+  },
+  "6dc452f5": {
+   "text": "🎮 سوپرسل آزمایش بازی شوتر جدید خود با نام Boat Game را از سر گرفت\n\nنسخه تستی این بازی موبایلی به شکل بسیاری محدودی در دسترس قرار گرفته است\n\n🔗 منبع: https://vigiato.net/r/supercell-boat-game-returns-to-limited-testing",
+   "item": {
+    "title": "سوپرسل آزمایش بازی شوتر جدید خود با نام Boat Game را از سر گرفت",
+    "summary": "نسخه تستی این بازی موبایلی به شکل بسیاری محدودی در دسترس قرار گرفته است",
+    "link": "https://vigiato.net/r/supercell-boat-game-returns-to-limited-testing"
+   },
+   "ts": 1795840371
+  },
+  "4917efd4": {
+   "text": "🎮 شخصیت کاپیتان پرایس احتمالا در فیلم Call of Duty حضور خواهد داشت\n\nفرآیند انتخاب بازیگران به‌زودی آغاز خواهد شد\n\n🔗 منبع: https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear",
+   "item": {
+    "title": "شخصیت کاپیتان پرایس احتمالا در فیلم Call of Duty حضور خواهد داشت",
+    "summary": "فرآیند انتخاب بازیگران به‌زودی آغاز خواهد شد",
+    "link": "https://vigiato.net/r/call-of-duty-movie-captain-price-expected-to-appear"
+   },
+   "ts": 1795840373
   }
  }
 }
