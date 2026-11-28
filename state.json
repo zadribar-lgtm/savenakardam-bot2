@@ -1093,7 +1093,9 @@
   "https://www.zoomg.ir/cinema-news/420733-joe-russo-house-of-m-marvel/",
   "https://vigiato.net/r/former-nintend-of-america-boss-apologizes-after-posting-ai-generated-picture",
   "https://vigiato.net/r/gta-5-actor-ned-luke-defends-gta-6-lucia",
-  "https://vigiato.net/r/xbox-game-marketing-2027"
+  "https://vigiato.net/r/xbox-game-marketing-2027",
+  "https://www.zoomg.ir/game-news/420734-yooka-laylee-skips-xbox-definitive/",
+  "https://vigiato.net/r/10-video-games-that-bring-mythological-legends-to-life"
  ],
  "pending": {
   "3df333d2": {
@@ -2769,6 +2771,24 @@
     "link": "https://vigiato.net/r/xbox-game-marketing-2027"
    },
    "ts": 1795863731
+  },
+  "f5b95279": {
+   "text": "🎮 نسخه ریمستر بازی Yooka-Laylee برای ایکس‌باکس عرضه نخواهد شد\n\nاستودیوی پلی‌تونیک اعلام کرد نسخه ارتقایافته بازی Yooka-Laylee and The Impossible Lair برای ایکس‌باکس منتشر نخواهد شد.\n\n🔗 منبع: https://www.zoomg.ir/game-news/420734-yooka-laylee-skips-xbox-definitive/",
+   "item": {
+    "title": "نسخه ریمستر بازی Yooka-Laylee برای ایکس‌باکس عرضه نخواهد شد",
+    "summary": "استودیوی پلی‌تونیک اعلام کرد نسخه ارتقایافته بازی Yooka-Laylee and The Impossible Lair برای ایکس‌باکس منتشر نخواهد شد.",
+    "link": "https://www.zoomg.ir/game-news/420734-yooka-laylee-skips-xbox-definitive/"
+   },
+   "ts": 1795866376
+  },
+  "925a2441": {
+   "text": "🎮 ۱۰ بازی ویدئویی که افسانه‌های اساطیری را زنده می‌کنند\n\nاز نبردهای نوردیک تا افسانه‌های چینی!\n\n🔗 منبع: https://vigiato.net/r/10-video-games-that-bring-mythological-legends-to-life",
+   "item": {
+    "title": "۱۰ بازی ویدئویی که افسانه‌های اساطیری را زنده می‌کنند",
+    "summary": "از نبردهای نوردیک تا افسانه‌های چینی!",
+    "link": "https://vigiato.net/r/10-video-games-that-bring-mythological-legends-to-life"
+   },
+   "ts": 1795866378
   }
  }
 }
